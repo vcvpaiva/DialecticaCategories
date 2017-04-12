@@ -10,3 +10,10 @@ A place to collect the work on dialectica categories.
 4. BRICS TR: "A linear specification language for Petri Nets", http://www.cs.bham.ac.uk/~vdp/publications/LinSpecPetri.pdf 
 
 5. "Categorical multirelations, linear logic and Petri nets" TR from Cambridge http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf
+
+6. Dialectica categories for Lambek calculus
+
+7. Dialectica categories for modelling State
+
+8. Dialectica categories for Relevant logic (recover this!)
+
