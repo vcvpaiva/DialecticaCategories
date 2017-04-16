@@ -17,3 +17,7 @@ A place to collect the work on dialectica categories.
 
 8. Dialectica categories for Relevant logic (recover this!)
 
+9. Dialectica categories for Nearly Countable Cardinals (joint with Samuel Gomes da Silva)
+
+10. Linear Natural Numbers Objects (joint with Samuel Gomes da Silva)
+
