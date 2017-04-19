@@ -1,15 +1,17 @@
 # DialecticaCategories
-A place to collect the work on dialectica categories. My work:
+A place to collect the work on dialectica categories. 
+
+First my work:
 
 1. Thesis: "The Dialectica Categories", TR213 from Cambridge, https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf
 
 2. From thesis, two conference papers:
 
- 2a. AMS vol 92: "The Dialectica Categories" Boulder volume, http://www.cs.bham.ac.uk/~vdp/publications/dial87.pdf
+    2a. AMS vol 92: "The Dialectica Categories" Boulder volume, http://www.cs.bham.ac.uk/~vdp/publications/dial87.pdf
 
- 2b. CTCS 1989: "A Dialectica-like Model of Linear Logic", http://www.cs.bham.ac.uk/~vdp/publications/CTCS89.pdf
+    2b. CTCS 1989: "A Dialectica-like Model of Linear Logic", http://www.cs.bham.ac.uk/~vdp/publications/CTCS89.pdf
  
- 2c. TAC paper "Dialectica and Chu constructions: cousins?", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152, 2006.
+    2c. TAC paper "Dialectica and Chu constructions: cousins?", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152, 2006.
 
 3. BRICS TR: "A linear specification language for Petri Nets", http://www.cs.bham.ac.uk/~vdp/publications/LinSpecPetri.pdf 
 
@@ -19,21 +21,21 @@ A place to collect the work on dialectica categories. My work:
 
 6. Dialectica categories for modelling State/Pomset logic
 
-6a. Conference paper in CATS'96 with Correa and Hauesler.
+   6a. Conference paper in CATS'96 with Correa and Hauesler.
 
-6b. journal paper: Valeria de Paiva. Linear Logic Model of State Revisited. Logic Journal of IGPL, 01 October 2014. volume 22, number 5, pages 791-804. http://vcvpaiva.github.io/includes/pubs/2014-LL-model.pdf
+   6b. journal paper: Valeria de Paiva. Linear Logic Model of State Revisited. Logic Journal of IGPL, 01 October 2014. volume 22, number 5, pages 791-804. http://vcvpaiva.github.io/includes/pubs/2014-LL-model.pdf
 
-7. Dialectica categories for Relevant logic (recover this!)
+7. Dialectica categories for Relevant logic (need to recover the important bits from http://www.dbd.puc-rio.br/depto_informatica/93_mere.pdf)
 
 8. Dialectica categories for Set Theory, work with Samuel G da Silva. Two papers so far.
 
-8a. Dialectica Categories, Cardinalities of the Continuum and Combinatorics of Ideals, with Samuel G. da Silva.
-To appear in EBL proceedings. Available from https://www.researchgate.net/publication/315001808_Dialectica_Categories_Cardinalities_of_the_Continuum_and_Combinatorics_of_Ideals
+   8a. Dialectica Categories, Cardinalities of the Continuum and Combinatorics of Ideals, with Samuel G. da Silva.
+   To appear in EBL proceedings. Available from https://www.researchgate.net/publication/315001808_Dialectica_Categories_Cardinalities_of_the_Continuum_and_Combinatorics_of_Ideals
 
-8b. Linear Natural Numbers Objects in Dial (Valeria de Paiva, Charles Morgan, Samuel G. da Silva. Natural Number Objects in Dialectica Categories. ENTCS, 01 January 2014. Electronic Notes in theoretical Computer Science, 305 (2014), pages 53-65.https://www.researchgate.net/publication/263699584_Natural_Number_Objects_in_Dialectica_Categories)
+   8b. Linear Natural Numbers Objects in Dial (Valeria de Paiva, Charles Morgan, Samuel G. da Silva. Natural Number Objects in    Dialectica Categories. ENTCS, 01 January 2014. Electronic Notes in theoretical Computer Science, 305 (2014), pages 53-65.https://www.researchgate.net/publication/263699584_Natural_Number_Objects_in_Dialectica_Categories)
 
 
-Work about dialectica categories:
+Then others' work related to dialectica categories:
 
 1. Makkai festschrifft, 2011
 The dialectica monad and its cousins, Pieter J. W. Hofstra, 
