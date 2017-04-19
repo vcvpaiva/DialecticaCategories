@@ -1,4 +1,4 @@
-# DialecticaCategories
+# Dialectica Categories
 A place to collect the work on dialectica categories. 
 
 First my work:
