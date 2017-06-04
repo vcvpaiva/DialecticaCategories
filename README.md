@@ -35,7 +35,7 @@ First my work:
    8b. Linear Natural Numbers Objects in Dial (Valeria de Paiva, Charles Morgan, Samuel G. da Silva. Natural Number Objects in    Dialectica Categories. ENTCS, 01 January 2014. Electronic Notes in theoretical Computer Science, 305 (2014), pages 53-65.https://www.researchgate.net/publication/263699584_Natural_Number_Objects_in_Dialectica_Categories)
 
 
-Then others' work related to dialectica categories:
+More work related to dialectica categories:
 
 1. Makkai festschrifft, 2011
 The dialectica monad and its cousins, Pieter J. W. Hofstra, 
@@ -45,7 +45,14 @@ http://mysite.science.uottawa.ca/phofstra/dialectica.pdf
 (available from http://www.eecs.qmul.ac.uk/~pbo/)
 
 3. A Functional Functional Interpretation, Pierre-Marie Pedrot, LICS 2014, https://www.pédrot.fr/articles/lics2014.pdf
+https://www.pédrot.fr/slides/thesis-09-15.pdf, the thesis https://hal.archives-ouvertes.fr/tel-01247085
 
 4. Mihai Budiu, Joel Galenson, and Gordon Plotkin
 The Compiler Forest, ESOP 2013, http://budiu.info/work/esop13.pdf
 slides https://jgalenson.github.io/papers/esop2013-talk.pdf
+
+5. Jules Hedge's Dialectica categories and games with bidding. In Post-proceedings of TYPES’14. LIPIcs 39:89-110, 2015. http://drops.dagstuhl.de/opus/volltexte/2015/5493/pdf/7.pdf
+
+6. Bodil Biering's thesis, http://cs.au.dk/~birke/phd-students/BieringB-thesis.pdf
+
+7. Tamara von Glehn's thesis https://www.repository.cam.ac.uk/handle/1810/254394
