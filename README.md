@@ -56,3 +56,5 @@ slides https://jgalenson.github.io/papers/esop2013-talk.pdf
 6. Bodil Biering's thesis, http://cs.au.dk/~birke/phd-students/BieringB-thesis.pdf, 2008
 
 7. Tamara von Glehn's thesis https://www.repository.cam.ac.uk/handle/1810/254394, 2015
+
+8. Tom Powell's  Applying Gödel's Dialectica Interpretation to Obtain a Constructive Proof of Higman's Lemma, https://arxiv.org/abs/1210.3117 and Well Quasi-Orders and the Functional Interpretation, https://arxiv.org/pdf/1706.02881.pdf
