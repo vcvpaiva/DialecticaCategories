@@ -17,7 +17,7 @@ First my work:
 
 4. "Categorical multirelations, linear logic and Petri nets" TR from Cambridge http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf
 
-5. Dialectica categories for Lambek calculus (Talk at APA, April 2017, draft to be submitted soon?)
+5. Dialectica categories for Lambek calculus (Talk at APA, April 2017, draft submitted)
 
 6. Dialectica categories for modelling State/Pomset logic
 
@@ -58,3 +58,5 @@ slides https://jgalenson.github.io/papers/esop2013-talk.pdf
 7. Tamara von Glehn's thesis https://www.repository.cam.ac.uk/handle/1810/254394, 2015
 
 8. Tom Powell's  Applying Gödel's Dialectica Interpretation to Obtain a Constructive Proof of Higman's Lemma, https://arxiv.org/abs/1210.3117 and Well Quasi-Orders and the Functional Interpretation, https://arxiv.org/pdf/1706.02881.pdf
+
+Tom's LICS paper 	Gödel's functional interpretation and the concept of learning http://dl.acm.org/citation.cfm?doid=2933575.2933605
