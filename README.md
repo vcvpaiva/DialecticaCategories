@@ -13,11 +13,13 @@ First my work:
  
     2c. TAC paper "Dialectica and Chu constructions: cousins?", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152, 2006.
 
-3. BRICS TR: "A linear specification language for Petri Nets", http://www.cs.bham.ac.uk/~vdp/publications/LinSpecPetri.pdf 
+3. BRICS TR: "A linear specification language for Petri Nets", http://www.cs.bham.ac.uk/~vdp/publications/LinSpecPetri.pdf
+   submitted a short note for LSFA2018 based on this work, which was accepted for TCS in mid 90's, but then abandoned.
 
 4. "Categorical multirelations, linear logic and Petri nets" TR from Cambridge http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf
 
-5. Dialectica categories for Lambek calculus (Talk at APA, April 2017, draft submitted)
+5. Dialectica categories for Lambek calculus (Talk at APA, April 2017)
+   conference LFCS paper with Harley Eades appeared Jan2018, journal paper submitted.
 
 6. Dialectica categories for modelling State/Pomset logic
 
@@ -60,3 +62,13 @@ slides https://jgalenson.github.io/papers/esop2013-talk.pdf
 8. Tom Powell's  Applying Gödel's Dialectica Interpretation to Obtain a Constructive Proof of Higman's Lemma, https://arxiv.org/abs/1210.3117 and Well Quasi-Orders and the Functional Interpretation, https://arxiv.org/pdf/1706.02881.pdf
 
 Tom's LICS paper 	Gödel's functional interpretation and the concept of learning http://dl.acm.org/citation.cfm?doid=2933575.2933605
+
+9. Mike Sulman, The 2-Chu-Dialectica construction and the polycategory of multivariable adjunctions, https://arxiv.org/abs/1806.06082
+   Mike Shulman, Linear logic for constructive mathematics, https://arxiv.org/abs/1805.07518
+   (check also https://arxiv.org/abs/1107.6032 Traces in symmetric monoidal categories and 
+   https://golem.ph.utexas.edu/category/2017/12/the_2dialectica_construction_a.html)
+   
+  
+10. Sean Moss and Tamara von Glehn. Dialectica models of type theory, LiCS2018.
+Sean Moss phd thesis (in email)
+11. Sean Moss.
