@@ -70,5 +70,5 @@ Tom's LICS paper 	Gödel's functional interpretation and the concept of learning
    
   
 10. Sean Moss and Tamara von Glehn. Dialectica models of type theory, LiCS2018.
-Sean Moss phd thesis (in email)
-11. Sean Moss.
+
+11. Sean Moss. PhD thesis. (in email)
