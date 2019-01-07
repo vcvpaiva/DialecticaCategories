@@ -5,30 +5,34 @@ First my work:
 
 1. Thesis: "The Dialectica Categories", TR213 from Cambridge, https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf, 1990
 
-2. From thesis, two conference papers:
+2. From thesis, two conference papers and a much later journal comparison:
 
-    2a. AMS vol 92: "The Dialectica Categories" Boulder volume, http://www.cs.bham.ac.uk/~vdp/publications/dial87.pdf
+    2a. AMS vol 92: "The Dialectica Categories" Boulder volume, http://www.cs.bham.ac.uk/~vdp/publications/dial87.pdf, 1989
 
-    2b. CTCS 1989: "A Dialectica-like Model of Linear Logic", http://www.cs.bham.ac.uk/~vdp/publications/CTCS89.pdf
+    2b. CTCS 1989: "A Dialectica-like Model of Linear Logic", http://www.cs.bham.ac.uk/~vdp/publications/CTCS89.pdf, 1989
  
     2c. TAC paper "Dialectica and Chu constructions: cousins?", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152, 2006.
+
+Applications: 
 
 3. BRICS TR: "A linear specification language for Petri Nets", http://www.cs.bham.ac.uk/~vdp/publications/LinSpecPetri.pdf
    accepted for TCS in mid 90's, but then abandoned. Recently submitted a short note for LSFA2018 based on this work, rejected.     
 
 4. "Categorical multirelations, linear logic and Petri nets" TR from Cambridge http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf
 
-5. Dialectica categories for Lambek calculus (Talk at APA, April 2017)
+5. Dialectica categories for Lambek calculus. Paper in Amsterdam Colloquium
+   Talk at APA, April 2017
    conference LFCS paper with Harley Eades appeared Jan2018, journal paper submitted.
 
 6. Dialectica categories for modelling State/Pomset logic
 
-   6a. Conference paper in CATS'96 with Correa and Hauesler.
+   6a. Conference paper in CATS'1996 with Correa and Hauesler.
 
    6b. journal paper: Valeria de Paiva. Linear Logic Model of State Revisited. Logic Journal of IGPL, 01 October 2014. 
    volume 22, number 5, pages 791-804. http://vcvpaiva.github.io/includes/pubs/2014-LL-model.pdf
 
-7. Dialectica categories for Relevant logic (need to recover the important bits from http://www.dbd.puc-rio.br/depto_informatica/93_mere.pdf) slides where?
+7. Dialectica categories for Relevant logic 
+(need to recover the important bits from http://www.dbd.puc-rio.br/depto_informatica/93_mere.pdf) slides where?
 
 8. Dialectica categories for Set Theory, work with Samuel G da Silva. Two papers so far.
 
@@ -37,7 +41,8 @@ First my work:
 
    8b. Linear Natural Numbers Objects in Dial (Valeria de Paiva, Charles Morgan, Samuel G. da Silva). 
    Natural Number Objects in    Dialectica Categories. ENTCS, 01 January 2014. 
-   Electronic Notes in theoretical Computer Science, 305 (2014), pages 53-65.https://www.researchgate.net/publication/263699584_Natural_Number_Objects_in_Dialectica_Categories)
+   Electronic Notes in theoretical Computer Science, 305 (2014), pages 53-65.
+   https://www.researchgate.net/publication/263699584_Natural_Number_Objects_in_Dialectica_Categories)
 
  9. Dialectica over partial order, in LC Pereira festschrift
 
@@ -58,11 +63,14 @@ The Compiler Forest, ESOP 2013, http://budiu.info/work/esop13.pdf
 slides https://jgalenson.github.io/papers/esop2013-talk.pdf
 
 5. Jules Hedge's Dialectica categories and games with bidding. 
-In Post-proceedings of TYPES’14. LIPIcs 39:89-110, 2015. http://drops.dagstuhl.de/opus/volltexte/2015/5493/pdf/7.pdf
+In Post-proceedings of TYPES’14. LIPIcs 39:89-110, 2015. 
+http://drops.dagstuhl.de/opus/volltexte/2015/5493/pdf/7.pdf
 
-6. Bodil Biering's thesis, Dialectica Interpretations: A Categorical Analysis http://cs.au.dk/~birke/phd-students/BieringB-thesis.pdf, 2008
+6. Bodil Biering's thesis, Dialectica Interpretations: A Categorical Analysis 
+http://cs.au.dk/~birke/phd-students/BieringB-thesis.pdf, 2008
 
-7. Tamara von Glehn's thesis Polynomials and models of type theory https://www.repository.cam.ac.uk/handle/1810/254394, 2015
+7. Tamara von Glehn's thesis Polynomials and models of type theory 
+https://www.repository.cam.ac.uk/handle/1810/254394, 2015
 
 8. Tom Powell's  Applying Gödel's Dialectica Interpretation to Obtain a Constructive Proof of Higman's Lemma, 
 https://arxiv.org/abs/1210.3117 and Well Quasi-Orders and the Functional Interpretation, https://arxiv.org/pdf/1706.02881.pdf
@@ -70,7 +78,7 @@ https://arxiv.org/abs/1210.3117 and Well Quasi-Orders and the Functional Interpr
 Tom's LICS2017 paper 	Gödel's functional interpretation and the concept of learning 
 http://dl.acm.org/citation.cfm?doid=2933575.2933605
 
-9. Mike Sulman, The 2-Chu-Dialectica construction and the polycategory of multivariable adjunctions, 
+9. Mike Shulman, The 2-Chu-Dialectica construction and the polycategory of multivariable adjunctions, 
    https://arxiv.org/abs/1806.06082
    Mike Shulman, Linear logic for constructive mathematics, https://arxiv.org/abs/1805.07518
    (check also https://arxiv.org/abs/1107.6032 Traces in symmetric monoidal categories and 
@@ -80,3 +88,13 @@ http://dl.acm.org/citation.cfm?doid=2933575.2933605
 10. Sean Moss and Tamara von Glehn. Dialectica models of type theory, LiCS2018.
 
 11. Sean Moss. PhD thesis: The Dialectica models of type theory (in email) 
+
+12. Pierre Pradic and Colin Riba, from http://perso.ens-lyon.fr/colin.riba/
+
+a. A Dialectica-Like Interpretation of a Linear MSO on Infinite Words.
+With Pierre Pradic. Submitted [pdf].
+b. LMSO: A Curry-Howard Approach to Church's Synthesis via Linear Logic.
+With Pierre Pradic. LICS'18 [pdf].
+c. A Curry-Howard Approach to Church's Synthesis.
+With Pierre Pradic. FSCD'17 [pdf]. Long version (submitted) [pdf]. 
+
