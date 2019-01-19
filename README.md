@@ -1,5 +1,5 @@
 # Dialectica Categories
-A place to collect the work on dialectica categories. 
+A place to collect  work on dialectica categories. 
 
 First my work:
 
@@ -86,8 +86,10 @@ http://dl.acm.org/citation.cfm?doid=2933575.2933605
    
   
 10. Sean Moss and Tamara von Glehn. Dialectica models of type theory, LiCS2018.
+https://dl.acm.org/citation.cfm?doid=3209108.3209207 paywall
 
 11. Sean Moss. PhD thesis: The Dialectica models of type theory (in email) 
+https://www.repository.cam.ac.uk/handle/1810/280672
 
 12. Pierre Pradic and Colin Riba, from http://perso.ens-lyon.fr/colin.riba/
 
@@ -97,4 +99,6 @@ b. LMSO: A Curry-Howard Approach to Church's Synthesis via Linear Logic.
 With Pierre Pradic. LICS'18 [pdf].
 c. A Curry-Howard Approach to Church's Synthesis.
 With Pierre Pradic. FSCD'17 [pdf]. Long version (submitted) [pdf]. 
+
+13. Pierre Hyvernat, A Linear Category of Polynomial Diagrams, http://www.lama.univ-savoie.fr/pagesmembres/hyvernat/research.php
 
