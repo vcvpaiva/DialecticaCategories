@@ -102,3 +102,11 @@ With Pierre Pradic. FSCD'17 [pdf]. Long version (submitted) [pdf].
 
 13. Pierre Hyvernat, A Linear Category of Polynomial Diagrams, http://www.lama.univ-savoie.fr/pagesmembres/hyvernat/research.php
 
+14. Benno van der Berg et al 
+A functional interpretation for nonstandard arithmetic [PS][PDF]
+Joint work with Eyvind Briseid and Pavol Safarik. 
+Annals of Pure and Applied Logic, volume 163, issue 12 (2012), pp. 1962–1994.
+and
+
+https://staff.fnwi.uva.nl/b.vandenberg3/papers/dsttopos.pdf.
+
