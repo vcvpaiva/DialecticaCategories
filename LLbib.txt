@@ -1,5 +1,5 @@
 ;; a bibliography of Linear Logic papers, cribbed from Google Scholar
-;; the initial papers
+;; 
 
 @article{girard1987linear,
   title={Linear logic},
@@ -27,6 +27,14 @@
   volume={7},
   year={1989},
   publisher={Cambridge University Press Cambridge}
+}
+
+@book{troelstra1992lectures,
+  title={Lectures on linear logic},
+  author={Troelstra, Anne Sjerp},
+  volume={29},
+  year={1992},
+  publisher={Center for the Study of Language and Information Stanford, California}
 }
 
 @article{andreoli1992logic,
