@@ -1,0 +1,110 @@
+;; a bibliography of Linear Logic papers, cribbed from Google Scholar
+;; the initial papers
+
+@article{girard1987linear,
+  title={Linear logic},
+  author={Girard, Jean-Yves},
+  journal={Theoretical computer science},
+  volume={50},
+  number={1},
+  pages={1--101},
+  year={1987},
+  publisher={Elsevier}
+}
+
+@inproceedings{girardlafont1987,
+  title={Linear logic and lazy computation},
+  author={Girard, Jean-Yves and Lafont, Yves},
+  booktitle={International Joint Conference on Theory and Practice of Software Development},
+  pages={52--66},
+  year={1987},
+  organization={Springer}
+}
+
+@book{girard1989proofs,
+  title={Proofs and types},
+  author={Girard, Jean-Yves and Taylor, Paul and Lafont, Yves},
+  volume={7},
+  year={1989},
+  publisher={Cambridge University Press Cambridge}
+}
+
+@article{andreoli1992logic,
+  title={Logic programming with focusing proofs in linear logic},
+  author={Andreoli, Jean-Marc},
+  journal={Journal of logic and computation},
+  volume={2},
+  number={3},
+  pages={297--347},
+  year={1992},
+  publisher={Dov Gabbay}
+}
+
+@book{rosenthal1990quantales,
+  title={Quantales and their applications},
+  author={Rosenthal, Kimmo I},
+  volume={234},
+  year={1990},
+  publisher={Longman Scientific and Technical}
+}
+
+@incollection{moortgat1997categorial,
+  title={Categorial type logics},
+  author={Moortgat, Michael},
+  booktitle={Handbook of logic and language},
+  pages={93--177},
+  year={1997},
+  publisher={Elsevier}
+}
+
+@article{abramsky1993computational,
+  title={Computational interpretations of linear logic},
+  author={Abramsky, Samson},
+  journal={Theoretical computer science},
+  volume={111},
+  number={1-2},
+  pages={3--57},
+  year={1993},
+  publisher={Elsevier}
+}
+
+@inproceedings{wadler1990linear,
+  title={Linear types can change the world!},
+  author={Wadler, Philip},
+  booktitle={Programming concepts and methods},
+  volume={3},
+  number={4},
+  pages={5},
+  year={1990},
+  organization={Citeseer}
+}
+
+@article{hodas1994logic,
+  title={Logic programming in a fragment of intuitionistic linear logic},
+  author={Hodas, Joshua S and Miller, Dale},
+  journal={Information and computation},
+  volume={110},
+  number={2},
+  pages={327--365},
+  year={1994},
+  publisher={Elsevier}
+}
+
+@inproceedings{saraswat1991semantic,
+  title={Semantic Foundations of Concurrent Constraint Programming.},
+  author={Saraswat, Vijay A and Rinard, Martin and Panangaden, Prakash},
+  booktitle={POPL},
+  volume={91},
+  number={18},
+  pages={333--352},
+  year={1991}
+}
+
+@article{girard1995linear,
+  title={Linear logic: its syntax and semantics},
+  author={Girard, Jean-Yves},
+  journal={London Mathematical Society Lecture Note Series},
+  pages={1--42},
+  year={1995},
+  publisher={Cambridge University Press}
+}
