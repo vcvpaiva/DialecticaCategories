@@ -1,0 +1,5163 @@
+%This is the contents of http://www.cs.cmu.edu/~carsten/linearbib/linearbib.html,
+%repeated just for my benefit, and possibly, redundancy.
+%I wish I had done the same to Hypatia, Sept 2019.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                          %
+%          Publications on Linear Logic and related subjects.              %
+%                                                                          %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Editor: Iliano Cervesato, iliano at cs.cmu.edu
+        Frank Pfenning, fp at cs.cmu.edu
+        Carsten Schuermann, carsten at cs.cmu.edu
+Last Updated: Wed Apr 19 1995
+Size: 326 entries
+
+This, like any bibliography, is incomplete.  Any corrections, updates,
+comments, suggestion, new entries, new URL's for papers, etc. are very much
+appreciated.
+
+When compiling this bibliography, we had the chance to access material from
+Andre Scedrov's and Anne Troelstra's linear logic bibliographies, as well as
+from the DIKU types bibliography. We would like to acknowledge their authors.
+
+Entry Names: Last name of the first author, followed by year of publication.
+  If this is ambiguous, we added a descriptive suffix (e.g. lics, cade,
+  tr [techreport], phd [phdthesis]).  If it's still ambiguous we added
+  a single letter a, b, etc.
+
+Field Format: All fields are delimited by double-quotes or single symbols.
+  This tremendously simplifies various Emacs functions for search and display.
+  Diacritical marks must therefore be enclosed in {} so that BibTeX is not
+  confused about the extent of the field (e.g. "Bengt Nordstr{\"o}m").
+
+Strings: We did not use any strings or abbreviations so that each entry is
+  self-contained and may be copied to other bibliography files.
+
+urlps = "..."  If the paper is available on the World-Wide Web in (compressed)
+  POSTSCRIPT format, this is the URL to locate it.  All standard bibliography
+  styles ignore this field. We have a style which uses it to produce an
+  appropriate hypertext reference for later conversion to HTML.
+
+urldvi = "..."  If the paper is available on the World-Wide Web in (compressed)
+  DVI format, this is the URL to locate it.  All standard bibliography styles
+  ignore this field. We have a style which uses it to produce an appropriate
+  hypertext reference for later conversion to HTML.
+
+urlnote = "..."  If the paper or some document related to it (code, HTML page,
+  etc.) is available on the World-Wide Web in a format different from DVI or
+  POSTSCRIPT, this is the URL to locate it.  All standard bibliography styles
+  ignore this field. We have a style which uses it to produce an appropriate
+  hypertext reference for later conversion to HTML. It is possible to take
+  advantage of this field by means of the macro "\href{<hyperlink>}{text}"
+  that will wrap <hyperlink> around <text>.
+
+url = "..."  If the paper is available on the World-Wide Web, this is the URL
+  to locate it. Whenever available, (compressed) postscript versions were
+  prefered.  All standard bibliography styles ignore this field. We have a
+  style which uses it to produce an appropriate hypertext reference for later
+  conversion to HTML. This field is defined only for backward compatibility.
+
+url2 = "..." This field contains alternate URLs. It is not currently used.
+
+author = "..."  Full names as far as available in <initials> <last name>
+  format. Authors are listed in alphabetical order.
+
+title = "..." Capitalized according to standard (American?) convention.  This
+  will be de-capitalized for most bibliography styles as appropriate.
+
+booktitle = "..."  For conferences we used "Proceedings of the ..." instead of
+  the way the title sometimes appears on the cover ("Automated Deduction, 11th
+  International Conference, Proceedings")
+
+month = ...  Here is recently changed to using standard abbreviations
+  jan feb mar apr may jun jul aug sep oct nov dec as recommended in the
+  BibTeX documentation, since it allows uniform formatting in different
+  styles.
+
+year = "..." For a conference, the year of the conference and not necessarily
+  the year in which the proceedings appeared.
+
+address = "..." For a conference or workshop, the location where it was held.
+  Otherwise the address of the publisher or institution.
+
+publisher = "..." For Springer lecture notes we used "Springer-Verlag LNCS nnn"
+  instead of the cumbersome and verbose series and number fields.
+
+
+@InProceedings{Aandera92csl,
+  author       = "St{\aa}l Aanderaa and Hermann R. Jervell",
+  title        = "Recursive Inseparability in Linear logic",
+  editor       = "E. B{\"o}rger and G. J{\"a}ger and H. K. B{\"u}nig
+		  and S. Martini and M. M. Richter",
+  pages        = "5--13",
+  booktitle    = "Proceedings of the Sixth Workshop on Computer
+		  Science Logic",
+  year         = 1992,
+  publisher    = "Springer-Verlag LNCS 702",
+  address      = "San Miniato, Italy",
+  month        = sep
+}
+
+@InProceedings{Abadi92lics,
+  author       = "Martin Abadi and George Gonthier and Jean-Jacques Levy",
+  title        = "Linear Logic without Boxes",
+  pages        = "223--234",
+  booktitle    = "Seventh Annual Symposium on Logic in Computer
+		  Science",
+  year         = 1992,
+  publisher    = "IEEE Computer Society Press",
+  address      = "Santa Cruz, California",
+  month        = jun
+}
+
+@InProceedings{Abadi92popl,
+  author       = "Martin Abadi and George Gonthier and  Jean-Jacques Levy",
+  title        = "The Geometry of Optimal Lambda Reduction",
+  booktitle    = "Proceedings of the Nineteenth Annual Symposium on
+		  Principles of Programming Languages",
+  year         = 1992,
+  pages        = "15--26",
+  publisher    = "ACM Press",
+  address      = "Albuquerque, New Mexico",
+  month        = jan
+}
+
+@Article{Abramsky93,
+  author       = "Samson Abramsky",
+  title        = "Computational Interpretations of Linear Logic",
+  journal      = "Theoretical Computer Science",
+  year         = 1993,
+  volume       = 111,
+  pages        = "3--57",
+  urlps        = "file://theory.doc.ic.ac.uk/theory/papers/Abramsky/cillfinalversion.ps.gz",
+  urldvi       = "file://theory.doc.ic.ac.uk/theory/papers/Abramsky/cillfinalversion.dvi.gz" 
+}
+
+@Inproceedings{Abramsky94ss,
+  author       = "Samson Abramsky",
+  title        = "Interaction Categories and Typed Concurrent Programming",
+  booktitle    = "Proceedings of the International Summer School of 
+		  Marktoberdorf", 
+  publisher    = "Springer-Verlag",
+  series       = "NATO Advanced Science Institutes, series F",
+  year         = 1994,
+  pages        = "??--??",
+  urlps        = "file://theory.doc.ic.ac.uk/theory/papers/Abramsky/marktoberdorf.ps.gz"
+}
+
+@Unpublished{Abramsky92,
+  author       = "Samson Abramsky",
+  title        = "An introduction to `{O}n the $\pi$-calculus and
+		  linear logic' by {G}ianluigi {B}ellin and {P}hilip {S}cott",
+  note         = "Manuscript",
+  year         = 1992
+}
+
+@Article{Abramski94ic,
+  author       = "Samson Abramsky and Radha Jagadeesan",
+  title        = "New Foundations for the Geometry of Interaction",
+  journal      = "Information and Computation",
+  year         = 1994,
+  volume       = 111,
+  number       = 1,
+  pages        = "53--119",
+  note         = "Extended version of the paper published in the
+		  Proceedings of LICS'92"
+}
+
+@Inproceedings{Abramsky92lics, 
+  author       = "Samson Abramsky and Radha Jagadeesan",  
+  title        = "New Foundations for the Geometry of Interaction",
+  booktitle    = "Seventh Annual Symposium on Logic in
+		  Computer Science", 
+  address      = "Santa Cruz, California",
+  month        = jun, 
+  year         = 1992,  
+  pages        = "211--222", 
+  publisher    = "{IEEE} Computer Society Press",
+  urlps        = "file://theory.doc.ic.ac.uk/theory/papers/Abramsky/nfgifinalversion.ps.gz",
+  urldvi       = "file://theory.doc.ic.ac.uk/theory/papers/Abramsky/nfgifinalversion.dvi.gz" 
+}
+
+@Article{Abramsky94jsl,
+  author       = "Samson Abramsky and Radha Jagadeesan",
+  title        = "Games and Full Completeness for Multiplicative Linear Logic",
+  journal      = "Journal of Symbolic Logic",
+  year         = 1994,
+  volume       = 59,
+  number       = 2,
+  pages        = "543--574",
+  urlps        = "file://theory.doc.ic.ac.uk/theory/papers/Abramsky/gfcsmallpagefinalversion.ps.gz",
+  urldvi       = "file://theory.doc.ic.ac.uk/theory/papers/Abramsky/gfcfinalversion.dvi.gz",
+  url2         = "file://theory.doc.ic.ac.uk/theory/papers/Abramsky/gfcsmallpagefinalversion.dvi.gz"
+}
+
+@Article{Abramsky90,
+  author       = "Samson Abramsky and Steven Vickers",
+  title        = "Quantales, Observational Logic, and Process Semantics",
+  journal      = "Mathematical Structures in Computer Science",
+  year         = 1993,
+  publisher    = "Cambridge University Press",
+  pages        = "161--227",
+  volume       = 3,
+  urlps        = "file://theory.doc.ic.ac.uk/theory/papers/Vickers/QuProc.ps.gz"
+}
+
+@TechReport{Abrusci88,
+  author       = "V. Michele Abrusci",
+  title        = "Additional Results on Intuitionistic Linear
+		  Propositional Logic",
+  institution  = "Department of Philosophy, University of Bari, Italy",
+  year         = 1988,
+  number       = 6,
+  month        = oct
+}
+
+@TechReport{Abrusci89,
+  author       = "V. Michele Abrusci",
+  title        = "Non-commutative classical linear propositional logic, {I}",
+  institution  = "Department of Philosophy, University of Bari, Italy",
+  year         = 1989,
+  number       = 8,
+  month        = mar
+}
+
+@Inproceedings{Abrusci90ss,
+  author       = "V. Michele Abrusci",
+  title        = "Sequent Calculus for Intuitionistic Linear
+		  Propositional Logic",
+  booktitle    = "Mathematical Logic",
+  year         = 1990,
+  editor       = "P. P. Petkov",
+  pages        = "223--242",
+  publisher    = "Plenum Press",
+  address      = "New York, London",
+  note         = "Proceedings of the Summer School and Conference on
+		  Mathematical Logic, honourably dedicated to the 90th
+		  Anniversary of {A}rend {H}eyting (1898--1980),
+		  Chaika, Bulgaria, 1988"
+}
+
+@Article{Abrusci90zmla,
+  author       = "V. Michele Abrusci",  
+  title        = "A comparison between {L}ambek syntactic calculus and
+		  intuitionistic linear propositional logic",
+  journal      = "Zeitschrift f{\"u}r Mathematische Logik und Grundlagen der
+		  Mathematik",
+  year         = 1990,
+  volume       = 36,
+  pages        = "11--15"
+}
+
+@article{Abrusci90zmlb,
+  author       = "V. Michele Abrusci",
+  title        = "Non-commutative intuitionistic linear propositional logic",
+  journal      = "Zeitschrift f{\"u}r Mathematische Logik und Grundlagen der
+		  Mathematik",
+  year         = 1990,
+  volume       = 36,
+  pages        = "297--318"
+}
+
+@techreport{Abrusci90tr,
+  author       = "V. Michele Abrusci",
+  title        = "Cut elimination theorem for pure non-commutative
+		  classical linear propositional logic",
+  institution  = "Department of Philosophy, University of Bari, Italy",
+  year         = 1990,
+  number       = 12,
+  month        = sep
+}
+
+@article{Abrusci91jsl,
+  author       = "V. Michele Abrusci",
+  title        = "Phase semantics and sequent calculus for pure
+		  non-commutative classical linear propositional logic",
+  journal      = "Journal of Symbolic Logic",
+  year         = 1991,
+  volume       = 56,
+  number       = 4,
+  pages        = "1403-1451",
+  month        = dec
+}
+
+@inproceedings{Abrusci91,
+  author       = "V. Michele Abrusci",
+  title        = "Lambek Syntactic Calculus and Non-commutative Linear Logic",
+  booktitle    = "Nuovi problemi della logica e della filosofia
+		  della scienza",
+  year         = 1991,
+  volume       = "II",
+  editor       = "G. Corsi and G. Sambin",
+  publisher    = "CLUEB",
+  address      = "Viareggio, Italy",
+  month        = jan
+}
+
+@InCollection{Abrusci95,
+  author       = "V. Michele Abrusci",
+  title        = "Non-commutative Proof Nets",
+  booktitle    = "Advances in Linear Logic",
+  editor       = "J.-Y. Girard and Y. Lafont and L. Regnier",
+  year         = 1995,
+  pages        = "271--296",
+  publisher    = "Cambridge University Press",
+  note         = "Proceedings of the Workshop on Linear Logic, Ithaca,
+		  New York, June 1993"
+}
+
+@Phdthesis{Ageron91,
+  author       = "P. Ageron",
+  title        = "Structure des Logiques et Logique des Structures:
+		  Logiques, Cat{\'e}gories, Esquisses",
+  school       = "University of Paris {VII}",
+  year         = 1991,
+  month        = jan
+}
+
+@InProceedings{Albrecht94,
+  author       = "David Albrecht and Frank A. B{\"a}uerle and
+		  John N. Crossley and John S. Jeavons",
+  title        = "{Curry-Howard} Terms for Linear Logic",
+  booktitle    = "Logic Colloquium '94",
+  editor       = "??",
+  year         = 1994,
+  pages        = "??--??",
+  publisher    = "??"
+}
+
+@TechReport{Alexiev94,
+  author       = "Vladimir Alexiev",
+  title        = "Applications of Linear Logic to Computation: An Overview",
+  institution  = "University of Alberta",
+  year         = 1994,
+  number       = "TR93-18",
+  address      = "Edmonton, Alberta T6G 2H1",
+  month        = sep,
+  urlps        = "file://ftp.cs.ualberta.ca/pub/oolog/linar.ps.Z",
+  urldvi       = "file://ftp.cs.ualberta.ca/pub/oolog/linar.dvi.Z",
+  url2         = "file://ftp.cs.ualberta.ca/pub/oolog/linar.ps.gz",
+  url2         = "file://ftp.cs.ualberta.ca/pub/oolog/linar.dvi.gz",
+  url2         = "file://ftp.cs.ualberta.ca/pub/TechReports/TR93-18.ps.Z",
+  url2         = "file://ftp.cs.ualberta.ca/pub/TechReports/TR93-18.ps.gz"
+}
+
+@Article{Allwein93jsl,
+  author       = "Gerard Allwein and Jon M. Dunn",
+  title        = "Kripke Models for Linear Logic",
+  journal      = "Journal of Symbolic Logic",
+  year         = 1993,
+  volume       = 58,
+  number       = 2,
+  pages        = "514--545",
+  urlps        = "file://cica.indiana.edu/pub/users/gtall/relation/kripkeLL.ps",
+  urldvi       = "file://cica.indiana.edu/pub/users/gtall/relation/kripkeLL.dvi"
+}
+
+@Unpublished{Allwein92misc,
+  author       = "Gerard Allwein",
+  title        = "A Neighborhood Model for Linear Logic's Exponentials",
+  year         = 1992,
+  urlps        = "file://cica.indiana.edu/pub/users/gtall/neighborhood/kripkeLLExp.ps",
+  urldvi       = "file://cica.indiana.edu/pub/users/gtall/relation/kripkeLLExp.dvi",
+  url2         = "file://cica.indiana.edu/pub/users/gtall/neighborhood/kripkeLLExp.dvi",
+  note         = "Manuscript"
+}
+
+@PhdThesis{Allwein92phd,
+  author       = "Gerard Allwein",
+  title        = "The Duality of Algebraic and Kripke Models for
+		  Linear Logic",
+  school       = "Indiana University",
+  year         = 1992
+}
+
+@PhdThesis{Ambler91,
+  author       = "S. J. Ambler",
+  title        = "First Order Linear Logic in Symmetric Monoidal
+		  Closed Categories",
+  school       = "University of Edinburgh",
+  year         = 1991
+}
+
+@Unpublished{Amiot90,
+  author       = "Gilles Amiot",
+  title        = "Decision Problems for Second Order Linear Logic
+		  Without Exponentials",
+  note         = "Manuscript",
+  year         = 1990
+}
+
+@InProceedings{Andreoli90oopsla,
+  author       = "Jean-Marc Andreoli and Remo Pareschi",
+  title        = "{LO} and Behold! {C}oncurrent Structured Processes",
+  booktitle    = "Proceedings of OOPSLA'90",
+  month        = oct,
+  year         = 1990,
+  pages        = "44--56",
+  address      = "Ottawa, Canada",
+  note	       = "Published as {ACM SIGPLAN} Notices, vol.25, no.10"
+}
+
+@PhdThesis{Andreoli90phd,
+  author       = "Jean-Marc Andreoli",
+  title        = "Proposal for a Synthesis of Logic and
+		  Object-Oriented Programming Paradigms",
+  school       = "University of Paris {VI}",
+  year         = 1990
+}
+
+@Inproceedings{Andreoli91elp,
+  author       = "Jean-Marc Andreoli and Remo Pareschi",
+  title        = "Logic Programming with Sequent Systems: A Linear
+		  Logic Approach",
+  booktitle    = "Proceedings of Workshop to Extensions of Logic Programming,
+		  T{\"u}bingen, 1989",
+  year         = 1991,
+  editor       = "P. Schr{\"o}der-Heister",
+  pages        = "1--30",
+  publisher    = "Springer-Verlag LNAI 475"
+}
+
+@Article{Andreoli91ngc,
+  author       = "Jean-Marc Andreoli and Remo Pareschi", 
+  title        = "Linear Objects: Logical Processes with Built-In Inheritance",
+  journal      = "New Generation Computing", 
+  volume       = 9,
+  pages        = "445--473",
+  year         = 1991
+}
+
+@InProceedings{Andreoli91oopsla,
+  author       = "Jean-Marc Andreoli and Remo Pareschi",
+  title        = "Communication as Fair Distribution of Knowledge",
+  booktitle    = "Proceedings of OOPSLA'91",
+  address      = "Phoenix, Arizona",
+  month        = oct,
+  year         = 1991,
+  pages        = "212--229",
+  urlps        = "file://ecrc.de/pub/loco/communication-fair.ps.Z",
+  note         = "Published as {ACM SIGPLAN} Notices, vol.26, no.11"
+}
+
+@Article{Andreoli92,
+  author       = "Jean-Marc Andreoli",
+  title        = "Logic Programming with Focusing Proofs in Linear Logic",
+  journal      = "Journal of Logic and Computation",
+  year         = 1992,
+  pages        = "297--347",
+  volume       = 2,
+  number       = 3,
+  urlps        = "file://ecrc.de/pub/loco/focusing-proofs.ps.Z"
+}
+
+@Unpublished{Andreoli92misc,
+  author       = "Jean-Marc Andreoli and Remo Pareschi", 
+  title        = "Associative Communication and Its Optimization via
+		  Abstract Interpretation",  
+  note         = "Manuscript",  
+  month        = aug,  
+  year         = 1992
+}
+
+@InCollection{Andreoli93book,
+  author       = "Jean-Marc Andreoli and Paolo Ciancarini and Remo Pareschi",
+  title        = "Interaction Abstract Machines",
+  booktitle    = "Research  Directions in Concurrent Object Oriented 
+                  Programming",
+  publisher    = "MIT Press",
+  editor       = "G. A. Agha and P. Wegner and A. Yonezawa",
+  year         = 1993,
+  pages        = "257--280",
+  urlps        = "file://ecrc.de/pub/loco/interaction-abstract.ps.Z"
+}
+
+@InProceedings{Andreoli93ilps,
+  author       = "Jean-Marc Andreoli and Tiziana Castagnetti and Remo Pareschi",
+  title        = "Abstract Interpretation of Linear Logic Programming",
+  booktitle    = "Proceedings of the International Logic Programming
+		  Symposium",
+  editor       = "D. Miller",
+  publisher    = "MIT Press",
+  month        = oct,
+  year         = 1993,
+  pages        = "295--314",
+  address      = "Vancouver, Canada",
+  urlps        = "file://ecrc.de/pub/loco/interpretation-abstract.ps.Z"
+}
+
+@InProceedings{Andreoli93tapsoft,
+  author       = "Jean-Marc Andreoli and Lone Leth and Remo Pareschi and
+		  Bent Thomsen",
+  title        = "True Concurrency Semantics for a Linear Logic
+		  Programming Language with Broadcast Communication",
+  booktitle    = "Proceedings of International Joint Conference on Theory and
+		  Practice of Software Development",
+  address      = "Orsay, France",
+  month        = apr,
+  year         = 1993,
+  editor       = "M.-C. Gaudel and J.-P. Jouannaud",
+  publisher    = "Springer-Verlag  LNCS 668",
+  pages        = "182--198",
+  urlps        = "file://ecrc.de/pub/loco/true-concurrency.ps.Z"
+}
+
+@InProceedings{Archangelsky92,
+  author       = "D. A. Archangelsky and Mikhail A. Taitslin",
+  title        = "Modal Linear Logic",
+  booktitle    = "Proceedings of the Symposium on Logical Foundations of
+		  Computer Science",
+  address      = "Tver, Russia",
+  editor       = "A. Nerode and M. Taitslin",
+  publisher    = "Springer-Verlag LNCS 620",
+  year         = 1992,
+  month        = jul,
+  pages        = "1--8"
+}
+
+@Article{Archangelsky94,
+  author       = "D. A. Archangelsky and Mikhail A. Taitslin",
+  title        = "Linear Logic with Fixed Resources",
+  journal      = "Journal of Pure and Applied Logic",
+  year         = 1994,
+  volume       = 67,
+  number       = "1-3",
+  pages        = "3--28"
+}
+		  
+@InProceedings{Arima93,
+  author       = {J. Arima and H. Sawamura},
+  editor       = {K. P Jantke},
+  booktitle    = {4th International workshop on Algorithmic learning theory},
+  title        = {Reformulation of Explanation by Linear Logic: Toward
+		  Logic for Explanation},
+  number       = 744,
+  address      = {Tokyo, Japan},
+  pages        = {45-58},
+  month        = nov,
+  year         = 1993,
+  series       = {LNCS}
+}
+		  
+@Techreport{Asperti87,
+  author       = "Andrea Asperti",
+  title        = "A Logic for Concurrency",
+  institution  = "Department of Computer Science, University of Pisa",
+  year         = 1987,
+  number       = "??"
+}
+
+@Phdthesis{Asperti90phd,
+  author       = "Andrea Asperti",
+  title        = "Categorical Topics in Computer Science",
+  school       = "University of Pisa",
+  year         = 1990
+}
+
+@Inproceedings{Asperti90popl,
+  author       = "Andrea Asperti and Gianluigi Ferrari and Roberto Gorrieri",
+  title        = "Implicative Formulae in the `Proofs as Computations'
+		  Analogy",
+  booktitle    = "Proceedings of the seventeenth Symposium on Principles of
+		  Programming Languages, San Francisco",
+  month        = jan,
+  year         = 1990,
+  publisher    = "ACM Press",
+  pages        = "59--71"
+}
+
+@Unpublished{Asperti93misca,
+  author       = "Andrea Asperti and Giovanna Dore",
+  title        = "Yet Another Correctness Criterion for Multiplicative
+		  Linear Logic with {MIX}",
+  year         = 1993,
+  month        = nov,
+  note         = "Manuscript",
+  urlps        = "file://ftp.cs.unibo.it/pub/asperti/ADlfcs.ps.Z"
+}
+
+@Unpublished{Asperti93miscb,
+  author       = "Andrea Asperti",
+  title        = "Linear Logic, Comonads and Optimal Reductions",
+  year         = 1993,
+  month        = sep,
+  note         = "Manuscript, to appear in Fundamenta Informaticae,
+		  1994, special issue devoted to Categories in
+		  Computer Science",
+  urlps        = "file://ftp.cs.unibo.it/pub/asperti/fundamenta.ps.Z"
+}
+
+@Article{Asperti94,
+  author       = "Andrea Asperti",
+  title        = "Causal Dependencies in Multiplicative Linear Logic
+		  with {MIX}",
+  journal      = "Mathematical Structures in Computer Science",
+  year         = "to appear"
+}
+
+@Article{Avron84jsl,
+  author       = "Arnon Avron",
+  title        = "Relevant Entailment: Semantics and Formal Systems",
+  journal      = "Journal of Symbolic Logic",
+  year         = 1984,
+  volume       = 49,
+  pages        = "334--342"
+}
+
+@PhdThesis{Avron84phd,
+  author       = "Arnon Avron",
+  title        = "The Semantics and Proof-Theory of Relevance Logic
+		  and Non-Trivial Theories Containing Contradictions",
+  school       = "Tel-Aviv University",
+  year         = 1984
+}
+
+@Article{Avron88,
+  author       = "Arnon Avron",
+  title        = "The Semantics and Proof Theory of Linear Logic",
+  journal      = "Theoretical Computer Science",
+  year         = 1988,
+  volume       = 57,
+  pages        = "161--184"
+}
+
+@Article{Avron91ic,
+  author       = "Arnon Avron",
+  title        = "Simple Consequence Relations",
+  journal      = "Information and Computation",
+  year         = 1991,
+  volume       = 92,
+  pages        = "105--139"
+}
+
+@Article{Avron94jlc,
+  author       = "Arnon Avron",
+  title        = "Some Properties of Linear Logic Proved by Semantic
+		  Methods",
+  journal      = "Journal of Logic and Computation",
+  year         = 1994,
+  volume       = 4,
+  number       = 6,
+  pages        = "929--938"
+}
+
+@Article{Avron97jsl,
+  author       = "Arnon Avron",
+  title        = "Multiplicative Conjunction and the Algebraic Meaning
+		  of Contraction and Weakening",
+  journal      = "Journal of Symbolic Logic",
+  year         = "to appear",
+  urlps        = "http://www.math.tau.ac.il/~aa/articles/mult_algeb.ps.gz"
+}
+
+@Article{Baker92,
+  author       = "Henry Baker",
+  title        = "Lively Linear Lisp --- `{L}ook {M}a, No Garbage!'",
+  journal      = "ACM SIGPLAN Notices",
+  year         = 1992,
+  volume       = 27,
+  number       = 8,
+  pages        = "89--98",
+  month        = aug,
+  urlps        = "ftp://ftp.netcom.com/pub/hb/hbaker/LinearLisp.ps.Z"
+}
+
+
+@InProceedings{Baker92iwmm,
+  author       = "Henry Baker",
+  title        = "{NREVERSAL} of Fortune--the Thermodynamics of
+		  Garbage Collection",
+  editor       = "Y. Bekkers and J. Cohen",
+  pages        = "507--524",
+  booktitle    = "International Workshop on Memory Management",
+  year         = 1992,
+  publisher    = "Springer-Verlag LNCS 637",
+  address      = "Saint-Malo, France",
+  month        = sep,
+  urlps        = "ftp://ftp.netcom.com/pub/hb/hbaker/ReverseGC.ps.Z"
+}
+
+@Article{Baker93lisp,
+  author       = "Henry Baker",
+  title        = "The {Boyer} Benchmark Meets Linear Logic",
+  journal      = "ACM Lisp Pointers",
+  year         = 1993,
+  volume       = "{VI}",
+  number       = 4,
+  pages        = "3--10",
+  urlps        = "ftp://ftp.netcom.com/pub/hb/hbaker/LBoyer.ps.Z"
+}
+
+@Article{Baker93sigsam,
+  author       = "Henry Baker",
+  title        = "Sparse Polynomials and Linear Logic",
+  journal      = "ACM Sigsam Bulletin",
+  year         = 1993,
+  volume       = 27,
+  number       = 4,
+  pages        = "10--14",
+  month        = dec,
+  urlps        = "ftp://ftp.netcom.com/pub/hb/hbaker/LFrpoly.ps.Z"
+}
+
+@Article{Baker94arch,
+  author       = "Henry Baker",
+  title        = "Linear Logic and Permutation Stacks --- The Forth
+		  Shall Be First",
+  journal      = "ACM Computer Architecture News",
+  year         = 1994,
+  volume       = 22,
+  number       = 1,
+  pages        = "34--43",
+  month        = mar,
+  urlps        = "ftp://ftp.netcom.com/pub/hb/hbaker/ForthStack.ps.Z"
+}
+
+@Article{Baker94sigplana,
+  author       = "Henry Baker",
+  title        = "A ``Linear Logic'' Quicksort",
+  journal      = "SIGPLAN Notices",
+  year         = 1994,
+  month        = feb,
+  volume       = 29,
+  number       = 2,
+  pages        = "13--18",
+  urlps        = "ftp://ftp.netcom.com/pub/hb/hbaker/LQsort.ps.Z"
+}
+
+@Article{Baker95sigplan,
+  author       = "Henry Baker",
+  title        = "`{U}se-Once' Variables and Linear Objects --- Storage
+		  Management, Reflexion and Multi-Threading",
+  journal      = "ACM SIGPLAN Notices",
+  year         = 1995,
+  volume       = 30,
+  number       = 1,
+  pages        = "45--52",
+  month        = jan,
+  urlps        = "ftp://ftp.netcom.com/pub/hb/hbaker/Use1Var.ps.Z"
+}
+
+@Article{Baker94sigplanb,
+  author       = "Henry Baker",
+  title        = "Minimizing Reference Count Updating with Deferred
+		  and Anchored Pointers for Functional Data Structures",
+  journal      = "ACM SIGPLAN Notices",
+  year         = 1994,
+  volume       = 29,
+  number       = 9,
+  pages        = "38--43",
+  month        = sep,
+  urlps        = "ftp://ftp.netcom.com/pub/hb/hbaker/LRefCounts.ps.Z"
+}
+
+@Book{Barr79,
+  author       = "Michael Barr",
+  title        = "{$\star$}-Autonomous Categories",  
+  publisher    = "Springer-Verlag LNM 752",
+  year         = 1979,
+  pages        = "159--178"
+}
+
+@Article{Barr90,
+  author       = "Michael Barr",
+  title        = "Accessible Categories and Models of Linear Logic",
+  journal      = "Journal of Pure and Applied Algebra",
+  volume       = 69,
+  year         = 1990,
+  pages        = "219--232",
+  urldvi       = "file://triples.math.mcgill.ca/pub/barr/acclinlo.dvi.Z"
+}
+
+@Article{Barr91mscs,
+  author       = "Michael Barr",
+  title        = "{$\star$}-{A}utonomous Categories and Linear Logic",
+  journal      = "Mathematical Structures in Computer Science",
+  volume       = 1,
+  pages        = "159--178",
+  year         = 1991,
+  urldvi       = "file://triples.math.mcgill.ca/pub/barr/staracll.dvi.Z"
+}
+
+@Unpublished{Barr91un,
+  author       = "Michael Barr",
+  title        = "Fuzzy Models of linear logic",
+  year         = 1991,
+  note         = "Preprint"
+}
+
+@InProceedings{Bechet97,
+  author = 	 "Denis Bechet and Philippe de Groote and Christian Retor\'e",
+  title = 	 "A complete axiomatisation for the inclusion of
+		  series-parallel partial orders",
+  booktitle =	 "Proccedings of the Eighth International Conference on Rewriting Techniques and Applications",
+  year =	 1997,
+  address =	 "Sitges, Spain",
+  urlps        = "http://www.loria.fr/~degroote/papers/rta97.ps"
+}
+
+
+@Phdthesis{Bellin90,
+  author       = "Gianluigi Bellin",
+  title        = "Mechanizing Proof Theory: Resource-Aware Logics and
+		  Proof-Transformations to Extract Implicit Information",
+  school       = "Stanford University",
+  year         = 1990
+}
+
+@Article{Bellin91tcs,
+  author       = "Gianluigi Bellin and Jussi Ketonen",
+  title        = "A Decision Procedure Revisited: Notes on Direct
+		  Logic, Linear Logic and its Implementation",
+  journal      = "Theoretical Computer Science",
+  volume       = 95,
+  year         = 1992,
+  Pages        = "115--142"
+}
+
+
+@TechReport{Bellin91tr,
+  author       = "Gianluigi Bellin",
+  title        = "Proof-Nets for Multiplicative and Additive Linear Logic",
+  institution  = "Deparment of Computer Science, University of Edinburgh",
+  year         = 1991,
+  number       = "LFCS-91-161",
+  month        = may,
+  urlps        = "file://theory.doc.ic.ac.uk/theory/papers/Bellin/MALL-nets.ps.gz",
+  urldvi       = "file://theory.doc.ic.ac.uk/theory/papers/Bellin/MALL-nets.dvi.gz"
+}
+
+@Unpublished{Bellin93un,
+  author       = "Gianluigi Bellin",
+  title        = "Proof Nets for Multiplicative and Additive Linear Logic",
+  note         = "Manuscript",
+  month        = may,
+  year         = 1993,
+  urlps        = "file://theory.doc.ic.ac.uk/theory/papers/Bellin/MALL-trips.ps.gz",
+  urldvi       = "file://theory.doc.ic.ac.uk/theory/papers/Bellin/MALL-trips.dvi.gz",
+  MyNote       = "Duplicates Tech Report? No: they are very different."
+}
+
+@Unpublished{Bellin92misca,
+  author       = "Gianluigi Bellin and Philip J. Scott",
+  title        = "On the {$\pi$}-Calculus and Linear Logic",
+  note         = "Manuscript",
+  year         = 1992,
+  urlps        = "file://theory.doc.ic.ac.uk/theory/papers/Scott/PICALCPAPER.ps.gz"
+}
+
+@Unpublished{Bellin92miscb,
+  author       = "Gianluigi Bellin",
+  title        = "Proof Nets for classical Logic {LC}",
+  note         = "Manuscript",
+  year         = 1992
+}
+
+@Unpublished{Bellin93,
+  author       = "Gianluigi Bellin and J. van de Wiele",
+  title        = "Proof Nets and Typed Lambda Calculus {I}: Empires
+		  and Kingdoms",
+  note         = "Manuscript",
+  month        = may,
+  year         = 1993,
+  urlps        = "file://theory.doc.ic.ac.uk/theory/papers/Bellin/king.ps.gz"
+}
+
+@Unpublished{Bellin94d,
+  author       = "Gianluigi Bellin",
+  title        = "Empires and Kingdoms in {DL}",
+  note         = "Manuscript",
+  month        = mar,
+  year         = 1994,
+  urlps        = "file://theory.doc.ic.ac.uk/theory/papers/Bellin/subnet.ps.gz",
+  urldvi       = "file://theory.doc.ic.ac.uk/theory/papers/Bellin/subnet.dvi.gz",
+}
+
+@InCollection{Bellin94ll,
+  author       = "Gianluigi Bellin and J. van de Wiele",
+  title        = "Empires and Kingdoms in {MLL}",
+  booktitle    = "Advances in Linear Logic",
+  editor       = "J.-Y. Girard and Y. Lafont and L. Regnier",
+  year         = 1995,
+  pages        = "249--270",
+  publisher    = "Cambridge University Press",
+  note         = "Proceedings of the Workshop on Linear Logic, Ithaca,
+		  New York, June 1993",
+  urlps        = "file://theory.doc.ic.ac.uk/theory/papers/Bellin/mll.ps.gz"
+}
+
+@Article{Bellin94mscs,
+  author       = "Gianluigi Bellin",
+  title        = "Empires and Kingdoms in {MLL-} and {MIX}",
+  journal      = "Mathematical Structures in Computer Science",
+  year         = "to appear"
+}
+
+@Unpublished{Bellin94una,
+  author       = "Gianluigi Bellin",
+  title        = "Proof-Nets for {LC}, with an Appendix on {LG}",
+  note         = "Manuscript",
+  month        = jul,
+  year         = 1994,
+  urlps        = "file://theory.doc.ic.ac.uk/theory/papers/Bellin/LC-pnets.ps.gz",
+  urldvi       = "file://theory.doc.ic.ac.uk/theory/papers/Bellin/LC-pnets.dvi.gz"
+}
+
+@Unpublished{Bellin94unb,
+  author       = "Gianluigi Bellin",
+  title        = "On Proof Nets for Multiplicative and Additive Linear
+		  Logic: Correctness Conditions and Intuitionistic
+		  Translations",
+  note         = "Manuscript",
+  month        = oct,
+  year         = 1994,
+  urlps        = "file://theory.doc.ic.ac.uk/theory/papers/Bellin/nadd.ps.gz",
+  urldvi       = "file://theory.doc.ic.ac.uk/theory/papers/Bellin/nadd.dvi.gz"
+}
+
+@Unpublished{Bellin95un,
+  author       = "Giangluigi Bellin and A. Fleury",
+  title        = "Braided Proof-Nets for Multiplicative Linear Logic
+		  with {M}ix",
+  note         = "Manuscript",
+  year         = 1995,
+  month        = dec,
+  urlps        = "file://boole.logique.jussieu.fr/pub/scratch/bellin/ncmix.ps.gz",
+  urldvi       = "file://boole.logique.jussieu.fr/pub/scratch/bellin/ncmix.dvi.gz"
+}
+
+@Article{Bellin96,
+  author = 	 "Giangluigi Bellin",
+  title = 	 "Subnets of proof-nets in multiplicative linear logic with mix",
+  journal =	 "Mathematical Structures in Computer Science",
+  year =	 "to appear"
+}
+
+@Article{Belnap90,
+  author       = "Nuel {Belnap Jr.}",
+  title        = "Linear Logic Displayed",
+  journal      = "Notre-Dame Journal of Formal Logic",
+  year         = 1990,
+  volume       = 31,
+  pages        = "14--25"
+}
+
+@InProceedings{Benton92csl,
+  author       = "Nick Benton and G. M. Bierman and J. Martin E. Hyland and
+		  Valeria de Paiva",
+  title        = "Linear $\lambda$-Calculus and Categorical Models
+		  Revisited",
+  editor       = "E. B{\"o}rger",
+  pages        = "61--84",
+  year         = 1992,
+  booktitle    = "Proceedings of the Sixth Workshop on Computer
+		  Science Logic",
+  publisher    = "Springer-Verlag LNCS 702"
+}
+
+@TechReport{Benton92tr,
+  author       = "Nick Benton and G. M. Bierman and J. Martin E. Hyland and
+		  Valeria de Paiva",
+  title        = "Term Assignment for Intuitionistic Linear Logic",  
+  institution  = "Computer Laboratory, University of Cambridge",
+  number       = 262,
+  month        = aug,
+  year         = 1992,
+  urldvi       = "file://theory.doc.ic.ac.uk/theory/papers/dePaiva/taill.dvi.gz"
+}
+
+@InProceedings{Benton93,
+  author       = "Nick Benton and G. M. Bierman and J. Martin E. Hyland and
+		  Valeria de Paiva",
+  title        = "A Term Calculus for Intuitionistic Linear Logic",
+  editor       = "M. Bezem and J. F. Groote",
+  pages        = "75--90",
+  year         = 1993,
+  booktitle    = "Proceedings of the International Conference on Typed
+		  Lambda Calculi and Applications",
+  publisher    = "Springer-Verlag LNCS 664"
+}
+
+@TechReport{benton94tr,
+  author       = "P. Benton",
+  title        = "A Mixed Linear and Non-Linear Logic: Proofs, Terms
+		  and Models (Preliminary Report)",
+  institution  = "University of Cambridge, Computer Laboratory",
+  month        = sep,
+  year         = 1994,
+  number       = 352,
+  urldvi       = "http://www.cl.cam.ac.uk/users/pnb/mixed3.dvi.Z"
+}
+
+@Article{Benton95jfp,
+  author       = "Nick Benton",
+  title        = "Strong Normalization for the Linear Term Calculus",
+  journal      = "Journal of Functional Programming",
+  year         = 1995,
+  volume       = 5,
+  number       = 1,
+  pages        = "65--80",
+  note         = "Also available as Technical Report 305, Computer
+		  Laboratory, University of Cambridge, July 1993"
+}
+
+@InProceedings{Berry90,
+  author       = "G. Berry and G. Boudol",
+  title        = "The Chemical Abstract Machine",
+  booktitle    = "Conference Record of the Seventeenth Annual Symposium on
+		  Principles of Programming Languages",
+  address      = "San Francisco, California",
+  month        = jan,
+  pages        = "81--94",
+  year         = 1990,
+}
+
+@Article{Bethke91,
+  author       = "Inge Bethke",
+  title        = "Coherence Spaces are Untopological",
+  journal      = "Theoretical Computer Science",
+  year         = 1991,
+  volume       = 85,
+  pages        = "353--357"
+}
+
+@InProceedings{Bibel89,
+  author       = "Wofgang Bibel and Luis Fari{\~na}s del Cerro and
+		  B. Fronh{\"o}fer and A. Herzig",
+  title        = "Plan Generation by Linear Proofs: On Semantics",
+  volume       = 216,
+  pages        = "??--??",
+  series       = "Informatik-Fachberichte",
+  booktitle    = "German Workshop on Artificial Intelligence - GWAI'89",
+  year         = 1989,
+  publisher    = "Springer-Verlag"
+}
+
+@Unpublished{Bierman91,
+  author       = "G. M. Bierman",
+  title        = "Type Systems, Linearity and Functional Programming
+		  Languages",
+  note         = "Manuscript",
+  year         = 1991,
+  month        = dec
+}
+
+@PhdThesis{Bierman94phd,
+  author       = "G. M. Bierman",
+  title        = "On Intuitionistic Linear Logic",
+  school       = "University of Cambridge",
+  year         = 1994
+}
+
+@TechReport{Bierman94tra,
+  author       = "G. M. Bierman",
+  title        = "On Intuitionistic Linear Logic",
+  institution  = "University of Cambridge, Computer Laboratory",
+  year         = 1994,
+  number       = 346,
+  month        = aug,
+  note	       = "Revised version of PhD thesis"
+}
+
+@InProceedings{Biermann94tlca,
+  author       = "G. M. Bierman",
+  title        = "What is a Categorical Model of Intuitionistic Linear Logic?",
+  editor       = "M. Dezani",
+  booktitle    = "Proceedings of Conference on Typed lambda calculus
+		  and Applications",
+  year         = 1995,
+  publisher    = "Springer-Verlag LNCS 902",
+  month        = apr,
+  note         = "An earlier version appeared as University of
+		  Cambridge Computer Laboratory Technical Report 333,
+		  April 1994",
+  urlps        = "ftp://theory.doc.ic.ac.uk/theory/imported/BiermanGM/tlca95.ps.Z",
+  urldvi       = "ftp://theory.doc.ic.ac.uk/theory/imported/BiermanGM/tlca95.dvi.Z"
+}
+
+@InProceedings{Bierman96Tokyo,
+  author       = "G. M. Bierman",
+  title        = "Towards a Classical Linear Lambda Calculus",
+  booktitle    = "Proceedings of Tokyo Conference on Linear Logic",
+  volume       = 3,
+  address      = "Tokyo, Japan",
+  series       = "Electronic Notes in Computer Science",
+  publisher    = "Elsevier",
+  year         = 1996,
+  note         = "To appear",
+  urldvi       = "http://www.cl.cam.ac.uk/users/gmb/tokyo.dvi.gz"
+}
+
+@Techreport{Bierman96tc,
+  author       = "G. M. Bierman",
+  title        = "A Classical Linear Lambda Calculus",
+  institution  = "University of Cambridge Computer Laboratory",
+  number       = 401,
+  month        = jul,
+  year         = 1996,
+  urldvi       = "http://theory.doc.ic.ac.uk/tfm/papers/BiermanGM/cll.dvi.Z"
+}
+
+@Article{Bierman96apal,
+  author       = "G. M. Bierman",
+  title        = "A Note on Full Intuitionistic Linear Logic",
+  journal      = "Annals of Pure and Applied Logic",
+  volume       = 79,
+  number       = 3,
+  month        = jun,
+  year         = 1996,
+  pages        = "281--287",
+  urldvi       = "http://www.cl.cam.ac.uk/users/gmb/fill.html"
+}
+		  
+@techreport{Bierman97,
+  author       = "G.M. Bierman",
+  title        = "Observations on a linear {PCF}",
+  institution  = "University of Cambridge Computer Laboratory",
+  number       = 412,
+  month        = jan,
+  year         = 1997,
+  urlps        = "http://theory.doc.ic.ac.uk/tfm/papers/BiermanGM/lpcf.ps.Z"
+}
+		  
+@Article{Blass92,
+  author       = "Andreas Blass",
+  title        = "A Game Semantics for Linear Logic",
+  journal      = "Annals of Pure and Applied Logic",
+  year         = 1992,
+  volume       = 56,
+  pages        = "183--220",
+  note         = "Special Volume dedicated to the memory of John Myhill"
+}
+
+@InCollection{Blass95,
+  author       = "Andreas Blass",
+  title        = "A Category arising in Linear Logic, Complexity
+		  Theory, and Set Theory",
+  booktitle    = "Advances in Linear Logic",
+  editor       = "J.-Y. Girard and Y. Lafont and L. Regnier",
+  year         = 1995,
+  pages        = "61--81",
+  publisher    = "Cambridge University Press",
+  note         = "Proceedings of the Workshop on Linear Logic, Ithaca,
+		  New York, June 1993"
+}
+
+@Inproceedings{Blute91ctcs,
+  author       = "Richard Blute",
+  title        = "Proof Nets and Coherence Theorems",
+  booktitle    = "Category Theory and Computer Science",
+  address      = "Paris, France",
+  year         = 1991,
+  editor       = "S. Abramsky and P.-L. Curien and A. M. Pitt and 
+		  D. H. Pitts and A. Poign{\'e} and D. E. Rydeheard",
+  series       = "Springer-Verlag LNCS 530",
+  pages        = "121--137",
+  month        = sep
+}
+
+@Phdthesis{Blute91phd,
+  author       = "Richard Blute",
+  title        = "Linear Logic, Coherence and Dinaturality",
+  school       = "University of Pennsylvania",
+  year         = 1991
+}
+
+@Unpublished{Blute92,
+  author       = "Richard Blute",
+  title        = "{$\star$}-Autonomous Hyperdoctrines and Predicate
+		  Linear Logic",
+  year         = 1992,
+  note         = "Manuscript"
+}
+
+@Article{Blute93tcs,
+  author       = "Richard Blute",
+  title        = "Linear Logic, Coherence and Dinaturality",
+  journal      = "Theoretical Computer Science",
+  year         = 1993,
+  volume       = 115,
+  pages        = "3--41"
+}
+
+@Article{Blute94jpaa,
+  author       = "Richard Blute and J. R. B. Cockett and R. A. G. Seely and
+		  T. H. Trimble",
+  title        = "Natural Deduction and Coherence for Weakly
+		  Distributive Categories",
+  year         = "to appear",
+  journal      = "Journal of Pure and Applied Algebra",
+  urlps        = "file://triples.math.mcgill.ca/pub/rags/nets/nets.ps.gz"
+}
+
+@InProceedings{Blute93mfps,
+  author       = "Richard Blute and Prakash Panangaden and R. A. G. Seely",
+  title        = "Holomorphic Models of Exponential types in Linear Logic",
+  booktitle    = "Proceedings of the Nineth International Conference on
+		  Mathematical Foundations of Programming Semantics",
+  address      = "New Orleans, Louisiana",
+  month        = apr,
+  year         = 1993,
+  pages        = "474--512",
+  editor       = "S. Brookes and M. Main and A. Melton and M. Mislove and
+		  D. Schmidt"
+}
+
+@Unpublished{Blute94misca,
+  author       = "Richard Blute and Prakash Panangaden and R. A. G. Seely",
+  title        = "{Fock} Space: A Model of Linear Exponential Types",
+  year         = 1994,
+  note         = "Manuscript, revised version of the MFPS paper above",
+  urlps        = "file://triples.math.mcgill.ca/pub/rags/fock/fock.ps.gz"
+}
+
+@Article{Blute94miscb,
+  author       = "Richard Blute",
+  title        = "{Hopf} Algebras and Linear Logic",
+  journal      = "Mathematical Structures in Computer Science",
+  year         = "to appear",
+  urlps        = "file://triples.math.mcgill.ca/pub/blute/hopf.ps"
+}
+
+@Article{Blute94mscs,
+  author       = "Richard Blute and J. R. B. Cockett and R. A. G. Seely",
+  title        = "{!} and {?} Storage as Tensorial Strength",
+  year         = "to appear",
+  journal      = "Mathematical Structures in Computer Science",
+  urlps        = "file://triples.math.mcgill.ca/pub/rags/bang/bang.ps.gz"
+}
+
+@Unpublished{Blute95,
+  author       = "Richard Blute  and  Philip J. Scott",
+  title        = "Linear {L}{\"a}uchli Semantics",
+  year         = 1995,
+  note         = "Manuscript",
+  urlps        = "ftp://theory.doc.ic.ac.uk/papers/Scott/lauchli.ps.Z",
+  url2         = "ftp://triples.math.mcgill.ca/pub/blute/lauchli.ps.Z",
+  url2         = "ftp://ftp.csi.uottawa.ca/pub/papers/PhilScott/lauchli.ps.Z"
+}
+
+@Unpublished{Blute96a,
+  author       = "Richard Blute and J. R. B. Cockett and R. A. G. Seely",
+  title        = "Categories for Computation in Context and Unified Logic",
+  note         = "Manuscript",
+  year         = 1996,
+  urlps        = "ftp://triples.math.mcgill.ca/pub/rags/bang/context1.ps.gz",
+  urldvi       = "ftp://triples.math.mcgill.ca/pub/rags/bang/context1.dvi.gz"
+}
+
+@Unpublished{Blute96b,
+  author       = "Richard Blute  and  Philip J. Scott",
+  title        = "The Shuffle {Hopf} Algebra and Noncommutative Full
+		  Completeness",
+  note         = "Manuscript",
+  year         = 1996,
+  urlps        = "ftp://triples.math.mcgill.ca/pub/blute/shuf.ps.gz"
+}
+
+@Article{Bollen91,
+  author       = "A. W. Bollen",
+  title        = "Relevant Logic Programming",
+  journal      = "Journal of Automated Reasoning",
+  year         = 1990,
+  volume       = 7,
+  number       = 4,
+  pages        = "563--586",
+  month        = dec
+}
+
+@Unpublished{Boudol93misc,
+  author       = "G. Boudol",
+  title        = "The Lambda-Calculus with Multiplicities",
+  howpublished = "Preliminary report, INRIA-Sophia Antipolis",
+  year         = 1993,
+  note         = "Manuscript"
+}
+
+@TechReport{Boudol93tr,
+  author       = "G. Boudol",
+  title        = "Some Chemical Abstract Machines",
+  institution  = "INRIA-Sophia Antipolis",
+  year         = 1993,
+  number       = "BP 93"
+}
+
+@InProceedings{Brauner94icalp,
+  author       = "Torben Bra{\"u}ner",
+  title        = "A Model of Intuitionistic Affine Logic from Stable
+		  Domain Theory",
+  editor       = "S. Abiteboul and E. Shamir",
+  pages        = "340--351",
+  booktitle    = "Proceedings of the 21st International Colloquium on
+		  Automata, Languages, and Programming",
+  year         = 1994,
+  publisher    = "Springer Verlag, LNCS 820",
+  address      = "Jerusalem, Israel",
+  month        = jul,
+  note         = "Short version as Technical Report BRICS-RS-94-27,
+		  BRICS, Aarhus, Danemark",
+  urlps        = "http://www.brics.dk/RS/94/27/BRICS-RS-94-27.ps.gz",
+  urldvi       = "http://www.brics.dk/RS/94/27/BRICS-RS-94-27.dvi.gz"
+}
+
+@InProceedings{Brauner94csl,
+  author       = "Torben Bra{\"u}ner",
+  title        = "The {G}irard Translation Extended with Recursion",
+  editor       = "L. Pacholski and J. Tiuryn",
+  pages        = "31--45",
+  booktitle    = "Proceedings of the 1994 Annual Conference of the
+		  European Association for Computer Science Logic",
+  year         = 1994,
+  publisher    = "Springer Verlag, LNCS 933",
+  address      = "Kazimierz, Poland",
+  month        = sep,
+  note         = "Short version as Technical Report BRICS-RS-95-13,
+		  BRICS, Aarhus, Danemark",
+  urlps        = "http://www.brics.dk/RS/95/13/BRICS-RS-95-13.ps.gz",
+  urldvi       = "http://www.brics.dk/RS/95/13/BRICS-RS-95-13.dvi.gz"
+}
+
+@TechReport{Brauener96tr,
+  author       = "Torben Bra{\"u}ner and Valeria de Paiva",
+  title        = "Cut-Elimination for Full Intuitionistic Linear Logic",
+  institution  = "BRICS, Aarhus, Danemark",
+  year         = 1996,
+  number       = "BRICS-RS-96-10",
+  note         = "Also available as Technical Report 395, Computer
+		  Laboratory, University of Cambridge",
+  urlps        = "http://www.brics.dk/RS/96/10/BRICS-RS-96-10.ps.gz",
+  urldvi       = "http://www.brics.dk/RS/96/10/BRICS-RS-96-10.dvi.gz"
+}
+
+@PhdThesis{Brauner96phd,
+  author       = "Torben Bra{\"u}ner",
+  title        = "An Axiomatic Approach to Adequacy",
+  school       = "BRICS, Aarhus, Danemark",
+  year         = 1996,
+  month        = nov,
+  note         = "Also available as Technical Report BRICS-DS-96-4,
+		  BRICS, Aarhus, Danemark",
+  urlps        = "http://www.brics.dk/DS/96/4/BRICS-DS-96-4.ps.gz",
+  urldvi       = "http://www.brics.dk/DS/96/4/BRICS-DS-96-4.pdf"
+}
+
+@Article{Brauner97tcs,
+  author       = "Torben Bra{\"u}ner",
+  title        = "A General Adequacy Result for a Linear Functional Language",
+  journal      = "Theoretical Computer Science",
+  year         = "To appear",
+  urlps        = "http://www.brics.dk/~tor/MFPS94paper.ps.gz"
+}
+
+@InProceedings{Brauner97tlca,
+  author       = "Torben Bra{\"u}ner",
+  title        = "A Simple Adequate Categorical Model for {PCF}",
+  editor       = "R. Hindley",
+  booktitle    = "Proceedings of the 3rd International Converence on
+		  Typed Lambda Calculi and Applications",
+  year         = 1997,
+  address      = "Nancy, France",
+  note         = "To appear"
+}
+
+@TechReport{Brown89,
+  author       = "C. Brown",
+  title        = "Relating {P}etri Nets to Formulas of Linear Logic",
+  institution  = "University of Edinburgh",
+  year         = 1989,
+  number       = "??"
+}
+
+@Inproceedings{Brown90lics,
+  author       = "C. Brown and D. Gurr",
+  title        = "A Categorical Linear Framework for {P}etri Nets",
+  booktitle    = "Proceedings of the Sixth Annual Symposium on Logic
+		  in Computer Science",
+  year         = 1990,
+  pages        = "208--219",
+  publisher    = "IEEE Computer Society Press",
+  address      = "Philadelphia, Pennsylvania",
+  month	       = jun
+}
+
+@Phdthesis{Brown90phd,
+  author       = "C. Brown",
+  title        = "Linear Logic and {P}etri Nets: Categories, Algebra
+		  and Proof",
+  school       = "University of Edinburgh",
+  year         = 1990
+}
+
+@Unpublished{Brown90un,
+  author       = "C. Brown",
+  title        = "Linear Logic, {P}etri Nets and Quantales",
+  note         = "Manuscript",
+  month        = mar,
+  year         = 1990
+}
+
+@Article{Brown91jpaa,
+  author       = "C. Brown and D. Gurr",
+  title        = "A Representation Theorem for Quantales",
+  journal      = "Journal of Pure and Applied Algebra",
+  year         = 1993,
+  volume       = 85,
+  pages        = "27--42"
+}
+
+@Techreport{Brown91tra,
+  author       = "C. Brown and D. Gurr and Valeria de Paiva",
+  title        = "A Linear Specification Language for {P}etri Nets",
+  institution  = "Computer Science Department, Aarhus University",
+  year         = 1991,
+  number       = "DAIMI PB-363",
+  month        = oct
+}
+
+@Techreport{Brown91trb,
+  author       = "C. Brown and D. Gurr",
+  title        = "Relations and Non-Commutative Linear Logic",
+  institution  = "Computer Science Department, Aarhus University",
+  year         = 1991,
+  number       = "DAIMI PB-372",
+  month        = nov
+}
+
+@Unpublished{Bucalo93,
+  author       = "A. Bucalo",
+  title        = "Modalities in linear logic weaker than the
+		  exponential `of-course': Algebraic and relational
+		  semantics",
+  note         = "Manuscript",
+  year         = 1993
+}
+
+@TechReport{Castellani94,
+  author       = "S. Castellani and Paolo Ciancarini",
+  title        = "Comparative Semantics of {LO}",
+  institution  = "University of Bologna",
+  year         = 1994,
+  number       = "UBLCS-94-7",
+  month        = apr,
+  urlps        = "file://ftp.cs.unibi.it/pub/TR//UBLCS/SemanticsOFLO.ps.gz"
+}
+
+@Inproceedings{Cerrito90,
+  author       = "Serenella Cerrito",
+  title        = "A Linear Semantics for Allowed Logic Programs",
+  booktitle    = "Proceedings of the Fifth Symposium on Logic in Computer
+		  Science",
+  publisher    = "IEEE Computer Society Press",
+  address      = "Philadelphia, Pennsylvania",
+  month        = jun,
+  year         = 1990,
+  pages        = "219--227"
+}
+
+@InCollection{Cerrito92book,
+  author       = "Serenella Cerrito",
+  title        = "Negation and linear completion",
+  booktitle    = "Intensional Logic for Programming",
+  publisher    = "Clarendon Press",
+  year         = 1992,
+  pages        = "155--194",
+  editor       = "L. Fari{\~n}as del Cerro and M. Penttonen"
+}
+
+@Article{Cerrito92jlp,
+  author       = "Serenella Cerrito",
+  title        = "A Linear Axiomatization of Negation as Failure",
+  journal      = "Journal of Logic Programming",
+  year         = 1992,
+  volume       = 12,
+  pages        = "1--24"
+}
+
+@InProceedings{Cervesato94,
+  author       = "Iliano Cervesato",
+  title        = "Lollipops taste of Vanilla too",
+  editor       = "A. Momigliano and M. Ornaghi",
+  booktitle    = "Proof-Theoretical Extensions of Logic Programming",
+  year         = 1994,
+  month        = jun,
+  address      = "Santa Margherita Ligure, Italy",
+  pages        = "60--66",
+  note         = "Post-Conference Workshop for ICLP '94"
+}
+
+@PhdThesis{Cervesato96phd,
+  author       = "Iliano Cervesato",
+  title        = "A Linear Logical Framework",
+  school       = "Dipartimento di Informatica, Universit{\`a} di Torino",
+  year         = 1996,
+  month        = "16 October",
+  url          = "http://www.stanford.edu/~iliano/papers/thesis_to.ps.gz"
+}
+
+@InProceedings{Cervesato96elp,
+  author       = "Iliano Cervesato and Joshua S. Hodas and Frank Pfenning",
+  title        = "Efficient Resource Management for Linear Logic Proof Search",
+  editor       = "R. Dyckhoff and H. Herre and P. Schroeder-Heister",
+  booktitle    = "Proceedings of the Fifth International Workshop on Extensions
+		  of Logic Programming --- ELP'96",
+  year         = 1996,
+  pages        = "67--81",
+  publisher    = "Springer-Verlag LNAI 1050",
+  address      = "Leipzig, Germany",
+  month        = "28--30 March",
+  url          = "http://www.cs.cmu.edu/~iliano/papers/elp96.ps.gz"
+}
+
+@InProceedings{Cervesato96lics,
+  author       = "Iliano Cervesato and Frank Pfenning",
+  title        = "A Linear Logical Framework",
+  editor       = "E. Clarke",
+  booktitle    = "Proceedings of the Eleventh Annual Symposium on Logic in
+                  Computer Science --- LICS'96",
+  year         = 1996,
+  publisher    = "IEEE Computer Society Press",
+  address      = "New Brunswick, New Jersey",
+  month        = "27--30 July",
+  pages        = "264--275",
+  note         = "This work also appeared as Preprint 1834 of the
+		  Department of Mathematics of Technical University of
+		  Darmstadt, Germany", 
+  url          = "http://www.cs.cmu.edu/~iliano/papers/lics96.ps.gz"
+}
+
+@InProceedings{Cervesato97lics,
+  author       = "Iliano Cervesato and Frank Pfenning",
+  title        = "Linear Higher-Order Pre-Unification",
+  editor       = "G. Winskel",
+  booktitle    = "Twelfth Annual Symposium on Logic in Computer
+		  Science --- LICS'97",
+  year         = 1997,
+  publisher    = "IEEE Computer Society Press",
+  address      = "Warsaw, Poland",
+  month        = "29 June -- 2 July",
+  pages        = "422--433",
+  url          = "http://www.stanford.edu/~iliano/papers/lics97.ps.gz"
+}
+
+@TechReport{Cervesato97tra,
+  author       = "Iliano Cervesato and Frank Pfenning",
+  title        = "A Linear Spine Calculus",
+  institution  = "Department of Computer Science, Carnegie Mellon University",
+  year         = 1997,
+  number       = "CMU-CS-97-125",
+  address      = "Pittsburgh, PA",
+  month        = apr,
+  url          = "http://www.stanford.edu/~iliano/papers/cmu-cs-97-125.ps.gz"
+}
+
+@InProceedings{Cervesato96pstt,
+  author       = "Iliano Cervesato and Frank Pfenning",
+  title        = "Linear Higher-Order Pre-Unification",
+  editor       = "D. Galmiche",
+  booktitle    = "Proceedings of the International Workshop on
+		  Proof-Search in Type-Theoretic Languages",
+  year         = 1996,
+  address      = "New Brunswick, NJ",
+  month        = "30 july",
+  pages        = "41--50",
+  url          = "http://www.cs.cmu.edu/user/~iliano/papers/pstt96.ps.gz"
+}
+
+@TechReport{Cervesato97trb,
+  author       = "Iliano Cervesato and Frank Pfenning",
+  title        = "Linear Higher-Order Pre-Unification",
+  institution  = "Department of Computer Science, Carnegie Mellon University",
+  year         = 1997,
+  number       = "CMU-CS-97-160",
+  address      = "Pittsburgh, PA",
+  month        = jul,
+  url          = "http://www.stanford.edu/~iliano/papers/cmu-cs-97-160.ps.gz",
+  note         = "Extended version of~\cite{Cervesato97lics}"
+}
+
+@InProceedings{Cervesato98jicslp,
+  author       = "Iliano Cervesato",
+  title        = "Proof-Theoretic Foundation of Compilation in Logic
+                  Programming Languages",
+  pages        = "115--129",
+  editor       = "J. Jaffar",
+  booktitle    = "Proceedings of the  1998 Joint International Conference and
+                  Symposium on Logic Programming --- JICSLP'98",
+  year         = 1998,
+  publisher    = "MIT Press",
+  address      = "Manchester, UK",
+  month        = "16--19 June",
+  url          = "http://www.stanford.edu/~iliano/papers/jicslp98.ps.gz"
+}
+
+@InProceedings{Chau93,
+  author       = "H. Chau",
+  title        = "A Proof Search System for a Modal Substructural
+		  Logic Based On Labelled Deductive Systems",
+  editor       = "A. Voronkov",
+  booktitle    = "Proceedings of the Conference on Logic Programming and
+		  Automated Reasoning",
+  pages        = "64--75",
+  year         = 1992,
+  publisher    = "Springer-Verlag LNAI 624",
+  note         = "Extended abstract available as Technical Report DOC
+		  93/1, Imperial College, London",
+}
+
+@PhdThesis{Chirimar95phd,
+  author       = "Jawahar L. Chirimar",
+  title        = "Proof Theoretic Approach to Specification Languages",
+  school       = "Department of Computer and Information Science,
+		  University of Pennsylvania",
+  year         = 1995,
+  urlps        = "file://ftp.cis.upenn.edu/pub/papers/chirimar/phd.ps.gz"
+}
+
+@Inproceedings{Chirimar92cade,
+  author       = "Jawahar L. Chirimar and Carl A. Gunter and M. van Inwegen",
+  title        = "Xpnet: A Graphical Interface to Proof Nets with an
+		  Efficient Proof Checker",
+  booktitle    = "Proceedings of the 11th International Conference on
+		  Automated Deduction",
+  month        = jun,
+  year         = 1992,
+  editor       = "D. Kapur",
+  pages        = "711--715",
+  publisher    = "Springer-Verlag LNAI 607"
+}
+
+@Article{Chirimar92lfp,
+  author       = "Jawahar L. Chirimar and  Carl A. Gunter and Jon G. Riecke",
+  title        = "Proving Memory Management Invariants for a Language Based on
+		  Linear Logic",
+  journal      = "Lisp and Functional Programming",
+  year         = 1992,
+  pages        = "139--150",
+  publisher    = "ACM Press",
+  address      = "San Francisco, California",
+  urlps        = "file://research.att.com/dist/riecke/linear-logic-lfp.ps.gz",
+  url2         = "file://ftp.cis.upenn.edu/pub/riecke/lfp92-tr.ps.Z"
+}
+
+@Article{Chirimar93,
+  author       = "Jawahar L. Chirimar and  Carl A. Gunter and  Jon G. Riecke",
+  title        = "Reference Counting as a Computational Interpretation of
+		  Linear Logic",
+  journal      = "Journal of Functional Programming",
+  year         = "to appear",
+  urlps        = "file://research.att.com/dist/riecke/linear-logic-journal.ps.gz"
+}
+
+@InProceedings{Chirimar92csl,
+  author       = "Jawahar L. Chirimar and  James Lipton",
+  title        = "Probability in {TBLL}: A decision procedure",
+  editor       = "E. B{\"o}rger and G. J{\"a}ger and H. K. B{\"u}nig
+		  and M. M. Richter",
+  pages        = "341--356",
+  booktitle    = "Proceedings of the Fifth Workshop on Computer
+		  Science Logic",
+  year         = 1991,
+  publisher    = "Springer-Verlag LNCS 626",
+  address      = "Berne, Switzerland",
+  month        = oct
+}
+
+@Article{Cockett94,
+  author       = "J. R. B. Cockett and R. A. G. Seely",
+  title        = "Weakly Distributive Categories",
+  year         = "to appear",
+  journal      = "Journal of Pure and Applied Algebra",
+  urlps        = "file://triples.math.mcgill.ca/pub/rags/wk_dist_cat/wdc.ps.gz"
+}
+
+@Unpublished{Cockett96,
+  author       = "J. R. B. Cockett and R. A. G. Seely",
+  title        = "Proof Theory for Full Intuitionistic Linear Logic,
+                  Bilinear Logic, and {MIX} Categories",
+  note         = "Manuscript",
+  year         = 1996,
+  urlps        = "ftp://triples.math.mcgill.ca/pub/rags/nets/fill.ps.gz",
+  urldvi       = "ftp://triples.math.mcgill.ca/pub/rags/nets/fill.dvi.gz"
+}
+
+@Unpublished{Coniglio95,
+  author       = "M. Coniglio and F. Miraglia",
+  title        = "Equality in Linear Logic",
+  note         = "Manuscript",
+  year         = 1995
+}
+
+@Article{Dagostino94jar,
+  author       = "Marcello D'Agostino and Dov M. Gabbay",
+  title        = "A generalization of Analytic Deduction via Labelled
+		  Deductive Systems {I}: Basic Substructural Logics",
+  journal      = "Journal of Automated Reasoning",
+  volume       = 13,
+  year         = 1994,
+  pages        = "243--281"
+}
+
+@InProceedings{Dagostino96tableaux,
+  author       = "M. D'Agostino and Dov M. Gabbay",
+  title        = "Fibred Tableaux for Multi-Implication Logics",
+  editor       = "P. Miglioli and U. Moscato and D. Mundici and M. Ornaghi",
+  pages        = "1--35",
+  booktitle    =  "TABLEAUX '96. Proceedings of the 
+                  5th International Workshop on 
+                  Theorem Proving with Analytic Tableaux and 
+                  Related Methods",
+  year         = 1996,
+  publisher    = "Springer-Verlag LNAI 1071"
+}
+
+@Unpublished{Dagostino97sl,
+  author       = "Marcello D'Agostino and Dov M. Gabbay and Alessandra
+		  Russo",
+  title        = "Grafting Modalities onto Substructural Implication
+		  Logics",
+  year         = 1997,
+  note         = "To appear in {\em Studia Logica}, special issue on
+		  ``Combining Logics'', n. 4 and 5,  1997"
+}
+
+@Article{Dam94,
+  author       = "Mads Dam",
+  title        = "Process-algebraic interpretation of positive linear
+		  and relevant logics",
+  journal      = "Journal of Logic and Computation",
+  year         = 1994,
+  volume       = 4,
+  number       = 6,
+  pages        = "939--973"
+}
+
+@Article{Danos89amalo,
+  author       = "Vincent Danos and Laurent Regnier",
+  title        = "The Structure of Multiplicatives",
+  journal      = "Archive for Mathematical Logic",
+  year         = 1989,
+  volume       = 28,
+  pages        = "181--203"
+}
+
+@Article{Danos89gaz,
+  author       = "Vincent Danos",
+  title        = "Logique lin{\'e}aire: Une Repr{\'e}sentation
+		  alg{\'e}brique du Calcul",
+  journal      = "Gazette des Math{\'e}maticiens (Societ{\'e}
+		  Math{\'e}matique de France)",
+  year         = 1989,
+  volume       = 41,
+  pages        = "55--64"
+}
+
+@Phdthesis{Danos90phd,
+  author       = "Vincent Danos",
+  title        = "La Logique Lin{\'e}aire Appliqu{\'e}e {\`a}
+		  l'{\'e}tude de Divers Processus de Normalisation
+		  (Principalement du $\lambda$-Calcul)",
+  school       = "University of Paris {VII}",
+  year         = 1990,
+  month        = jun
+}
+
+@Techreport{Danos90tr,
+  author       = "Vincent Danos",
+  title        = "Lambda-calculus and its dynamic algebra {I}: basic results",
+  institution  = "{\'E}quipe de Logique Math{\'e}matique,
+		  University of Paris {VII}",
+  year         = 1990,
+  type         = "Preprint",
+  number       = 7,
+  month        = feb
+}
+
+@InProceedings{Danos93,
+  author       = "Vincent Danos and  Jean-Baptiste Joinet and  Harold Schellinx",
+  title        = "The Structure of Exponentials: Uncovering the dynamics of
+		  Linear Logic proofs",
+  booktitle    = "Proceedings of the Third Kurt G{\"o}del Colloquium on
+		  Computational Logic and Proof Theory",
+  year         = 1993,
+  month        = aug,
+  pages        = "159--171",
+  editor       = "G. Gottlob and A. Leitsch and D. Mundici",
+  publisher    = "Springer-Verlag LNCS 348",
+  address      = "Brno, Czech Republic",
+  urlps        = "file://gentzen.logique.jussieu.fr/pub/scratch/DJS/super.ps.Z"
+}
+
+@InCollection{Danos93ll,
+  author       = "Vincent Danos and Jean-Baptiste Joinet and Harold Schellinx",
+  title        = "Sequent Calculi for Second Order Logic",
+  booktitle    = "Advances in Linear Logic",
+  editor       = "J.-Y. Girard and Y. Lafont and L. Regnier",
+  year         = 1995,
+  pages        = "211--224",
+  publisher    = "Cambridge University Press",
+  note         = "Proceedings of the Workshop on Linear Logic, Ithaca,
+		  New York, June 1993",
+  urlps        = "file://gentzen.logique.jussieu.fr/pub/scratch/DJS/lktlkq.ps.Z"
+}
+
+@InProceedings{Danos95aml,
+  author       = "Vincent Danos and Jean-Baptiste Joinet and  Harold Schellinx",
+  title        = "On the Linear Decoration of Intuitionistic Derivations",
+  booktitle    = "Archive for Mathematical Logic",
+  pages        = "387--412",
+  volume       = 33,
+  year         = 1995,
+  urlps        = "file://gentzen.logique.jussieu.fr/pub/scratch/DJS/otldoid.ps.Z"
+}
+
+@TechReport{Danos94misca,
+  author       = "Vincent Danos and Jean-Baptiste Joinet and Harold Schellinx",
+  title        = "A new deconstructive logic: linear logic",
+  year         = 1994,
+  institution  = "{\'E}quipe de Logique Math{\'e}matique,
+		  University of Paris {VII}",
+  type         = "Preprint",
+  number       = 52,
+  urlps        = "file://gentzen.logique.jussieu.fr/pub/scratch/DJS/decostringopolaro.ps.Z"
+}
+
+@Unpublished{Danos94miscb,
+  author       = "Vincent Danos and Jean-Baptiste Joinet and Harold Schellinx",
+  title        = "{LKT} and $\lambda\mu$-calculus",
+  year         = 1993,
+  note         = "Manuscript"
+}
+
+@InCollection{Danos94wll,
+  author       = "Vincent Danos and Laurent Regnier",
+  title        = "Proof-nets and {H}ilbert space",
+  booktitle    = "Advances in Linear Logic",
+  editor       = "J.-Y. Girard and Y. Lafont and L. Regnier",
+  year         = 1995,
+  pages        = "307--328",
+  publisher    = "Cambridge University Press",
+  note         = "Proceedings of the Workshop on Linear Logic, Ithaca,
+		  New York, June 1993",
+  urlps        = "ftp://lmd.univ-mrs.fr/pub/regnier/pnh.ps.Z"
+}
+
+@Unpublished{Danos95misca,
+  author       = "Vincent Danos and Laurent Regnier",
+  title        = "Reversible and Irreversible Computations ",
+  note         = "Manuscript",
+  year         = 1995,
+  urldvi       = "file://boole.logique.jussieu.fr/pub/distrib/danos/revirrev.dvi.Z"
+}
+
+@Article{Dardzhania77,
+  author       = "G. K. Dardzhania",
+  title        = "Intuitionistic System without Contraction",
+  journal      = "Polish Academy of Science, Institute of Philosophy
+		  and Sociology, Bulletin of the Section of Logic",
+  year         = 1977,
+  volume       = 6,
+  pages        = "2--8"
+}
+
+@InProceedings{DeGroote95,
+  author       = "Philippe de Groote",
+  title        = "Linear Logic with Isabelle : pruning the Proof
+		  Search Tree",
+  editor       =  "A. Bundy",
+  booktitle    = "Automated deduction, CADE-12 : 12th International
+		  Conference on Automated Deduction",
+  year         = 1995,
+  publisher    = "Springer-Verlag LNCS 814",
+  address      = "Nancy, France",
+  month        = "June/July"
+}
+
+@InProceedings{DeGroote96,
+  author       = "Philippe de Groote",
+  title        = "Partially Commutative Linear Logic: Sequent Calculus 
+		  and Phase Semantics",
+  editor       = "V. M. Abrusci and C. Casadio",
+  pages        = "199-208",
+  booktitle    = "Proofs and Linguistic Categories, Application of
+		  Logic to the Analysis and Implementation of Natural
+		  Language",
+  year         = 1996,
+  publisher    = "Cooperativa Libraria Universitaria Editrice Bologna",
+  address      = "Roma",
+  urlps        = "http://www.loria.fr/~degroote/papers/roma96.ps"
+}
+
+@TechReport{Demaille97a,
+  author       = "Akim Demaille",
+  title        = "Yet Another Mixed Linear Logic",
+  year         = "1997",
+  number       = "98 INF 001",
+  institution  = "\'Ecole Nationale Sup\'erieure des T\'el\'ecommunications",
+  urldvi       = "http://www.inf.enst.fr/~demaille/papers/mcll.dvi.gz",
+  urlps        = "http://www.inf.enst.fr/~demaille/papers/mcll.ps.gz",
+  note         = "Available on 
+		  \texttt{http://www.inf.enst.fr/\~{}demaille/papers}."
+}
+
+@TechReport{Demaille97b,
+  author       = "Akim Demaille",
+  title        = "Yet Another Mixed Intuitionistic Linear Logic",
+  year         = 1997,
+  number       = "98 INF 002",
+  institution  = "\'Ecole Nationale Sup\'erieure des T\'el\'ecommunications",
+  urldvi       = "http://www.inf.enst.fr/~demaille/papers/mcll.dvi.gz",
+  urlps        = "http://www.inf.enst.fr/~demaille/papers/mcll.ps.gz",
+  note         = "Available on 
+		  \texttt{http://www.inf.enst.fr/\~{}demaille/papers}."
+}
+
+@TechReport{Demaille98a,
+  author       = "Akim Demaille",
+  title        = "Still Other Mixed Linear Logics, First Version",
+  year         = 1998,
+  number       = "98 D 002",
+  institution  = "\'Ecole Nationale Sup\'erieure des T\'el\'ecommunications"
+}
+
+@TechReport{Demaille98b,
+  author       = "Akim Demaille",
+  title        = "Still Other Mixed Linear Logics, Second version",
+  year         = 1998,
+  institution  = "\'Ecole Nationale Sup\'erieure des T\'el\'ecommunications",
+  urldvi       = "http://www.inf.enst.fr/~demaille/papers/smoll.dvi.gz",
+  urlps        = "http://www.inf.enst.fr/~demaille/papers/smoll.ps.gz",
+  note         = "Available on 
+		  \texttt{http://www.inf.enst.fr/\~{}demaille/papers}."
+}
+
+@Inproceedings{DePaiva89a,
+  author       = "Valeria de Paiva",
+  title        = "The {D}ialectica Categories",
+  booktitle    = "Proceedings of the Conference on Categories in Computer
+		  Science and Logic",
+  year         = 1989,
+  editor       = "J. W. Gray  and A. Scedrov",
+  pages        = "47--62",
+  publisher    = "American Mathematical Society",
+  note         = "AMS-IMS-SIAM Joint Summer Research
+		  Conference, June 14--20, 1987, Boulder, Colorado;
+		  Contemporary Mathematics Volume 92"
+}
+
+@Inproceedings{DePaiva89b,
+  author       = "Valeria de Paiva",
+  title        = "A {D}ialectica-like Model of Linear Logic",
+  booktitle    = "Proceeding of the Conference Category Theory and Computer
+		  Science", 
+  address      = "Manchester, United Kingdom",
+  pages        = "341--356",
+  year         = 1989,
+  editor       = "P. Dybjer and A. M. Pitts and D. H. Pitt and
+		  A. Poign{\'e} and D. E. Rydeheard",
+  publisher    = "Springer-Verlag LNCS 389",
+  month        = sep
+}
+
+@Techreport{DePaiva91tr,
+  author       = "Valeria de Paiva",
+  title        = "The {D}ialectica Categories",
+  institution  = "University of Cambridge, Computer Laboratory",
+  year         = 1991,
+  type         = "Technical Report",
+  number       = 213,
+  month        = jan,
+  note         = "Slightly revised version of PhD thesis"
+}
+
+@Unpublished{DePaiva91un,
+  author       = "Valeria de Paiva",
+  title        = "Categorical Multirelations, Linear Logic and {P}etri Nets",
+  note         = "Manuscript",
+  year         = 1991,
+  month        = may
+}
+
+@Article{Dosen91jpl,
+  author       = "Kostas Do{\v{s}}en",
+  title        = "Modal Translations in Substructural Logics",
+  journal      = "Journal of Philosophical Logic",
+  volume       = 21,
+  pages        = "283--336",
+  year         = 1992,
+  publisher    = "Kluwer Academic Publishers"
+}
+
+@Article{Dosen91tcs,
+  author       = "Kostas Do{\v{s}}en",
+  title        = "Non-modal Classical Linear Predicate Logic is a
+		  Fragment of Intuitionistic Linear Predicate Logic",
+  journal      = "Theoretical Computer Science",
+  year         = 1992,
+  volume       = 102,
+  pages        = "207--214",
+  note         = "Also in Colloquium on Modal Logic, a selection of
+		  papers presented at the Seminar on Intensional
+		  Logic, October 1990 - May 1991, M. de Rijke editor"
+}
+
+@Article{Dosen92,
+  author       = "Kostas Do{\v{s}}en",
+  title        = "The first axiomatization of relevant logic",
+  journal      = "Journal of Philosophical Logic",
+  year         = 1992,
+  volume       = 21,
+  pages        = "337--354"
+}
+
+@InCollection{Dunn86,
+  author       = "Jon M. Dunn",
+  title        = "Relevance Logic and Entailment",
+  booktitle    = "Handbook of Philosophical Logic",
+  publisher    = "Reidel Publication Company",
+  year         = 1986,
+  editor       = "D. Gabbay and F. G{\"u}nter",
+  volume       = "{III}",
+  pages        = "117--224"
+}
+
+@Article{Dyckhoff90,
+  author       = "Roy Dyckhoff",
+  title        = "Contraction-Free Sequent Calculi for Intuitionistic
+		  Logic",
+  journal      = "Journal of Symbolic Logic",
+  year         = 1992,
+  volume       = 57,
+  number       = 3,
+  month        = sep,
+  pages        = "795--807"
+}
+
+@InCollection{Ehrhard94,
+  author       = "T. Ehrhard",
+  title        = "Hypercoherence: A Strongly Stable Model of Linear Logic",
+  booktitle    = "Advances in Linear Logic",
+  editor       = "J.-Y. Girard and Y. Lafont and L. Regnier",
+  year         = 1995,
+  pages        = "83--108",
+  publisher    = "Cambridge University Press",
+  note         = "Proceedings of the Workshop on Linear Logic, Ithaca,
+		  New York, June 1993"
+}
+
+@Article{ElvangGoransson91,
+  author       = "M. Elvang-G{\o}ransson and Hermann R. Jervell and E.
+		  Monteiro and A. Waaler",
+  title        = "Propositional Linear Logic: Wiring Semantics",
+  journal      = "Information Processing Letters",
+  year         = "1991",
+  month        = may,
+  note         = "To appear??"
+}
+
+@Unpublished{Emms95,
+  author       = "Martin Emms",
+  title        = "An undecidibility result for polymorphic Lambek
+		  Calculus",
+  note         = "Manuscript",
+  year         = 1995,
+  urldvi       = "ftp.cis.uni-muenchen.de/pub/incoming/emms/deci.dvi.Z"
+}
+
+@Inproceedings{Engberg90,
+  author       = "U. Engberg and G. Winskel",
+  title        = "{P}etri Nets as Models of Linear Logic",
+  booktitle    = "Proceedings of  Colloquium on Trees in Algebra and
+		  Programming",
+  address      = "Copenhagen, Denmark",
+  year         = 1990,
+  editor       = "A. Arnold",
+  pages        = "147--161",
+  publisher    = "Springer-Verlag LNCS 389"
+}
+
+@InProceedings{Engberg93,
+  author       = "U. Engberg and G. Winskel",
+  title        = "Completeness Results for Linear Logic on {Petri} Nets",
+  editor       = "A. Borzyszkowski and S. Sokolowski",
+  pages        = "442--452",
+  booktitle    = "Proceedings of the Conference on Mathematical Foundations of
+		  Computer Science",
+  year         = 1993,
+  publisher    = "Springer-Verlag LNCS 711",
+  address      = "Gda{\'n}sk, Poland",
+  note         = "Full version is DAIMI PB, January 1993"
+}
+
+@Unpublished{Ferrari94,
+  author       = "Gianluigi Ferrari and U. Montanari",
+  title        = "Typed Additive Concurrency",
+  note         = "Unpublished",
+  year         = 1994
+}
+
+@InProceedings{Filinski92,
+  author       = "Andrzej Filinski",
+  title        = "Linear Continuations",
+  booktitle    = "Conference Record of the Nineteenth Annual Symposium on
+		  Principles of Programming Languages",
+  address      = "Albuquerque, New Mexico",
+  month        = jan,
+  year         = 1992,
+  publisher    = "ACM Press",
+  pages        = "27--38",
+  urlps        = "http://www.cs.cmu.edu/afs/cs.cmu.edu/user/andrzej/pub/LC.ps.Z",
+  urldvi       = "http://www.cs.cmu.edu/afs/cs.cmu.edu/user/andrzej/pub/LC.dvi"
+}
+
+@Unpublished{Fleury88,
+  author       = "A. Fleury and Christian R{\'e}tor{\'e}",
+  title        = "Logique Lin{\'e}aire: R{\'e}seaux du Fragment
+		  Multiplicatif avec \'El{\'e}ments Neutres",
+  note         = "Preprint, University of Paris {VII}",
+  year         = 1988,
+  month        = apr
+}
+
+@TechReport{Fleury90,
+  author       = "A. Fleury and Christian R{\'e}tor{\'e}",
+  title        = "The {MIX} rule: A proof-net syntax for
+		  multiplicatives, their units and (A x B) -o (A @ B)",
+  institution  = "{\'E}quipe de Logique Math{\'e}matique, University
+		  of Paris VII",
+  year         = 1990,
+  type         = "Preprint",
+  number       = 11
+}
+
+@Article{Fouquere94,
+  author       = "C. Fouquer{\'e} and J. Vauzeilles",
+  title        = "Linear Logic and Exceptions",
+  year         = 1994,
+  journal      = "Journal of Logic and Computation",
+  volume       = 4,
+  number       = 6,
+  pages        = "860--875"
+}
+
+@InCollection{Fouquere94wll,
+  author       = "C. Fouquer{\'e} and J. Vauzeilles",
+  title        = "Inheritance with Exceptions",
+  booktitle    = "Advances in Linear Logic",
+  editor       = "J.-Y. Girard and Y. Lafont and L. Regnier",
+  pages        = "167--196",
+  year         = 1995,
+  publisher    = "Cambridge University Press",
+  note         = "Proceedings of the Workshop on Linear Logic, Ithaca,
+		  New York, June 1993"
+}
+
+@Article{Fronhoefer87,
+  author       = "B. Fronh{\"o}fer",
+  title        = "Linearity and Plan Generation",
+  journal      = "New Generation Computing",
+  year         = 1987,
+  volume       = 5,
+  pages        = "213--225"
+}
+
+@InProceedings{Fronhoefer92,
+  author       = "B. Fronh{\"o}fer",
+  title        = "Linear Proofs and Linear Logic",
+  editor       = "D. Pearce and G. Wagner",
+  pages        = "106--125",
+  booktitle    = "Logic in AI: European Workshop JELIA'92",
+  year         = 1992,
+  month        = sep,
+  publisher    = "Springer-Verlag LNAI 633",
+  address      = "Berlin, Germany"
+}
+
+@Article{Gabbay92,
+  author       = "Dov M. Gabbay and Ruy J. G. B. de Queiroz",
+  title        = "Extending the {Curry-Howard} Interpretation to Linear,
+		  Relevant and Other Resource Logics",
+  journal      = "Journal of Symbolic Logic",
+  year         = 1992,
+  volume       = 57,
+  number       = 4,
+  pages        = "1319--1365",
+  month        = dec
+}
+
+@InProceedings{Gabbay90,
+  author       = "Dov M. Gabbay",
+  title        = "Algorithmic Proofs with Diminishing Resources, Part {I}",
+  editor       = "E. B{\"o}rger",
+  booktitle    = "Proceedings of the Fourth Workshop on Computer Science
+		  Logic",
+  address      = "Heidelberg, Germany",
+  month        = oct,
+  year         = 1990,
+  publisher    = "Springer-Verlag LNCS 533",
+  pages        = "156--173"
+}
+
+@Techreport{Gallier91,
+  author       = "Jean Gallier",
+  title        = "Constructive Logics. {P}art {II}: Linear Logic and
+		  Proof Nets",
+  institution  = "Digital Equipment Corporation, Paris",
+  type         = "Research Report",
+  number       = "PR2-RR-9",
+  year         = 1991,
+  urldvi       = "file://ftp.cis.upenn.edu/pub/papers/gallier/conslog2.dvi.Z"
+} 
+ 
+@InProceedings{Galmiche92lfcs,
+  author       = "Didier Galmiche and  Guy Perrier",
+  title        = "Automated Deduction in Additive and Multiplicative
+		  Linear Logic",
+  pages        = "151--162",
+  booktitle    = "Proceedings of the Symposium on Logical Foundations of
+		  Computer Science",
+  address      = "Tver, Russia",
+  editor       = "A. Nerode and M. Taitslin",
+  publisher    = "Springer-Verlag LNCS 620",
+  year         = 1992,
+  month        = jul
+}
+
+@InProceedings{Galmiche92lpar,
+  author       = "Didier Galmiche and  Guy Perrier",
+  title        = "A procedure for automatic proof nets construction",
+  pages        = "42--53",
+  booktitle    = "Proceedings of the International Conference on Logic
+		  Programming and Automated Reasoning",
+  address      = "St.~Petersburg, Russia",
+  publisher    = "Springer-Verlag LNAI 624",
+  editor       = "A. Voronkov",
+  year         = 1992
+}
+
+@Article{Galmiche92tcs,
+  author       = "Didier Galmiche and  Guy Perrier",
+  title        = "On Proof Normalisation in Linear Logic",
+  journal      = "Theoretical Computer Science",
+  year         = 1994,
+  volume       = 135,
+  number       = 1,
+  pages        = "67--110",
+  note         = "Also available as Technical Report CRIN
+		  94-R-113 from the Centre di Recherche en
+		  Informatique de Nancy"
+}
+
+@InProceedings{Galmiche94,
+  author       = "Didier Galmiche and  Guy Perrier",
+  title        = "Foundations of Proof Search Strategies Design in
+		  Linear Logic",
+  booktitle    = "Symposium on Logical Foundations of Computer Science",
+  year         = 1994,
+  address      = "St. Petersburg, Russia",
+  pages        = "101--113",
+  publisher    = "Springer-Verlag LNCS 813",
+  note         = "Also available as Technical Report CRIN
+		  94-R-112 from the Centre di Recherche en
+		  Informatique de Nancy"
+}
+
+@InProceedings{Galmiche94iclp,
+  author       = "Didier Galmiche",
+  title        = "Canonical Proofs for Linear Logic Programming
+		  Frameworks",
+  editor       = "A. Momigliano and M. Ornaghi",
+  pages        = "2--10",
+  booktitle    = "Proof-Theoretical Extensions of Logic Programming",
+  year         = 1994,
+  address      = "Santa Margherita Ligure, Italy",
+  month        = jun,
+  note         = "Post-Conference Workshop for ICLP'94"
+}
+
+@InProceedings{Galmiche94cade,
+  author       = "Didier Galmiche and E. Boudinet",
+  title        = "Proof search for programming in Intuitionistic
+		  Linear Logic",
+  editor       = "D. Galmiche and L. Wallen",
+  pages        = "24--30",
+  booktitle    = "CADE-12 Workshop on Proof Search in Type-Theoretic
+		  Languages",
+  year         = 1994,
+  address      = "Nancy, France",
+  month        = jun
+}
+
+@PhdThesis{Gay94phd,
+  author       = "Simon Gay",
+  title        = "Linear Types for Communicating Processes",
+  school       = "University of London",
+  year         = 1994,
+  urlps        = "file://theory.doc.ic.ac.uk/theory/papers/Gay/thesis.ps.gz"
+}
+
+@InProceedings{Gay95lics,
+  author       = "Simon Gay and Rajagopal Nagarajan",
+  title        = "A Typed Calculus of Synchronous Processes",
+  booktitle    = "Proceedings of the Tenth Annual Symposium on Logic in
+		  Computer Science",
+  address      = "San Diego, California",
+  editor       = "D. Kozen",
+  month	       = jun,
+  year         = 1995,
+  urlps        = "file://theory.doc.ic.ac.uk/theory/papers/Gay/lics95.ps.gz",
+  note         = "To appear"
+}
+
+@Inproceedings{Gehlot89,
+  author       = "V. Gehlot and Carl A. Gunter",
+  title        = "Nets as Tensor Theories",
+  booktitle    = "Proceedings of the tenth International Conference on
+		  Application and Theory of Petri Nets",
+  address      = "Bonn, Germany",
+  editor       = "G. De Michelis",
+  year         = 1989,
+  pages        = "174--191",
+  note         = "Extended and revised version available as Technical Report
+		  MS-CIS-89-68, University of Pennsylvania"
+}
+
+@InProceedings{Gehlot90,
+  author       = "V. Gehlot and Carl A. Gunter",
+  title        = "Normal Process Representatives",
+  booktitle    = "Proceedings of Fifth Symposium on Logic in Computer
+		  Science",
+  address      = "Philadelphia, Pennsylvania",
+  month        = jun,
+  year         = 1990,
+  pages        = "200--207"
+}
+
+@PhdThesis{Gehlot91,
+  author       = "V. Gehlot", 
+  title        = "A proof-theoretic approach to semantics of concurrency",
+  school       = "University of Pennsylvania", 
+  year         = 1991
+}
+
+@PhdThesis{Giambrone83,
+  author       = "S. Giambrone",
+  title        = "Gentzen System and Decision Procedures for Relevant
+		  Logic",
+  school       = "Australian National University",
+  year         = 1983,
+  address      = "Canberra"
+}
+
+@InProceedings{Girard87lacs,
+  author       = "Jean-Yves Girard",
+  title        = "Multiplicatives",
+  booktitle    = "Logic and Computer Science: New Trends and
+		  Applications",
+  note         = "Rendiconti del Seminario Matematico
+		  dell'Universit{\`a} e Politecnico di Torino",
+  year         = 1987,
+  editor       = "G. Lolli",
+  pages        = "11--34"
+}
+
+@Incollection{Girard87ss,
+  author       = "Jean-Yves Girard",
+  title        = "Linear Logic and Parallelism",
+  booktitle    = "Mathematical Models for the Semantics of Parallelism",
+  publisher    = "Springer-Verlag LNCS 280",
+  year         = 1987,
+  editor       = "M. Venturini Zilli",
+  pages        = "166--182",
+  note         = "Advanced School, Rome, September 1986"
+}
+
+@Inproceedings{Girard87tapsoft,
+  author       = "Jean-Yves Girard and Yves Lafont",
+  title        = "Linear Logic and Lazy Computation",
+  booktitle    = "Proceedings of the International Joint Conference on
+		  Theory and Practice of Software Development",
+  address      = "Pisa, Italy",
+  year         = 1987,
+  month        = mar,
+  editor       = "H. Ehrig and R. Kowalski and G. Levi and U. Montanari",
+  Volume       = 2,
+  publisher    = "Springer-Verlag LNCS 250",
+  pages        = "52--66"
+}
+
+@Article{Girard87tcs,
+  author       = "Jean-Yves Girard",
+  title        = "Linear Logic",
+  journal      = "Theoretical Computer Science",
+  year         = 1987,
+  volume       = 50,
+  pages        = "1--102"
+}
+
+@Book{Girard88book,
+  author       = "Jean-Yves Girard and Yves Lafont and P. Taylor",
+  title        = "Proofs and Types",
+  publisher    = "Cambridge University Press",
+  year         = 1988,
+  series       = "Cambridge Tracts in Theoretical Computer Science 7"
+}
+
+@Inproceedings{Girard88clueb,
+  author       = "Jean-Yves Girard",
+  title        = "Quantifiers in Linear Logic",
+  booktitle    = "Temi e prospettivi della logica e della
+		  filosofia della scienza contemporanee",
+  volume       = "I",
+  year         = 1987,
+  pages        = "??--??",
+  publisher    = "CLUEB",
+  address      = "Cesena, Italy"
+}
+
+@Inproceedings{Girard89cm,
+  author       = "Jean-Yves Girard",
+  title        = "Towards a Geometry of Interaction",
+  booktitle    = "Categories in Computer Science and Logic",
+  year         = 1989,
+  editor       = "J. W. Gray and A. Scedrov",
+  pages        = "69--108",
+  publisher    = "American Mathematical Society",
+  note         = "Proceedings of the AMS-IMS-SIAM Joint Summer
+		  Research Conference, June 14--20, 1987, Boulder,
+		  Colorado; Contemporary Mathematics Volume 92"
+}
+
+@Inproceedings{Girard89lc,
+  author       = "Jean-Yves Girard",
+  title        = "Geometry of Interaction {I}: Interpretation of System {F}",
+  booktitle    = "Logic Colloquium '88",
+  year         = 1989,
+  editor       = "C. Bonotto and R. Ferro and S. Valentini and
+		  A. Zanardo",
+  pages        = "221--260",
+  publisher    = "North-Holland"
+}
+
+@Inproceedings{Girard90colog,
+  author       = "Jean-Yves Girard",
+  title        = "Geometry of Interaction {II}: Deadlock-free Algorithms",
+  booktitle    = "COLOG-88",
+  year         = 1990,
+  editor       = "P. Martin-L{\"o}f and G. Mints",
+  pages        = "76--93",
+  publisher    = "Springer-Verlag LNCS 417"
+}
+
+@Article{Girard90science,
+  author       = "Jean-Yves Girard",
+  title        = "La Logique Lin{\'e}aire",
+  journal      = "Pour La Science, Edition Fran{\c{c}}aise de `Scientific
+		  American'",
+  volume       = 150,
+  month        = apr,
+  year         = 1990,
+  pages        = "74--85"
+}
+
+@Article{Girard92tcs,
+  author       = "Jean-Yves Girard and Andre Scedrov and Philip J. Scott",
+  title        = "Bounded Linear Logic: A Modular Approach to
+		  Polynomial Time Computability",
+  journal      = "Theoretical Computer Science",
+  year         = 1992,
+  volume       = 97,
+  pages        = "1--66",
+  note         = "Extended abstract in {\em Feasible Mathematics},
+		  S. R. Buss and P. J. Scott editors, Proceedings of the MCI
+		  Workshop, Ithaca, NY, June 1989, Birkhauser, Boston,
+		  pp. 195--209"
+}
+
+@Article{Girard92jlc,
+  author       = "Jean-Yves Girard",
+  title        = "Logic and Exceptions: A Few Remarks",
+  journal      = "Journal of Logic and Computation",
+  year         = 1992,
+  volume       = 2,
+  number       = 2,
+  pages        = "111--118",
+  note         = "Also available as Pr{\'e}publication 18, {\'E}quipe
+		  de Logique Math{\'e}matique, University of Paris
+		  {VII}, December 1990"
+}
+
+@Inproceedings{Girard91clueb,
+  author       = "Jean-Yves Girard",
+  title        = "Quantifiers in Linear Logic {II}",
+  booktitle    = "Nuovi problemi della logica e della filosofia della
+		  scienza",
+  year         = 1991,
+  volume       = "II",
+  editor       = "G. Corsi and G. Sambin",
+  publisher    = "CLUEB",
+  address      = "Bologna, Italy",
+  pages        = "??--??",
+  note         = "Proceedings of the conference with the same name,
+		  Viareggio, Italy, January 1990"
+}
+
+@Article{Girard91mscs,
+  author       = "Jean-Yves Girard",
+  title        = "A New Constructive Logic: Classical Logic",
+  journal      = "Mathematical Structures in Computer Science",
+  year         = 1991,
+  volume       = 1,
+  pages        = "255--296"
+}
+
+@Techreport{Girard91tr,
+  author       = "Jean-Yves Girard and Andre Scedrov and Philip J. Scott",
+  title        = "Bounded Linear Logic",
+  institution  = "Department of Computer and Information Science,
+		  School of Engineering and Applied Science,
+		  University of Pennsylvania",
+  year         = 1991,
+  type         = "Logic \& Computation 36,",
+  number       = "MS-CIS-91-59",
+  month        = aug
+}  
+
+@Incollection{Girard92,
+  author       = "Jean-Yves Girard and Andre Scedrov and Philip J. Scott",
+  title        = "Normal Forms and Cut-Free Proofs as Natural Transformations",
+  booktitle    = "Logic from Computer Science",
+  year         = 1992,
+  volume       = 21,
+  editor       = "Y. Moschovakis",
+  publisher    = "Springer-Verlag",
+  pages        = "217--241",
+  edition      = "{MSRI} Publications",
+  urlps        = "file://theory.doc.ic.ac.uk/theory/papers/Scott/nf_gss.ps.gz"
+}
+
+@Article{Girard93apal,
+  author       = "Jean-Yves Girard",
+  title        = "On the Unity of Logic",
+  journal      = "Annals of Pure and Applied Logic",
+  year         = 1993,
+  volume       = 59,
+  pages        = "201--217"
+}
+
+@InCollection{Girard93spec,
+  author       = "Jean-Yves Girard",
+  title        = "Linear Logic: A Survey",
+  booktitle    = "Proceedings of the International Summer School of 
+		  Marktoberdorf",
+  publisher    = "Springer-Verlag",
+  year         = 1993,
+  editor       = "L. F. Bauer and W. Brauer and H. Schwichtenberg",
+  series       = "NATO Advanced Science Institutes, series F94",
+  pages        = "63--112",
+  note         = "Also in P. De Groote editor, {\em The
+		  {C}urry-{H}oward Isomorphism}, pages 193--255,
+		  D{\'e}partement de Philosophie, Universit{\'e}
+		  Catholique de Louvain, Cahiers du Centre de Logique
+		  8, Academia Press"
+}
+
+@InProceedings{Girard96la,
+  author       = "Jean-Yves Girard",
+  title        = "Proof-Nets: The Parallel Syntax for Proof-Theory",
+  editor       = "P. Agliano and A. Ursini",
+  booktitle    = "Logic and Algebra",
+  pages        = "??--??",
+  year         = 1996,
+  publisher    = "Marcel Dekker, New York",
+  urlps        = "file://lmd.univ-mrs.fr/pub/girard/Proofnets.ps.Z",
+  urldvi       = "file://lmd.univ-mrs.fr/pub/girard/Proofnets.dvi.Z"
+}
+
+@InCollection{Girard94lla,
+  author       = "Jean-Yves Girard",
+  title        = "Linear Logic: Its Syntax and Semantics",
+  booktitle    = "Advances in Linear Logic",
+  editor       = "J.-Y. Girard and Y. Lafont and L. Regnier",
+  pages        = "1--42",
+  year         = 1995,
+  publisher    = "Cambridge University Press",
+  note         = "Proceedings of the Workshop on Linear Logic, Ithaca,
+		  New York, June 1993",
+  urlps        = "file://lmd.univ-mrs.fr/pub/girard/Synsem.ps.Z",
+  urldvi       = "file://lmd.univ-mrs.fr/pub/girard/Synsem.dvi.Z"
+}
+
+@InCollection{Girard94llb,
+  author       = "Jean-Yves Girard",
+  title        = "Geometry of Interaction {III}: The General Case",
+  booktitle    = "Advances in Linear Logic",
+  editor       = "J.-Y. Girard and Y. Lafont and L. Regnier",
+  pages        = "329--389",
+  year         = 1995,
+  publisher    = "Cambridge University Press",
+  note         = "Proceedings of the Workshop on Linear Logic, Ithaca,
+		  New York, June 1993",
+  urlps        = "file://lmd.univ-mrs.fr/pub/girard/GOI3.ps.Z",
+  urldvi       = "file://lmd.univ-mrs.fr/pub/girard/GOI3.dvi.Z"
+}
+
+
+@Unpublished{Girard95unb,
+  author       = "Jean-Yves Girard",
+  title        = "On Denotational Completeness",
+  note         = "Manuscript",
+  year         = 1995,
+  urlps        = "file://lmd.univ-mrs.fr/pub/girard/denotational.ps.Z",
+  urldvi       = "file://lmd.univ-mrs.fr/pub/girard/denotational.dvi.Z"
+}
+
+@proceedings{Girard95a,
+  author       = "Jean-Yves Girard",
+  title        = "Linear Logic, its syntax and semantics",
+  editor       = "Jean-Yves Girard and Yves Lafont and Laurent Regnier",
+  series       = "Advances in Linear Logic, London Mathematical Society Lecture Notes Series",
+  publisher    = "Cambridge University Press",
+  number       = "222",
+  year         = 1995,
+  urlps        = "file://iml.univ-mrs.fr/pub/girard/Synsem.ps.gz"
+}
+		  
+@proceedings{Girard95b,
+  author       = "Jean-Yves Girard",
+  title        = "Geometry of Interaction {III} : accommodating the additives",
+  editor       = "Jean-Yves Girard and Yves Lafont and Laurent Regnier",
+  series       = "Advances in Linear Logic, London Mathematical Society Lecture Notes Series",
+  publisher    = "Cambridge University Press",
+  number       = "222",
+  year         = 1995,
+  urlps        = "file://iml.univ-mrs.fr/pub/girard/GOI3.ps.gz"
+}
+		  
+@Unpublished{Girard96un,
+  author       = "Jean-Yves Girard",
+  title        = "Coherent Banach Spaces : a continuous denotational semantics",
+  note         = "unpublished manuscript",
+  year         = 1996,
+  urlps        = "file://iml.univ-mrs.fr/pub/girard/banach.ps.gz"	  
+}
+
+@Unpublished{Girard96unb,
+  author       = "Jean-Yves Girard",
+  title        = "Constructivité : vers une dualité moniste",
+  note         = "unpublished manuscript",
+  year         = 1996,
+  urlps        = "file://iml.univ-mrs.fr/pub/girard/articles/monisme.ps.gz"
+}
+
+@Unpublished{Girard97un,
+  author       = "Jean-Yves Girard",
+  title        = "Du pourquoi au comment : la théorie de la démonstration de 1950 à nos jours",
+  note         = "unpublished manuscript",
+  year         = 1997,
+  urlps        = "file://iml.univ-mrs.fr/pub/girard/articles/theodem.ps.gz"
+}
+
+@Article{Girard98ic,
+  author       = "Jean-Yves Girard",
+  title        = "Light Linear Logic",
+  journal      = "Information and Computation",
+  year         = 1998,
+  volume       = 143,
+  urlps        = "file://iml.univ-mrs.fr/pub/girard/articles/LLL.ps.gz"
+}
+		  
+@Unpublished{Girard98un,
+  author       = "Jean-Yves Girard",
+  title        = "Titres et travaux",
+  note         = "unpublished manuscript",
+  year         = 1996,
+  urlps        = "file://iml.univ-mrs.fr/pub/girard/articles/titres.ps.gz"
+}
+
+@Unpublished{Girard98unb,
+  author       = "Jean-Yves Girard",
+  title        = "On the meaning of logical rules {I}: syntax vs. semantics",
+  note         = "unpublished manuscript",
+  year         = 1998,
+  urlps        = "file://iml.univ-mrs.fr/pub/girard/articles/meaning1.ps.gz"
+}
+		  
+@Unpublished{Girard98unc,
+  author       = "Jean-Yves Girard",
+  title        = "On the meaning of logical rules {II}:
+		  multiplicatives and additives",
+  note         = "unpublished manuscript",
+  year         = 1998,
+  urlps        = "file://iml.univ-mrs.fr/pub/girard/articles/meaning2.ps.gz"
+}
+		  
+@Article{Grishin81,
+  author       = "V. N. Grishin",
+  title        = "Predicate and Set-Theoretic Calculi Based on Logic
+		  without Contractions",
+  journal      = "Math. USSR. Izvestija",
+  year         = 1981,
+  volume       = 18,
+  pages        = "41--59"
+}
+
+@TechReport{Grosse92,
+  author       = "G. Gro{\ss}e and S. H{\"o}lldobler and J. Schneeberger",
+  title        = "Linear Deductive Planning",
+  institution  = "Intellektik, Informatik, Techniche Hochschule Darmstadt",
+  year         = 1992,
+  number       = "AIDA-92-08"
+}
+
+@InProceedings{Gupta93focs,
+  author       = "Vineet Gupta and Vaughan R. Pratt",
+  title        = "Gates Accept Concurrent Behavior",
+  booktitle    = "Proceedings of the 34th Annual IEEE Symposium on
+		  Foundations of Computer Science",
+  pages        = "62--71",
+  month        = nov,
+  year         = 1993,
+  urlps        = "file://boole.stanford.edu/pub/gates.ps.gz"
+}
+
+@InProceedings{Gupta93paw,
+  author       = "Vineet Gupta",
+  title        = "Concurrent {K}ripke Structures",
+  booktitle    = "Proceedings of the North American Process Algebra
+                  Workshop, Cornell CS-TR-93-1369",
+  month        = aug,
+  year         = 1993,
+  urlps        = "file://boole.stanford.edu/pub/cks.ps.gz"
+}
+
+@PhDThesis{Gupta94phd,
+  author       = "Vineet Gupta",
+  title        = "{C}hu Spaces: A Model of Concurrency",
+  School       = "Stanford University",
+  month        = sep,
+  year         = 1994,
+  urlps        = "file://boole.stanford.edu/pub/gupthes.ps.gz"
+}
+
+@Inproceedings{Guzman90,
+  author       = "Juan C. Guzm{\'a}n and Paul Hudak",
+  title        = "Single-Threaded Polymorphic Lambda Calculus",
+  booktitle    = "Proceedings of the Fifth Symposium on Logic in Computer
+		  Science",
+  address      = "Philadelphia, Pennsylvania",
+  month        = jun,
+  year         = 1990,
+  pages        = "333--343",
+  publisher    = "IEEE Computer Society Press"
+}
+
+@Techreport{Harland90,
+  author       = "James Harland and David Pym",
+  title        = "The Uniform Proof-Theoretic Foundation of Linear
+		  Logic Programming",
+  institution  = "Laboratory for the Foundations of Computer  Science,
+		  University of Edinburgh",
+  year         = 1990,
+  type         = "Technical Report",
+  number       = "ECS-LFCS-90-124",
+  month        = nov
+}
+
+@InProceedings{Harland91,
+  author       = "James Harland and David Pym",
+  title        = "The Uniform Proof-Theoretic Foundation of Linear
+		  Logic Programming",
+  pages        = "304--318",
+  booktitle    = "Proceedings of the International Logic Programming 
+                  Symposium",
+  editor       = "V. Saraswat and K. Ueda",
+  year         = 1991,
+  month        = oct,
+  address      = "San Diego, California",
+  urlps        = "http://www.cs.rmit.edu.au/~jah/publications/ilps91.ps.gz" 
+}
+
+@InProceedings{Harland92,
+  author       = "James Harland and David Pym",
+  title        = "On Resolution in Fragments of Classical Linear Logic",
+  pages        = "30--41",
+  booktitle    = "Proceedings of the Russian Conference on Logic Programming
+		  and Automated Reasoning",
+  year         = 1992,
+  publisher    = "Springer-Verlag LNAI 624",
+  month        = jul,
+  urlps        = "http://www.cs.rmit.edu.au/~jah/publications/lpar92.ps.gz" 
+}
+
+@InProceedings{Harland94csc,
+  author       = "James Harland and David Pym",
+  title        = "A Note on the Implementation and Applications of Linear
+		  Logic Programming Languages",
+  pages        = "647--658",
+  booktitle    = "Proceedings of the Seventeenth Annual Computer Science
+		  Conference, Christchurch",
+  editor       = "G. Gupta",
+  year         = 1994,
+  month        = jan,
+  urlps        = "http://www.cs.rmit.edu.au/~jah/publications/acsc94.ps.gz" 
+}
+
+@Article{Harland94jlca,
+  author       = "James Harland",
+  title        = "A Proof-Theoretic Analysis of Goal-Directed Provability",
+  journal      = "Journal of Logic and Computation",
+  year         = 1994,
+  volume       = 4,
+  number       = 1,
+  pages        = "69--88",
+  urlps        = "http://www.cs.rmit.edu.au/~jah/publications/jlc94b.ps.gz"
+}
+
+@Article{Harland94jlcb,
+  author       = "James Harland and David Pym",
+  title        = "A Uniform Proof-Theoretic Investigation of Linear Logic 
+                  Programming",
+  journal      = "Journal of Logic and Computation",
+  year         = 1994,
+  volume       = 4,
+  number       = 2,
+  pages        = "175--207",
+  month        = apr,
+  urlps        = "http://www.cs.rmit.edu.au/~jah/publications/jlc94a.ps.gz" 
+}
+
+@InProceedings{Harland95,
+  author       = "James Harland and Michael Winikoff",
+  title        = "Implementation and Development Issues for the Linear
+		  Logic Programming Language {L}ygon",
+  booktitle    = "Proceedings of the Eighteenth Australian Computer Science
+		  Conference",
+  year         = 1995,
+  pages        = "563--572",
+  month        = feb,
+  address      = "Adelaide, Australia",
+  urlps        = "http://www.cs.rmit.edu.au/~jah/publications/acsc95.ps.gz",
+  note         = "Also available as Technical Report TR 95/6,
+		  Melbourne University, Department of Computer Science"
+}
+
+@TechReport{Harland94tr,
+  author       = "James Harland and Michael Winikoff",
+  title        = "Deterministic Resource Management for the Linear
+		  Logic Programming Language {L}ygon",
+  institution  = "Melbourne University, Department of Computer Science",
+  year         = 1994,
+  number       = "TR 94/23",
+  urlps        =  "http://www.cs.mu.oz.au/tr_db/mu_94_23.ps.gz"
+}
+
+@InProceedings{Harland95ilps,
+  author       = "James Harland and Michael Winikoff",
+  title        = "Implementing the Linear Logic Programming Language
+		  {L}ygon",
+  editor       = "J. Lloyd",
+  pages        = "66--80",
+  booktitle    = "Proceedings of the 1995 International Logic
+		  Programming Symposium",
+  year         = 1995,
+  address      = "Portland, Oregon",
+  urlps        = "http://www.cs.mu.oz.au/~winikoff/papers/lygon/gz/ilps95.ps.gz"
+}
+
+@InProceedings{Harland96amst,
+  author       = "James Harland and David Pym and Michael Winikoff",
+  title        = "Programming in {L}ygon: An Overview",
+  booktitle    = "{A}lgebraic {M}ethodology and {S}oftware {T}echnology",
+  year         = 1996,
+  month        = jul,
+  editor       = "M. Wirsing and M. Nivat",
+  pages        = "391--405",
+  publisher    = "Springer-Verlag LNCS 1101",
+  address      = "Munich, Germany",
+  urlps        = "http://www.cs.mu.oz.au/~winikoff/papers/lygon/gz/amast-overview.ps.gz"
+}
+
+@InProceedings{Harland96,
+  author       = "James Harland and Michael Winikoff",
+  title        = "Some Applications of the Linear Logic Programming
+		  Language {L}ygon",
+  booktitle    = "Proceedings of the Nineteenth Australasian Computer
+		  Science Conference",
+  pages        = "262--271",
+  year         = 1996,
+  address      = "Melbourne, Australia",
+  urlps        = "http://www.cs.mu.oz.au/~winikoff/papers/lygon/gz/acsc96.ps.gz"
+}
+
+@Article{Hesselink90,
+  author       = "Wim H. Hesselink",
+  title        = "Axioms and Models of Linear Logic",
+  journal      = "Formal Aspects of Computing",
+  year         = 1990,
+  volume       = 2,
+  pages        = "139--166"
+}
+
+@Article{Hindley89,
+  author       = "J. R. Hindley",
+  title        = "{BCK}-Combinators and Linear {$\lambda$}-Terms Have
+		  Types",
+  journal      = "Theoretical Computer Science",
+  year         = 1989,
+  volume       = 64,
+  pages        = "97--105"
+}
+
+@Unpublished{Hindley90,
+  author       = "J. R. Hindley",
+  title        = "{BCK}- and {BCI}-logics, Condensed Detachment and
+		  the 2-Property: A Summary",
+  note         = "Manuscript",
+  month        = sep,
+  year         = 1990
+}
+
+@InProceedings{Hodas92jicslp,
+  author       = "Joshua S. Hodas",
+  title        = "Specifying Filler-Gap Dependency Parsers in a Linear-Logic
+		  Programming Language",
+  booktitle    = "Proceedings of the Joint International Conference and
+		  Symposium on Logic Programming",
+  address      = "Washington, DC",
+  month        = nov,
+  year         = 1992,
+  pages        = "622--636",
+  editor       = "K. Apt",
+  urlps        = "http://www.cs.hmc.edu/~hodas/papers/jicslp92.ps",
+  urldvi       = "http://www.cs.hmc.edu/~hodas/papers/jicslp92.dvi"
+}
+
+@InProceedings{Hodas92lprolog,
+  author       = "Joshua S. Hodas",
+  title        = "Lolli: An Extension of $\lambda$Prolog with Linear
+		  Context Management",
+  editor       = "D. Miller",
+  booktitle    = "Workshop on the $\lambda$Prolog Programming
+		  Language",
+  address      = "Philadelphia, Pennsylvania",
+  pages        = "159--168",
+  year         = 1992,
+  month        = aug,
+  urlps        = "http://www.cs.hmc.edu/~hodas/papers/lppl92.ps",
+  urldvi       = "http://www.cs.hmc.edu/~hodas/papers/lppl92.dvi"
+}
+
+@Article{Hodas94ic,
+  author       = "Joshua S. Hodas and Dale Miller",
+  title        = "Logic Programming in a Fragment of Intuitionistic
+		  Linear Logic",
+  journal      = "Information and Computation",
+  volume       = 110,
+  number       = 2,
+  year         = 1994,
+  pages        = "327--365",
+  note         = "Extended abstract in the Proceedings of the Sixth Annual
+		  Symposium on Logic in Computer Science, Amsterdam,
+		  July 15--18, 1991",
+  urlps        = "http://www.cs.hmc.edu/~hodas/papers/ic94.ps",
+  urldvi       = "http://www.cs.hmc.edu/~hodas/papers/ic94.dvi",
+  url2         = "file://ftp.cis.upenn.edu/pub/Lolli/papers/ic94.dvi.Z"
+}
+
+@PhdThesis{Hodas94phd,
+  author       = "Joshua S. Hodas",
+  title        = "Logic Programming in Intuitionistic Linear Logic:
+		  Theory, Design and Implementation",
+  school       = "University of Pennsylvania, Department of Computer
+		  and Information Science",
+  year         = 1994,
+  urlps        = "http://www.cs.hmc.edu/~hodas/papers/diss_twoside_all.ps",
+}
+
+@InProceedings{Hodas93elp,
+  author       = "Joshua S. Hodas",
+  title        = "Logic programming with multiple context management schemes",
+  editor       = "R. Dyckhoff",
+  pages        = "171--182",
+  booktitle    = "Fourth International Workshop on Extensions of Logic
+		  Programming",
+  year         = 1993,
+  publisher    = "Springer-Verlag LNCS 360",
+  address      = "St. Andrews, United Kingdom",
+  month        = mar,
+  urlps        = "http://www.cs.hmc.edu/~hodas/papers/welp93.ps",
+  urldvi       = "http://www.cs.hmc.edu/~hodas/papers/welp93.dvi"
+}
+
+@InProceedings{Hodas96linear,
+  author       = "Joshua S. Hodas and Jeffrey Polakow",
+  title        = "{Forum} as a Logic Programming Language: Preliminary
+		  Results and Observations",
+  editor       = "M. Okada",
+  booktitle    = "Proceedings of the Linear Logic '96 Meeting",
+  year         = 1996,
+  address      = "Tokyo, Japan",
+  publisher    = "Elsevier Electronic Notes in Theoretical Computer Science",
+  volume       = 3
+}
+
+@Unpublished{Hoesli90,
+  author       = "B. H{\"o}sli",
+  title        = "Die {A}bschw{\"a}chungsregel in der {A}ussagenlogik",
+  note         = "Manuscript",
+  month        = dec,
+  year         = 1990
+}
+
+@InProceedings{Holmstroem88,
+  author       = "S. Holmstr{\"o}m",
+  title        = "Linear Functional Programming",
+  booktitle    = "Proceedings of the Workshop on the Implementation of
+		  Lazy Functional Languages",
+  pages        = "13--32",
+  year         = 1988,
+  address      = "Aspan{\"a}es, Sweden",
+  month        = sep,
+  note         = "Also available as Technical Report 53, Programming
+		  Methodoloy Group, Chalmers University of Technology,
+		  S-412 96, G{\"o}teborg, Sweden"
+}
+
+@TechReport{Holmstroem89,
+  author       = "S. Holmstr{\"o}m",
+  title        = "Quicksort in a Linear Functional Language",
+  institution  = "Chalmers University of Technology",
+  number       = "PMG Memo 65",
+  address      = "G{\"o}teborg, Sweden",
+  year         = 1989,
+  month        = jan
+}
+
+@Unpublished{Homann95,
+  author       = "K. Homann and Carsten Sch{\"u}rmann",
+  title        = "A Combined Proof Search Strategy for Linear Logic",
+  note         = "Manuscript",
+  year         = 1995
+}
+
+@Phdthesis{Hoofman92,
+  author       = "R. Hoofman",
+  title        = "Non-Stable Models of Linear Logic",
+  school       = "Utrecht University",
+  year         = 1992,
+  month        = apr
+}
+
+@InProceedings{Hoofman92lfcs,
+  author       = "R. Hoofman",
+  title        = "Non-Stable Models of Linear Logic",
+  pages        = "210--220",
+  booktitle    = "Proceedings of the Symposium on Logical Foundations of
+		  Computer Science",
+  address      = "Tver, Russia",
+  editor       = "A. Nerode and M. Taitslin",
+  publisher    = "Springer-Verlag LNCS 620",
+  year         = 1992,
+  month        = jul
+}
+
+@Article{Hori94,
+  author       = "R. Hori and Hiroakira Ono and Harold Schellinx",
+  title        = "Extending Intuitionistic Linear Logic with Knotted
+		  Structural Rules",
+  journal      = "Notre-Dame Journal of Formal Logic",
+  year         = 1994,
+  volume       = 35,
+  number       = 2,
+  pages        = "219--242"
+}
+
+@Article{Hosoi73,
+  author       = "T. Hosoi and Hiroakira Ono",
+  title        = "Intermediate Propositional Logics (A Survey)",
+  journal      = "Journal of Tsuda College",
+  year         = 1973,
+  volume       = 5,
+  pages        = "67--82"
+}
+
+@Unpublished{Hyland91,
+  author       = "J. Martin E. Hyland and Valeria de Paiva",
+  title        = "Lineales",
+  note         = "Manuscript",
+  year         = 1991,
+  month        = feb
+}
+
+@Article{Hyland93,
+  author       = "J. Martin E. Hyland and Valeria de Paiva",
+  title        = "Full Intuitionistic Linear Logic (Extended Abstract)",
+  journal      = "Annals of Pure and Applied Logic",
+  volume       = 64,
+  number       = 3,
+  pages        = "273--291",
+  year         = 1993,
+  urldvi       = "file://theory.doc.ic.ac.uk/theory/papers/dePaiva/fill.dvi.gz"
+}
+
+@article{Jacobs94,
+  author       = "Bart Jacobs",
+  title        = "Semantics of Weakening and Contraction",
+  journal      = "Annals of Pure and Applied Logic",
+  volume       = 69,
+  pages        = "73--106",
+  year         = 1994
+}
+
+@Unpublished{Jacobs93,
+  author       = "Bart Jacobs",
+  title        = "Conventional and Linear Types in a Logic of Coalgebras",
+  note         = "Manuscript",
+  year         = 1993,
+  month        = apr
+}
+
+@InProceedings{Jacopin93,
+  author       = "{\'E}ric Jacopin",
+  title        = "Classical {AI} Planning as Theorem Proving: The case
+		  of a Fragment of Linear Logic",
+  pages        = "62--66",
+  booktitle    = "AAAI Fall Symposium on Automated Deduction in
+		  Nonstandard Logics",
+  year         = 1993,
+  publisher    = "AAAI Press Publications",
+  address      = "Palo Alto, California",
+  urlps        = "ftp://ftp.ibp.fr/ibp/softs/laforia/pweak/papers/3AI-Fall-Symp-93.ps.Z"
+}
+
+@PhdThesis{Joinet93,
+  author       = "J-.B. Joinet",
+  title        = "{\'E}tude de la Normalisation du Calcul des S{\'e}quents
+		  Classique {\`a} Travers la Logique Lin{\'e}aire",
+  school       = "University of Paris {VII}",
+  year         = 1993
+}
+
+@TechReport{Joinet92tr,
+  author       = "J-.B. Joinet",
+  title        = "Une preuve combinatoire de forte normalisation (du
+		  fragment multiplicatif et exponentiel) des
+		  r{\'e}seaux de preuve pour la logique lin{\'e}aire (PN1)",
+  institution  = "{\'E}quipe de Logique Math{\'e}matique, University
+		  of Paris VII",
+  year         = 1992,
+  type         = "Preprint",
+  number       = 35
+}
+
+@Unpublished{Jumpertz94,
+  author       = "P. Jumpertz",
+  title        = "Linear Logic and Real Closed Fields: A Way to Handle
+		  Situations Dynamically",
+  year         = 1994,
+  note         = "Manuscript"
+}
+
+@Techreport{Kanovich91tra,
+  author       = "Max I. Kanovich",
+  title        = "The {H}orn Fragment of Linear Logic is {NP}-Complete",
+  institution  = "University of Amsterdam",
+  year         = 1991,
+  type         = "ITLI Prepublication Series",
+  number       = "X-91-14"
+}
+
+@Techreport{Kanovich91trb,
+  author       = "Max I. Kanovich",
+  title        = "The Multiplicative Fragment of Linear Logic is
+		  {NP}-Complete",
+  institution  = "University of Amsterdam",
+  year         = 1991,
+  type         = "ITLI Prepublication Series",
+  number       = "X-91-13"
+}
+
+@Inproceedings{Kanovich92, 
+  author       = "Max I. Kanovich",  
+  title        = "Horn Programming in Linear Logic is {NP}-Complete",
+  booktitle    = "Seventh Annual Symposium on Logic in
+		  Computer Science",
+  address      = "Santa Cruz, California",
+  month        = jun,
+  year         = 1992,  
+  pages        = "200--210",  
+  publisher    = "IEEE Computer Society Press"
+} 
+
+@Article{Kanovich94apala,
+  author       = "Max I. Kanovich",
+  title        = "Linear Logic as a Logic of Computations",
+  journal      = "Annals of Pure and Applied Logic",
+  pages        = "183--212",
+  year         = 1994,
+  volume       = 67,
+  number       = "1-3",
+  note         = "Also in {\em Logic at Tver '92}, Sokal, Russia, July 1992"
+}
+
+@Article{Kanovich94apalb,
+  author       = "Max I. Kanovich",
+  title        = "The Complexity of the {H}orn Fragment of Linear
+		  Logic",
+  journal      = "Annals of Pure and Applied Logic",
+  pages        = "195--241",
+  year         = 1994,
+  volume       = 69
+}
+
+@TechReport{Kanovich94tra,
+  author       = "Max I. Kanovich",
+  title        = "The Independent Basis of Neutral Formulas in Linear
+		  Logic",
+  institution  = "Laboratoire de Math{\'e}matiques Discr{\`e}tes,
+		  University of Marseille",
+  year         = 1994,
+  number       = "94-08",
+  type         = "Preprint",
+  urldvi       = "file://lmd.univ-mrs.fr/pub/kanovich/neutrals.dvi.Z"
+}
+
+@TechReport{Kanovich94trb,
+  author       = "Max I. Kanovich",
+  title        = "Simulating Linear Logic with 1-Linear Logic",
+  institution  = "Laboratoire de Math{\'e}matiques Discr{\`e}tes,
+		  University of Marseille",
+  year         = 1994,
+  number       = "94-02",
+  type         = "Preprint",
+  urldvi       = "file://lmd.univ-mrs.fr/pub/kanovich/unit-only.dvi.Z"
+}
+
+@InProceedings{Kanovich94tacs,
+  author       = "Max I. Kanovich",
+  title        = "Petri Nets, {H}orn Programs, Linear Logic, and Vector Games",
+  editor       = "M. Hagiya and J. Mitchell",
+  publisher    = "Springer-Verlag LNCS 789",
+  pages        = "642--666",
+  booktitle    = "Proceedings of the International Symposium Theoretical
+		  Aspects of Computer Software TACS'94",
+  address      = "Sendai, Japan",
+  year         = 1994,
+  month        = apr
+}
+
+@InCollection{Kanovich95,
+  author       = "Max I. Kanovich",
+  title        = "The Direct Simulation of {M}insky Machines in Linear Logic",
+  booktitle    = "Advances in Linear Logic",
+  editor       = "J.-Y. Girard and Y. Lafont and L. Regnier",
+  year         = 1995,
+  pages        = "123--145",
+  publisher    = "Cambridge University Press",
+  note         = "Proceedings of the Workshop on Linear Logic, Ithaca,
+		  New York, June 1993"
+}
+
+@InProceedings{Kanovich95lics,
+  author       = "Max I. Kanovich",
+  title        = "The Complexity of Neutrals in Linear Logic",
+  booktitle    = "Tenth Annual IEEE Symposium on Logic in Computer
+		  Science",
+  editor       = "D. Kozen",
+  pages        = "486--495",
+  address      = "San Diego, California",
+  month        = jun,
+  year         = 1995
+}
+
+@Unpublished{Kanovich96un,
+  author = 	 "Max I. Kanovich and M. Okada and A. Scedrov",
+  title = 	 "Phase semantics for light linear logic",
+  note = 	 "unpublished manuscript",
+  urlps        = "ftp://ftp.cis.upenn.edu/pub/papers/scedrov/fibre.ps.gz"		  
+}
+
+@InProceedings{Kobayashi93ilps,
+  author       = "Naoki Kobayashi and Akinori Yonezawa",
+  title        = "{ACL} --- {A} Concurrent Linear Logic Programming Paradigm",
+  editor       = "D. Miller",
+  pages        = "279--294",
+  booktitle    = "Proceedings of the 1993 International Logic
+		  Programming Symposium",
+  year         = 1993,
+  publisher    = "MIT Press",
+  address      = "Vancouver, Canada",
+  month        = oct,
+  ISBN         = "0-262-63152-0",
+}
+
+@TechReport{Kobayashi93tr,
+  author       = "Naoki Kobayashi and Akinori Yonezawa",
+  title        = "Reasoning on Actions and Change in Linear Logic
+		  Programming",
+  institution  = "University of Tokyo",
+  number       = "??",
+  year         = 1993,
+  urlps        = "file://camille.is.s.u-tokyo.ac.jp/pub/papers/TR94-12-hacl-a4.ps.Z"
+}
+
+@Article{Kobayashi94fac,
+  author       = "Naoki Kobayashi and Akinori Yonezawa",
+  title        = "Asynchronous communication model based on linear logic",
+  journal      = "Formal Aspects of Computing",
+  year         = 1994,
+  volume       = 3,
+  pages        = "279--294",
+  note         = "Short version appeared in Joint International
+		  Conference and Symposium on Logic Programming,
+		  Washington, DC, November 1992, Workshop on Linear Logic
+		  and Logic Programming"
+}
+
+@TechReport{Kobayashi94tr,
+  author       = "Naoki Kobayashi and Akinori Yonezawa",
+  title        = "Typed Higher-Order concurrent linear logic programming",
+  institution  = "University of Tokyo",
+  number       = "94-12",
+  year         = 1994,
+  urlps        = "file://camille.is.s.u-tokyo.ac.jp/pub/papers/TR94-12-hacl-a4.ps.Z"
+}
+
+@PhdThesis{Kobayashi96phd,
+  author       = "Naoki Kobayashi",
+  title        = "Concurrent Linear Logic Programming",
+  school       = "Department of Information Science, University of
+                 Tokyo",
+  month        =  apr,
+  year         = 1996
+}
+		  
+@InProceedings{Kobayashi96popl,
+  title        = "Linearity and the Pi-Calculus",
+  author       = "Naoki Kobayashi and Benjamin C. Pierce and David N.
+                 Turner",
+  pages        = "358--371",
+  booktitle    = "Proceedings of the 23rd {ACM} {SIGPLAN}-{SIGACT} Symposium
+                 on Principles of Programming Languages --- {POPL'96}",
+  number       = "21--24",
+  month        = jan,		 
+  year         = 1996,
+  address      = "St.\ Petersburg Beach, Florida"
+}
+
+@Article{Komori85,
+  author       = "Yuichi Komori and Hiroakira Ono",
+  title        = "Logics Without the Contraction Rule",
+  journal      = "Journal of Symbolic Logic",
+  year         = 1985,
+  volume       = 50,
+  number       = 1,
+  pages        = "169--201",
+  month        = mar,
+  urlps        = "http://www.cs.cmu.edu/afs/cs/usr/fp/public/elf-papers/cutlin94.ps.Z"
+}
+
+@InProceedings{Kopylov95lics,
+  author       = "Alexei P. Kopylov",
+  title        = "Decidability of Linear Affine Logic",
+  booktitle    = "Tenth Annual IEEE Symposium on Logic in Computer
+		  Science",
+  editor       = "D. Kozen",
+  pages        = "496--504",
+  address      = "San Diego, California",
+  month        = jun,
+  year         = 1995
+}
+
+@InProceedings{Kreitz97,
+  author = 	 "Christoph Kreitz and Heiko Mantel and Jens Otten and
+		  Stephan Schmitt",
+  title = 	 "Connection-Based Proof Construction in Linear Logic",
+  editor =	 "W. McCune",
+  pages =	 "207-221",
+  booktitle =	 "Proceedings of the 14th International Conference on
+		  Automated Deduction",
+  year =	 1997,
+  publisher =	 "Springer-Verlag LNAI 1249"
+}
+
+@Phdthesis{Lafont88phd,
+  author       = "Yves Lafont",
+  title        = "Logiques, Categories et Machines. Implantation de
+                  Langages de Programmation guid{\'e} par la
+		  Logique Cat{\'e}gorique",
+  school       = "University of Paris {VII}",
+  year         = 1988,
+  month        = jan
+}
+
+@Booklet{Lafont88ss,
+  title        = "Introduction to Linear Logic",
+  author       = "Yves Lafont",
+  howpublished = "Lecture notes for the Summer School on Constructive
+		  Logics and  Category Theory",
+  year         = 1988 
+}
+
+@Article{Lafont88tcs,
+  author       = "Yves Lafont",
+  title        = "The Linear Abstract Machine",
+  journal      = "Theoretical Computer Science",
+  year         = 1988,
+  volume       = 59,
+  pages        = "157--180",
+  note         = "Some corrections in volume 62 (1988), pp. 327--328" 
+}
+
+@Inproceedings{Lafont90,
+  author       = "Yves Lafont",
+  title        = "Interaction Nets",
+  booktitle    = "Seventeenth Annual Symposium on Principles of
+		  Programming Languages",
+  address      = "San Francisco, California",
+  year         = 1990,
+  pages        = "95--108",
+  publisher    = "ACM Press" 
+}
+
+@Inproceedings{Lafont91,
+  author       = "Yves Lafont and T. Streicher",
+  title        = "Games Semantics for Linear Logic",
+  booktitle    = "Sixth Symposium on Logic in Computer Science",
+  year         = 1991,
+  month        = jul,
+  pages        = "43--50",
+  publisher    = "IEEE Computer Society Press",
+  note         = "Amsterdam, The Netherlands" 
+}
+
+@InCollection{Lafont94,
+  author       = "Yves Lafont",
+  title        = "From Proof Nets to Interaction Nets",
+  booktitle    = "Advances in Linear Logic",
+  editor       = "J.-Y. Girard and Y. Lafont and L. Regnier",
+  year         = 1995,
+  pages        = "225--247",
+  publisher    = "Cambridge University Press",
+  note         = "Proceedings of the Workshop on Linear Logic, Ithaca,
+		  New York, June 1993",
+  urlps       = "ftp://lmd.univ-mrs.fr/pub/lafont/proofnets.ps.Z"
+}
+
+@Article{Lafont95jsl,
+  author       = "Yves Lafont",
+  title        = "The undecidability of second order linear logic
+		  without exponentials",
+  journal      = "Journal of Symbolic Logic",
+  year         = "to appear",
+  note         = "Also available as preprint 95-06, Laboratoire de
+		  Math{\'e}matiques discr{\`e}tes, University of Marseille",
+  urlps        = "ftp://lmd.univ-mrs.fr/pub/lafont/mall2.ps.Z"
+}
+
+@TechReport{Lafont95,
+  author       = "Yves Lafont and Andre Scedrov",
+  title        = "The undecidability of second order multiplicative
+		  linear logic",
+  institution  = "Laboratoire de Math{\'e}matiques discr{\`e}tes,
+		  University of Marseille",
+  number       = "95-17",
+  type         = "Preprint",
+  year         = 1995,
+  urlps        = "ftp://lmd.univ-mrs.fr/pub/lafont/mll2.ps.Z"
+}
+
+@Unpublished{Lafont95un,
+  author       = "Yves Lafont",
+  title        = "Interaction Combinators",
+  note         = "Manuscript",
+  year         = 1995,
+  urlps        = "ftp://lmd.univ-mrs.fr/pub/lafont/combinators.ps.Z"
+}
+
+@Unpublished{Lafont89,
+  author       = "Yves Lafont",
+  title        = "Functional Programming and Linear Logic",
+  note         = "Lecture notes for the Summer School on Functional
+		  Programming and Constructive Logic, Glasgow, United
+		  Kingdom",
+  year         = 1989,
+  urlps        = "ftp://lmd.univ-mrs.fr/pub/lafont/glasgow.ps.Z"
+}
+
+@Unpublished{Lafont95unb,
+  author       = "Yves Lafont",
+  title        = "The finite model property for various fragments of
+		  linear logic",
+  note         = "Manuscript",
+  year         = 1995,
+  urlps        = "ftp://lmd.univ-mrs.fr/pub/lafont/model.ps.Z",
+  urldvi       = "ftp://lmd.univ-mrs.fr/pub/lafont/model.dvi.Z"
+}
+
+@InProceedings{Lamarche95lics,
+  author       = "Fran{\c{c}}ois Lamarche",
+  title        = "Games Semantics for Full Propositional Linear logic",
+  booktitle    = "Tenth Annual IEEE Symposium on Logic in Computer
+		  Science",
+  editor       = "D. Kozen",
+  pages        = "464--473",
+  address      = "San Diego, California",
+  month        = jun,
+  year         = 1995
+}
+
+@Unpublished{Lambek91,
+  author       = "Joachim Lambek",
+  title        = "From Categorical Grammars to Bilinear Logic",
+  note         = "Manuscript",
+  year         = 1991 
+}
+
+@InCollection{Lambek94,
+  author       = "Joachim Lambek",
+  title        = "Bilinear Logic in Algebra and Linguistics",
+  booktitle    = "Advances in Linear Logic",
+  pages        = "43--59",
+  editor       = "J.-Y. Girard and Y. Lafont and L. Regnier",
+  year         = 1995,
+  publisher    = "Cambridge University Press",
+  note         = "Proceedings of the Workshop on Linear Logic, Ithaca,
+		  New York, June 1993"
+}
+
+@TechReport{Leneutre98,
+  author       = "Jean Leneutre",
+  title        = "Linear Logic: Investigation into the Distributivity
+	          Properties of Multiplicatives wrt. Additives",
+  institution  = "École Nationale Supérieure des Télécommunications",
+  year         =  1998
+}
+
+@InProceedings{Lilius92,
+  author       = "J. Lilius",
+  title        = "High-level Nets and Linear Logic",
+  editor       = "K. Jensen",
+  pages        = "310--327",
+  booktitle    = "Proceedings of the International Conference on Applications
+		  and Theory of Petri Nets",
+  year         = 1992,
+  publisher    = "Springer-Verlag LNCS 616",
+  address      = "Sheffield, United Kingdom",
+  month        = jun
+}
+
+@PhdThesis{Lincoln92phd,
+  author       = "Patrick Lincoln",
+  title        = "Computational Aspects of Linear Logic",
+  school       = "Stanford Univeristy",
+  year         = 1992,
+  urldvi       = "http://www.csl.sri.com/lincoln/dissertation.dvi.Z" 
+}
+
+@Article{Lincoln92sigact,
+  author       = "Patrick Lincoln",
+  title        = "Linear Logic",
+  journal      = "ACM SIGACT Notices",
+  volume       = 23,
+  number       = 2,
+  month        = "Spring",
+  year         = 1992,
+  pages        = "29--37",
+  urldvi       = "http://www.csl.sri.com/lincoln/sigact92.dvi.Z" 
+}
+
+@InCollection{Lincoln94ll,
+  author       = "Patrick Lincoln",
+  title        = "Deciding Provability of Linear Logic Formulas",
+  booktitle    = "Advances in Linear Logic",
+  pages        = "109--122",
+  editor       = "J.-Y. Girard and Y. Lafont and L. Regnier",
+  year         = 1995,
+  publisher    = "Cambridge University Press",
+  note         = "Proceedings of the Workshop on Linear Logic, Ithaca,
+		  New York, June 1993"
+}
+
+@Inproceedings{Lincoln92lics, 
+  author       = "Patrick Lincoln and John Mitchell",  
+  title        = "Operational Aspects of Linear Lambda Calculus",
+  booktitle    = "Seventh Annual Symposium on Logic in
+                  Computer Science", 
+  address      = "Santa Cruz, California",
+  month        = jun,
+  year         = 1992,  
+  pages        = "235--246",  
+  publisher    = "IEEE Computer Society Press",
+  urldvi       = "http://www.csl.sri.com/lincoln/lics92.dvi.Z"   
+}
+
+@InCollection{Lincoln94,
+  author       = "Patrick Lincoln and John Mitchell and Andre Scedrov",
+  title        = "Stochastic Interaction and Linear Logic",
+  booktitle    = "Advances in Linear Logic",
+  pages        = "147--166",
+  editor       = "J.-Y. Girard and Y. Lafont and L. Regnier",
+  year         = 1995,
+  publisher    = "Cambridge University Press",
+  note         = "Proceedings of the Workshop on Linear Logic, Ithaca,
+		  New York, June 1993",
+  urlps        = "ftp://ftp.cis.upenn.edu/pub/papers/scedrov/ipcup.ps.Z",
+  urldvi       = "ftp://ftp.cis.upenn.edu/pub/papers/scedrov/ipcup.dvi.Z"
+}
+
+@Article{Lincoln90,
+  author       = "Patrick Lincoln and John Mitchell and Andre Scedrov and
+		  Natarajan Shankar",
+  title        = "Decision Problems for Propositional Linear Logic",
+  journal      = "Annals of Pure and Applied Logic",
+  year         = 1992,
+  volume       = 56,
+  pages        = "239--311",
+  month        = apr,
+  note         = "Also in the Proceedings of the 31th Annual Symposium
+		  on Foundations of Computer Science, St Louis,
+		  Missouri, October 1990, IEEE Computer Society Press.
+                  Also available as Technical Report
+		  SRI-CSL-90-08 from SRI International, Computer
+		  Science Laboratory",
+  urldvi       = "http://www.csl.sri.com/lincoln/focs90.dvi.Z"
+}
+
+@Unpublished{Lincoln93unb,
+  author       = "Patrick Lincoln and Vijay Saraswat",
+  title        = "Higher-order, linear, concurrent constraint programming",
+  note         = "Manuscript",
+  year         = 1993,
+  month        = jan,
+  urldvi       = "file://parcftp.xerox.com/pub/ccp/lcc/hlcc.dvi"
+}
+
+@Article{Lincoln94tcs,
+  author       = "Patrick Lincoln and Andre Scedrov",
+  title        = "First Order Linear Logic without Modalities is
+		  {NEXPTIME}-Hard",
+  journal      = "Theoretical Computer Science",
+  volume       = 135,
+  number       = 1,
+  pages        = "139--154",
+  year         = 1994,
+  urlps        = "ftp://ftp.cis.upenn.edu/pub/papers/scedrov/mall1.ps.Z",
+  urldvi       = "ftp://ftp.cis.upenn.edu/pub/papers/scedrov/mall1.dvi.Z",
+  url2         = "ftp://www.csl.sri.com/lincoln/mall1.dvi.Z" 
+}
+
+@Article{Lincoln91,
+  author       = "Patrick Lincoln and Andre Scedrov and Natarajan Shankar",
+  title        = "Linearizing Intuitionistic Implication",
+  journal      = "Annals of Pure and Applied Logic",
+  year         = 1993,
+  volume       = 60,
+  pages        = "151--177",
+  note         = "Preliminary version in {\em Sixth Annual Symposium
+		  on Logic in Computer Science}, pages 51--62,
+		  Amsterdam, The Netherlands, July 1991",
+  urlps        = "ftp://ftp.cis.upenn.edu/pub/papers/scedrov/lss91.ps.Z",
+  urldvi       = "ftp://ftp.cis.upenn.edu/pub/papers/scedrov/lss91.dvi.Z",
+  url2	       = "ftp://www.csl.sri.com/lincoln/lics91.dvi.Z"
+}
+
+@InProceedings{Lincoln95lics,
+  author       = "Patrick Lincoln and Andre Scedrov and Natarajan Shankar",
+  title        = "Decision Problems For Second Order Linear Logic",
+  booktitle    = "Tenth Annual IEEE Symposium on Logic in Computer
+		  Science",
+  editor       = "D. Kozen",
+  pages        = "476--485",
+  address      = "San Diego, California",
+  month        = jun,
+  year         = 1995,
+  urlps        = "ftp://ftp.cis.upenn.edu/pub/papers/scedrov/LICS95.ps.Z", 
+  urldvi       = "ftp://ftp.cis.upenn.edu/pub/papers/scedrov/LICS95.dvi.Z"
+}
+
+@InProceedings{Lincoln94lics,
+  author       = "Patrick Lincoln and  Natarajan Shankar",
+  title        = "Proof Search in First-order Linear Logic and Other Cut-free
+		  Sequent Calculi",
+  booktitle    = "Ninth Annual Symposium on Logic in Computer
+		  Science",
+  editor       = "S. Abramsky",
+  publisher    = "IEEE Computer Society Press",
+  pages        = "282--291",
+  year         = 1994,
+  address      = "Paris, France",
+  urldvi       = "ftp://www.csl.sri.com/lincoln/lics94.dvi.Z"
+}
+
+@Unpublished{Lincoln90misc,
+  author       = "Patrick Lincoln and  Natarajan Shankar",
+  title        = "The Complexity of Cut Elimination in a fragment of
+		  Linear Logic",
+  note         = "Manuscript",
+  year         = 1990
+}
+
+@Article{Lincoln92un,
+  author       = "Patrick Lincoln and Timothy Winkler",
+  title        = "Constant-Only Multiplicative Linear Logic is {NP}-Complete",
+  journal      = "Theoretical Computer Science",
+  volume       = "135",
+  pages        = "155--169", 
+  year         = 1994,
+  urldvi       = "ftp://www.csl.sri.com/pub/lincoln/comult-npc.dvi.Z"  
+}
+
+@Unpublished{Lincoln96un,
+  author       = "Patrick Lincoln and John Mitchell and Andre Scedrov",
+  title        = "Linear Logic Proof Games and Optimization",
+  note         = "Manuscript",
+  year         = 1996,
+  month        = jan,
+  urlps        = "ftp://ftp.cis.upenn.edu/pub/papers/scedrov/approx.ps.Z",
+  urldvi       = "ftp://ftp.cis.upenn.edu/pub/papers/scedrov/approx.dvi.Z"
+}
+
+@InProceedings{Loader94lics,
+  author       = "Ralph Loader",
+  title        = "Linear Logic, Totality and Full Completeness",
+  booktitle    = "Ninth Annual Symposium on Logic in Computer
+		  Science",
+  editor       = "S. Abramsky",
+  publisher    = "IEEE Computer Society Press",
+  pages        = "292--298",
+  year         = 1994,
+  address      = "Paris, France"
+}
+
+@MastersThesis{Mackie91,
+  author       = "Ian Mackie",
+  title        = "{Lilac} --- A Functional Programming Language Based on
+		  Linear Logic",
+  school       = "Imperial College, London",
+  year         = 1991,
+  urldvi       = "file://theory.doc.ic.ac.uk/theory/papers/Mackie/MScThesis.dvi.gz"  
+}
+
+@Article{Mackie93jfp,
+  author       = "Ian Mackie",
+  title        = "{Lilac} --- A Functional Programming Language Based on
+		  Linear Logic",
+  journal      = "Journal of Functional Programming",
+  volume       = 4,
+  number       = 4,
+  pages        = "395--433",
+  year         = 1993,
+  publisher    = "Cambridge University Press",
+  urldvi       = "file://theory.doc.ic.ac.uk/theory/papers/Mackie/fplboll.dvi.gz"  
+}
+
+@Unpublished{Mackie93un,
+  author       = "Ian Mackie",
+  title        = "{$\lambda$}-Calculus, Linear Logic and the
+		  {$\pi$}-Calculus: A Survey",
+  year         = 1993,
+  month        = feb,
+  note         = "Manuscript" 
+}
+
+@Unpublished{Malacaria90,
+  author       = "Pasquale Malacaria and Laurent Regnier",
+  title        = "The Weak Nilpotency of $\lambda$-calculus",
+  note         = "Manuscript",
+  month        = may,
+  year         = 1990  
+}
+
+@Inproceedings{Malacaria91,
+  author       = "Pasquale Malacaria and Laurent Regnier",
+  title        = "Some Results on the Interpretation of
+		  $\lambda$-Calculus in Operator Algebras",
+  booktitle    = "Sixth Symposium on Logic in Computer Science",
+  year         = 1991,
+  month        = jul,
+  pages        = "63--72",
+  publisher    = "IEEE Computer Society Press",
+  note         = "Amsterdam, The Netherlands",
+  urldvi       = "file://theory.doc.ic.ac.uk/theory/papers/Malacaria/wnilp.dvi.gz"  
+}
+
+@Unpublished{Martini92,
+  author       = "Simone Martini and Andrea Masini",
+  title        = "An exponential-free interpretation of classical
+		  logic into linear logic",
+  note         = "Manuscript",
+  year         = 1992
+}
+
+@Article{Martini94jsl,
+  author       = "Simone Martini and Andrea Masini",
+  title        = "A Modal View of Linear Logic",
+  journal      = "Journal of Symbolic Logic",
+  year         = 1994,
+  volume       = 59,
+  number       = 3,
+  pages        = "888--899",
+  urlps        = "file://ftp.di.unipi.it/pub/Papers/martini/modviewll.ps.Z"
+}
+
+@Unpublished{Martini95,
+  author       = "Simone Martini and Andrea Masini",
+  title        = "Experiments in linear natural deduction",
+  note         = "Manuscript",
+  year         = 1995,
+  month        = mar,
+  urlps        = "file://ftp.di.unipi.it/pub/Papers/martini/exp-nat-ded.ps.gz",
+  urldvi       = "file://ftp.di.unipi.it/pub/Papers/martini/exp-nat-ded.dvi.gz"
+}
+
+@InCollection{Martini95wll,
+  author       = "Simone Martini and Andrea Masini",
+  title        = "On the Fine Structure of the Exponential Rule",
+  booktitle    = "Advances in Linear Logic",
+  editor       = "J.-Y. Girard and Y. Lafont and L. Regnier",
+  year         = 1995,
+  pages        = "197--210",
+  publisher    = "Cambridge University Press",
+  note         = "Proceedings of the Workshop on Linear Logic, Ithaca,
+		  New York, June 1993",
+  urlps        = "file://ftp.di.unipi.it/pub/Papers/martini/on-the-fine-struct-of-exp-rule.ps.gz"
+}
+
+@Inproceedings{Martioliet89,
+  author       = "N. Mart{\'\i}-Oliet and J. Meseguer",
+  title        = "From {P}etri Nets to Linear Logic",
+  booktitle    = "Proceedings of the Conference on Category Theory and
+		  Computer Science",
+  address      = "Manchester, United Kingdom",
+  month	       = sep,
+  year         = 1989,
+  editor       = "P. Dybjer and A. M. Pitts and D. H. Pitt and
+		  A. Poign{\'{e}} and D. E. Rydeheard",
+  pages        = "313--340",
+  series       = "Springer-Verlag LNCS 389"  
+}
+
+@Article{Martioliet91jfcs,
+  author       = "N. Mart{\'\i}-Oliet and J. Meseguer",
+  title        = "From {Petri} Nets to Linear Logic through
+		  Categories: A Survey",
+  journal      = "Journal on Foundations of Computer Science",
+  year         = 1991,
+  volume       = 2,
+  number       = 4,
+  pages        = "297--399",
+  month        = dec
+}
+
+@Article{Martioliet91mscs,
+  author       = "N. Mart{\'\i}-Oliet and J. Meseguer",
+  title        = "From {P}etri Nets to Linear Logic",
+  journal      = "Mathematical Structures in Computer Science",
+  year         = 1991,
+  volume       = 1,
+  pages        = "66--101",
+  note         = "Revised version of paper in LNCS 389" 
+}
+
+@Inproceedings{Martioliet91tct,
+  author       = "N. Mart{\'\i}-Oliet and J. Meseguer",
+  title        = "An Algebraic Axiomatization of Linear Logic Models",
+  booktitle    = "Topology and Category Theory in Computer Science",
+  year         = 1991,
+  editor       = "G. M. Reed and A. W. Roscoe and R. F. Wachter",
+  pages        = "335--357",
+  publisher    = "Clarendon Press, Oxford",
+  note         = "Proceedings of the Oxford Topology Symposium, June 1989" 
+}
+
+@Techreport{Martioliet90tr,
+  author       = "N. Mart{\'\i}-Oliet and J. Meseguer",
+  title        = "Duality in Closed and Linear Categories",
+  institution  = "SRI International, Computer Science Laboratory",
+  type         = "Technical Report",
+  number       = "SRI-CSL-90-01",
+  year         = 1990,
+  month        = feb
+}
+
+@Article{Mascari94,
+  author       = "G. Mascari and M. Pedicini",
+  title        = "Head Linear Reduction and Pure Proof Net Extraction",
+  journal      = "Theoretical Computer Science",
+  year         = 1994,
+  volume       = 135,
+  pages        = "111--137"
+}
+
+@InProceedings{Masseron90,
+  author       = "M. Masseron and C. Tollu and J. Vauzeilles",
+  title        = "Plan Generation and Linear Logic",
+  pages        = "63--75",
+  booktitle    = "Proceedings of the Conference on Foundations of Software
+		  Technology and Theoretical Computer Science",
+  year         = 1990,
+  publisher    = "Springer-Verlag LNCS 472",
+  address      = "Bangalore, India",
+  month        = dec
+}
+
+@Article{Masseron93tcsa,
+  author       = "M. Masseron and C. Tollu and J. Vauzeilles",
+  title        = "Generating Plans in Linear Logic {I}: Actions and Proofs",
+  journal      = "Theoretical Computer Science",
+  year         = 1993,
+  volume       = 113,
+  number       = 2,
+  pages        = "349--371" 
+}
+
+@Article{Masseron93tcsb,
+  author       = "M. Masseron and C. Tollu and J. Vauzeilles",
+  title        = "Generating Plans in Linear Logic {II}: A Geometry of
+		  Conjunctive Actions",
+  journal      = "Theoretical Computer Science",
+  year         = 1993,
+  volume       = 113,
+  pages        = "371--375" 
+}
+
+@InProceedings{Masseron91,
+  author       = "M. Masseron and C. Tollu and J. Vauzeilles",
+  title        = "Planification et logique lin{\'e}aire",
+  pages        = "25--29",
+  booktitle    = "Proceedings of the 8{\`e}me Congr{\`e}s sur la
+		  Reconnaissance des Formes et Intelligence
+		  Artificielle",
+  year         = 1991,
+  publisher    = "AFCET",
+  address      = "Lyon, France",
+  month        = nov
+}
+
+@Article{Masseron92,
+  author       = "M. Masseron and C. Tollu and J. Vauzeilles",
+  title        = "Planification et logique lin{\'e}aire",
+  journal      = "Revue d'Intelligence Artificielle",
+  year         = 1992,
+  pages        = "285--311"
+}
+
+@PhdThesis{Metayer94phd,
+  author       = "F. M{\'e}tayer",
+  title        = "Une {\'e}tude homologique des r{\'e}seaux",
+  school       = "University of Paris VII",
+  year         = 1994
+}
+
+@TechReport{Metayer92tr,
+  author       = "F. M{\'e}tayer",
+  title        = "Homology of Proof-nets",
+  institution  = "{\'E}quipe de Logique Math{\'e}matique, University
+		  of Paris VII",
+  year         = 1992,
+  type         = "Preprint",
+  number       = 39
+}
+
+@Article{Metayer94aml,
+  author       = "F. M{\'e}tayer",
+  title        = "Homology of Proof-nets",
+  journal      = "Archive of Mathematical Logic",
+  year         = 1994,
+  volume       = 33,
+  pages        = "169--188"
+}
+
+@InCollection{Metayer95,
+  author       = "F. M{\'e}tayer",
+  title        = "Volume of multiplicative formulas and provability",
+  booktitle    = "Advances in Linear Logic",
+  editor       = "J.-Y. Girard and Y. Lafont and L. Regnier",
+  year         = 1995,
+  pages        = "297--306",
+  publisher    = "Cambridge University Press",
+  note         = "Proceedings of the Workshop on Linear Logic, Ithaca,
+		  New York, June 1993"
+}
+
+@PhdThesis{Mey92,
+  author       = "Daniel Mey",
+  title        = "Investigations on a Calculus without Contractions",
+  school       = "ETH Z{\"u}rich",
+  year         = 1992 
+}
+
+@Article{Mey94,
+  author       = "Daniel Mey",
+  title        = "Game-Theoretical Interpretation for a Predicate
+		  Logic without Contraction",
+  journal      = "Theoretical Computer Science",
+  volume       = 123,
+  pages        = "342--349",
+  year         = 1994 
+}
+
+@Article{Meyer73,
+  author       = "R. K. Meyer and R. Routley",
+  title        = "An Undecidable Relevant Logic",
+  journal      = "Zeitschrift f{\"u}r Mathematische Logik und Grundlagen der
+		  Mathematik",
+  year         = 1973,
+  volume       = 19,
+  pages        = "389--397" 
+}
+
+@InProceedings{Miller92,
+  author       = "Dale Miller",
+  title        = "The $\pi$-Calculus as a Theory in Linear Logic:
+		  Preliminary Results",
+  editor       = "E. Lamma and  P. Mello",
+  pages        = "242--265",
+  booktitle    = "Proceedings of the Workshop on Extensions of
+		  Logic Programming",
+  year         = 1992,
+  publisher    = "Springer-Verlag LNCS 660",
+  urlps        = "ftp://www.cis.upenn.edu/pub/papers/miller/pic.ps.Z"
+}
+
+@InProceedings{Miller94,
+  author       = "Dale Miller",
+  title        = "A Multiple-Conclusion Meta-Logic",
+  editor       = "S. Abramsky",
+  pages        = "272--281",
+  booktitle    = "Ninth Annual Symposium on Logic in Computer
+		  Science",
+  publisher    = "IEEE Computer Society Press",
+  address      = "Paris, France",
+  month	       = jul,
+  year         = 1994,
+  urlps        = "ftp://www.cis.upenn.edu/pub/papers/miller/lics94.ps.Z"
+}
+
+@Article{Miller95,
+  author       = "Dale Miller",
+  title        = "A Survey of Linear Logic Programming",
+  journal      = "Computational Logic: The Newsletter of the European Network
+		  in Computational Logic",
+  year         = 1995,
+  volume       = 2,
+  number       = 2,
+  pages        = "63--67",
+  month        = dec,
+  urlps        = "ftp://ftp.cse.psu.edu/pub/dale/ComputNet95/llsurvey.ps",
+  urldvi       = "ftp://ftp.cse.psu.edu/pub/dale/ComputNet95/llsurvey.dvi",
+  urlhtml      = "ftp://ftp.cse.psu.edu/pub/dale/ComputNet95/llsurvey.html",
+  urlpdf       = "ftp://ftp.cse.psu.edu/pub/dale/ComputNet95/llsurvey.pdf"
+}
+
+@InProceedings{Miller96lacl,
+  author       = "Dale Miller",
+  title        = "Linear Logic as Logic Programming: An Abstract",
+  editor       = "Christian Retore",
+  booktitle    = "Proceedings of the First International Conference on Logical
+		  Aspects of Computational Linguistics --- LACL'96",
+  year         = 1996,
+  address      = "Nancy, France",
+  month        = sep,
+  urlpdf       = "ftp://ftp.cse.psu.edu/pub/dale/lacl96.pdf"
+}
+
+@Article{Miller96tcs,
+  author       = "Dale Miller",
+  title        = "A Multiple-Conclusion Specification Logic",
+  journal      = "Theoretical Computer Science",
+  year         = 1996,
+  volume       = 165,
+  number       = 1,
+  pages        = "201--232",
+  urldvi       = "ftp://www.cis.upenn.edu/pub/papers/miller/tcs95.ps.Z"
+}
+
+@Unpublished{Mints91,
+  author       = "Grigori Mints",
+  title        = "Some Information on Linear Logic",
+  note         = "Manuscript",
+  year         = 1991 
+}
+
+@Article{Mints93,
+  author       = "Grigori Mints",
+  title        = "Resolution Calculus for the First Order Linear Logic",
+  journal      = "Journal of Logic, Language and Information",
+  year         = 1993,
+  volume       = 2,
+  number       = 1,
+  pages        = "59--83"
+}
+
+@Article{Monteiro94,
+  author       = "E. Monteiro",
+  title        = "Linear Logic as {CSP}",
+  journal      = "Journal of Logic and Computation",
+  year         = 1994,
+  volume       = 4,
+  number       = 4,
+  pages        = "405--421" 
+}
+
+@InProceedings{Murthy92lics,
+  author       = "C. R. Murthy",
+  title        = "A Computational Analysis of {G}irard's translation
+		  and {LC}",
+  booktitle    = "Seventh Annual Symposium on Logic in
+                  Computer Science", 
+  address      = "Santa Cruz, California",
+  month        = jun,
+  year         = 1992,  
+  pages        = "90--101",  
+  publisher    = "IEEE Computer Society Press",
+}
+
+@Article{Negri95mscs,
+  author       = "Sara Negri",
+  title        = "Semantical observations on the embedding of 
+                  Intuitionistic Logic into Intuitionistic Linear Logic",
+  journal      = "Mathematical Structures in  Computer Science",
+  year         = 1995,
+  volume       = 5,
+  pages        = "41--68",
+  urldvi       = "http://universe.pc.helsinki.fi/~sara/articles.html/semobs.dvi"
+}
+
+@Article{Niefield88,
+  author       = "S. B. Niefield and K. I. Rosenthal",
+  title        = "Constructing Locales from Quantales",
+  journal      = "Mathematical Proceedings of the Cambridge
+		  Philosophical Society",
+  year         = 1988,
+  volume       = 104,
+  pages        = "215--234"
+}
+
+@InProceedings{Nishizaki91,
+  author       = "S. Nishizaki",
+  title        = "Programs with Continuations and Linear Logic",
+  editor       = "T. Ito and A. R. Meyer",
+  booktitle    = "Theoretical Aspects of Computer Software",
+  year         = 1991,
+  publisher    = "Springer-Verlag LNCS 526",
+  address      = "Sendai, Japan",
+  month        = sep
+}
+
+@Inproceedings{OHearn91,
+  author       = "P. W. O'Hearn",
+  title        = "Linear Logic and Interference Control: Preliminary Report",
+  booktitle    = "Proceedings of the Conference on Category Theory and
+		  Computer Science", 
+  address      = "Paris, France",
+  year         = 1991,
+  editor       = "S. Abramsky and P.-L. Curien and A. M. Pitts
+		  D. H. Pitt and and A. Poign{\'e} and
+		  D. E. Rydeheard",
+  pages        = "74--93",
+  publisher    = "Springer-Verlag LNCS 530"
+}
+
+@TechReport{Okada93,
+  author       = "M. Okada",
+  title        = "Mobile Linear Logic as a Framework for Asynchronous
+		  and Synchronous Mobile Communication Calculi",
+  institution  = "Concordia University",
+  number       = "??",
+  year         = 1993,
+  month        = feb
+}
+
+@Unpublished{Okada94,
+  author       = "M. Okada",
+  title        = "Girard's Phase Semantics and a Higher Order 
+		  Cut-Elimination Proof",
+  note         = "unpublished manuscript", 
+  year         = 1994,
+  urldvi       = "ftp://iml.univ-mrs.fr/pub/okada/PhaseCutElimi.dvi.Z"
+}
+
+@Unpublished{Ono89,
+  author       = "Hiroakira Ono",
+  title        = "Algebraic Aspects of Logics without Structural Rules",
+  note         = "Manuscript",
+  year         = 1989,
+  remark       = "{\em to be published in the proceedings of the
+		  Malcev Conference, Novosibirsk 1989}"
+}
+
+@Inproceedings{Ono90ss,
+  author       = "Hiroakira Ono",
+  title        = "Structural Rules and a Logical Hierarchy",
+  booktitle    = "Mathematical Logic",
+  year         = 1990,
+  editor       = "P. P. Petkov",
+  pages        = "95--104",
+  publisher    = "Plenum Press",
+  note         = "Proceedings of the Summer School and Conference on
+		  Mathematical Logic, honourably dedicated to the 90th
+		  Anniversary of {A}rend {H}eyting (1898--1980), Chaika,
+		  Bulgaria, 1988"
+}
+
+@Unpublished{Ono90un,
+  author       = "Hiroakira Ono",
+  title        = "Phase Structures and Quantales - a Semantical Study of
+		  Logics without Structural Rules",
+  note         = "Manuscript",
+  year         = 1990,
+  remark       = "Lecture delivered at the conference {\em Logics with
+		  Restricted Structural Rules}, University of {T{\"u}bingen},
+		  October 1990"
+}
+
+@TechReport{Pentus93,
+  author       = "Mati Pentus",
+  title        = "The Conjoinability Relation in {L}ambek Calculus and Linear
+		  Logic",
+  institution  = "University of Amsterdam",
+  year         = 1993,
+  type         = "ILLC",
+  number       = "ML-93-03"
+}
+
+@Unpublished{Pentus92,
+  author       = "Mati Pentus",
+  title        = "Equivalent Types in {L}ambek calculus and Linear
+		  Logic",
+  note         = "Manuscript",
+  year         = 1992
+}
+
+@PhdThesis{Perrier95phd,
+  author       = "Guy Perrier",
+  title        = "De la Construction de Preuves \`a la Programmation
+		  Parall\`ele en Logique Lin\'eaire",
+  school       = "Universit\'e Henri Poincar\'e",
+  year         = 1995,
+  urlps        = "http://www.loria.fr/~perrier/these.ps"
+}
+
+@Article{Perrier97,
+  author       = "Guy Perrier",
+  title        = "Concurrent Programming as Proof Net Construction",
+  journal      = "Mathematical Structures in Computer Science",
+  year         = 1997,
+  volume       = 00,
+  pages        = "1--50",
+  urlps        = "http://www.loria.fr/~perrier/luminy96.ps"
+}
+
+@TechReport{Pfenning94,
+  author       = "Frank Pfenning",
+  title        = "Structural Cut Elimination in Linear Logic",
+  institution  = "Carnegie Mellon University",
+  year         = 1994,
+  number       = "CMU-CS-94-222",
+  address      = "Department of Computer Science",
+  month        = dec,
+  urlps        = "http://www.cs.cmu.edu/afs/cs/usr/fp/public/elf-papers/cutlin94.ps.Z"
+}
+
+@Article{Peters94,
+  author       = "J. F. {Peters III}",
+  title        = "Timed Linear logic and neural computation",
+  journal      = "Informatica y Automatica",
+  year         = 1994,
+  volume       = 27,
+  pages        = "5--18"
+}
+
+@PhdThesis{Piazza95phd,
+  author       = "Mario Piazza",
+  title        = "Derivability of Structural Rules in the
+		  Multiplicative Fragment of Linear Logic",
+  school       = "University of Genoa",
+  year         = 1995,
+  note         = "(In Italian)"
+}
+
+@Article{Piazza96jlc,
+  author       = "Mario Piazza and M. Castellan",
+  title        = "Quantales and Structural Rules",
+  journal      = "Journal of Logic and Computation",
+  year         = 1996,
+  volume       = 6,
+  number       = 5,
+  pages        = "709--724"
+}
+
+@Article{Pliushkevichus65,
+  author       = "R. Pliushkevichus",
+  title        = "On a Version of the Constructive Predicate Calculus
+		  Without Structural Rules",
+  journal      = "Soviet Math. Doklady",
+  year         = 1965,
+  volume       = 6,
+  pages        = "416--419"
+}
+
+@Unpublished{Plotkin93un1,
+  author       = "Gordon D. Plotkin",
+  title        = "Notes on the {C}hu construction and Recursion",
+  note         = "Manuscript",
+  month        = aug,
+  year         = 1993,
+  urlps        = "file://boole.stanford.edu/pub/gdp.ps.gz"
+}
+
+@Unpublished{Plotkin93un2,
+  author       = "Gordon D. Plotkin",
+  title        = "Notes on Event Structures and {C}hu",
+  note         = "Manuscript",
+  month        = aug,
+  year         = 1993,
+  urlps        = "file://boole.stanford.edu/pub/gdp2.ps.gz"
+}
+
+@Inproceedings{Pratt91,
+  author       = "Vaughan R. Pratt",
+  title        = "Event spaces and their linear logic",
+  booktitle    = "Proceedings of the Workshop on Algebraic Methodology and
+		  Software Technology",
+  address      = "Iowa City, Iowa",
+  publisher    = "Springer-Verlag",  
+  year         = 1991, 
+  pages        = "1--23",
+  urlps        = "file://boole.stanford.edu/pub/es.ps.Z"
+} 
+
+@InProceedings{Pratt92concur,
+  author       = "Vaughan R. Pratt",
+  title        = "The Duality of Time and Information",
+  booktitle    = "Proceedings of the Third International Conference on
+		  Concurrent Theory",
+  editor       = "W. Cleaveland",
+  pages        = "237--253",
+  publisher    = "Springer-Verlag LNCS 630",
+  address      = "Stonybrook, New York",
+  month        = aug,
+  year         = 1992,
+  urlps        = "file://boole.stanford.edu/pub/dti.ps.gz"
+}
+
+@InProceedings{Pratt93mfcs,
+  author       = "Vaughan R. Pratt",
+  title        = "The Second Calculus of Binary Relations",
+  booktitle    = "Mathematical Foundations of Computer Science",
+  editor       = "A. M. Borzyszkowski and S. Sokolowski",
+  address      = "Gda{\'n}sk, Poland",
+  pages        = "142--155",
+  publisher    = "Springer-Verlag LNCS 781",
+  year         = 1993,
+  urlps        = "file://boole.stanford.edu/pub/scbr.ps.gz"
+}
+
+@InProceedings{Pratt93phys,
+  author       = "Vaughan R. Pratt",
+  title        = "Linear Logic for Generalized Quantum Mechanics",
+  booktitle    = "Proceedings of the  Workshop on Physics and
+		  Computation",
+  pages        = "166--180",
+  address      = "Dallas, Texas",
+  publisher    = "IEEE Press",
+  year         = 1992,
+  month        = oct,
+  urlps        = "file://boole.stanford.edu/pub/ql.ps.gz"
+}
+
+@Unpublished{Pratt94tempus,
+  author       = "Vaughan R. Pratt",
+  title        = "{C}hu Spaces: Complementarity and Uncertainty in Rational
+                  Mechanics",
+  note         = "Course notes, TEMPUS summer school, 35pp",
+  address      = "Budapest, Hungary",
+  year         = 1994,
+  urlps        = "file://boole.stanford.edu/pub/bud.ps.gz"
+}
+
+@InProceedings{Pratt94phys,
+  author       = "Vaughan R. Pratt",
+  title        = "{C}hu Spaces: Automata with Quantum Aspects",
+  booktitle    = "Proc. Workshop on Physics and Computation -- PHYSCOMP'94",
+  address      = "Dallas, Texas",
+  publisher    = "{IEEE}",
+  year         = 1994,
+  urlps        = "file://boole.stanford.edu/pub/ph94.ps.gz"
+}
+
+@Unpublished{Pratt94un,
+  author       = "Vaughan R. Pratt",
+  title        = "Shorter proof of universality of {C}hu spaces",
+  school       = "Stanford University",
+  note         = "Manuscript",
+  month        = aug,
+  year         = 1994,
+  urlps        = "file://boole.stanford.edu/pub/uni.ps.gz"
+}
+
+@InProceedings{Pratt94tppp,
+  author       = "Vaughan R. Pratt",
+  title        = "Time and Information in Sequential and Concurrent
+		  Computation",
+  booktitle    = "Proceedings of the conference on Theory and Practice
+		  of Parallel Programming -- TPPP'94",
+  address      = "Sendai, Japan",
+  month        = nov,
+  year         = 1994,
+  urlps        = "file://boole.stanford.edu/pub/tppp.ps.gz"
+}
+
+@InProceedings{Pratt95tapsoft,
+  author       = "Vaughan R. Pratt",
+  title        = "Rational Mechanics and Natural Mathematics",
+  booktitle    = "Proceedings of the Conference on Theory and Practice
+		  of Software Development -- TAPSOFT'95",
+  pages        = "108--122",
+  address      = "Aarhus, Denmark",
+  year         = 1995,
+  urlps        = "file://boole.stanford.edu/pub/ratmech.ps.gz"
+}
+
+@InProceedings{Pratt95lics,
+  author       = "Vaughan R. Pratt",
+  title        = "The Stone Gamut: A Coordinatization of Mathematics",
+  booktitle    = "Tenth Annual Symposium on Logic in Computer Science",
+  address      = "San Diego, California",
+  pages        = "444--454",
+  month        = jun,
+  publisher    = "IEEE Computer Society",
+  year         = 1995,
+  urlps        = "file://boole.stanford.edu/pub/gamut.ps.gz"
+}
+
+@InCollection{Pratt95cst,
+  Author       = "Vaughan R. Pratt",
+  Title        = "{Chu} Spaces and their Interpretation as Concurrent
+		  Objects", 
+  Booktitle    = "Computer Science Today: Recent Trends and Developments",
+  Pages        = "392--405", 
+  Editor       = "J. van Leeuwen",
+  Publisher    = "Springer-Verlag LNCS 1000",
+  Year         = "1995"
+}
+
+@InProceedings{Pratt96Tokyo,
+  Author       = "Vaughan R. Pratt",
+  Title        = "Broadening the Denotational Semantics of Linear Logic",
+  booktitle    = "Proceedings of Tokyo Conference on Linear Logic",
+  volume       = 3,
+  address      = "Tokyo, Japan",
+  series       = "Electronic Notes in Computer Science",
+  publisher    = "Elsevier",
+  year         = 1996,
+  note         = "To appear"
+}
+
+@Unpublished{Pravato95,
+  author       = "Alberto Pravato and Luca Roversi",
+  title        = "{Lambda}! considered both as a paradigmatic language
+		  and as a meta-language",
+  note         = "Manuscript",
+  year         = 1995,
+  urlps        = "ftp://pianeta.di.unito.it/pub/LAMBDA/ronchi/LBang.ps"
+}
+
+@Unpublished{Prijatelj91,
+  author       = "A. Prijatelj and Harold Schellinx",
+  title        = "A Note on Embeddings of Intuitionistic Logic into Classical
+		  Linear Logic",
+  note         = "Manuscript",
+  year         = 1991,
+  month        = jul
+}
+
+@PhdThesis{Prijatelj95tr,
+  author       = "A. Prijatelj",
+  title        = "Investigating Bounded Contraction",
+  school       = "Institute for Logic, Language and Computation,
+		  University of Amsterdam",
+  year         = 1995
+}
+
+@Article{Prijatelj95jpl,
+  author       = "A. Prijatelj",
+  title        = "Reflections on `difficult' embeddings",
+  journal      = "Journal of Philosophical Logic",
+  year         = 1995,
+  volume       = 24,
+  pages        = "71--84"
+}
+
+@PhdThesis{Quatrini95phd,
+  author       = "M. Quatrini",
+  title        = "S{\'e}mantique coh{\'e}rente des exponentielles: de
+		  la logique lin{\'e}aire {\`a} la logique classique",
+  school       = "University of Aix-Marseille II",
+  year         = 1995
+}
+
+@Unpublished{Reddy91,
+  author       = "Udday S. Reddy",
+  title        = "Acceptors as values: Functional programming in
+		  classical linear logic",
+  note         = "Manuscript",
+  year         = 1991,
+  month        = dec,
+  urlps        = "file://cs.uiuc.edu/pub/reddy/papers/acceptors.ps.Z",
+  urldvi       = "file://cs.uiuc.edu/pub/reddy/papers/acceptors.dvi"
+}
+
+@Unpublished{Reddy93,
+  author       = "Udday S. Reddy",
+  title        = "Linear Logic Model of State",
+  note         = "Manuscript",
+  year         = 1993,
+  month        = oct,
+  urlps        = "file://cs.uiuc.edu/pub/reddy/papers/state.full.ps.Z"
+}
+
+@InProceedings{Reddy93lnai,
+  author       = "Udday S. Reddy",
+  title        = "A typed foundation for directional logic programming",
+  editor       = "E. Lamma and P. Mello",
+  pages        = "150--167",
+  booktitle    = "Third International Workshop on Extensions of logic
+		  programming",
+  address      = "Bologna, Italy",
+  year         = 1993,
+  publisher    = "Springer-Verlag LNAI 660",
+  urlps        = "ftp://cs.uiuc.edu/pub/reddy/papers/directional.ps.Z",
+  urldvi       = "ftp://cs.uiuc.edu/pub/reddy/papers/directional.dvi"
+}
+
+@Unpublished{Regnier89,
+  author       = "Laurent Regnier",
+  title        = "Lambda-Calculus and Its Dynamic Algebra {II}: Computations",
+  note         = "Manuscript",
+  month        = jul,
+  year         = 1989
+}
+
+@PhdThesis{Regnier92,
+  author       = "Laurent Regnier",
+  title        = "$\lambda$-Calcul et R{\'e}seaux",
+  school       = "University of Paris {VII}",
+  year         = 1992,
+  urlps        = "file://lmd.univ-mrs.fr/pub/regnier/these.ps.Z"
+}
+
+@Unpublished{Retore90,
+  author       = "Christian Retor{\'e}",
+  title        = "A First Move from Non-Commutative Linear Logic to True
+		  Concurrency: the Calculus of Ordered Sequents",
+  note         = "Manuscript",
+  year         = 1990
+}
+
+@PhdThesis{Retore93phd,
+  author       = "Christian Retor{\'e}",
+  title        = "R{\'e}seaux and S{\'e}quents Ordonn{\'e}s",
+  school       = "University of Paris VII",
+  year         = 1993
+}
+
+@TechReport{Retore93tr,
+  author       = "Christian Retor{\'e}",
+  title        = "Graph Theory from Linear Logic: Aggregates",
+  institution  = "{\'E}quipe de Logique Math{\'e}matique, University of
+		  Paris {VII}",
+  year         = 1993,
+  number       = 47,
+  month        = oct,
+  type         = "Preprint"
+}
+
+@Unpublished{Retore94,
+  author       = "Christian Retor{\'e}",
+  title        = "On the Relation between Coherence Semantics and
+		  Multiplicative Proof Nets",
+  note         = "Manuscript",
+  year         = 1994
+}
+
+@TechReport{Roorda89,
+  author       = "Dirk Roorda",
+  title        = "Investigations into Classical Linear Logic",
+  institution  = "University of Amsterdam",
+  type         = "ITLI-Prepublication Series for Mathematical Logic
+		  and Foundations",
+  number       = "ML-89-06",
+  year         = 1989
+}
+
+@Unpublished{Roorda90,
+  author       = "Dirk Roorda",
+  title        = "Quantum Graphs and Proof Nets",
+  note         = "Manuscript",
+  year         = 1990
+}
+
+@Phdthesis{Roorda91,
+  author       = "Dirk Roorda",
+  title        = "Resource Logics: Proof-theoretical Investigations",
+  school       = "University of Amsterdam",
+  year         = 1991,
+  month        = sep,
+}
+
+@Article{Roorda92jlc,
+  author       = "Dirk Roorda",
+  title        = "Proof Nets for {L}ambek Calculus",
+  journal      = "Journal of Logic and Computation",
+  year         = 1992,
+  volume       = 2,
+  pages        = "211--231"
+}
+
+@Article{Roorda94jsl,
+  author       = "Dirk Roorda",
+  title        = "Interpolation in Fragments of Classical Linear Logic",
+  journal      = "Journal of Symbolic Logic",
+  year         = 1994,
+  volume       = 59,
+  number       = 2,
+  pages        = "419--444"
+}
+
+@InProceedings{Ronchi94,
+  author       = "Simona {Ronchi della Rocca} and Luca Roversi",
+  title        = "Lambda Calculus and Intuitionistic Linear Logic",
+  booktitle    = "Logic Colloquium '94",
+  year         = 1994,
+  address      = "Clermont Ferrand, France",
+  urlps        = "ftp://pianeta.di.unito.it/pub/LAMBDA/ronchi/LinearLambdaC.ps"
+}
+
+@Article{Rosenthal90,
+  author       = "K. I. Rosenthal",
+  title        = "A Note on {G}irard's Quantales",
+  journal      = "Cahiers de G{\'e}om{\'e}try diff{\'e}rentielle
+		  Cat{\'e}gorique",
+  year         = 1990,
+  volume       = 31,
+  pages        = "1--11"
+}
+
+@Book{Rosenthal90book,
+  author       = "K. I. Rosenthal",
+  title        = "Quantales and their Applications",
+  publisher    = "Longman Scientific \& Technical",
+  year         = 1990,
+  note         = "Pitman Research Notes in Mathematics Series 234"
+}
+
+@Article{Rosenthal92mscs,
+  author       = "K. I. Rosenthal",
+  title        = "{G}irard Quantaloids",
+  journal      = "Mathematical Structures in Computer Science",
+  year         = 1992,
+  volume       = 2,
+  number       = 1,
+  pages        = "93--108"
+}
+
+@InProceedings{Roversi92,
+  author       = "Luca Roversi",
+  title        = "A Compiler from {Curry}-Typed $\lambda$-terms to the
+		  Linear {$\lambda$}-Terms",
+  booktitle    = "Proceedings of the Fourth Italian Conference
+		  Theoretical Computer Science",
+  editor       = "P. Mentrasti and M. Venturini Zilli",
+  address      = "L'aquila, Italy",
+  year         = 1992,
+  pages        = "330--344",
+  publisher    = "World Scientific Publishing Company"
+}
+
+@InProceedings{Ruet96,
+  author       = "Paul Ruet",
+  title        = "Non-commutative Linear Logic with Mobilities",
+  booktitle    = "Proceedings of Logic Colloquium '96",
+  year         = "1996",
+  month        = "June",
+  pages        = "274--275",
+  urlps        = "http://www.dmi.ens.fr/~ruet/PAPIERS/nll4.ps"
+}
+
+@TechReport{Ruet97,
+  author       = "Paul Ruet",
+  title        = "Phase Semantics for Mixed Non-Commutative Classical
+		  Linear Logic",
+  institution  = "LIENS",
+  year         = 1997,
+  urlps        = "http://www.dmi.ens.fr/~ruet/PAPIERS/phnll.ps"
+}
+
+@PhdThesis{Ruet97phd,
+  author       = "Paul Ruet",
+  title        = "Non-Commutative Logic and Concurrent Constraint
+		  Programming",
+  school       = "Universit\'e Denis Diderot, Paris 7",
+  year         = 1997,
+  urlps        = "http://www.dmi.ens.fr/~ruet/PAPIERS/these.ps"
+}
+
+@InProceedings{Runciman91,
+  author       = "Colin Runciman and David Wakeling",
+  title        = "Linearity and Laziness",
+  booktitle    = "Proceedings of the Fifth ACM Conference on
+		  Functional Programming Languages and Computer
+		  Architecture",
+  editor       = "J. Hughes",
+  year         = 1991,
+  pages        = "215--240",
+  publisher    = "Springer-Verlag LNCS 666",
+  address      = "Cambridge, Massachusetts"
+}
+
+@Inproceedings{Sambin90,
+  author       = "Giovanni Sambin",
+  title        = "Intuitionistic Formal Spaces and their Neighbourhood",
+  booktitle    = "Logic Colloquium '88",
+  year         = 1989,
+  editor       = "C. Bonotto and R. Ferro and S. Valentini and A. Zanardo",
+  pages        = "261--286",
+  publisher    = "North-Holland"
+}
+
+@Unpublished{Saraswat93una,
+  author       = "Vijay Saraswat",
+  title        = "A Brief Introduction to Linear Concurrent Constraint
+		  Programming",
+  note         = "Manuscript",
+  year         = 1993,
+  urldvi       = "file://parcftp.xerox.com/pub/ccp/lcc/lcc-intro.dvi.Z"
+}
+
+@Inproceedings{Scedrov93,
+  author       = "Andre Scedrov",
+  title        = "A Brief Guide to Linear Logic",
+  booktitle    = "Current Trends in Theoretical Computer Science",
+  editor       = "G. Rozenberg and A. Salomaa",
+  publisher    = "World Scientific Publishing Company",
+  year         = 1993, 
+  pages        = "377--394",
+  note         = "Also in Bulletin of the European Association for
+		  Theoretical Computer Science, volume 41, pages 154--165",
+  urldvi       = "file://ftp.cis.upenn.edu/pub/papers/scedrov/guide.dvi.Z"
+}
+
+@Inproceedings{Scedrov94, 
+  author       = "Andre Scedrov",
+  title        = "Linear Logic and Computation: A Survey",
+  booktitle    = "Proceedings of the International Summer School of 
+		  Marktoberdorf", 
+  pages        = "??--??",
+  editor       = "L. F. Bauer and W. Brauer and H. Schwichtenberg", 
+  publisher    = "Springer-Verlag",
+  series       = "NATO Advanced Science Institutes, series F94",
+  year         = 1994, 
+  urldvi       = "file://ftp.cis.upenn.edu/pub/papers/scedrov/mdorf93.dvi.Z"
+}
+
+@Article{Schellinx91jlc,
+  author       = "Harold Schellinx",
+  title        = "Some Syntactical Observations on Linear Logic",
+  journal      = "Journal of Logic and Computation",
+  year         = 1991,
+  volume       = 1,
+  number       = 4,
+  pages        = "537--559"
+}
+
+@Unpublished{Schellinx91un,
+  author       = "Harold Schellinx",
+  title        = "Introducing: {``Linear $\ldots$ Logic $\ldots$!?!''}",
+  note         = "Manuscript",
+  month        = sep,
+  year         = 1991,
+  urlps        = "ftp://boole.logique.jussieu.fr/pub/scratch/HIEPER/introductie.ps.Z"
+}
+
+@InProceedings{Schellinx93,
+  author       = "Harold Schellinx",
+  title        = "A Linear Approach to Modal Proof Theory",
+  booktitle    = "Proceedings of a Workshop on the Proof Theory of
+		  Modal Logic",
+  pages        = "??--??",
+  year         = 1993,
+  address      = "Hamburg, Germany",
+  month        = mar,
+  urlps        = "file://gentzen.logique.jussieu.fr/pub/scratch/DJS/modaldec.ps.Z"
+}
+
+@Unpublished{Schellinx94misc,
+  author       = "Harold Schellinx",
+  title        = "A Hitchhiker's Guide to Linear Decorating",
+  year         = 1994,
+  note         = "Manuscript",
+  urlps        = "file://gentzen.logique.jussieu.fr/pub/scratch/DJS/hitch.ps.Z"
+}
+
+@Phdthesis{Schellinx94phd,
+  author       = "Harold Schellinx",
+  title        = "The Noble Art of Linear Decorating",
+  school       = "Institute for Logic, Language and Computation, University of
+		  Amsterdam",
+  year         = 1994,
+  series       = "ILLC Dissertation Series 1994-1",
+  urlps        = "ftp://boole.logique.jussieu.fr/pub/scratch/HIEPER/stellingen.ps.Z",
+  urlnote      = "A \href{http://boole.logique.jussieu.fr/www.hars/noble.html}{WWW-page} is available"
+}
+
+@InCollection{SchroederHeister91,
+  author       = "P. Schr{\"o}der-Heister",
+  title        = "Structural Frameworks, Substructural Logics, and the
+		  Role of Elimination Inferences",
+  booktitle    = "Logical Frameworks",
+  publisher    = "Cambridge University Press",
+  year         = 1991,
+  editor       = "G. Huet and G. Plotkin",
+  pages        = "385--403"
+}
+
+@Inproceedings{Seely89,
+  author       = "R. A. G. Seely",
+  title        = "Linear Logic, {$\star$}-Autonomous Categories and
+		  Cofree Coalgebras",
+  booktitle    = "Categories in Computer Science and Logic",
+  year         = 1989,
+  editor       = "J. W. Gray  and A. Scedrov",
+  pages        = "371--382",
+  publisher    = "American Mathematical Society",
+  note         = "Proceedings of the AMS-IMS-SIAM Joint Summer
+		  Research Conference, June 14--20, 1987, Boulder,
+		  Colorado; Contemporary Mathematics Volume 92",
+  urlps        = "file://triples.math.mcgill.ca/pub/rags/nets/llsac.ps.gz"
+}
+
+@Unpublished{Seely90,
+  author       = "R. A. G. Seely",
+  title        = "Polymorphic Linear Logic and Topos Models",
+  year         = 1990,
+  month        = feb,
+  note         = "C.R. Math. Rep. Acad. Sci. Canada - Vol {XII}, No. 1",
+  urlps        = "file://triples.math.mcgill.ca/pub/rags/nets/polylin.ps.gz"
+}
+
+@PhdThesis{Shiharata94phd,
+  author       = "M. Shiharata",
+  title        = "Linear Set Theory",
+  school       = "Stanford University",
+  year         = 1994
+}
+
+@Article{Solitro89,
+  author       = "U. Solitro",
+  title        = "A Typed Calculus Based on a Fragment of Linear Logic",
+  journal      = "Theoretical Computer Science",
+  year         = 1989,
+  volume       = 68,
+  pages        = "333--342"
+}
+
+@PhdThesis{Solitro90,
+  author       = "U. Solitro",
+  title        = "La Logica Lineare come Sistema di Tipi per un Calcolo non
+		  Funzionale",
+  school       = "Dipartimento di Scienze dell'Informazione,
+		  University of Milano",
+  year         = 1990
+}
+
+@Article{Solitro93,
+  author       = "U. Solitro and S. Valentini",
+  title        = "Local Computations in Linear Logic",
+  journal      = "Mathematical Logic",
+  year         = 1993,
+  pages        = "??--??",
+  volume       = 2
+}
+
+@Article{Tammet94,
+  author       = "T. Tammet",
+  title        = "Proof Strategies in Linear Logic",
+  journal      = "Journal of Automated Reasoning",
+  year         = 1994,
+  volume       = 12,
+  pages        = "273--304",
+  note         = "Also available as Programming Methodology Group
+		  Report 70, Chalmers University, 1993",
+  urlps        = "ftp://ftp.cs.chalmers.se/pub/users/tammet/linproof.ps.gz",
+  urlnote      = "The source code for the theorem provers is available as a
+                  \href{ftp://ftp.cs.chalmers.se/pub/users/tammet/linprove.tar.gz}{TAR file}."
+}
+
+@Inproceedings{Taylor89,
+  author       = "P. Taylor",
+  title        = "Quantitative Domains, Groupoids and Linear Logic",
+  booktitle    = "Proceedings of the Conference on Category Theory and
+		  Computer Science", 
+  year         = 1989,
+  month        = sep,
+  editor       = "P. Dybjer and A. M. Pitts and D. H. Pitt and
+		  A. Poign{\'e} and D. E. Rydeheard",
+  pages        = "155--181",
+  publisher    = "Springer-Verlag LNCS 389",
+  note         = "Manchester, UK"
+}
+
+@PhdThesis{Tollu93,
+  author       = "C. Tollu",
+  title        = "Planification en Logique Lin{\'e}aire et Langage de
+		  Requ{\^e}te Relationelles avec Compteur",
+  school       = "Paris",
+  year         = 1993
+}
+
+@TechReport{TortoraDeFalco95tr,
+  author       = "L. {Tortora de Falco}",
+  title        = "Strong Normalization Property for Heterostyle {LK}tq
+		  and {FD}",
+  institution  = "{\'E}quipe de Logique Math{\'e}matique, University
+		  of Paris VII",
+  year         = 1995,
+  type         = "Preprint",
+  number       = "??"
+}
+
+@PhdThesis{Trimble94,
+  author       = "T. H. Trimble",
+  title        = "Linear Logic, Bimodules, and Full Coherence for Autonomous
+		  Categories",
+  school       = "Rutgers University",
+  year         = 1994
+}
+
+@Book{Troelstra92,
+  author       = "Anne S. Troelstra",
+  title        = "Lectures on Linear Logic",
+  publisher    = "CSLI Lecture Notes 29, Center for the Study of
+		  Language and Information",
+  year         = 1992,
+  address      = "Stanford, California"
+}
+
+@TechReport{Troelstra93,
+  author       = "Anne S. Troelstra",
+  title        = "Natural deduction for intuitionistic linear logic",
+  institution  = "Institute for Language, Logic and Computation,
+		  University of Amsterdam",
+  number       = "ML-93-09",
+  type         = "Prepublication Series for Mathematical Logic and
+		  Foundations",
+  year         = 1993
+}
+
+@Article{Urquhart72,
+  author       = "Alasdair Urquhart",
+  title        = "Semantics for Relevant Logic",
+  journal      = "Journal of Symbolic Logic",
+  volume       = 37,
+  year         = 1972,
+  pages        = "159--169"
+}
+
+@Article{Urquhart84,
+  author       = "Alasdair Urquhart",
+  title        = "The Undecidability of Entailment and Relevant Implication",
+  journal      = "Journal of Symbolic Logic",
+  volume       = 49,
+  year         = 1984,
+  pages        = "1059--1073"
+}
+
+@Techreport{Urquhart89,
+  author       = "Alasdair Urquhart",
+  title        = "The Complexity of Decision Procedures in Relevance Logic",
+  number       = "217/89",
+  institution  = "Department of Computer Science, University of Toronto",
+  year         = 1989
+}
+
+@Unpublished{Urquhart90,
+  author       = "Alasdair Urquhart",
+  title        = "The Complexity of Linear Logic",
+  note         = "Manuscript",
+  month        = mar,
+  year         = 1990
+}
+
+@Unpublished{Ursini95,
+  author       = "Aldo Ursini",
+  title        = "Semantical Investigations of Linear Logic",
+  note         = "Manuscript",
+  year         = 1995,
+  month        = dec,
+  urldvi       = "http://www.csl.sri.com/linear/ursini-paper.dvi.gz"
+}
+
+@InProceedings{vanGlabbeek95lics,
+  Author       = "R. Van Glabbeek and Gordon Plotkin",
+  Title        = "Configuration Structures",
+  Booktitle    = "Tenth Annual Symposium on Logic in Computer Science",
+  address      = "San Diego, California",
+  Pages        = "199--209",
+  Month        = jun,
+  Publisher    = "IEEE Computer Society",
+  Year         = 1995}
+
+@Article{Vauzeilles93apal,
+  author       = "J. Vauzeilles",
+  title        = "Cut Elimination for the Unified Logic",
+  journal      = "Annals of Pure and Applied Logic",
+  year         = 1993,
+  volume       = 62,
+  pages        = "1--6"
+}
+
+@InProceedings{Volpe94,
+  author       = "Paolo Volpe",
+  title        = "Concurrent Logic Programming as Uniform Linear Proofs",
+  editor       = "G. Levi and M. Rodr{\'\i}guez-Artalejo",
+  pages        = "133--149",
+  booktitle    = "Proceedings of the Fourth International Conference
+		  on Algebraic and Logic Programming",
+  year         = 1994,
+  publisher    = "Springer-Verlag LNCS 850",
+  address      = "Madrid, Spain",
+  month        = sep
+}
+
+@InProceedings{Wadler90,
+  author       = "Philip Wadler",
+  title        = "Linear Types Can Change the World",
+  editor       = "M. Broy and C. B. Jones",
+  booktitle    = "IFIP TC 2 Working Conference on Programming Concepts
+		  and Methods",
+  pages        = "561--581",
+  address      = "Sea of Gallilee, Israel",
+  publisher    = "North-Holland",
+  year         = 1990,
+  month        = apr,
+  urlps        = "file://ftp.dcs.glasgow.ac.uk/pub/glasgow-fp/authors/Philip_Wadler/linear-types-can-change-the-world.ps"
+}
+
+@InProceedings{Wadler91pepm,
+  author       = "Philip Wadler",
+  title        = "Is There a Use for Linear Logic?",
+  booktitle    = "Proceedings of the Symposium on Partial Evaluations and
+		  Semantics-Based Program Manipulation",
+  pages        = "255--273",
+  year         = 1991,
+  address      = "New Haven, Connecticut",
+  month        = jun,
+  note         = "Also in SIGPLAN Notices; vol.26, no.9; September 1991",
+  urlps        = "file://ftp.dcs.glasgow.ac.uk/pub/glasgow-fp/authors/Philip_Wadler/use-for-linear-logic.ps"
+}
+
+@Unpublished{Wadler91un,
+  author       = "Philip Wadler", 
+  title        = "There's No Substitute for Linear Logic",  
+  note         = "Manuscript", 
+  month        = dec,
+  year         = 1991,
+  urldvi       = "file://ftp.dcs.glasgow.ac.uk/pub/glasgow-fp/authors/Philip_Wadler/no-subst-for-linear-logic.dvi"
+}  
+
+@InProceedings{Wadler93mfcs,
+  author       = "Philip Wadler",
+  title        = "A Taste of Linear Logic",
+  booktitle    = "Mathematical Foundations of Computer Science",
+  editor       = "A. M. Borzyszkowski and S. Sokolowski",
+  address      = "Gda{\'n}sk, Poland",
+  pages        = "185--210",
+  year         = 1993,
+  publisher    = "Springer-Verlag LNCS 781",
+  urldvi       = "file://ftp.dcs.glasgow.ac.uk/pub/glasgow-fp/authors/Philip_Wadler/lineartaste.dvi"
+}
+
+@InProceedings{Wadler93mfps,
+  author       = "Philip Wadler",
+  title        = "A Syntax for Linear Logic",
+  booktitle    = "Proceedings of the Ninth Conference on Mathematical
+		  Foundations of Programming Semantics", 
+  address      = "New Orleans, Louisiana",
+  year         = 1993,
+  pages        = "513--529",
+  publisher    = "Springer-Verlag LNCS 647",
+  editor       = "S. Brookes and M. Main and A. Melton and M. Mislove
+		  and D. Schmidt",
+  month        = apr,
+  urldvi       = "file://ftp.dcs.glasgow.ac.uk/pub/glasgow-fp/authors/Philip_Wadler/syntax-for-linear-logic.dvi"
+}
+
+@PhdThesis{Wakeling90,
+  author       = "David Wakeling",
+  title        = "Linearity and Laziness",
+  school       =  "Department of Computer Science, University of York",
+  year         = 1990,
+  month        = nov,
+  note         = "Available as Technical Report YCST 90/07"
+}
+
+@TechReport{Winikoff96tr,
+  author      = "Michael Winikoff and James Harland",
+  title       = "Determining Logic Programming Languages",
+  institution = "Melbourne University, Department of Computer Science",
+  year        = 1995,
+  number      = "TR 95/26",
+  urlps       = "http://www.cs.mu.oz.au/tr_db/mu_95_26.ps.gz"
+}
+
+@TechReport{Winikoff96trb,
+  author      = "Michael Winikoff",
+  title       = "Hitch Hiker's Guide to {L}ygon 0.7",
+  institution = "Melbourne University, Department of Computer Science",
+  year        = 1996,
+  number      = "TR 96/36",
+  urlps       = "http://www.cs.mu.oz.au/tr_db/mu_96_36.ps.gz"
+}
+
+@Article{Yetter90,
+  author       = "David N. Yetter",
+  title        = "Quantales and (noncommutative) linear logic",
+  journal      = "Journal of Symbolic Logic",
+  year         = 1990,
+  volume       = 55,
+  number       = 1,
+  pages        = "41--64",
+  month        = mar
+}
+
+@InProceedings{Zlatuska93elp,
+  author       = "J. Zlatu{\v{s}}ka",
+  title        = "Linear Logic Semantics for Concurrent Prolog",
+  editor       = "R. Dyckhoff",
+  booktitle    = "Fourth International Workshop on Extensions of Logic
+		  Programming",
+  address      = "St.~Andrews, Scotland",
+  year         = 1993,
+  publisher    = "Springer-Verlag LNAI 798",
+  pages	       = "348--360",
+  month        = mar
+}
+
+@InProceedings{Zlatuska93godel,
+  author       = "J. Zlatu{\v{s}}ka",
+  title        = "Committed-Choice Concurrent Logic Programming in
+		  Linear Logic",
+  pages        = "337--348",
+  booktitle    = "Computational Logic and Proof Theory, Third Kurt
+		  G{\"o}del Colloquium",
+  editor       = "G. Gottlob and A. Leitsch and D. Mundici",
+  year         = 1993,
+  publisher    = "Springer-Verlag LNCS 713",
+  address      = "Brno, Czech Republic",
+  month        = aug
+}
