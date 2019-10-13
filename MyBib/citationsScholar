@@ -1,3 +1,36 @@
+@inproceedings{dePaiva1989:AMS,
+  title={The {D}ialectica {C}ategories},
+  author={de Paiva, V C V},
+  booktitle={Categories in Computer Science and Logic: Proceedings of the AMS-IMS-SIAM Joint Summer Research Conference Held June 14-20, 1987 with Support from the National Science Foundation},
+  volume={92},
+  pages={47},
+  year={1989},
+  organization={American Mathematical Soc.}
+}
+
+@inproceedings{dePaiva1989:CTCS,
+  title={A Dialectica-like model of linear logic},
+  author={de Paiva, Valeria C.V.},
+  booktitle={Category Theory and Computer Science},
+  pages={341--356},
+  year={1989},
+  organization={Springer Berlin Heidelberg}
+}
+
+@inproceedings{dePaiva1990,
+  title={The {D}ialectica {C}ategories},
+  author={de Paiva, Valeria},
+  year={1990},
+  organization={University of Cambridge, Computer Lab Technical Report, {PhD} thesis}
+}
+
+@misc{dePaiva1991categorical,
+  title={Categorical {M}ultirelations, {L}inear {L}ogic and {P}etri {N}ets, {T}echnical {R}eport},
+  author={De Paiva, Valeria},
+  year={1991},
+  publisher={University of Cambridge, Computer Laboratory}
+}
+
 @inproceedings{benton1993,
   title={A term calculus for {I}ntuitionistic {L}inear {L}ogic},
   author={Benton, Nick and Bierman, Gavin and de Paiva, Valeria and Hyland, Martin},
@@ -6,8 +39,6 @@
   year={1993},
   organization={Springer Berlin Heidelberg}
 }
-
-
 
 @misc{benton1992:TR,
   title={Term assignment for intuitionistic linear logic (preliminary report)},
@@ -27,13 +58,6 @@
   publisher={Cambridge University Press}
 }
 
-@inproceedings{dePaiva1990,
-  title={The {D}ialectica {C}ategories},
-  author={de Paiva, Valeria},
-  year={1990},
-  organization={University of Cambridge, Computer Lab Technical Report, {PhD} thesis}
-}
-
 @inproceedings{benton1992:CSL,
   title={Linear $\lambda$-calculus and categorical models revisited},
   author={Benton, Nick and Bierman, Gavin and de Paiva, Valeria and Hyland, Martin},
@@ -49,15 +73,6 @@
   journal={School of Computer Science Research Reports, University of Birmingham CSR},
   year={1996},
   publisher={University of Birmingham}
-}
-
-@inproceedings{dePaiva1989:CTCS,
-  title={A Dialectica-like model of linear logic},
-  author={de Paiva, Valeria C.V.},
-  booktitle={Category Theory and Computer Science},
-  pages={341--356},
-  year={1989},
-  organization={Springer Berlin Heidelberg}
 }
 
 @article{hyland1993,
@@ -155,8 +170,6 @@
   publisher={Oxford University Press}
 }
 
-
-
 @inproceedings{dePaiva1993,
   title={Types and constraints in the {LKB}},
   author={de Paiva, Valeria},
@@ -225,8 +238,6 @@
   number={10},
   year={1996}
 }
-
-
 
 @inproceedings{ritter1997,
   title={On explicit substitutions and names},
@@ -319,8 +330,6 @@
   year={2007}
 }
 
-
-
 @article{dePaiva2006:parigot,
   title={A {P}arigot-style linear $\lambda$-calculus for {F}ull {I}ntuitionistic {L}inear {L}ogic},
   author={de Paiva, Valeria and Ritter, Eike},
@@ -337,8 +346,6 @@
   booktitle={Proceedings of the Conference on Advances in Modal Logic (AIML'98), Uppsala, Sweden. CSLI},
   year={1998}
 }
-
-
 
 @article{dePaiva2002,
   title={Lineales: Algebras and Categories in the Semantics of Linear Logic},
@@ -366,8 +373,6 @@
   publisher={Elsevier}
 }
 
-
-
 @inproceedings{haeusler2010:intuitionistic,
   title={Intuitionistic logic and legal ontologies},
   author={Haeusler, Edward H and de Paiva, Valeria and Rademaker, Alexandre},
@@ -376,8 +381,6 @@
   year={2010},
   organization={IOS Press}
 }
-
-
 
 @book{dePaiva1990:ponder,
   title={Subtyping in Ponder: Preliminary Report},
@@ -428,9 +431,6 @@
   publisher={University of Birmingham}
 }
 
-
-
-
 @inproceedings{haeusler2011:intuitionistic,
   title={Intuitionistic description logic and legal reasoning},
   author={Haeusler, Edward Hermann and de Paiva, Valeria and Rademaker, Alexandre},
@@ -463,7 +463,6 @@
   year={2011}
 }
 
-
 @misc{brown1991:petrinets,
   title={A {L}inear {S}pecification {L}anguage for {P}etri {N}ets ({A}arhus {T}echnical {R}eport)},
   author={Brown, Carolyn and Gurr, Doug and de Paiva, Valeria},
@@ -476,8 +475,6 @@
   booktitle={Supplemental proceedings of the 13th international conference on theorem proving in higher order logics (TPHOLs 2000)},
   year={2000}
 }
-
-
 
 @article{syropoulos2011,
   title={Fuzzy topological systems},
@@ -494,8 +491,6 @@
   year={1999},
   organization={Springer Berlin Heidelberg}
 }
-
-
 
 @misc{staddon2012,
   title={Method and apparatus for detecting sensitive content in a document},
@@ -553,7 +548,6 @@ year ={2011},
   year ={1999}
 }
 
-
 @article{mints2009logic,
   title={Logic, {L}anguage, {I}nformation and {C}omputation},
   author={Mints, Grigori and de Paiva, Valeria and de Queiroz, Ruy},
@@ -564,9 +558,6 @@ year ={2011},
   year={2009},
   publisher={Academic Press}
 }
-
-
-
 
 @inproceedings{nesi1993,
   title={Rewriting properties of combinators for rudimentary linear logic},
@@ -587,8 +578,6 @@ year ={2011},
   publisher={Elsevier}
 }
 
-
-
 @misc{dePaiva1999:dagstuhl,
   title={Linear {L}ogic and {A}pplications, {D}agstuhl {R}eport},
   author={de Paiva, Valeria and van Genabith, Josef and Ritter, Eike and Crouch, Richard},
@@ -601,8 +590,6 @@ year ={2011},
   year={1991},
   publisher={University of Cambridge. Computer Laboratory}
 }
-
-
 
 @inproceedings{dePaiva:Lambek,
   title={A {D}ialectica {M}odel of the {L}ambek {C}alculus},
@@ -618,8 +605,6 @@ year ={2011},
   year={1996}
 }
 
-
-
 @inproceedings{correa1996,
   title={A {D}ialectica {M}odel of {S}tate},
   author={Corr{\^e}a, Marcelo da S and Haeusler, Edward H and de Paiva, Valeria C.V.},
@@ -627,7 +612,6 @@ year ={2011},
   pages={11--12},
   year={1996}
 }
-
 
 @inproceedings{condoravdi2001preventing,
   title={Preventing {E}xistence},
@@ -637,7 +621,6 @@ year ={2011},
   year={2001},
   organization={ACM}
 }
-
 
 @article{dePaiva2006preface,
   title={Preface to the special volume on {C}hu spaces: theory and applications},
@@ -690,10 +673,6 @@ year ={2011},
   publisher={CEUR}
 }
 
-
-
-
-
 @article{dePaiva2011basic,
   title={Basic constructive modality},
   author={de Paiva, Valeria and Ritter, Eike},
@@ -735,7 +714,6 @@ year ={2011},
   publisher={Oxford University Press, Great Clarendon Street, Oxford OX2 6DP, England}
 }
 
-
 @article{dePaiva2007:wollicBSL,
   title={Workshop on {L}ogic, {L}anguage, {I}nformation and {C}omputation at {CSLI}, {S}tanford, {USA} July 18--21, 2006 (report)},
   author={de Oliveira, Anjolina Grisi and de Paiva, Val{e}ria and Ben-Sasson, Eli and Gurevich, Yuri and de Queiroz, Ruy},
@@ -766,23 +744,6 @@ year ={2011},
   publisher={Oxford University Press}
 }
 
-@misc{dePaiva1991categorical,
-  title={Categorical {M}ultirelations, {L}inear {L}ogic and {P}etri {N}ets, {T}echnical {R}eport},
-  author={De Paiva, Valeria},
-  year={1991},
-  publisher={University of Cambridge, Computer Laboratory}
-}
-
-@inproceedings{dePaiva1989:AMS,
-  title={The {D}ialectica {C}ategories},
-  author={de Paiva, V C V},
-  booktitle={Categories in Computer Science and Logic: Proceedings of the AMS-IMS-SIAM Joint Summer Research Conference Held June 14-20, 1987 with Support from the National Science Foundation},
-  volume={92},
-  pages={47},
-  year={1989},
-  organization={American Mathematical Soc.}
-}
-
 @book{king2013,
   title={From {Q}uirky {C}ase to {R}epresenting {S}pace: {P}apers in {H}onor of {A}nnie {Z}aenen},
   author={King, Tracy Holloway and de Paiva, Valeria},
@@ -799,8 +760,6 @@ year ={2011},
   year={2014}
 }
 
-
-
 @book{briscoe1993,
   title={Inheritance, defaults and the lexicon},
   author={Briscoe, Ted and Copestake, Ann and De Paiva, Valeria},
@@ -808,7 +767,6 @@ year ={2011},
   publisher={Cambridge University Press},
   note={Reissued in paperback in 2006}
 }
-
 
 @inproceedings{rademaker2014:report,
   title={Open{W}ord{N}et-{PT}: a project report},
@@ -899,8 +857,6 @@ year ={2011},
   year={2012}
 }
 
-
-
 @inproceedings{zadrozny2015,
   title={Explaining {W}atson: {P}olymath {S}tyle.},
   author={Zadrozny, Wlodek and de Paiva, Valeria and Moss, Lawrence S},
@@ -937,8 +893,6 @@ year ={2011},
   year={2015}
 }
 
-
-
 @article{stewart2015intuitionistic,
   title={Intuitionistic Modal Logic: A 15-year retrospective},
   author={Stewart, Charles and de Paiva, Valeria and Alechina, Natasha},
@@ -973,8 +927,6 @@ year ={2011},
   year={2015}
 }
 
-
-
 @inproceedings{cervesato1999,
   title={Explicit substitutions for linear logical frameworks},
   author={Cervesato, Iliano and de Paiva, Valeria and Ritter, Eike},
@@ -983,8 +935,6 @@ year ={2011},
   year={1999}
 }
 
-
-
 @article{bobrow2007parc,
   title={{PARC}'s bridge and question answering system},
   author={Bobrow, Daniel G and Cheslow, Bob and Condoravdi, Cleo and Karttunen, Lauri and King, Tracy Holloway and Nairn, Rowan and de Paiva, Valeria},
@@ -992,8 +942,6 @@ year ={2011},
   pages={46--66},
   year={2007}
 }
-
-
 
 @article{copestake1993,
   title={The {ACQUILEX} {LKB}: An introduction},
@@ -1016,9 +964,6 @@ year ={2011},
   year={1994},
   publisher={October}
 }
-
-
-
 
 @misc{dePaiva2001:domains,
   title={Domains and {L}ambda-{C}alculi by {R}. {A}madio and {P-L}. {C}urien, {S}pringer {V}erlag, 1999, {ISBN} 0521587751 (review)},
@@ -1043,8 +988,6 @@ year ={2011},
   organization={Springer International Publishing}
 }
 
-
-
 @article{dePaiva2014:proceedings,
   title={Proceedings of the 6th {W}orkshop on {I}ntuitionistic {M}odal {L}ogic and {A}pplications ({IMLA} 2013) in association with {UNILOG} 2013},
   author={de Paiva, Valeria and Benevides, Mario and Nigam, Vivek and Pimentel, Elaine},
@@ -1062,8 +1005,6 @@ year ={2011},
   year={2007}
 }
 
-
-
 @article{zaenen2013perspectives,
   title={Perspectives on Semantic Representations for Textual Inference},
   author={Zaenen, Annie and Condoravdi, Cleo and de Paiva, Valeria},
@@ -1072,7 +1013,6 @@ year ={2011},
   year={2013},
   publisher={CSLI}
 }
-
 
 @article{hyland1991:abstract,
   title={Full intuitionistic linear logic. (Abstract presented at the 9th International {C}ongress of {L}ogic, {M}ethodology and {P}hilosophy of {S}cience, {U}ppsala, {S}weden, {A}ugust 7-14)},
@@ -1119,7 +1059,4 @@ year ={2011},
   journal={arXiv preprint arXiv:1608.04767},
   year={2016}
 }
-
-
-
 
