@@ -45,6 +45,7 @@ Applications:
    https://www.researchgate.net/publication/263699584_Natural_Number_Objects_in_Dialectica_Categories)
    
  Samuel on his own work, based on Dialectica:
+ 
    8c. "Reductions between certain incidence problems and the continuum hypothesis" -- 
    http://www.ejournals.eu/rml/2019/Number-54/art/14434/
    
@@ -82,7 +83,7 @@ https://www.repository.cam.ac.uk/handle/1810/254394, 2015
 8. Tom Powell's  Applying Gödel's Dialectica Interpretation to Obtain a Constructive Proof of Higman's Lemma, 
 https://arxiv.org/abs/1210.3117 and Well Quasi-Orders and the Functional Interpretation, https://arxiv.org/pdf/1706.02881.pdf
 
-Tom's LICS2017 paper 	Gödel's functional interpretation and the concept of learning 
+Tom's LICS2017 paper 	"Gödel's functional interpretation and the concept of learning" 
 http://dl.acm.org/citation.cfm?doid=2933575.2933605
 
 9. Mike Shulman, The 2-Chu-Dialectica construction and the polycategory of multivariable adjunctions, 
@@ -122,3 +123,9 @@ https://eps.leeds.ac.uk/maths/events/event/5993/polynomials-and-dialectica-categ
 
 16. Older work relevant work: "THE DIALECTICA INTERPRETATION OF FIRST-ORDER
 CLASSICAL AFFINE LOGIC", M. Shirahata, http://emis.impa.br/EMIS/journals/TAC/volumes/17/4/17-04.pdf
+
+"A Semantic Version of the Diller-Nahm Variant of Godel’s Dialectica Interpretation"
+Thomas Streicher -- https://www2.mathematik.tu-darmstadt.de/~streicher/Dial.pdf
+
+Pino Rosolini -- "Triposes and Gödel's Dialectica Interpretation" 
+youtube https://www.youtube.com/watch?v=_db-eVaU-ts
