@@ -63,8 +63,12 @@ http://mysite.science.uottawa.ca/phofstra/dialectica.pdf
 2. An Analysis of Gödel's dialectica Interpretation via Linear Logic, Paulo Oliva, Dialectica, 2008.
 (available from http://www.eecs.qmul.ac.uk/~pbo/) many more from his webpage!
 
-3. A Functional Functional Interpretation, Pierre-Marie Pedrot, LICS 2014, https://www.pédrot.fr/articles/lics2014.pdf
-https://www.pédrot.fr/slides/thesis-09-15.pdf, the thesis https://hal.archives-ouvertes.fr/tel-01247085
+3. "A Functional Functional Interpretation", Pierre-Marie Pedrot, LICS 2014, 
+https://www.pédrot.fr/articles/lics2014.pdf
+https://www.pédrot.fr/slides/thesis-09-15.pdf, 
+the thesis https://hal.archives-ouvertes.fr/tel-01247085
+
+also slides post-thesis https://www.xn--pdrot-bsa.fr/slides/types-dialectica-05-16.pdf
 
 4. Mihai Budiu, Joel Galenson, and Gordon Plotkin
 The Compiler Forest, ESOP 2013, http://budiu.info/work/esop13.pdf
