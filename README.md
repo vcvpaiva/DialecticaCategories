@@ -110,3 +110,5 @@ and
 
 https://staff.fnwi.uva.nl/b.vandenberg3/papers/dsttopos.pdf.
 
+15. Martin Hyland's talk in Leeds "Polynomials and Dialectica categories"
+https://eps.leeds.ac.uk/maths/events/event/5993/polynomials-and-dialectica-categories
