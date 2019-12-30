@@ -43,6 +43,13 @@ Applications:
    Natural Number Objects in    Dialectica Categories. ENTCS, 01 January 2014. 
    Electronic Notes in theoretical Computer Science, 305 (2014), pages 53-65.
    https://www.researchgate.net/publication/263699584_Natural_Number_Objects_in_Dialectica_Categories)
+   
+ Samuel on his own work, based on Dialectica:
+   8c. "Reductions between certain incidence problems and the continuum hypothesis" -- 
+   http://www.ejournals.eu/rml/2019/Number-54/art/14434/
+   
+   8d. "The Axiom of Choice and the Partition Principle from Dialectica Categories" -- slides from the meeting
+   "Cantor Meets Robinson" https://cantormeetsrobinson.files.wordpress.com/2019/04/gdasilva.pdf
 
  9. Dialectica over partial order, in LC Pereira festschrift
 
@@ -112,3 +119,6 @@ https://staff.fnwi.uva.nl/b.vandenberg3/papers/dsttopos.pdf.
 
 15. Martin Hyland's talk in Leeds "Polynomials and Dialectica categories"
 https://eps.leeds.ac.uk/maths/events/event/5993/polynomials-and-dialectica-categories
+
+16. Older work relevant work: "THE DIALECTICA INTERPRETATION OF FIRST-ORDER
+CLASSICAL AFFINE LOGIC", M. Shirahata, http://emis.impa.br/EMIS/journals/TAC/volumes/17/4/17-04.pdf
