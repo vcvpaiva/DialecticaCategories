@@ -20,9 +20,15 @@ Applications:
 
 4. "Categorical multirelations, linear logic and Petri nets" TR from Cambridge http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf
 
-5. Dialectica categories for Lambek calculus. Paper in Amsterdam Colloquium
+5. Dialectica categories for Lambek calculus. Paper in Amsterdam Colloquium 1991
+https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambek_Calculus
+
    Talk at APA, April 2017
-   conference LFCS paper with Harley Eades appeared Jan2018, journal paper submitted.
+   
+   conference LFCS paper with Harley Eades, appeared in Jan2018,
+   https://arxiv.org/abs/1801.06883
+   
+   journal paper submitted.
 
 6. Dialectica categories for modelling State/Pomset logic
 
