@@ -30,7 +30,7 @@ https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambe
    5c. conference LFCS paper with Harley Eades, appeared in Jan2018,
    https://arxiv.org/abs/1801.06883
    
-   5d. journal paper submitted (?)
+   5d. journal paper not submitted yet
 
 6. Dialectica categories for modelling State/Pomset logic
 
@@ -92,37 +92,44 @@ http://cs.au.dk/~birke/phd-students/BieringB-thesis.pdf, 2008
 7. Tamara von Glehn's thesis Polynomials and models of type theory 
 https://www.repository.cam.ac.uk/handle/1810/254394, 2015
 
-8. Tom Powell's  Applying Gödel's Dialectica Interpretation to Obtain a Constructive Proof of Higman's Lemma, 
-https://arxiv.org/abs/1210.3117 and Well Quasi-Orders and the Functional Interpretation, https://arxiv.org/pdf/1706.02881.pdf
+8. a. Tom Powell's  Applying Gödel's Dialectica Interpretation to Obtain a Constructive Proof of Higman's Lemma, 
+https://arxiv.org/abs/1210.3117.
 
-Tom's LICS2017 paper 	"Gödel's functional interpretation and the concept of learning" 
+b. Well Quasi-Orders and the Functional Interpretation, https://arxiv.org/pdf/1706.02881.pdf
+
+c. Tom's LICS2017 paper 	"Gödel's functional interpretation and the concept of learning" 
 http://dl.acm.org/citation.cfm?doid=2933575.2933605
 
-9. Mike Shulman, The 2-Chu-Dialectica construction and the polycategory of multivariable adjunctions, 
+9. a. Mike Shulman, The 2-Chu-Dialectica construction and the polycategory of multivariable adjunctions, 
    https://arxiv.org/abs/1806.06082
-   Mike Shulman, Linear logic for constructive mathematics, https://arxiv.org/abs/1805.07518
+   
+   b. Mike Shulman, Linear logic for constructive mathematics, https://arxiv.org/abs/1805.07518
+  
    (check also https://arxiv.org/abs/1107.6032 Traces in symmetric monoidal categories and 
    https://golem.ph.utexas.edu/category/2017/12/the_2dialectica_construction_a.html)
    
   
-10. Sean Moss and Tamara von Glehn. Dialectica models of type theory, LiCS2018.
+10. a. Sean Moss and Tamara von Glehn. Dialectica models of type theory, LiCS2018.
 https://dl.acm.org/citation.cfm?doid=3209108.3209207 paywall
 
-11. Sean Moss. PhD thesis: The Dialectica models of type theory (in email) 
+b. Sean Moss. PhD thesis: The Dialectica models of type theory (in email) 
 https://www.repository.cam.ac.uk/handle/1810/280672
 
-12. Pierre Pradic and Colin Riba, from http://perso.ens-lyon.fr/colin.riba/
+11. a. Pierre Pradic and Colin Riba, from http://perso.ens-lyon.fr/colin.riba/
 
-a. A Dialectica-Like Interpretation of a Linear MSO on Infinite Words.
+b. A Dialectica-Like Interpretation of a Linear MSO on Infinite Words.
 With Pierre Pradic. Submitted [pdf].
-b. LMSO: A Curry-Howard Approach to Church's Synthesis via Linear Logic.
+
+c. LMSO: A Curry-Howard Approach to Church's Synthesis via Linear Logic.
 With Pierre Pradic. LICS'18 [pdf].
-c. A Curry-Howard Approach to Church's Synthesis.
+
+d. A Curry-Howard Approach to Church's Synthesis.
 With Pierre Pradic. FSCD'17 [pdf]. Long version (submitted) [pdf]. 
 
-13. Pierre Hyvernat, A Linear Category of Polynomial Diagrams, http://www.lama.univ-savoie.fr/pagesmembres/hyvernat/research.php
+12. Pierre Hyvernat, A Linear Category of Polynomial Diagrams, 
+http://www.lama.univ-savoie.fr/pagesmembres/hyvernat/research.php
 
-14. Benno van der Berg et al 
+13. Benno van der Berg et al 
 A functional interpretation for nonstandard arithmetic [PS][PDF]
 Joint work with Eyvind Briseid and Pavol Safarik. 
 Annals of Pure and Applied Logic, volume 163, issue 12 (2012), pp. 1962–1994.
@@ -130,14 +137,16 @@ and
 
 https://staff.fnwi.uva.nl/b.vandenberg3/papers/dsttopos.pdf.
 
-15. Martin Hyland's talk in Leeds "Polynomials and Dialectica categories"
+14. Martin Hyland's talk in Leeds "Polynomials and Dialectica categories"
 https://eps.leeds.ac.uk/maths/events/event/5993/polynomials-and-dialectica-categories
 
-16. Older work relevant work: "THE DIALECTICA INTERPRETATION OF FIRST-ORDER
-CLASSICAL AFFINE LOGIC", M. Shirahata, http://emis.impa.br/EMIS/journals/TAC/volumes/17/4/17-04.pdf
+15. a. Older work relevant work: "TheE Dialectica Interpretation of first-order
+Classical Affine Logic", M. Shirahata, http://emis.impa.br/EMIS/journals/TAC/volumes/17/4/17-04.pdf
 
-"A Semantic Version of the Diller-Nahm Variant of Godel’s Dialectica Interpretation"
+b. "A Semantic Version of the Diller-Nahm Variant of Godel’s Dialectica Interpretation"
 Thomas Streicher -- https://www2.mathematik.tu-darmstadt.de/~streicher/Dial.pdf
 
-Pino Rosolini -- "Triposes and Gödel's Dialectica Interpretation" 
+c. Pino Rosolini -- "Triposes and Gödel's Dialectica Interpretation" 
 youtube https://www.youtube.com/watch?v=_db-eVaU-ts
+
+16. Make a list of the work on Lenses!
