@@ -12,56 +12,64 @@ First my work:
     2b. CTCS 1989: "A Dialectica-like Model of Linear Logic", http://www.cs.bham.ac.uk/~vdp/publications/CTCS89.pdf, 1989
  
     2c. TAC paper "Dialectica and Chu constructions: cousins?", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152, 2006.
+    
+3. From the thesis a new logical system that is the natural, intrinsic logic of the categories GC, "Full Intuitionistic Linear Logic".
+
+   3.1 Full Intuitionistic Linear Logic (with Martin Hyland) APAL, 1993. https://www.sciencedirect.com/science/article/pii/0168007293901465
+   
+   3.2 Cut-Elimination for Full Intuitionistic Linear Logic (with Torben Brauner), CSL, preprint https://www.brics.dk/RS/96/10/index.html
+   
+   3.3 (new proof of cut-elimination with Harley Eades III)  Multiple Conclusion Linear Logic: Cut-elimination and more. Lecture Notes in Computer Science, 04 January 2016. Proceedings of the Symposium on Logical Foundations of Computer Science (LFCS 2016). [PDF]. Journal version submitted.
 
 Applications: 
 
-3. BRICS TR: "A linear specification language for Petri Nets", http://www.cs.bham.ac.uk/~vdp/publications/LinSpecPetri.pdf
+1. BRICS TR: "A linear specification language for Petri Nets", http://www.cs.bham.ac.uk/~vdp/publications/LinSpecPetri.pdf
    accepted for TCS in mid 90's, but then abandoned. Recently submitted a short note for LSFA2018 based on this work, rejected.     
 
-4. "Categorical multirelations, linear logic and Petri nets" TR from Cambridge http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf
+2. "Categorical multirelations, linear logic and Petri nets" TR from Cambridge http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf
 
-5. Dialectica categories for Lambek calculus. 
+3. Dialectica categories for Lambek calculus. 
 
-   5a. Paper in Amsterdam Colloquium 1991
+   3a. Paper in Amsterdam Colloquium 1991
 https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambek_Calculus
 
-   5b. Talk at APA, April 2017
+   3b. Talk at APA, April 2017
    
-   5c. conference LFCS paper with Harley Eades, appeared in Jan2018,
+   3c. conference LFCS paper with Harley Eades, appeared in Jan2018,
    https://arxiv.org/abs/1801.06883
-   
-   5d. journal paper not submitted yet
+   journal paper not submitted yet
 
-6. Dialectica categories for modelling State/Pomset logic
+4. Dialectica categories for modelling State/Pomset logic
 
-   6a. Conference paper in CATS'1996 with Correa and Hauesler.
+   4a. Conference paper in CATS'1996 with Correa and Hauesler.
 
-   6b. journal paper: Valeria de Paiva. Linear Logic Model of State Revisited. Logic Journal of IGPL, 01 October 2014. 
+   4b. journal paper: Valeria de Paiva. Linear Logic Model of State Revisited. Logic Journal of IGPL, 01 October 2014. 
    volume 22, number 5, pages 791-804. http://vcvpaiva.github.io/includes/pubs/2014-LL-model.pdf
 
-7. Dialectica categories for Relevant logic 
+5. Dialectica categories for Relevant logic 
 (need to recover the important bits from http://www.dbd.puc-rio.br/depto_informatica/93_mere.pdf) slides where?
 
-8. Dialectica categories for Set Theory, work with Samuel G da Silva. Two papers so far.
+6. Dialectica categories for Set Theory, work with Samuel G da Silva. Two papers so far.
 
-   8a. Dialectica Categories, Cardinalities of the Continuum and Combinatorics of Ideals, with Samuel G. da Silva.
+   6a. Dialectica Categories, Cardinalities of the Continuum and Combinatorics of Ideals, with Samuel G. da Silva.
    To appear in EBL proceedings. Available from https://www.researchgate.net/publication/315001808_Dialectica_Categories_Cardinalities_of_the_Continuum_and_Combinatorics_of_Ideals
 
-   8b. Linear Natural Numbers Objects in Dial (Valeria de Paiva, Charles Morgan, Samuel G. da Silva). 
+   6b. Linear Natural Numbers Objects in Dial (Valeria de Paiva, Charles Morgan, Samuel G. da Silva). 
    Natural Number Objects in    Dialectica Categories. ENTCS, 01 January 2014. 
    Electronic Notes in theoretical Computer Science, 305 (2014), pages 53-65.
    https://www.researchgate.net/publication/263699584_Natural_Number_Objects_in_Dialectica_Categories)
    
- Samuel on his own work, based on Dialectica:
+ Samuel, on his own, based on Dialectica:
  
-   8c. "Reductions between certain incidence problems and the continuum hypothesis" -- 
+   6c. "Reductions between certain incidence problems and the continuum hypothesis" -- 
    http://www.ejournals.eu/rml/2019/Number-54/art/14434/
    
-   8d. "The Axiom of Choice and the Partition Principle from Dialectica Categories" -- slides from the meeting
+   6d. "The Axiom of Choice and the Partition Principle from Dialectica Categories" -- slides from the meeting
    "Cantor Meets Robinson" https://cantormeetsrobinson.files.wordpress.com/2019/04/gdasilva.pdf
 
- 9. Dialectica over partial order, in LC Pereira festschrift
+ 7. Dialectica over partial order, in LC Pereira festschrift
 
+==================================================
 More work related to dialectica categories:
 
 1. Makkai festschrifft, 2011
@@ -92,19 +100,19 @@ http://cs.au.dk/~birke/phd-students/BieringB-thesis.pdf, 2008
 7. Tamara von Glehn's thesis Polynomials and models of type theory 
 https://www.repository.cam.ac.uk/handle/1810/254394, 2015
 
-8. a. Tom Powell's  Applying Gödel's Dialectica Interpretation to Obtain a Constructive Proof of Higman's Lemma, 
+8.Tom Powell's
+a.   Applying Gödel's Dialectica Interpretation to Obtain a Constructive Proof of Higman's Lemma, 
 https://arxiv.org/abs/1210.3117.
 
 b. Well Quasi-Orders and the Functional Interpretation, https://arxiv.org/pdf/1706.02881.pdf
 
-c. Tom's LICS2017 paper 	"Gödel's functional interpretation and the concept of learning" 
+c. LICS2017 paper 	"Gödel's functional interpretation and the concept of learning" 
 http://dl.acm.org/citation.cfm?doid=2933575.2933605
 
 9. a. Mike Shulman, The 2-Chu-Dialectica construction and the polycategory of multivariable adjunctions, 
    https://arxiv.org/abs/1806.06082
    
    b. Mike Shulman, Linear logic for constructive mathematics, https://arxiv.org/abs/1805.07518
-  
    (check also https://arxiv.org/abs/1107.6032 Traces in symmetric monoidal categories and 
    https://golem.ph.utexas.edu/category/2017/12/the_2dialectica_construction_a.html)
    
@@ -117,13 +125,13 @@ https://www.repository.cam.ac.uk/handle/1810/280672
 
 11. a. Pierre Pradic and Colin Riba, from http://perso.ens-lyon.fr/colin.riba/
 
-b. A Dialectica-Like Interpretation of a Linear MSO on Infinite Words.
+    b. A Dialectica-Like Interpretation of a Linear MSO on Infinite Words.
 With Pierre Pradic. Submitted [pdf].
 
-c. LMSO: A Curry-Howard Approach to Church's Synthesis via Linear Logic.
+    c. LMSO: A Curry-Howard Approach to Church's Synthesis via Linear Logic.
 With Pierre Pradic. LICS'18 [pdf].
 
-d. A Curry-Howard Approach to Church's Synthesis.
+    d. A Curry-Howard Approach to Church's Synthesis.
 With Pierre Pradic. FSCD'17 [pdf]. Long version (submitted) [pdf]. 
 
 12. Pierre Hyvernat, A Linear Category of Polynomial Diagrams, 
