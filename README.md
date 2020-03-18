@@ -67,10 +67,11 @@ https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambe
    6d. "The Axiom of Choice and the Partition Principle from Dialectica Categories" -- slides from the meeting
    "Cantor Meets Robinson" https://cantormeetsrobinson.files.wordpress.com/2019/04/gdasilva.pdf
 
- 7. Dialectica over partial order, in LC Pereira festschrift
+ 7. Dialectica over partial order, in LC Pereira festschrift, http://vcvpaiva.github.io/includes/pubs/2015boundedDial.pdf
 
 ==================================================
-More work related to dialectica categories:
+
+More work (from others) related to dialectica categories:
 
 1. Makkai festschrifft, 2011
 The dialectica monad and its cousins, Pieter J. W. Hofstra, 
