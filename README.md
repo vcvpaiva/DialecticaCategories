@@ -12,6 +12,7 @@ First my work:
     2b. CTCS 1989: "A Dialectica-like Model of Linear Logic", http://www.cs.bham.ac.uk/~vdp/publications/CTCS89.pdf, 1989
  
     2c. TAC paper "Dialectica and Chu constructions: cousins?", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152, 2006.
+    http://www.tac.mta.ca/tac/volumes/17/7/17-07abs.html
     
 3. From the thesis a new logical system that is the natural, intrinsic logic of the categories GC, "Full Intuitionistic Linear Logic".
 
