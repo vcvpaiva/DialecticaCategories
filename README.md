@@ -163,4 +163,6 @@ Thomas Streicher -- https://www2.mathematik.tu-darmstadt.de/~streicher/Dial.pdf
 c. Pino Rosolini -- "Triposes and Gödel's Dialectica Interpretation" 
 youtube https://www.youtube.com/watch?v=_db-eVaU-ts
 
+d. Hongde Hua; Andre Joyal --  Coherence completions of categories, https://core.ac.uk/download/pdf/82827543.pdf
+
 16. Make a list of the work on Lenses!
