@@ -106,7 +106,7 @@ http://cs.au.dk/~birke/phd-students/BieringB-thesis.pdf, 2008
 7. Tamara von Glehn's thesis Polynomials and models of type theory 
 https://www.repository.cam.ac.uk/handle/1810/254394, 2015
 
-8.Tom Powell's
+8. Tom Powell's
 a.   Applying Gödel's Dialectica Interpretation to Obtain a Constructive Proof of Higman's Lemma, 
 https://arxiv.org/abs/1210.3117.
 
@@ -126,7 +126,7 @@ http://dl.acm.org/citation.cfm?doid=2933575.2933605
 10. a. Sean Moss and Tamara von Glehn. Dialectica models of type theory, LiCS2018.
 https://dl.acm.org/citation.cfm?doid=3209108.3209207 paywall
 
-b. Sean Moss. PhD thesis: The Dialectica models of type theory (in email) 
+b. Sean Moss. PhD thesis: The Dialectica models of type theory (in email too) 
 https://www.repository.cam.ac.uk/handle/1810/280672
 
 11. a. Pierre Pradic and Colin Riba, from http://perso.ens-lyon.fr/colin.riba/
@@ -154,7 +154,7 @@ https://staff.fnwi.uva.nl/b.vandenberg3/papers/dsttopos.pdf.
 14. Martin Hyland's talk in Leeds "Polynomials and Dialectica categories"
 https://eps.leeds.ac.uk/maths/events/event/5993/polynomials-and-dialectica-categories
 
-15. a. Older work relevant work: "TheE Dialectica Interpretation of first-order
+15. a. Older work relevant work: "The Dialectica Interpretation of first-order
 Classical Affine Logic", M. Shirahata, http://emis.impa.br/EMIS/journals/TAC/volumes/17/4/17-04.pdf
 
 b. "A Semantic Version of the Diller-Nahm Variant of Godel’s Dialectica Interpretation"
