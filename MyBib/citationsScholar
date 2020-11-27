@@ -396,7 +396,7 @@
 }
 
 @inproceedings{stolle2003,
-  title={Knowledge Tracking: Answering Implicit Questions.},
+  title={Knowledge Tracking: Answering Implicit Questions},
   author={Stolle, Reinhard and Bobrow, Daniel G and Condoravdi, Cleo and Crouch, Richard S and De Paiva, Valeria},
   booktitle={New Directions in Question Answering},
   pages={58--61},
@@ -625,7 +625,7 @@ year ={2011},
 @article{dePaiva2006preface,
   title={Preface to the special volume on {C}hu spaces: theory and applications},
   author={de Paiva, Valeria and Pratt, Vaughan},
-  journal={Theory and Applications of Categories [electronic only]},
+  journal={Theory and Applications of Categories},
   volume={17},
   pages={1--9},
   year={2006},
@@ -724,7 +724,7 @@ year ={2011},
 }
 
 @article{dePaiva2013elements,
-  title={Elements of Categorical Logic: Fifty Years Later.},
+  title={Elements of Categorical Logic: Fifty Years Later},
   author={de Paiva, Valeria and Rodin, Andrei},
   journal={Logica Universalis},
   volume={7},
@@ -785,7 +785,7 @@ year ={2011},
 
 @article{pereira2014,
   title={Advances in Natural Deduction},
-  author={Pereira, Luiz Carlos and Haeusler, Edward Hermann and De Paiva, Valeria and others},
+  author={Pereira, Luiz Carlos and Haeusler, Edward Hermann and de Paiva, Valeria},
   year={2014},
   publisher={Springer Netherlands}
 }
@@ -800,7 +800,7 @@ year ={2011},
 }
 
 @inproceedings{dePaiva2014:nomlex,
-  title={Nom{L}ex-{PT}: A {L}exicon of {P}ortuguese {N}ominalizations.},
+  title={Nom{L}ex-{PT}: A {L}exicon of {P}ortuguese {N}ominalizations},
   author={de Paiva, Valeria and Real, Livy and Rademaker, Alexandre and De Melo, Gerard},
   booktitle={LREC},
   pages={2851--2858},
@@ -850,7 +850,7 @@ year ={2011},
 }
 
 @inproceedings{dePaiva2012:openwordnet,
-  title={Open{W}ord{N}et-{PT}: An {O}pen {B}razilian {W}ordnet for {R}easoning.},
+  title={Open{W}ord{N}et-{PT}: An {O}pen {B}razilian {W}ordnet for {R}easoning},
   author={de Paiva, Valeria and Rademaker, Alexandre and de Melo, Gerard},
   booktitle={COLING (Demos)},
   pages={353--360},
@@ -858,7 +858,7 @@ year ={2011},
 }
 
 @inproceedings{zadrozny2015,
-  title={Explaining {W}atson: {P}olymath {S}tyle.},
+  title={Explaining {W}atson: {P}olymath {S}tyle},
   author={Zadrozny, Wlodek and de Paiva, Valeria and Moss, Lawrence S},
   booktitle={AAAI},
   pages={4078--4082},
@@ -1029,7 +1029,7 @@ year ={2011},
   organization={Springer International Publishing}
 }
 
-@article{de2016fibrational,
+@article{depaiva2016fibrational,
   title={Fibrational {M}odal {T}ype {T}heory},
   author={de Paiva, Valeria and Ritter, Eike},
   journal={Electronic Notes in Theoretical Computer Science},
