@@ -28,7 +28,7 @@ First my work:
    3.4 Algebraic versions: Lineales (in "O que nos faz pensar?" 1991) https://www.cs.bham.ac.uk/~vdp/publications/Lineales91.pdf
         Lineales: algebras and categories in the semantics of Linear Logic. Presented at LLC8, Stanford, May 1999. Revised version (June 2000) appears in CSLI book "Words, Proofs, and Diagrams" (eds. D. Barker-Plummer, D. Beaver, Johan van Benthem and P. Scotto di Luzio), 2002 (https://drive.google.com/file/d/1Xk-2LKABGNfnYTf9CGV6lkhWBUHpGT9m/view?usp=sharing). Original version Lineales: Algebraic Models of Linear Logic from a Categorical Perspective, https://drive.google.com/file/d/11BMFAOhACYHa7asGf5i2DuRywWQjSmp1/view?usp=sharing.
    
-   3.5 (new proof of cut-elimination with Harley Eades III)  Multiple Conclusion Linear Logic: Cut-elimination and more. Lecture Notes in Computer Science, 04 January 2016. Proceedings of the Symposium on Logical Foundations of Computer Science (LFCS 2016). [PDF]. Journal version submitted.
+   3.5 (new proof of cut-elimination with Harley Eades III)  Multiple Conclusion Linear Logic: Cut-elimination and more. https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext Lecture Notes in Computer Science, 04 January 2016. Proceedings of the Symposium on Logical Foundations of Computer Science (LFCS 2016). [PDF]. Journal version submitted.
 
 Applications: 
 
