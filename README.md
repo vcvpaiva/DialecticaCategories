@@ -23,6 +23,7 @@ First my work:
    
    3.3 Cut-Elimination for Full Intuitionistic Linear Logic (with Torben Brauner), CSL1997, preprint https://www.brics.dk/RS/96/10/index.html
    CSL conference version `A formulation of linear logic based on dependency-relations'- T Braüner, V De Paiva International Workshop on Computer Science Logic, 129-148, 1997
+   (https://www.researchgate.net/publication/221557909_A_Formulation_of_Linear_Logic_Based_on_Dependency-Relations)
    
    3.4 Algebraic versions: Lineales (in "O que nos faz pensar?" 1991) https://www.cs.bham.ac.uk/~vdp/publications/Lineales91.pdf
         Lineales: algebras and categories in the semantics of Linear Logic. Presented at LLC8, Stanford, May 1999. Revised version (June 2000) appears in CSLI book "Words, Proofs, and Diagrams" (eds. D. Barker-Plummer, D. Beaver, Johan van Benthem and P. Scotto di Luzio), 2002 (https://drive.google.com/file/d/1Xk-2LKABGNfnYTf9CGV6lkhWBUHpGT9m/view?usp=sharing). Original version Lineales: Algebraic Models of Linear Logic from a Categorical Perspective, https://drive.google.com/file/d/11BMFAOhACYHa7asGf5i2DuRywWQjSmp1/view?usp=sharing.
