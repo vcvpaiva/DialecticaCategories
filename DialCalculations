@@ -9,6 +9,6 @@ Martin Hyland has some slides in https://www.dpmms.cam.ac.uk/~martin/Research/Sl
 (my own work is on propositional and recently first-order versions of the dialectica construction)
 
 Dialectica categories exist in two shapes (Dial and GDial--the simplified form that has morphisms like Chu spaces).
-They also exist both in subobject form or as maps into a lineale L. This variations should give us at least 4 types, but I only discussed 2 of them Dial with subobjects, GDial with a lineale.
+They also exist both in subobject form or as maps into a lineale L. These variations should give us at least 4 types, but I only discussed 2 of them: Dial with subobjects, GDial with a lineale.
 Can we check that Dial with a lineae and GDial with subject work too?
 
