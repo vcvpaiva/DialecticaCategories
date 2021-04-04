@@ -36,7 +36,10 @@ First my work:
 Applications: 
 
 1. BRICS TR: "A linear specification language for Petri Nets", http://www.cs.bham.ac.uk/~vdp/publications/LinSpecPetri.pdf
-   accepted for TCS in mid 90's, but then abandoned. Recently submitted a short note for LSFA2018 based on this work, rejected.     
+   accepted for TCS in mid 90's, but then abandoned. Recently submitted a short note for LSFA2018 based on this work, rejected.
+   
+   Subject of work in ACT School with  Elena Di Lavore, Xiaoyan Li, Wilmer Leal, Eigil Rischel and Jade Master (our TA). 
+   First blog post in https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html.
 
 2. "Categorical multirelations, linear logic and Petri nets" TR from Cambridge http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf
 
@@ -133,7 +136,7 @@ http://dl.acm.org/citation.cfm?doid=2933575.2933605
 10. a. Sean Moss and Tamara von Glehn. Dialectica models of type theory, LiCS2018.
 https://dl.acm.org/citation.cfm?doid=3209108.3209207 paywall
 
-b. Sean Moss. PhD thesis: The Dialectica models of type theory (in email too) 
+    b. Sean Moss. PhD thesis: The Dialectica models of type theory (in email too) 
 https://www.repository.cam.ac.uk/handle/1810/280672
 
 11. a. Pierre Pradic and Colin Riba, from http://perso.ens-lyon.fr/colin.riba/
