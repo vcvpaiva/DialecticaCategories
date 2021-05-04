@@ -65,7 +65,7 @@ https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambe
 5. Dialectica categories for Relevant logic 
 (need to recover the important bits from http://www.dbd.puc-rio.br/depto_informatica/93_mere.pdf) slides?
 
-6. Dialectica categories for Set Theory, work with Samuel G da Silva. Two papers so far.
+6. Dialectica categories for Set Theory, work with Samuel G da Silva. Three papers so far.
 
    6a. Dialectica Categories, Cardinalities of the Continuum and Combinatorics of Ideals, with Samuel G. da Silva.
    Available from https://www.researchgate.net/publication/315001808_Dialectica_Categories_Cardinalities_of_the_Continuum_and_Combinatorics_of_Ideals
@@ -75,7 +75,7 @@ https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambe
    Electronic Notes in theoretical Computer Science, 305 (2014), pages 53-65.
    https://www.researchgate.net/publication/263699584_Natural_Number_Objects_in_Dialectica_Categories)
    
-   6c. Kolgomorov-Veloso Problems and Dialectica Categories, with Samuel G. da Silva.
+   6c. Kolgomorov-Veloso Problems and Dialectica Categories, (with Samuel G. da Silva).
    In "A Question is More Illuminating than the Answer: A Festschrift for Paulo A.S. Veloso
    Edward Hermann Haeusler, Luiz Carlos Pinheiro Dias Pereira and Jorge Petrucio Viana, eds.
    
