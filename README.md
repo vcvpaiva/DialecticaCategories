@@ -68,12 +68,16 @@ https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambe
 6. Dialectica categories for Set Theory, work with Samuel G da Silva. Two papers so far.
 
    6a. Dialectica Categories, Cardinalities of the Continuum and Combinatorics of Ideals, with Samuel G. da Silva.
-   To appear in EBL proceedings. Available from https://www.researchgate.net/publication/315001808_Dialectica_Categories_Cardinalities_of_the_Continuum_and_Combinatorics_of_Ideals
+   Available from https://www.researchgate.net/publication/315001808_Dialectica_Categories_Cardinalities_of_the_Continuum_and_Combinatorics_of_Ideals
 
    6b. Linear Natural Numbers Objects in Dial (Valeria de Paiva, Charles Morgan, Samuel G. da Silva). 
    Natural Number Objects in    Dialectica Categories. ENTCS, 01 January 2014. 
    Electronic Notes in theoretical Computer Science, 305 (2014), pages 53-65.
    https://www.researchgate.net/publication/263699584_Natural_Number_Objects_in_Dialectica_Categories)
+   
+   6c. Kolgomorov-Veloso Problems and Dialectica Categories, with Samuel G. da Silva.
+   In "A Question is More Illuminating than the Answer: A Festschrift for Paulo A.S. Veloso
+   Edward Hermann Haeusler, Luiz Carlos Pinheiro Dias Pereira and Jorge Petrucio Viana, eds.
    
  Samuel, on his own, based on Dialectica:
  
@@ -82,6 +86,8 @@ https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambe
    
    6d. "The Axiom of Choice and the Partition Principle from Dialectica Categories" -- slides from the meeting
    "Cantor Meets Robinson" https://cantormeetsrobinson.files.wordpress.com/2019/04/gdasilva.pdf
+    Samuel G Da Silva, The Axiom of Choice and the Partition Principle from Dialectica Categories, 
+    Logic Journal of the IGPL, 2020;, jzaa023, https://doi.org/10.1093/jigpal/jzaa023 
 
  7. Dialectica over partial order, in LC Pereira festschrift, http://vcvpaiva.github.io/includes/pubs/2015boundedDial.pdf
 
