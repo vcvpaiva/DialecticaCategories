@@ -26,21 +26,25 @@ First my work:
    CSL conference version `A formulation of linear logic based on dependency-relations'- T Braüner, V De Paiva International Workshop on Computer Science Logic, 129-148, 1997
    (https://www.researchgate.net/publication/221557909_A_Formulation_of_Linear_Logic_Based_on_Dependency-Relations)
    
-   3.4 Algebraic versions: Lineales (in "O que nos faz pensar?" 1991) https://www.cs.bham.ac.uk/~vdp/publications/Lineales91.pdf
-        Lineales: algebras and categories in the semantics of Linear Logic. Presented at LLC8, Stanford, May 1999. Revised version (June 2000) appears in CSLI book "Words, Proofs, and Diagrams" (eds. D. Barker-Plummer, D. Beaver, Johan van Benthem and P. Scotto di Luzio), 2002 (https://drive.google.com/file/d/1Xk-2LKABGNfnYTf9CGV6lkhWBUHpGT9m/view?usp=sharing). Original version Lineales: Algebraic Models of Linear Logic from a Categorical Perspective, https://drive.google.com/file/d/11BMFAOhACYHa7asGf5i2DuRywWQjSmp1/view?usp=sharing.
+   3.4 Algebraic versions: 
+       (a) Lineales, in "O que nos faz pensar?" 1991 https://www.cs.bham.ac.uk/~vdp/publications/Lineales91.pdf
+       (b) Lineales: algebras and categories in the semantics of Linear Logic. Presented at LLC8, Stanford, May 1999. Revised version appears in CSLI book "Words, Proofs, and Diagrams" (eds. D. Barker-Plummer, D. Beaver, Johan van Benthem and P. Scotto di Luzio), 2002 
+        Official version: (https://drive.google.com/file/d/1Xk-2LKABGNfnYTf9CGV6lkhWBUHpGT9m/view?usp=sharing). 
+        Original version Lineales: Algebraic Models of Linear Logic from a Categorical Perspective, https://drive.google.com/file/d/11BMFAOhACYHa7asGf5i2DuRywWQjSmp1/view?usp=sharing.
    
    3.5 (new proof of cut-elimination with Harley Eades III)  Multiple Conclusion Linear Logic: Cut-elimination and more. 
    https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext Lecture Notes in Computer Science, 04 January 2016. 
-   Proceedings of the Symposium on Logical Foundations of Computer Science (LFCS 2016). [PDF]. Journal version submitted.
+   Proceedings of the Symposium on Logical Foundations of Computer Science (LFCS 2016), formalized in Agda. Journal version submitted.
 
 Applications: 
 
 1. BRICS TR: "A linear specification language for Petri Nets", http://www.cs.bham.ac.uk/~vdp/publications/LinSpecPetri.pdf
    accepted for TCS in mid 90's, but then abandoned. Submitted a short note for LSFA2018 based on this work, rejected.
    
-   Subject of work in ACT Adjoint School with  Elena Di Lavore, Xiaoyan Li, Wilmer Leal, Eigil Rischel and Jade Master (our TA). 
-   First blog post in https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html.
-   Also in https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/)
+   Subject of work in ACT Adjoint School with  Elena Di Lavore, Xiaoyan Li, Wilmer Leal, Eigil Rischel and Jade Master. 
+   Blog post in https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html.
+   Also in https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/
+   Paper submitted
 
 2. "Categorical multirelations, linear logic and Petri nets" TR from Cambridge http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf
 
@@ -89,11 +93,13 @@ https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambe
     Samuel G Da Silva, The Axiom of Choice and the Partition Principle from Dialectica Categories, 
     Logic Journal of the IGPL, 2020;, jzaa023, https://doi.org/10.1093/jigpal/jzaa023 
 
- 7. Dialectica over partial order, in LC Pereira festschrift, http://vcvpaiva.github.io/includes/pubs/2015boundedDial.pdf
+ 7. Dialectica over a partial order, in LC Pereira festschrift, http://vcvpaiva.github.io/includes/pubs/2015boundedDial.pdf
+
+ 8. The Godel Fibration (with Davide Trotta and Matteo Spadetto) https://arxiv.org/abs/2104.14021
 
 ==================================================
 
-More work (from others) related to dialectica categories:
+Work (from others) related to dialectica categories:
 
 1. Makkai festschrifft, 2011
 The dialectica monad and its cousins, Pieter J. W. Hofstra, 
@@ -120,8 +126,15 @@ http://drops.dagstuhl.de/opus/volltexte/2015/5493/pdf/7.pdf
 6. Bodil Biering's thesis, Dialectica Interpretations: A Categorical Analysis 
 http://cs.au.dk/~birke/phd-students/BieringB-thesis.pdf, 2008
 
-7. Tamara von Glehn's thesis Polynomials and models of type theory 
+7. Tamara von Glehn's 
+   a. thesis Polynomials and models of type theory 
 https://www.repository.cam.ac.uk/handle/1810/254394, 2015
+
+ b. Sean Moss and Tamara von Glehn. Dialectica models of type theory, LiCS2018.
+https://dl.acm.org/citation.cfm?doid=3209108.3209207 paywall
+
+  c. Sean Moss. PhD thesis: The Dialectica models of type theory (Diller-Nahm) 
+https://www.repository.cam.ac.uk/handle/1810/280672
 
 8. Tom Powell's
 a.   Applying Gödel's Dialectica Interpretation to Obtain a Constructive Proof of Higman's Lemma, 
@@ -139,14 +152,8 @@ http://dl.acm.org/citation.cfm?doid=2933575.2933605
    (check also https://arxiv.org/abs/1107.6032 Traces in symmetric monoidal categories and 
    https://golem.ph.utexas.edu/category/2017/12/the_2dialectica_construction_a.html)
    
-  
-10. a. Sean Moss and Tamara von Glehn. Dialectica models of type theory, LiCS2018.
-https://dl.acm.org/citation.cfm?doid=3209108.3209207 paywall
 
-    b. Sean Moss. PhD thesis: The Dialectica models of type theory (in email too) 
-https://www.repository.cam.ac.uk/handle/1810/280672
-
-11. a. Pierre Pradic and Colin Riba, from http://perso.ens-lyon.fr/colin.riba/
+10. a. Pierre Pradic and Colin Riba, from http://perso.ens-lyon.fr/colin.riba/
 
     b. A Dialectica-Like Interpretation of a Linear MSO on Infinite Words.
 With Pierre Pradic. Submitted [pdf].
