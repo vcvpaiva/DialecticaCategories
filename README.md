@@ -1,101 +1,98 @@
 # Dialectica Categories
 A place to collect  work on dialectica categories. 
 
-First my work:
+My work:
 
 1. Thesis: "The Dialectica Categories", TR213 from Cambridge, https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf, 1990
 
-2. From thesis, two conference papers and a much later journal comparison:
+ From thesis, two conference papers and a much later journal comparison:
 
-    2a. AMS vol 92: "The Dialectica Categories" Boulder volume, http://www.cs.bham.ac.uk/~vdp/publications/dial87.pdf, 1989
+2. AMS vol 92: "The Dialectica Categories" Boulder volume, http://www.cs.bham.ac.uk/~vdp/publications/dial87.pdf, 1989
 
-    2b. CTCS 1989: "A Dialectica-like Model of Linear Logic", http://www.cs.bham.ac.uk/~vdp/publications/CTCS89.pdf, 1989
+3. CTCS 1989: "A Dialectica-like Model of Linear Logic", http://www.cs.bham.ac.uk/~vdp/publications/CTCS89.pdf, 1989
  
-    2c. TAC paper "Dialectica and Chu constructions: cousins?", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152, 2006.
+4. TAC paper "Dialectica and Chu constructions: cousins?", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152, 2006.
     http://www.tac.mta.ca/tac/volumes/17/7/17-07abs.html
     
-3. From  thesis a new logical system that is the natural, intrinsic logic of the categories GC, "Full Intuitionistic Linear Logic" (FILL)
+From  thesis a new logical system that is the natural, intrinsic logic of the categories GC, "Full Intuitionistic Linear Logic" (FILL)
 
-   3.1 Full Intuitionistic Linear Logic (with Martin Hyland) APAL, 1993. https://www.sciencedirect.com/science/article/pii/0168007293901465 (official)
+5. Full Intuitionistic Linear Logic (with Martin Hyland) APAL, 1993. https://www.sciencedirect.com/science/article/pii/0168007293901465 (official)
    https://www.cs.bham.ac.uk/~vdp/publications/fill.pdf (preprint)
    
-   3.2 Full Intuitionistic Logic (with Luiz Carlos Pereira) Logic Colloquium 1994 -- abstract only. paper in 2005, "A short note on Intuitionistic Propositional Logic with Multiple Conclusions"  
-   (with Luiz Carlos Pereira) Manuscrito-- Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez, 2005 (https://www.cs.bham.ac.uk/%7Evdp/publications/fil.pdf) --this is intuitionistic logic, not Linear Logic! 
+6. Full Intuitionistic Logic (with Luiz Carlos Pereira) Logic Colloquium 1994 -- abstract only. paper in 2005, "A short note on Intuitionistic Propositional Logic with Multiple Conclusions"  (with Luiz Carlos Pereira) Manuscrito-- Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez, 2005 (https://www.cs.bham.ac.uk/%7Evdp/publications/fil.pdf) --this is intuitionistic logic, not Linear Logic! 
    
-   3.3 Cut-Elimination for Full Intuitionistic Linear Logic (with Torben Brauner), CSL1997, preprint https://www.brics.dk/RS/96/10/index.html
+7. Cut-Elimination for Full Intuitionistic Linear Logic (with Torben Brauner), CSL1997, preprint https://www.brics.dk/RS/96/10/index.html
    CSL conference version `A formulation of linear logic based on dependency-relations'- T Braüner, V De Paiva International Workshop on Computer Science Logic, 129-148, 1997
    (https://www.researchgate.net/publication/221557909_A_Formulation_of_Linear_Logic_Based_on_Dependency-Relations)
    
-   3.4 Algebraic versions: 
-       (a) Lineales, in "O que nos faz pensar?" 1991 https://www.cs.bham.ac.uk/~vdp/publications/Lineales91.pdf
-       (b) Lineales: algebras and categories in the semantics of Linear Logic. Presented at LLC8, Stanford, May 1999. Revised version appears in CSLI book "Words, Proofs, and Diagrams" (eds. D. Barker-Plummer, D. Beaver, Johan van Benthem and P. Scotto di Luzio), 2002 
+   Algebraic versions: 
+8.  Lineales, in "O que nos faz pensar?" 1991 https://www.cs.bham.ac.uk/~vdp/publications/Lineales91.pdf
+  
+9.  Lineales: algebras and categories in the semantics of Linear Logic. Presented at LLC8, Stanford, May 1999. Revised version appears in CSLI book "Words, Proofs, and Diagrams" (eds. D. Barker-Plummer, D. Beaver, Johan van Benthem and P. Scotto di Luzio), 2002 
         Official version: (https://drive.google.com/file/d/1Xk-2LKABGNfnYTf9CGV6lkhWBUHpGT9m/view?usp=sharing). 
         Original version Lineales: Algebraic Models of Linear Logic from a Categorical Perspective, https://drive.google.com/file/d/11BMFAOhACYHa7asGf5i2DuRywWQjSmp1/view?usp=sharing.
    
-   3.5 (new proof of cut-elimination with Harley Eades III)  Multiple Conclusion Linear Logic: Cut-elimination and more. 
+10.  (new proof of cut-elimination with Harley Eades III)  Multiple Conclusion Linear Logic: Cut-elimination and more. 
    https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext Lecture Notes in Computer Science, 04 January 2016. 
    Proceedings of the Symposium on Logical Foundations of Computer Science (LFCS 2016), formalized in Agda. Journal version submitted.
 
 Applications: 
 
-1. BRICS TR: "A linear specification language for Petri Nets", http://www.cs.bham.ac.uk/~vdp/publications/LinSpecPetri.pdf
+11. BRICS TR: "A linear specification language for Petri Nets", http://www.cs.bham.ac.uk/~vdp/publications/LinSpecPetri.pdf
    accepted for TCS in mid 90's, but then abandoned. Submitted a short note for LSFA2018 based on this work, rejected.
    
-   Subject of work in ACT Adjoint School with  Elena Di Lavore, Xiaoyan Li, Wilmer Leal, Eigil Rischel and Jade Master. 
+12. Theme of work in ACT Adjoint School with  Elena Di Lavore, Xiaoyan Li, Wilmer Leal, Eigil Rischel and Jade Master. 
    Blog post in https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html.
    Also in https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/
-   Paper submitted
+   Preprint: 
 
-2. "Categorical multirelations, linear logic and Petri nets" TR from Cambridge http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf
+13. "Categorical multirelations, linear logic and Petri nets" TR from Cambridge http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf
 
-3. Dialectica categories for Lambek calculus. 
+ Dialectica categories for Lambek calculus. 
 
-   3a. Paper in Amsterdam Colloquium 1991
-https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambek_Calculus
+14. Paper in Amsterdam Colloquium 1991
+     https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambek_Calculus
 
-   3b. Talk at APA, April 2017
-   
-   3c. conference LFCS paper with Harley Eades, appeared in Jan2018,
+15.   Talk at APA, April 2017
+   conference LFCS paper with Harley Eades, appeared in Jan2018,
    https://arxiv.org/abs/1801.06883
    journal paper not submitted yet
 
-4. Dialectica categories for modelling State/Pomset logic
+16. Dialectica categories for modelling State/Pomset logic
+    Conference paper in CATS'1996 with Correa and Hauesler.
 
-   4a. Conference paper in CATS'1996 with Correa and Hauesler.
-
-   4b. journal paper: Valeria de Paiva. Linear Logic Model of State Revisited. Logic Journal of IGPL, 01 October 2014. 
+17. journal paper: Valeria de Paiva. Linear Logic Model of State Revisited. Logic Journal of IGPL, 01 October 2014. 
    volume 22, number 5, pages 791-804. http://vcvpaiva.github.io/includes/pubs/2014-LL-model.pdf
 
-5. Dialectica categories for Relevant logic 
+18. Dialectica categories for Relevant logic 
 (need to recover the important bits from http://www.dbd.puc-rio.br/depto_informatica/93_mere.pdf) slides?
 
-6. Dialectica categories for Set Theory, work with Samuel G da Silva. Three papers so far.
+ Dialectica categories for Set Theory, work with Samuel G da Silva. Three papers so far.
 
-   6a. Dialectica Categories, Cardinalities of the Continuum and Combinatorics of Ideals, with Samuel G. da Silva.
+19. Dialectica Categories, Cardinalities of the Continuum and Combinatorics of Ideals, with Samuel G. da Silva.
    Available from https://www.researchgate.net/publication/315001808_Dialectica_Categories_Cardinalities_of_the_Continuum_and_Combinatorics_of_Ideals
 
-   6b. Linear Natural Numbers Objects in Dial (Valeria de Paiva, Charles Morgan, Samuel G. da Silva). 
+20. Linear Natural Numbers Objects in Dial (Valeria de Paiva, Charles Morgan, Samuel G. da Silva). 
    Natural Number Objects in    Dialectica Categories. ENTCS, 01 January 2014. 
    Electronic Notes in theoretical Computer Science, 305 (2014), pages 53-65.
    https://www.researchgate.net/publication/263699584_Natural_Number_Objects_in_Dialectica_Categories)
    
-   6c. Kolgomorov-Veloso Problems and Dialectica Categories, (with Samuel G. da Silva).
+21. Kolgomorov-Veloso Problems and Dialectica Categories, (with Samuel G. da Silva).
    In "A Question is More Illuminating than the Answer: A Festschrift for Paulo A.S. Veloso
    Edward Hermann Haeusler, Luiz Carlos Pinheiro Dias Pereira and Jorge Petrucio Viana, eds.
    
  Samuel, on his own, based on Dialectica:
- 
-   6c. "Reductions between certain incidence problems and the continuum hypothesis" -- 
+ * "Reductions between certain incidence problems and the continuum hypothesis" -- 
    http://www.ejournals.eu/rml/2019/Number-54/art/14434/
    
-   6d. "The Axiom of Choice and the Partition Principle from Dialectica Categories" -- slides from the meeting
+ * "The Axiom of Choice and the Partition Principle from Dialectica Categories" -- slides from the meeting
    "Cantor Meets Robinson" https://cantormeetsrobinson.files.wordpress.com/2019/04/gdasilva.pdf
     Samuel G Da Silva, The Axiom of Choice and the Partition Principle from Dialectica Categories, 
     Logic Journal of the IGPL, 2020;, jzaa023, https://doi.org/10.1093/jigpal/jzaa023 
 
- 7. Dialectica over a partial order, in LC Pereira festschrift, http://vcvpaiva.github.io/includes/pubs/2015boundedDial.pdf
+22. Dialectica over a partial order, in LC Pereira festschrift, http://vcvpaiva.github.io/includes/pubs/2015boundedDial.pdf
 
- 8. The Godel Fibration (with Davide Trotta and Matteo Spadetto) https://arxiv.org/abs/2104.14021
+23. The Godel Fibration (with Davide Trotta and Matteo Spadetto) https://arxiv.org/abs/2104.14021
 
 ==================================================
 
@@ -150,17 +147,13 @@ http://dl.acm.org/citation.cfm?doid=2933575.2933605
    
    b. Mike Shulman, Linear logic for constructive mathematics, https://arxiv.org/abs/1805.07518
    (check also https://arxiv.org/abs/1107.6032 Traces in symmetric monoidal categories and 
-   https://golem.ph.utexas.edu/category/2017/12/the_2dialectica_construction_a.html)
-   
+   https://golem.ph.utexas.edu/category/2017/12/the_2dialectica_construction_a.html)   
 
 10. a. Pierre Pradic and Colin Riba, from http://perso.ens-lyon.fr/colin.riba/
-
     b. A Dialectica-Like Interpretation of a Linear MSO on Infinite Words.
 With Pierre Pradic. Submitted [pdf].
-
     c. LMSO: A Curry-Howard Approach to Church's Synthesis via Linear Logic.
 With Pierre Pradic. LICS'18 [pdf].
-
     d. A Curry-Howard Approach to Church's Synthesis.
 With Pierre Pradic. FSCD'17 [pdf]. Long version (submitted) [pdf]. 
 
@@ -168,7 +161,7 @@ With Pierre Pradic. FSCD'17 [pdf]. Long version (submitted) [pdf].
 http://www.lama.univ-savoie.fr/pagesmembres/hyvernat/research.php
 
 13. Benno van der Berg et al 
-A functional interpretation for nonstandard arithmetic [PS][PDF]
+A functional interpretation for nonstandard arithmetic 
 Joint work with Eyvind Briseid and Pavol Safarik. 
 Annals of Pure and Applied Logic, volume 163, issue 12 (2012), pp. 1962–1994.
 and
@@ -178,15 +171,15 @@ https://staff.fnwi.uva.nl/b.vandenberg3/papers/dsttopos.pdf.
 14. Martin Hyland's talk in Leeds "Polynomials and Dialectica categories"
 https://eps.leeds.ac.uk/maths/events/event/5993/polynomials-and-dialectica-categories
 
-15. a. Older work relevant work: "The Dialectica Interpretation of first-order
-Classical Affine Logic", M. Shirahata, http://emis.impa.br/EMIS/journals/TAC/volumes/17/4/17-04.pdf
+15.  "The Dialectica Interpretation of first-order Classical Affine Logic", 
+M. Shirahata, http://emis.impa.br/EMIS/journals/TAC/volumes/17/4/17-04.pdf
 
-b. "A Semantic Version of the Diller-Nahm Variant of Godel’s Dialectica Interpretation"
+16. "A Semantic Version of the Diller-Nahm Variant of Godel’s Dialectica Interpretation"
 Thomas Streicher -- https://www2.mathematik.tu-darmstadt.de/~streicher/Dial.pdf
 
-c. Pino Rosolini -- "Triposes and Gödel's Dialectica Interpretation" 
+17. Pino Rosolini -- "Triposes and Gödel's Dialectica Interpretation" 
 youtube https://www.youtube.com/watch?v=_db-eVaU-ts
 
-d. Hongde Hu; Andre Joyal --  Coherence completions of categories, https://core.ac.uk/download/pdf/82827543.pdf
+18. Hongde Hu; Andre Joyal --  Coherence completions of categories, https://core.ac.uk/download/pdf/82827543.pdf
 
-16. Make a list of the work on Lenses!
+19. Make a list of the work on Lenses!
