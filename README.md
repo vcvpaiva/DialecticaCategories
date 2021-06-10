@@ -44,7 +44,8 @@ Applications:
 12. Theme of work in ACT Adjoint School with  Elena Di Lavore, Xiaoyan Li, Wilmer Leal, Eigil Rischel and Jade Master. 
    Blog post in https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html.
    Also in https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/
-   Preprint: 
+   
+   Preprint: Dialectica Petri Nets https://arxiv.org/abs/2105.12801
 
 13. "Categorical multirelations, linear logic and Petri nets" TR from Cambridge http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf
 
