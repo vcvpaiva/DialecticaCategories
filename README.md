@@ -35,15 +35,19 @@ From  thesis a new logical system that is the natural, intrinsic logic of the ca
 10.  (new proof of cut-elimination with Harley Eades III)  Multiple Conclusion Linear Logic: Cut-elimination and more. 
    https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext Lecture Notes in Computer Science, 04 January 2016. 
    Proceedings of the Symposium on Logical Foundations of Computer Science (LFCS 2016), formalized in Agda. Journal version submitted.
+   
+   Appeared in Journal of Logic and Computation, Feb 2020 https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext
 
 Applications: 
 
 11. BRICS TR: "A linear specification language for Petri Nets", http://www.cs.bham.ac.uk/~vdp/publications/LinSpecPetri.pdf
-   accepted for TCS in mid 90's, but then abandoned. Submitted a short note for LSFA2018 based on this work, rejected.
+   accepted for TCS in mid 90's, but then abandoned.  short note for LSFA2018 based on this work, rejected.
    
 12. Theme of work in ACT Adjoint School with  Elena Di Lavore, Xiaoyan Li, Wilmer Leal, Eigil Rischel and Jade Master. 
    Blog post in https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html.
    Also in https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/
+   
+   Poster at ACT 2021, presented by Elena
    
    Preprint: Dialectica Petri Nets https://arxiv.org/abs/2105.12801
 
@@ -57,7 +61,7 @@ Applications:
 15.   Talk at APA, April 2017
    conference LFCS paper with Harley Eades, appeared in Jan2018,
    https://arxiv.org/abs/1801.06883
-   journal paper not submitted yet
+   journal paper not submitted yet (?)
 
 16. Dialectica categories for modelling State/Pomset logic
     Conference paper in CATS'1996 with Correa and Hauesler.
@@ -82,6 +86,8 @@ Applications:
    In "A Question is More Illuminating than the Answer: A Festschrift for Paulo A.S. Veloso
    Edward Hermann Haeusler, Luiz Carlos Pinheiro Dias Pereira and Jorge Petrucio Viana, eds.
    
+   Preprint arXiv https://arxiv.org/abs/2107.07854
+   
  Samuel, on his own, based on Dialectica:
  * "Reductions between certain incidence problems and the continuum hypothesis" -- 
    http://www.ejournals.eu/rml/2019/Number-54/art/14434/
@@ -91,31 +97,38 @@ Applications:
     Samuel G Da Silva, The Axiom of Choice and the Partition Principle from Dialectica Categories, 
     Logic Journal of the IGPL, 2020;, jzaa023, https://doi.org/10.1093/jigpal/jzaa023 
 
-22. Dialectica over a partial order, in LC Pereira festschrift, http://vcvpaiva.github.io/includes/pubs/2015boundedDial.pdf
+22. Dialectica over a partial order, in LC Pereira Festschrift, http://vcvpaiva.github.io/includes/pubs/2015boundedDial.pdf
 
-23. The Godel Fibration (with Davide Trotta and Matteo Spadetto) https://arxiv.org/abs/2104.14021
+23. Generalization:
 
-24. Dialectica and Games (lost EPSRC proposal) 
+The Godel Fibration (with Davide Trotta and Matteo Spadetto) To appear in MFCS 2021
+Preprint in the arXiv https://arxiv.org/abs/2104.14021
+
+24. Dialectica and Games (lost EPSRC proposal, how did I do that?) 
 
  Extreme cases of Dialectica with Andrea Schalk 
  
-24.  Building models of linear logic, V De Paiva, A Schalk
+25.  Building models of linear logic, V De Paiva, A Schalk 
+(https://www.researchgate.net/publication/220977218_Building_Models_of_Linear_Logic)
 International Conference on Algebraic Methodology and Software Technology
 
-25.   Poset-valued sets or how to build models for linear logics
+26.   Poset-valued sets or how to build models for linear logics
      A Schalk, V De Paiva
      Theoretical Computer Science 315 (1), 83-107
+https://www.researchgate.net/publication/222848911_Poset-valued_sets_or_how_to_build_models_for_linear_logics
 
 ==================================================
 
 Work (from others) related to dialectica categories:
+0. M. Hyland, Proof Theory in th
 
-1. Bodil Biering's thesis, Dialectica Interpretations: A Categorical Analysis 
-http://cs.au.dk/~birke/phd-students/BieringB-thesis.pdf, 2008
- 
-2. Makkai festschrifft, 2011
+1. Hofstra, P in Makkai Festschrifft, 2011
 The dialectica monad and its cousins, Pieter J. W. Hofstra, 
 http://mysite.science.uottawa.ca/phofstra/dialectica.pdf
+
+2. Bodil Biering's thesis, Dialectica Interpretations: A Categorical Analysis 
+http://cs.au.dk/~birke/phd-students/BieringB-thesis.pdf, 2008
+ 
 
 3. An Analysis of Gödel's dialectica Interpretation via Linear Logic, Paulo Oliva, Dialectica, 2008.
 (available from http://www.eecs.qmul.ac.uk/~pbo/) many more from his webpage!
@@ -134,9 +147,11 @@ slides https://jgalenson.github.io/papers/esop2013-talk.pdf
 6. Jules Hedge's Dialectica categories and games with bidding. 
 In Post-proceedings of TYPES’14. LIPIcs 39:89-110, 2015. 
 http://drops.dagstuhl.de/opus/volltexte/2015/5493/pdf/7.pdf
+
+Also influential blog post Lenses for Philosophers
+https://julesh.com/2018/08/16/lenses-for-philosophers/
  
 7. Tamara von Glehn
- 
    a. Polynomials and models of type theory (PhD thesis)
       https://www.repository.cam.ac.uk/handle/1810/254394, 2015
 
@@ -145,9 +160,11 @@ http://drops.dagstuhl.de/opus/volltexte/2015/5493/pdf/7.pdf
 
    c. Sean Moss. PhD thesis: The Dialectica models of type theory (Diller-Nahm) 
       https://www.repository.cam.ac.uk/handle/1810/280672
+      
+   d. POLYNOMIALS, FIBRATIONS AND DISTRIBUTIVE LAWS, 
+      http://www.tac.mta.ca/tac/volumes/33/36/33-36.pdf  
 
 8. Tom Powell
-
     a. Applying Gödel's Dialectica Interpretation to Obtain a Constructive Proof of Higman's Lemma, 
        https://arxiv.org/abs/1210.3117.
 
@@ -157,7 +174,6 @@ http://drops.dagstuhl.de/opus/volltexte/2015/5493/pdf/7.pdf
        http://dl.acm.org/citation.cfm?doid=2933575.2933605
 
 9. Mike Shulman
-
     a. The 2-Chu-Dialectica construction and the polycategory of multivariable adjunctions, 
         https://arxiv.org/abs/1806.06082
    
@@ -166,7 +182,6 @@ http://drops.dagstuhl.de/opus/volltexte/2015/5493/pdf/7.pdf
        https://golem.ph.utexas.edu/category/2017/12/the_2dialectica_construction_a.html)   
 
 10. Pierre Pradic and Colin Riba, from http://perso.ens-lyon.fr/colin.riba/
-
     a. A Dialectica-Like Interpretation of a Linear MSO on Infinite Words.
        Submitted [pdf].
        
@@ -200,7 +215,7 @@ http://drops.dagstuhl.de/opus/volltexte/2015/5493/pdf/7.pdf
 
 18. Hongde Hu; Andre Joyal --  Coherence completions of categories, https://core.ac.uk/download/pdf/82827543.pdf
 
-19. Make a list of the work on Lenses!
+19. Make a list of the work on Lenses! and containers
  
 20. Make a list of work on games
 
