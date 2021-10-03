@@ -43,6 +43,8 @@ Applications:
 11. BRICS TR: "A linear specification language for Petri Nets", http://www.cs.bham.ac.uk/~vdp/publications/LinSpecPetri.pdf
    accepted for TCS in mid 90's, but then abandoned.  short note for LSFA2018 based on this work, rejected.
    
+   Carolyn Brown thesis now at https://era.ed.ac.uk/bitstream/handle/1842/15424/Brown1990.Pdf?sequence=1
+   
 12. Theme of work in ACT Adjoint School with  Elena Di Lavore, Xiaoyan Li, Wilmer Leal, Eigil Rischel and Jade Master. 
    Blog post in https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html.
    Also in https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/
