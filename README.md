@@ -99,14 +99,21 @@ Applications:
     Samuel G Da Silva, The Axiom of Choice and the Partition Principle from Dialectica Categories, 
     Logic Journal of the IGPL, 2020;, jzaa023, https://doi.org/10.1093/jigpal/jzaa023 
 
-22. Dialectica over a partial order, in LC Pereira Festschrift, http://vcvpaiva.github.io/includes/pubs/2015boundedDial.pdf
+22. Dialectica over a partial order, in LC Pereira Festschrift, 
+http://vcvpaiva.github.io/includes/pubs/2015boundedDial.pdf
 
-23. Generalization:
+23. Generalizations:
 
 The Godel Fibration (with Davide Trotta and Matteo Spadetto) To appear in MFCS 2021
 Preprint in the arXiv https://arxiv.org/abs/2104.14021
 
+23A Dialectica Logical Principles (with Davide Trotta and Matteo Spadetto) to appear in LFCS2022.
+Preprint in the arXiv https://arxiv.org/abs/2109.08064
+
 24. Dialectica and Games (lost EPSRC proposal, how did I do that?) 
+
+24A. SuperPower Lorenzen Games, manuscript from 2011 Nancy CLMPST Talk.
+https://drive.google.com/file/d/19wSFHBNdb-PQj2ZjM6oZtV6MVutpGIdn/view?usp=sharing
 
  Extreme cases of Dialectica with Andrea Schalk 
  
@@ -122,7 +129,8 @@ https://www.researchgate.net/publication/222848911_Poset-valued_sets_or_how_to_b
 ==================================================
 
 Work (from others) related to dialectica categories:
-0. M. Hyland, Proof Theory in th
+0. M. Hyland, Proof Theory in the Abstract 2002
+https://www.sciencedirect.com/science/article/pii/S0168007201000756
 
 1. Hofstra, P in Makkai Festschrifft, 2011
 The dialectica monad and its cousins, Pieter J. W. Hofstra, 
