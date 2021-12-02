@@ -18,8 +18,8 @@ UNILOG2013, Rio de Janeiro, Brazil (Gurevich, Vigano and Bellin)
 ESSLLI2017, Toulouse, France
 
 
-Special Volumes from IMLA Workshops:
-===================================
+Special Volumes from IMLA:
+==========================
 
 M. Fairtlough, M. Mendler, Eugenio Moggi (eds.) Modalities in Type
 Theory, Mathematical Structures in Computer Science, (2001)
@@ -108,6 +108,7 @@ V de Paiva, N Alechina
 ARCOE-11, 16, 2011.
 
 ============================================
+
 
 
 Some work of others mentioned in slides:
