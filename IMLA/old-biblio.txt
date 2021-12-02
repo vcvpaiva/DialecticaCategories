@@ -6,7 +6,7 @@ Intuitionistic Modal Logic Publications
     N. Alechina, M. Mendler, V. de Paiva and E. Ritter, Categorical and Kripke Semantics for Constructive S4 Modal Logic. In Proc. of Computer Science Logic (CSL'01), LNCS 2142, ed L. Fribourg. 2001. https://www.cs.bham.ac.uk/~exr/papers/csl01.pdf
     S. Artemov, Deep isomorphism of modal derivations and lambda-terms, IMLA99. http://www.cs.cornell.edu/info/people/artemov/publ.html
     S. Awodey, L. Birkedal, D.S. Scott, Local realizability toposes and a modal logic for computability. Mathematical Structures in Computer Science, vol. 12 (2002), pp. 319-334.
-    G. Bellin, V. de Paiva and E. Ritter,Extended Curry-Howard Correspondence for a Basic Constructive Modal Logic In Methods for Modalities 2001, Amsterdam, November 2001.
+    G. Bellin, V. de Paiva and E. Ritter, Extended Curry-Howard Correspondence for a Basic Constructive Modal Logic. In Methods for Modalities 2001, Amsterdam, November 2001. http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.24.1748
     Z. Benaissa, E. Moggi, W. Taha, T. Sheard A Constructive presentation for the modal connective of necessity , Journal of Logic and Computation, 2(1):31-50, 1992.
     M. Benevides, T. Maibaum Logical Modalities and Multi-Stage Programming , IMLA99
     N. Benton, G. Bierman and V. de PaivaComputational Types from a Logical Perspective I. Journal of Functional Programming, 8(2):177-193. March 1998 .
@@ -15,6 +15,7 @@ Intuitionistic Modal Logic Publications
     N. Benton, G. Bierman, V. de Paiva and M. Hyland, Term Assignment for Intuitionistic Linear Logic. Technical Report 262, University of Cambridge Computer Laboratory. August 1992.
     G. Bierman and V. de Paiva, On an Intuitionistic Modal Logic Studia Logica (65):383-416, 2000.
     T. Brauner and V. de Paiva, Towards Constructive Hybrid Logic Presented at Methods for Modalities 3, LORIA, Nancy, France, September 22-23, 2003. Full paper Technical report from the University of Roskilde, 2003.
+    Borghuis, V. A. J.  Coming to terms with modal logic : on the interpretation of modalities in typed lambda-calculus. Technische Universiteit Eindhoven.  1994. https://doi.org/10.6100/IR427575
     M. Bozic, K. Dosen Models fro normal intuitionistic modal logicsStudia Logica, 43:217-245, 1984.
     C. Calcagno, E. Moggi, W. Taha Closed Types as a Simple Approach to Safe Imperative Multi-stage Programming. ICALP 2000: 25-36, 2000.
     Cristiano Calcagno, Eugenio Moggi Multi-Stage Imperative Languages: A Conservative Extension Result. SAIG 2000: 92-107
