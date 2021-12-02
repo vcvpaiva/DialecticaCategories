@@ -18,11 +18,11 @@ UNILOG2013, Rio de Janeiro, Brazil (Gurevich, Vigano and Bellin)
 ESSLLI2017, Toulouse, France
 
 
-Special Volumes from IMLA:
+Special Volumes from IMLA
 ==========================
 
-M. Fairtlough, M. Mendler, Eugenio Moggi (eds.) Modalities in Type
-Theory, Mathematical Structures in Computer Science, (2001)
+[M. Fairtlough, M. Mendler, Eugenio Moggi (eds.) Modalities in Type
+Theory, Mathematical Structures in Computer Science, (2001)]
 
 V. de Paiva, R. Gore, M. Mendler (eds.), Modalities in constructive
 logics and type theories, Journal of Logic and Computation, (2004)
@@ -40,9 +40,9 @@ Logics (IMLA2011), Journal of Logic and Computation, 2015
 
 S. Artemov, V. de Paiva (eds.), Journal of Applied Logic (2021)
 
-============================================
 
 My work:
+========
 
 G. Bierman, V de Paiva
 On an Intuitionistic Modal Logic Studia Logica (65):383-416, 2000.
@@ -111,7 +111,7 @@ ARCOE-11, 16, 2011.
 
 
 
-Some work of others mentioned in slides:
+Some work of others:
 
 A. Simpson
 The Proof Theory and Semantics of Intuitionistic Modal Logic
