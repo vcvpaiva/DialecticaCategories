@@ -2,6 +2,7 @@ A folder to collect the work on intuitionistic modal logic, Nov 2021.
 
 IMLA Workshops (invited speakers):
 =================================
+
 FLoC1999, Trento, Italy (Pfenning)
 
 FLoC2002, Copenhagen, Denmark (Scott and Sambin)
@@ -37,14 +38,18 @@ Science, Volume 300, (2014)
 C. Stewart, N. Alechina, V. de Paiva (eds.) Intuitionistic Modal
 Logics (IMLA2011), Journal of Logic and Computation, 2015
 
-S. Artemov, V. de Paiva (eds.), Journal of Applied Logic
-(2021)
+S. Artemov, V. de Paiva (eds.), Journal of Applied Logic (2021)
+
 ============================================
 
 My work:
 
 G. Bierman, V de Paiva
 On an Intuitionistic Modal Logic Studia Logica (65):383-416, 2000.
+
+Intuitionistic necessity revisited
+GM Bierman, VCV De Paiva
+School of Computer Science research reports-University of Birmingham CSR
 
 N. Benton, G. Bierman, V de Paiva
 Computational Types from a Logical Perspective I.
@@ -57,6 +62,50 @@ ICALP’98 Proceedings, LNCS 1443, 1998.
 G. Bellin, V de Paiva, E. Ritter
 Basic Constructive Modal Logic
 Methods for the Modalities, 2001.
+
+Categorical and Kripke semantics for constructive S4 modal logic
+N Alechina, M Mendler, V De Paiva, E Ritter
+International Workshop on Computer Science Logic, 292-307
+
+Intuitionistic hybrid logic
+T Braüner, V de Paiva
+Journal of Applied Logic 4 (3), 231-255, 2006.
+
+Towards constructive hybrid logic
+T Brauner, V De Paiva
+Workshop Proceedings of Methods for Modalities 3, 15, 2003.
+
+Constructive description logics: what, why and how
+V de Paiva
+Context Representation and Reasoning, Riva del Garda, 2006.
+
+Constructive CK for contexts
+M Mendler, V De Paiva
+Context Representation and Reasoning (CRR-2005) 13, 2005.
+
+Natural deduction and context as (constructive) modality
+V de Paiva
+International and Interdisciplinary Conference on Modeling and Using Context, 2003.
+
+Basic constructive modality
+V de Paiva, E Ritter
+Logic without Frontiers: Festschrift for Walter Alexandre Carnielli, 2011.
+
+Constructive description logics hybrid-style
+V de Paiva, EH Haeusler, A Rademaker
+Electronic Notes in Theoretical Computer Science 273, 21-31, 2011.
+
+Fibrational modal type theory
+V de Paiva, E Ritter
+Electronic Notes in Theoretical Computer Science 323, 143-161, 2016.
+
+Intuitionistic modal logic: a 15-year retrospective
+C Stewart, V de Paiva, N Alechina
+Journal of Logic and Computation, 2018.
+
+Contextual Constructive Description Logics
+V de Paiva, N Alechina
+ARCOE-11, 16, 2011.
 
 Some work of others mentioned in slides:
 
