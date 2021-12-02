@@ -107,6 +107,9 @@ Contextual Constructive Description Logics
 V de Paiva, N Alechina
 ARCOE-11, 16, 2011.
 
+============================================
+
+
 Some work of others mentioned in slides:
 
 A. Simpson
