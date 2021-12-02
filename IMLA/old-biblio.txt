@@ -2,7 +2,7 @@
 Intuitionistic Modal Logic Publications
 
     P. Aczel, The Russel-Prawitz Modality, IMLA99. http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.39.5294
-    N. Alechina and D. Shkatov, On decidability of intuitionistic modal logics , Proceedings of Methods for Modalities Workshop, 2003, Loria, Nancy, France.
+    N. Alechina and D. Shkatov, On decidability of intuitionistic modal logics , Proceedings of Methods for Modalities Workshop, 2003, Loria, Nancy, France. https://www.researchgate.net/publication/347913762_On_decidability_of_intuitionistic_modal_logics
     N. Alechina, M. Mendler, V. de Paiva and E. Ritter,Categorical and Kripke Semantics for Constructive S4 Modal Logic . In Proc. of Computer Science Logic (CSL'01), LNCS 2142, ed L. Fribourg. 2001.
     Sergei Artemov, Deep isomorphism of modal derivations and lambda-terms IMLA99
     S. Awodey, L. Birkedal, D.S. Scott, Local realizability toposes and a modal logic for computability. Mathematical Structures in Computer Science, vol. 12 (2002), pp. 319-334.
