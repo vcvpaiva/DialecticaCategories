@@ -91,3 +91,5 @@ Intuitionistic Modal Logic Publications
     D. Wijesekera, Concurrent Dynamic Logic In International Symposium on Mathematics in Artificial Intelligence I, 1990
     D. Wijesekera, Constructive Concurrent Dynamic Logic I, Technical Report, 90-45, Mathematical Sciences Institute, Cornell University.
     F. Wolter and M. Zakharyaschev. Intuitionistic modal logics as fragments of classical bimodal logics. In E. Orlowska, editor, Logic at Work. Kluwer, 1997. 
+    
+    
