@@ -1,0 +1,93 @@
+%From https://www.cs.bham.ac.uk/~vdp/publications/IMLA-papers.htm
+Intuitionistic Modal Logic Publications
+
+    P. Aczel, The Russel-Prawitz Modality, IMLA99
+    N. Alechina and D. Shkatov, On decidability of intuitionistic modal logics , Proceedings of Methods for Modalities Workshop, 2003, Loria, Nancy, France.
+    N. Alechina, M. Mendler, V. de Paiva and E. Ritter,Categorical and Kripke Semantics for Constructive S4 Modal Logic . In Proc. of Computer Science Logic (CSL'01), LNCS 2142, ed L. Fribourg. 2001.
+    Sergei Artemov, Deep isomorphism of modal derivations and lambda-terms IMLA99
+    S. Awodey, L. Birkedal, D.S. Scott, Local realizability toposes and a modal logic for computability. Mathematical Structures in Computer Science, vol. 12 (2002), pp. 319-334.
+    G. Bellin, V. de Paiva and E. Ritter,Extended Curry-Howard Correspondence for a Basic Constructive Modal Logic In Methods for Modalities 2001, Amsterdam, November 2001.
+    Z. Benaissa, E. Moggi, W. Taha, T. Sheard A Constructive presentation for the modal connective of necessity , Journal of Logic and Computation, 2(1):31-50, 1992.
+    M. Benevides, T. Maibaum Logical Modalities and Multi-Stage Programming , IMLA99
+    N. Benton, G. Bierman and V. de PaivaComputational Types from a Logical Perspective I. Journal of Functional Programming, 8(2):177-193. March 1998 .
+    N. Benton, G. Bierman, V. de Paiva and M. Hyland, A Term Calculus for Intuitionistic Linear Logic. Proceedings of the First International Conference on Typed Lambda Calculus. In Volume 664 of Lecture Notes in Computer Science, Springer Verlag. 1993
+    N. Benton, G. Bierman, V. de Paiva and M. Hyland, Linear lambda-calculus and Categorical Models Revisited. Proceedings of Sixth Conference on Computer Science Logic. In Volume 702 of Lecture Notes in Computer Science, Springer Verlag. 1993
+    N. Benton, G. Bierman, V. de Paiva and M. Hyland, Term Assignment for Intuitionistic Linear Logic. Technical Report 262, University of Cambridge Computer Laboratory. August 1992.
+    G. Bierman and V. de Paiva, On an Intuitionistic Modal Logic Studia Logica (65):383-416, 2000.
+    T. Brauner and V. de Paiva, Towards Constructive Hybrid Logic Presented at Methods for Modalities 3, LORIA, Nancy, France, September 22-23, 2003. Full paper Technical report from the University of Roskilde, 2003.
+    M. Bozic, K. Dosen Models fro normal intuitionistic modal logicsStudia Logica, 43:217-245, 1984.
+    C. Calcagno, E. Moggi, W. Taha Closed Types as a Simple Approach to Safe Imperative Multi-stage Programming. ICALP 2000: 25-36, 2000.
+    Cristiano Calcagno, Eugenio Moggi Multi-Stage Imperative Languages: A Conservative Extension Result. SAIG 2000: 92-107
+    H.B. Curry. A Theory of Formal Deducibility, volume 6 of Notre Dame Mathematical Lectures. Notre Dame, Indiana, second edition, 1957.
+    R. Davies and F.Pfenning, A Modal Analysis of Staged Computation, J. ACM 48(3): 555-604 (2001)
+    R. Davies and F.Pfenning. A modal analysis of staged computation. In Guy Steele, Jr., editor, Proc. of 23rd POPL, pages 258--270. ACM Press, 1996.
+    R. Davies and F. Pfenning, A Judgmental Reconstruction of Modal Logic, Mathematical Structures in Computer Science. To appear. Notes for an invited talk by Frank Pfenning at the Workshop on Intuitionistic Modal Logics and Applications (IMLA'99), Trento, Italy, July 1999.
+    Davoren, J.M.: Topologies, Continuity and Bisimulations. Theoretical Informatics and Applications, vol. 33 no. 4/5 (1999), pp. 357--381.
+    Davoren, J.M.: On Hybrid Systems and the Modal Mu-calculus. In P.J. Antsaklis et al. (eds.), Hybrid Systems V, LNCS 1567, pp. 38-69, Springer-Verlag,1999.
+    Davoren, J.M., Coulthard, V., Markey, N., Moor, T.: Non-deterministic temporal logics for general flow systems. In R. Alur and G.J. Pappas (eds.), Hybrid Systems: Computation and Control (HSCC 2004), LNCS 2993, pp. 280-295, Springer-Verlag, 2004.
+    Davoren, J.M., Gor�, R.P.: Bimodal logics for reasoning about continuous dynamics. In: F. Wolter, H. Wansing, M. de Rijke, M. Zakharyaschev (eds.), Advances in Modal Logic, Volume 3 (World Scientific, Singapore, 2002), pp. 91-110.
+    Davoren, J.M., Coulthard, V., Moor, T., Gor�, R.P., Nerode, A.: Topological semantics for Intuitionistic modal logics, and spatial discretisation by A/D maps, Workshop on Intuitionistic Modal Logic and Aplications (IMLA), at The 2002 Federated Logic Conference (FLoC), Copenhagen, Denmark, 2002.
+    Davoren, J.M., Moor, T., Nerode, A.: Hybrid control loops, A/D maps, and dynamic specifications. In C.J. Tomlin and M.R. Greenstreet (eds.), Hybrid Systems: Computation and Control (HSCC 2002), LNCS 2289, pp. 149-163, Springer-Verlag, 2002.
+    Davoren, J.M., Nerode, A.: Logics for Hybrid Systems (invited paper). Proceedings of the IEEE, vol. 88 no. 7 (2000), pp. 985-1010.
+    J. M. Davoren and R. Gor�, Bimodal Logics for Reasoning About Continuous Dynamics In Proceedings of Advances in Modal Logic. Leipzig, October 2000, 12 pages, to appear.
+    J. Despeyroux and P. Leleu Primitive Recursion for Higher Order Abstract Syntax with Dependent Types IMLA99
+    J. Despeyroux, F. Pfenning, and C. Schuermann. Primitive recursion for higher-order abstract syntax. In P. de Groote and J. Roger Hindley, editors, Proc. of TLCA'97, pages 147--163. LNCS 242, Springer Verlag, 1997.
+    W. B. Ewald. Intuitionistic tense and modal logic. Journal of Symbolic Logic, 51, 1986.
+    M. Fairtlough, M. Mendler, On the Logical Content of Computational Type Theory: A Solution to Curry's Problem. In P. Callaghan, Z. Luo, J. McKinna (eds.), Types for Proofs and Programs, Springer LNCS 2277, pp.63--78, 2002.
+    M. Fairtlough, M. Mendler, Intensional completeness in an extension of Goedel-Dummett Logic. Studia Logica, Vol.73, January, pp. 51--80, 2003.
+    M. Fairtlough, M. Mendler, X. Cheng, Abstraction and refinement in Higher-order Logic. TPHOLs'2001, Edinburgh, September 2001.
+    M. Fairtlough, M. Mendler, Propositional Lax Logic. Information and Computation, Vol.137, No.1, 1997, pp. 1-33.
+    M. Fairtlough, M. Mendler, M. Walton, First-order Lax Logic as a framework for Constraint Logic Programming. Technical Report, Passau University, 1997.
+    M. Fairtlough, M. Mendler, E. Moggi: Modalities in Type Theory. Editorial in Special Issue of Mathematical Structures in Computer Science, Vol. 11, No. 4, August 2001.
+    M. Ferrari, C. Fiorentini and P. Miglioli, Extracting information from intermediate T-systems IMLA99.
+    G. Fischer-Servi. Semantics for a class of intuitionistic modal calculi. In M. L.Dalla Chiara, editor, Italian Studies in the Philosophy of Science, pages 59--72. Reidel, 1980.
+    N. Ghani, V. de Paiva and E. Ritter, Explicit Substitutions for Constructive Necessity , 25th International Colloquium on Automata, Languages and Programming (ICALP'98). Lecture Notes in Computer Science LNCS 1443, eds. Larsen, Skyum and Winskel, 1998.
+    R. Goldblatt. Metamathematics of modal logic. Reports on mathematical Logic, 6,7:31 -- 42, 21 -- 52, 1976.
+    R. Goldblatt. Grothendieck Topology as Geometric Modality. Zeitschrift fuer Mathematische Logik und Grundlagen der Mathematik, 27:495--529, 1981.
+    R. Goldblatt. Mathematics of Modality. CSLI Lecture Notes No. 43. Center for the Study of Language and Information, Stanford University, 1993.
+    Rajeev Gor�,Dual Intuitionistic Logic Revisited In TABLEAUX00: Automated Reasoning with Analytic Tableaux and Related Methods, LNAI 1847:252-267, 2000. Copyright Springer. (errata)
+    R. Gore, M. Mendler and V. de Paiva (eds),Intuitionistic Modal Logic and Applications (IMLA'02) Workshop Proceedings. Technical Report from the University of Bamberg, Germany, July 2002.
+    J. Goubault-Larrecq, Order-Theoretic, Geometric and Combinatorial Models of Intuitionistic S4 Proofs IMLA99
+    B. P. Hilken. Duality for intuitionistic modal algebras. {UMCS-96-12-2}, Manchester University, Department of Computer Science, 1996. To appear in Journal of Pure and Applied Algebra.
+    B. Hilken Topological duality for intuitionistic modal algebras. Informal Workshop on Monads and Intuitionistic Modal Logic, September 1998. Department of Computer Science, Sheffield University.
+    B. Hilken and D. Rydeheard, A First Order Modal Logic and its Sheaf Models IMLA99
+    R. Holm, A constructive approach to state description semantics , IMLA99
+    J. Howe, Proof Search in Lax Logic IMLA99
+    S. Kobayashi. Monad as modality. Theoretical Computer Science, 175:29 -- 74, 1997.
+    D. S. Macnab. Modal operators on Heyting algebras. Algebra Universalis, 12:5--29, 1981.
+    M. Mendler. A Modal Logic for Handling Behavioural Constraints in Formal Hardware Verification. PhD thesis, Department of Computer Science, University of Edinburgh, {ECS-LFCS-93-255}, March 1993.
+    M. Mendler, Characterising Timing Analyses in Intuitionistic Modal Logic. Logic Journal of the IGPL, 2000.
+    M. Mendler: Timing analysis of combinational circuits in intuitionistic propositional logic. Formal Methods in System Design 2000.
+    M. Mendler, M. Fairtlough: Ternary simulation: Refinement of binary functions or abstraction of real-time behaviour? DCC'96.
+    E. Moggi, Computational lambda-calculus and monads. Tech. Report ECS-LFCS-88-66, Edinburgh Univ., 1988.
+    E. Moggi, Computational lambda-calculus and monads. LICS 1989.
+    E. Moggi, Notions of computation and monads. Information And Computation, 93(1), 1991.
+    E. Moggi, A general semantics for evaluation logic. LICS 1994.
+    E. Moggi, A Categorical Analysis of Multi-Level Languages.
+    E. Moggi, Walid Taha, Zine-El-Abidine Benaissa, Tim Sheard, An idealized MetaML: simpler, and more expressive. ESOP 1999,pp 193-207.
+    Moor, T., Raisch, J., Davoren, J.M.: Admissibility criteria for hierarchical design of hybrid control systems. IFAC Conference on Analysis and Design of Hybrid Systems (ADHS03), Saint-Malo, France, June 2003.
+    Moor, T., Davoren, J. M., Anderson, B.D.O.: Robust hybrid control from a behavioural perspective, Proc. 41st IEEE Conference on Decision and Control, pp. 1169-1174, Las Vegas, US, 2002.
+    Moor, T., Davoren, J.M., Raisch, J.: Strategic refinements in abstraction based supervisory control of hybrid systems, Proc. 6th International Workshop on Discrete Event Systems, pp. 329-334, Zaragoza, Spain, 2002.
+    Moor, T., Raisch, J., Davoren, J.M.: Computational advantages of a two-level hybrid control architecture, Proc. 40th IEEE Conference on Decision and Control, pp. 358-363, Orlando, USA, 2001.
+    Moor, T., Davoren, J.M., Raisch, J.: Modular supervisory control of a class of hybrid systems in a behavioural framework, Proc. Euproean Control Conference ECC2001, pp. 870-875. Porto, Portugal, 2001.
+    Moor, T., Davoren, J.M.: Robust controller synthesis for hybrid systems using modal logic, in Di Benedetto, M.D., Sangiovanni-Vincentelli, A. (eds), Hybrid Systems: Computation and Control (HSCC 2001), LNCS 2034, pp. 433-446, Springer-Verlag, 2001.
+    V. de Paiva, Natural Deduction and Context as (Constructive) Modality. In Modeling and Using Context, Proceedings of the 4th International and Interdisciplinary Conference CONTEXT 2003, Stanford, CA, USA, Springer Lecture Notes in Artificial Intelligence, vol 2680, June 2003.
+    F. Pfenning, A Judgmental Reconstruction of Modal Logics,in IMLA99.
+    Frank Pfenning: Intensionality, Extensionality, and Proof Irrelevance in Modal Type Theory. LICS 2001
+    F. Pfenning and R. Davies. A judgemental reconstruction of modal logic. Mathematical Structures in Computer Science, 11(4): 511-540 (2001)
+    D. Prawitz. Natural Deduction: A Proof-Theoretic Study. Almqvist and Wiksell, 1965.
+    G. Plotkin and C. Stirling. A framework for intuitionistic modal logics. In Theoretical aspects of reasoning about knowledge, Monterey, 1986.
+    Carsten Sch�rmann, Jo�lle Despeyroux, Frank Pfenning Primitive recursion for higher-order abstract syntax. Theor. Comput. Sci. 266(1-2): 1-57 (2001)
+    Tim Sheard, Using MetaML: A Staged Programming Language. Advanced Functional Programming 1998: 207-239
+    A.K. Simpson. The Proof Theory and Semantics of Intuitionistic Modal Logic PhD thesis, University of Edinburgh, 1994.
+    Walid Taha, Tim Sheard MetaML and multi-stage programming with explicit annotations. Theor. Comput. Sci. 248(1-2): 211-242 (2000)
+    Walid Taha A Sound Reduction Semantics for Untyped CBN Mutli-Stage Computation. Or, the Theory of MetaML is Non-trival (Extended Abstract). PEPM 2000: 34-43
+    Walid Taha, Zine-El-Abidine Benaissa, Tim Sheard Multi-Stage Programming: Axiomatization and Type Safety. ICALP 1998: 918-929
+    Walid Taha, Tim Sheard Multi-Stage Programming. ICFP 1997: 321
+    Walid Taha, Tim Sheard Multi-Stage Programming with Explicit Annotations. PEPM 1997: 203-217
+    P. Wickline, P. Lee, F. Pfenning and R. Davies. Modal Types as Staging Specifications for Run-time Code Generation, ACM Computing Surveys, 30(3es), 1998.
+    Philip Wickline, Peter Lee, Frank Pfenning: Run-time Code Generation and Modal-ML. PLDI 1998: 224-235
+    D. Wijesekera. Constructive modal logic {I}. Annals of Pure and Applied Logic, 50:271--301, 1990.
+    D. Wijesekera, Concurrent Dynamic Logic In International Symposium on Mathematics in Artificial Intelligence I, 1990
+    D. Wijesekera, Constructive Concurrent Dynamic Logic I, Technical Report, 90-45, Mathematical Sciences Institute, Cornell University.
+    F. Wolter and M. Zakharyaschev. Intuitionistic modal logics as fragments of classical bimodal logics. In E. Orlowska, editor, Logic at Work. Kluwer, 1997. 
