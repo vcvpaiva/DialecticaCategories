@@ -1,7 +1,7 @@
 A folder to collect the work on intuitionistic modal logic, Nov 2021.
 
-IMLA Workshops (invited speakers):
-=================================
+IMLA Workshops 
+===============
 
 FLoC1999, Trento, Italy (Pfenning)
 
