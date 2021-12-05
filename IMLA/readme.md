@@ -44,6 +44,8 @@ S. Artemov, V. de Paiva (eds.), Journal of Applied Logic (2021)
 My work:
 ========
 
+(more complete version in https://github.com/vcvpaiva/ConstructiveModalLogic/blob/master/README.md)
+
 1. G. Bierman, V de Paiva
 On an Intuitionistic Modal Logic Studia Logica (65):383-416, 2000.
 
