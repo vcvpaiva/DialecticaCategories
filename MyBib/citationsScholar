@@ -17,11 +17,12 @@
   organization={Springer Berlin Heidelberg}
 }
 
-@inproceedings{dePaiva1990,
+@misc{dePaiva1990,
   title={The {D}ialectica {C}ategories},
   author={de Paiva, Valeria},
   year={1990},
-  organization={University of Cambridge, Computer Lab Technical Report, {PhD} thesis}
+  organization={University of Cambridge, Computer Lab Technical Report 213, {PhD} thesis},
+  url = {https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf}
 }
 
 @misc{dePaiva1991categorical,
