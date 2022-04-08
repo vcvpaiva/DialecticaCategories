@@ -234,9 +234,13 @@ https://julesh.com/2018/08/16/lenses-for-philosophers/
 20. Make a list of work on games
 
 ================================
+
 For 19 above:
+
 Bruno Gavranovic https://www.brunogavranovic.com/
+
 DBLP https://dblp.org/pid/245/2917.html
+
 Intercat talk: https://www.youtube.com/watch?v=3NdYughK68Y
 
 
