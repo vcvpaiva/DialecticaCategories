@@ -129,6 +129,7 @@ https://www.researchgate.net/publication/222848911_Poset-valued_sets_or_how_to_b
 ==================================================
 
 Work (from others) related to dialectica categories:
+
 0. M. Hyland, Proof Theory in the Abstract 2002
 https://www.sciencedirect.com/science/article/pii/S0168007201000756
 
@@ -172,7 +173,10 @@ https://julesh.com/2018/08/16/lenses-for-philosophers/
       https://www.repository.cam.ac.uk/handle/1810/280672
       
    d. POLYNOMIALS, FIBRATIONS AND DISTRIBUTIVE LAWS, 
-      http://www.tac.mta.ca/tac/volumes/33/36/33-36.pdf  
+      http://www.tac.mta.ca/tac/volumes/33/36/33-36.pdf
+      
+   e. Talk at Polynomial Workshop 2: Dependent products of polynomials
+      https://topos.site/p-func-workshop/slides/Moss.pdf===  
 
 8. Tom Powell
     a. Applying Gödel's Dialectica Interpretation to Obtain a Constructive Proof of Higman's Lemma, 
@@ -228,4 +232,11 @@ https://julesh.com/2018/08/16/lenses-for-philosophers/
 19. Make a list of the work on Lenses! and containers
  
 20. Make a list of work on games
+
+================================
+For 19 above:
+Bruno Gavranovic https://www.brunogavranovic.com/
+DBLP https://dblp.org/pid/245/2917.html
+Intercat talk: https://www.youtube.com/watch?v=3NdYughK68Y
+
 
