@@ -6,10 +6,22 @@ but it is getting unwieldy.
 
 I am trying to understand the connection between polynomials (in CT) and the Dialectica construction.
 Martin Hyland has some slides in https://www.dpmms.cam.ac.uk/~martin/Research/Slides/venice13.pdf about the relationship between type theory and dialectica.
-(my own work is on propositional and recently first-order versions of the dialectica construction)
+(my own work has been on propositional and recently first-order versions of the dialectica construction)
 
 Dialectica categories exist in two shapes (Dial and GDial--the simplified form that has morphisms like Chu spaces).
 They also exist both in subobject form or as maps into a lineale L. These variations should give us at least 4 types.
 but I only discussed 2 of them: Dial with subobjects, GDial with a lineale.
-Can we check that Dial with a lineale and GDial with subject work too?
+
+1. Can we check that Dial with a lineale and GDial with subject work too?
+
+A. Problems related to Lenses/Containers:
+
+Bruno Gavranovic https://www.brunogavranovic.com/
+
+DBLP https://dblp.org/pid/245/2917.html
+
+Intercat talk: https://www.youtube.com/watch?v=3NdYughK68Y
+
+2. question: Using the definition of lenses in Bruno's talk, it seems we could do a Dialectica Lens category, by adding a relation to his objects.
+Would this be useful? for which applications?
 
