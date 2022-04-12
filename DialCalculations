@@ -1,27 +1,53 @@
 I want to list some problems that are small, but I think could lead to more interesting stuff, related to the dialectica constructions in
 Thesis: "The Dialectica Categories", TR213 from Cambridge, https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf, 1990.
 
-There is a "project" in ResearchGate https://www.researchgate.net/project/Dialectica-Categories-Applications,
+There is an attempt at a "project" in ResearchGate https://www.researchgate.net/project/Dialectica-Categories-Applications,
 but it is getting unwieldy.
 
 I am trying to understand the connection between polynomials (in CT) and the Dialectica construction.
 Martin Hyland has some slides in https://www.dpmms.cam.ac.uk/~martin/Research/Slides/venice13.pdf about the relationship between type theory and dialectica.
-(my own work has been on propositional and recently first-order versions of the dialectica construction)
+(my own work has been on propositional and recently first-order versions of the dialectica construction, 
+the connections happen for dependent types versions of Dialectica)
+
+Seam Moss gave a very clear talk about it:
+
 
 Dialectica categories exist in two shapes (Dial and GDial--the simplified form that has morphisms like Chu spaces).
 They also exist both in subobject form or as maps into a lineale L. These variations should give us at least 4 types.
 but I only discussed 2 of them: Dial with subobjects, GDial with a lineale.
 
-1. Can we check that Dial with a lineale and GDial with subject work too?
+1. Can we check that Dial with a lineale and GDial with subjects work too?
+
+===================================================================
 
 A. Problems related to Lenses/Containers:
 
-Bruno Gavranovic https://www.brunogavranovic.com/
+Bruno Gavranovic on how Lenses and Optics differe operationally
+https://www.brunogavranovic.com/
 
 DBLP https://dblp.org/pid/245/2917.html
 
 Intercat talk: https://www.youtube.com/watch?v=3NdYughK68Y
+Blog post:
+
+https://www.youtube.com/watch?v=1NHBexWYgkU
+
+Bruno  on  machine learning and Optics
+
+https://www.youtube.com/watch?v=1NHBexWYgkU
+
 
 2. question: Using the definition of lenses in Bruno's talk, it seems we could do a Dialectica Lens category, by adding a relation to his objects.
 Would this be useful? for which applications?
 
+=====================================================================
+
+B. Problems with Games:
+
+Jeremie Koenig  gave a talk at ACL2021 https://www.youtube.com/watch?v=10u7hbEYcCk&t=3800s
+
+slides: https://www.cl.cam.ac.uk/events/act2021/slides/ACT_2021_slides_71.pdf
+
+his paper: https://www.cl.cam.ac.uk/events/act2021/papers/ACT_2021_paper_71.pdf
+
+Glynn Winskel gave a talk at the Topos Colloquium
