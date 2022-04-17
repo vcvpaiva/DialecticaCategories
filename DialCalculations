@@ -1,19 +1,23 @@
-I want to list some problems that are small, but I think could lead to more interesting stuff, related to the dialectica constructions in
-Thesis: "The Dialectica Categories", TR213 from Cambridge, https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf, 1990.
+I want to list some problems that are small, but I think could lead to more interesting stuff, related to the dialectica constructions in my
+phd thesis: "The Dialectica Categories", TR213 from Cambridge, https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf, 1990.
+(the thesis was submitted in 1988, examined in Jan 1989, corrections accepted in 1990)
 
 There is an attempt at a "project" in ResearchGate https://www.researchgate.net/project/Dialectica-Categories-Applications,
 but it is getting unwieldy.
 
-I am trying to understand the connection between polynomials (in CT) and the Dialectica construction.
-Martin Hyland has some slides in https://www.dpmms.cam.ac.uk/~martin/Research/Slides/venice13.pdf about the relationship between type theory and dialectica.
-(my own work has been on propositional and recently first-order versions of the dialectica construction, 
-the connections happen for dependent types versions of Dialectica)
+I am trying to understand the connection between polynomials (in Category Theory) and the Dialectica construction.
 
-Seam Moss gave a very clear talk about it:
+Martin Hyland has some slides in https://www.dpmms.cam.ac.uk/~martin/Research/Slides/venice13.pdf about the relationship between type theory and dialectica.
+(my own work has been on propositional and more recently first-order versions of the dialectica construction, 
+the connections between polynomials happen for dependent types versions of Dialectica, the doctoral work of Moss 2018 and van Glehn 2016)
+
+Seam Moss gave a very clear talk about it in the second Polynomials workshop:
 
 https://www.youtube.com/watch?v=tw08TmO0RRo&t=7190s
 
- https://topos.site/p-func-workshop/slides/Moss.pd
+https://topos.site/p-func-workshop/slides/Moss.pdf
+
+but there is more t say abut these cnnections, I believe.
 
 
 Dialectica categories exist in two shapes (Dial and GDial--the simplified form that has morphisms like Chu spaces).
@@ -26,7 +30,7 @@ but I only discussed 2 of them: Dial with subobjects, GDial with a lineale.
 
 A. Problems related to Lenses/Containers:
 
-Bruno Gavranovic on how Lenses and Optics differe operationally
+Bruno Gavranovic talked about how Lenses and Optics differe operationally
 https://www.brunogavranovic.com/
 
 DBLP https://dblp.org/pid/245/2917.html
@@ -40,19 +44,25 @@ Bruno  on  machine learning and Optics
 
 https://www.youtube.com/watch?v=1NHBexWYgkU
 
+Bruno also produced a bibliography of what he thinks one should read if interested in lenses:
+https://github.com/bgavran/Lens_Resources
 
-2. question: Using the definition of lenses in Bruno's talk, it seems we could do a Dialectica Lens category, by adding a relation to his objects.
-Would this be useful? for which applications?
+
+2. question: Using the definition of lenses in Bruno's talk, it seems we could do a Dialectica Lens category, by adding a relation to Bruno's objects.
+Would this be useful? if so, for which applications?
 
 =====================================================================
 
 B. Problems with Games:
 
-Jeremie Koenig  gave a talk at ACL2021 https://www.youtube.com/watch?v=10u7hbEYcCk&t=3800s
+Jeremie Koenig  gave a talk at ACL2021 which I thought was very insightful
+
+https://www.youtube.com/watch?v=10u7hbEYcCk&t=3800s
 
 slides: https://www.cl.cam.ac.uk/events/act2021/slides/ACT_2021_slides_71.pdf
 
-his paper: https://www.cl.cam.ac.uk/events/act2021/papers/ACT_2021_paper_71.pdf
+his ACT paper: https://www.cl.cam.ac.uk/events/act2021/papers/ACT_2021_paper_71.pdf
+
 
 Glynn Winskel gave a talk at the Topos Colloquium
 
