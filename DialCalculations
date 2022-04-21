@@ -71,3 +71,21 @@ https://www.youtube.com/watch?v=ywHNG6DYAGg
 his paper https://blogs.ed.ac.uk/he-lab/2022/03/14/new-paper-making-concurrency-functional/
 
 My own super games preprint https://drive.google.com/file/d/19wSFHBNdb-PQj2ZjM6oZtV6MVutpGIdn/view?usp=sharing
+
+==========================================================================
+
+C. Implementations of Dialectica:
+
+Implementations can help us consolidate intuitions and also  help us note where intuitions are a bit "shaky".
+
+There  is an implementation of Dialectica categories, coded in Agda by Harley Eades III, for the purpose of proving
+cut-elimination for FILL (Full Intuitionistic Linear Logic). This is in https://github.com/heades/cut-fill-agda.
+
+There is also an old implementation of Chu Spaces Live (in Java) at http://boole.stanford.edu/live/ which Vaughan Pratt mantains
+
+Eric Bond has an implementation of polynomials here https://github.com/bond15/Polynomials-Categorically
+
+It would be nice to have something calculating Dialectica spaces in CatLab, to improve synergy with J. Baez project.
+
+
+
