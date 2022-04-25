@@ -65,8 +65,8 @@ Applications:
    https://arxiv.org/abs/1801.06883
    journal paper not submitted yet (?)
 
-16. Dialectica categories for modelling State/Pomset logic
-    Conference paper in CATS'1996 with Correa and Hauesler.
+16. Dialectica categories for modelling State/Pomset logic: A Dialectica Model of State (1996)
+    Conference paper in CATS'1996 with Correa and Hauesler. https://www.academia.edu/674289/A_dialectica_model_of_state
 
 17. journal paper: Valeria de Paiva. Linear Logic Model of State Revisited. Logic Journal of IGPL, 01 October 2014. 
    volume 22, number 5, pages 791-804. http://vcvpaiva.github.io/includes/pubs/2014-LL-model.pdf
