@@ -1,0 +1,29 @@
+Hi all,
+
+In this project we want to investigate a categorical construction that I like a lot. The Dialectica construction is  the main mathematical basis of the 
+picture above, which describes some categories of Petri Nets. 
+I have been using the Dialectica construction in many applications of categories to Computer Science over the years. 
+Recently many people have started noticing and using several variants of this construction at many different levels of generality for different applications. Many of these tend to be higher-order generalizations of the (simple)  original ideas. Or at least this is how I tend to describe the situation:  probably everyone else thinks that the Dialectica is a variant of their constructions.
+
+ 
+In particular we want to study some of  these variants of the Dialectica construction related to functional languages and we will try to connect them.
+ 
+
+We will start with the simple construction and then we will look at some of the new variants. 
+
+1. Jules Hedges wrote a blog post about the tantalizing similarities between some of these constructions in Lenses for Philosophers.  
+This is a good place to start getting acquainted with the subject.
+
+2. Now, if you like your category theory pure, not applied, you might like to watch these two videos: 
+Dialectica for Friends(  and  Dialectica, the Mathematical Version.
+
+3. If, on the other hand, you like Functional Programming you can look at this introduction to lenses by Simon Peyton-Jones (from 2013). 
+but he will not say anything about Dialectica.
+
+4. If you like Concurrency Theory you can watch Glynn Winskel's recent talk at the Topos Institute Colloquium. 
+You could also have a look into my github file with an attempt at a roadmap (files readme and DialCalculations). 
+
+But we will treat this page as a living document,  will try to keep improving it, and will add papers and more videos later on.
+(this is a copy of the document in the AMS-MRC wiki)
+ 
+
