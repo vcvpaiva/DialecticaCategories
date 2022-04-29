@@ -16,7 +16,7 @@ My work:
 4. TAC paper "Dialectica and Chu constructions: cousins?", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152, 2006.
     http://www.tac.mta.ca/tac/volumes/17/7/17-07abs.html
     
-From  thesis a new logical system that is the natural, intrinsic logic of the categories GC, "Full Intuitionistic Linear Logic" (FILL)
+From  thesis a new logical/type theory system that is the natural, intrinsic logic of the categories GC, "Full Intuitionistic Linear Logic" (FILL)
 
 5. Full Intuitionistic Linear Logic (with Martin Hyland) APAL, 1993. https://www.sciencedirect.com/science/article/pii/0168007293901465 (official)
    https://www.cs.bham.ac.uk/~vdp/publications/fill.pdf (preprint)
