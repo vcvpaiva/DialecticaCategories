@@ -4,6 +4,8 @@ A place to collect  work on dialectica categories.
 My work:
 
 1. Thesis: "The Dialectica Categories", TR213 from Cambridge, https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf, 1990
+   videos Dialectica for Friends https://www.youtube.com/watch?v=hJrJSZlO-Ic and Dialectica: the mathematical version 
+   https://www.youtube.com/watch?v=GRdrN6L3UCc&t=3s
 
  From thesis, two conference papers and a much later journal comparison:
 
