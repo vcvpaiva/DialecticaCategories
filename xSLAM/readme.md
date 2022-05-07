@@ -24,26 +24,32 @@ Some of the results of our research have been summarised in the following papers
     https://www.researchgate.net/publication/2443561_Categorical_Models_of_Explicit_Substitutions
 
     8. N. Ghani, V. de Paiva and E. Ritter. Linear Explicit Substitutions. Journal of the IGPL, Vol. 8, No. 1.
+    preprint https://www.researchgate.net/publication/2741622_Linear_Explicit_Substitutions
 
     9. An Abstract Machine based on Linear Logic and Explicit Substitutions. Francisco Alberti. MSc in Advanced Computer Science, 
     University of Birmingham 1997.
 
-    10. Linear Explicit Substitutions (Extended Abstract). N. Ghani, V. de Paiva, E. Ritter. Published in proceedings of WESTAPP'98. 
+    10. Linear Explicit Substitutions (Extended Abstract). 
+    N. Ghani, V. de Paiva, E. Ritter. Published in proceedings of WESTAPP'98. 
 
-    11. On Explicit Substitutions and Names. V. de Paiva, E. Ritter. To appear in Proceedings of ICALP'97. Also published as Technical Report 
-    CSR-97-5 , School of Computer Science, University of Birmingham. March 1997.
+    11. On Explicit Substitutions and Names. V. de Paiva, E. Ritter. To appear in Proceedings of ICALP'97. 
+    Also published as Technical Report CSR-97-5 , School of Computer Science, University of Birmingham. March 1997.
     https://www.researchgate.net/publication/2505679_On_Explicit_Substitutions_and_Names
 
-    12. Categorical Abstract Machines for Higher Order Typed Lambda-Calculi. E. Ritter. In Theoretical Computer Science Volume 136, number 1, 
+    12. Categorical Abstract Machines for Higher Order Typed Lambda-Calculi. E. Ritter. 
+    In Theoretical Computer Science Volume 136, number 1, 
     pages 125 -  162, 1994.
 
-    13. Rewriting Properties of Combinators for Intuitionistic Linear Logic. M. Nesi, V. de Paiva, E. Ritter. Proceedings of the Workshop on Higher Order       Algebra, Logic and Term Rewriting, HOA'93. 
+    13. Rewriting Properties of Combinators for Intuitionistic Linear Logic. M. Nesi, V. de Paiva, E. Ritter. 
+    Proceedings of the Workshop on Higher Order Algebra, Logic and Term Rewriting, HOA'93. 
     In Volume 816 of Lecture Notes in Computer Science, Springer Verlag. 1994.
 
     14. Relating Categorical Semantics for Intuitionistic Linear Logic P. Maneggia, M. Maietti, Valeria de Paiva and E. Ritter, 
     Presented at Natural Deduction 2001, Rio de Janeiro. Journal paper appeared in 2005
     
-    15. Normalization Bounds in Rudimentary Linear Logic M. Maietti, Valeria de Paiva and E. Ritter, presented at the Workshop on Implicit Computational       Complexity, FLoC'02, Copenhagen, 2002. Also technical report of the University of Padova, Italy, 2002.
+    15. Normalization Bounds in Rudimentary Linear Logic M. Maietti, Valeria de Paiva and E. Ritter, 
+    presented at the Workshop on Implicit Computational       Complexity, FLoC'02, Copenhagen, 2002. 
+    Also technical report of the University of Padova,      Italy, 2002.
     
     16. Variations on Linear PCF Valeria de Paiva and Eike Ritter, Proc. WESTAPP-99, 1999. 
     https://www.researchgate.net/publication/349324920_Variations_on_Linear_PCF
