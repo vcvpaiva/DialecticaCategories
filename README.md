@@ -34,7 +34,7 @@ From  thesis a new logical/type theory system that is the natural, intrinsic log
         Official version: (https://drive.google.com/file/d/1Xk-2LKABGNfnYTf9CGV6lkhWBUHpGT9m/view?usp=sharing). 
         Original version Lineales: Algebraic Models of Linear Logic from a Categorical Perspective, https://drive.google.com/file/d/11BMFAOhACYHa7asGf5i2DuRywWQjSmp1/view?usp=sharing.
    
-10.  (new proof of cut-elimination with Harley Eades III)  Multiple Conclusion Linear Logic: Cut-elimination and more. 
+10. FILL (new proof of cut-elimination with Harley Eades III)  Multiple Conclusion Linear Logic: Cut-elimination and more. 
    https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext Lecture Notes in Computer Science, 04 January 2016. 
    Proceedings of the Symposium on Logical Foundations of Computer Science (LFCS 2016), formalized in Agda. Journal version submitted.
    
@@ -47,20 +47,22 @@ Applications:
    
    Carolyn Brown thesis now at https://era.ed.ac.uk/bitstream/handle/1842/15424/Brown1990.Pdf?sequence=1
    
-12. Theme of work in ACT Adjoint School with  Elena Di Lavore, Xiaoyan Li, Wilmer Leal, Eigil Rischel and Jade Master. 
+12. Theme of work in ACT Adjoint School 2020 with  Elena Di Lavore, Xiaoyan Li, Wilmer Leal, Eigil Rischel and Jade Master. 
    Blog post in https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html.
    Also in https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/
    
-   Poster at ACT 2021, presented by Elena
+   Poster at ACT 2021, presented by Elena, ACT-PN-poster, https://drive.google.com/file/d/1rM6MCHl0FHfOOCIHA4irVwl-tuadYha-/view?usp=sharing
    
-   Preprint: Dialectica Petri Nets https://arxiv.org/abs/2105.12801
+   Preprint 2021: Dialectica Petri Nets https://arxiv.org/abs/2105.12801
 
 13. "Categorical multirelations, linear logic and Petri nets" TR from Cambridge http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf
 
 13a. LL applied to intuitionistic logic
 FIL (Full Intuitionistic Logic) with Luiz Carlos Pereira,
-A New Proof System for Intuitionistic Logic (with L. C. Pereira) The Bulletin of Symbolic Logic, vol 1(1):101, 1995 (abstract).
-paper A short note on Intuitionistic Propositional Logic with Multiple Conclusions (with Luiz Carlos Pereira) Manuscrito-- Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez, 2005. https://www.researchgate.net/publication/228619994_A_short_note_on_intuitionistic_propositional_logic_with_multiple_conclusions
+1. abstract "A New Proof System for Intuitionistic Logic" (with L. C. Pereira) The Bulletin of Symbolic Logic, vol 1(1):101, 1995 
+
+2. paper "A short note on Intuitionistic Propositional Logic with Multiple Conclusions" (with Luiz Carlos Pereira) Manuscrito-- 
+Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez, 2005. https://www.researchgate.net/publication/228619994_A_short_note_on_intuitionistic_propositional_logic_with_multiple_conclusions
 
  Dialectica categories for Lambek calculus. 
 
