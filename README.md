@@ -57,6 +57,11 @@ Applications:
 
 13. "Categorical multirelations, linear logic and Petri nets" TR from Cambridge http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf
 
+13a. LL applied to intuitionistic logic
+FIL (Full Intuitionistic Logic) with Luiz Carlos Pereira,
+A New Proof System for Intuitionistic Logic (with L. C. Pereira) The Bulletin of Symbolic Logic, vol 1(1):101, 1995 (abstract).
+paper A short note on Intuitionistic Propositional Logic with Multiple Conclusions (with Luiz Carlos Pereira) Manuscrito-- Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez, 2005. https://www.researchgate.net/publication/228619994_A_short_note_on_intuitionistic_propositional_logic_with_multiple_conclusions
+
  Dialectica categories for Lambek calculus. 
 
 14. Paper in Amsterdam Colloquium 1991
