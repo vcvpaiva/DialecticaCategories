@@ -72,10 +72,17 @@ _⊗ᴰ_ : DialSet → DialSet → DialSet
 {-
 _⊗ₚ_ : DialSet → DialSet → DialSet
 a ⊗ₚ b = record { U × V ; X x Y }; alpha x beta } 
+-}
+
+_⅋_ : DialSet → DialSet → DialSet
+(U ⋆ X ⇒2∋ α) ⅋ (V ⋆ Y ⇒2∋ β) = 
+    (U × V) ⋆ 
+    X ⊎ Y ⇒2∋
+    λ{ ((u , v) , inj₁ x) → α (u , x)
+     ; ((u , v) , inj₂ y) → β (v , y)}
 
 
-
-
+{-
 --product \&
 -- Ayᴮ × Cyᴰ = ACyᴮ⁺ᴰ
 
