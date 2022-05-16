@@ -1,12 +1,7 @@
 -- Copying Eric Bond's file for Poly to adapt it.
+module DialSets where 
 
-{-# OPTIONS --type-in-type #-}
-{-# OPTIONS --without-K #-}
-{-# OPTIONS --allow-unsolved-metas #-}
-module DialSet where 
-
-open import Base 
-open import Data.Unit
+open import Level renaming (zero to lzero; suc to lsuc)
 open import Agda.Builtin.Sigma 
 open import Data.Product
 open import Data.Sum.Base using (_⊎_; inj₁ ; inj₂)
@@ -14,28 +9,72 @@ import Relation.Binary.PropositionalEquality as Eq
 open Eq using (_≡_; refl; trans; sym; cong; cong₂ ; cong-app; subst)
 -- need to import less or equal \leq too?
 
-record DialSet : Cat where
-  constructor obj DialSet
-  field
-    U : Set
-    X : Set
-    alpha : U x X -> 2    
-open DialSet
---what this opening statement?
+data Two : Set where ⊤ ⊥ : Two
+
+postulate 
+    _≤₂_ : Two → Two → Set
+    {- So here we are postulating a relation on Two. 
+    this is similar to what is done with Lineales here
+    https://github.com/heades/cut-fill-agda/blob/5ae2c4bde0b7c63930cf8ab2733e3eef071672c1/DialSets.agda#L16
+    -}
+    _⊗²_ : Two → Two → Two
+    -- here we postulate a monoidal product on Two
+
+record DialSet {ℓ : Level} : Set (lsuc ℓ) where
+    constructor _⋆_⇒2∋_
+    field
+        U : Set ℓ 
+        X : Set ℓ
+        α : U × X -> Two  
+
+-- open DialSet
+-- what this opening statement?
+{-
+    DialSet is a record. In Agda, Records also have Modules (Cs module not math module)
+        see https://agda.readthedocs.io/en/v2.6.2.1/language/record-types.html#record-modules for details
+
+    So there is a module DialSet and "open"ing that module causes the definitions 'U', 'X', and 'alpha' to be in scope
+
+    Here I have commented it out and opted to only open DialSet locally seen in the definition of DialSetMap
+-}
+
 
 -- variables for objects of DialSet: a, b, c
 -- objects are triples a= (U; X; alpha) U,X sets, alpha:U x X ->2 a function
 -- maps from a to b= (V; Y; beta) are pairs of functions (f,F) f:U -> V, F:U x Y -> X such that
 -- ∀ (u : U)∀ (y : Y) (u alpha F(u,y) \leq (fu beta y)
 
+record DialSetMap {ℓ} (A B : DialSet {ℓ}) : Set ℓ where 
+    constructor _∧_st_
+    open DialSet A 
+    open DialSet B renaming (U to V ; X to Y ; α to β )
+    -- ^ this brings U X α of object A := (U, X, α) in scope
+    -- it also bring V Y β of object B := (V, Y, β) in scope
+    field 
+        f : U → V
+        F : U × Y → X 
+        cond : (u : U)(y : Y) → α (u , F (u , y)) ≤₂ β (f u , y)
+
+
+-- need a monoidal operation to combine elements of Two
+-- similar to https://github.com/heades/cut-fill-agda/blob/5ae2c4bde0b7c63930cf8ab2733e3eef071672c1/DialSets.agda#L144
+_⊗ᴰ_ : DialSet → DialSet → DialSet
+(U ⋆ X ⇒2∋ α) ⊗ᴰ (V ⋆ Y ⇒2∋ β) = 
+                (U × V) ⋆ 
+                ((V → X) × (U → Y)) ⇒2∋ 
+                λ{ ((u , v) , V⇒X , U⇒Y ) → α (u , V⇒X v) ⊗² β (v , U⇒Y u) }   
+
 -- how do I write the above?
 
 --  monoidal structures on DialSet
---tensor \ox
+-- tensor \ox
 -- Ayᴮ × Cyᴰ = ACyᴮᴰ
-
+{-
 _⊗ₚ_ : DialSet → DialSet → DialSet
-a ⊗ₚ b = record { U × V ; X x Y }; alpha x beta }
+a ⊗ₚ b = record { U × V ; X x Y }; alpha x beta } 
+
+
+
 
 --product \&
 -- Ayᴮ × Cyᴰ = ACyᴮ⁺ᴰ
@@ -109,3 +148,4 @@ yoneda =  record { to = λ{ record { onPos = onPos ; onDir = onDir } → onPos u
    
 
 
+-}
