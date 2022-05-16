@@ -21,11 +21,11 @@ postulate
     -- here we postulate a monoidal product on Two
 
 record DialSet {ℓ : Level} : Set (lsuc ℓ) where
-    constructor _⋆_⇒2∋_
+    constructor ⟨_⇒_⇒2⟩∋_
     field
         U : Set ℓ 
         X : Set ℓ
-        α : U × X -> Two  
+        α : U → X → Two  
 
 -- open DialSet
 -- what this opening statement?
@@ -52,17 +52,18 @@ record DialSetMap {ℓ} (A B : DialSet {ℓ}) : Set ℓ where
     -- it also bring V Y β of object B := (V, Y, β) in scope
     field 
         f : U → V
-        F : U × Y → X 
-        cond : (u : U)(y : Y) → α (u , F (u , y)) ≤₂ β (f u , y)
+        F : U → Y → X 
+        cond : (u : U)(y : Y) → α u (F u y) ≤₂ β (f u) y
 
 
 -- need a monoidal operation to combine elements of Two
 -- similar to https://github.com/heades/cut-fill-agda/blob/5ae2c4bde0b7c63930cf8ab2733e3eef071672c1/DialSets.agda#L144
+infix 2 _⊗ᴰ_ 
 _⊗ᴰ_ : DialSet → DialSet → DialSet
-(U ⋆ X ⇒2∋ α) ⊗ᴰ (V ⋆ Y ⇒2∋ β) = 
-                (U × V) ⋆ 
-                ((V → X) × (U → Y)) ⇒2∋ 
-                λ{ ((u , v) , V⇒X , U⇒Y ) → α (u , V⇒X v) ⊗² β (v , U⇒Y u) }   
+⟨ U ⇒ X ⇒2⟩∋ α ⊗ᴰ ⟨ V ⇒ Y ⇒2⟩∋ β = ⟨ U × V ⇒ (V → X) × (U → Y) ⇒2⟩∋ m
+
+                where m : U × V → (V → X) × (U → Y) → Two
+                      m (u , v) (V⇒X , U⇒Y) = α u (V⇒X v) ⊗² β v (U⇒Y u)
 
 -- how do I write the above?
 
@@ -73,13 +74,13 @@ _⊗ᴰ_ : DialSet → DialSet → DialSet
 _⊗ₚ_ : DialSet → DialSet → DialSet
 a ⊗ₚ b = record { U × V ; X x Y }; alpha x beta } 
 -}
-
+infix 2 _⅋_ 
 _⅋_ : DialSet → DialSet → DialSet
-(U ⋆ X ⇒2∋ α) ⅋ (V ⋆ Y ⇒2∋ β) = 
-    (U × V) ⋆ 
-    X ⊎ Y ⇒2∋
-    λ{ ((u , v) , inj₁ x) → α (u , x)
-     ; ((u , v) , inj₂ y) → β (v , y)}
+⟨ U ⇒ X ⇒2⟩∋ α ⅋ ⟨ V ⇒ Y ⇒2⟩∋ β = ⟨ U × V ⇒ X ⊎ Y ⇒2⟩∋ m
+
+        where m : U × V → X ⊎ Y → Two
+              m (u , v) (inj₁ x) = α u x
+              m (u , v) (inj₂ y) = β v y  
 
 
 {-
