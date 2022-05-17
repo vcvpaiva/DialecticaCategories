@@ -216,6 +216,8 @@ https://julesh.com/2018/08/16/lenses-for-philosophers/
 
 12. Pierre Hyvernat, A Linear Category of Polynomial Diagrams, 
     http://www.lama.univ-savoie.fr/pagesmembres/hyvernat/research.php
+    https://www.lama.univ-savoie.fr/pagesmembres/hyvernat/Files/poly_functors.pdf
+    https://www.lama.univ-savoie.fr/pagesmembres/hyvernat/Files/poly_diagrams.pdf
 
 13. Benno van der Berg et al 
     A functional interpretation for nonstandard arithmetic 
@@ -238,7 +240,8 @@ https://julesh.com/2018/08/16/lenses-for-philosophers/
 
 18. Hongde Hu; Andre Joyal --  Coherence completions of categories, https://core.ac.uk/download/pdf/82827543.pdf
 
-19. Make a list of the work on Lenses! and containers
+19. Make a list of the work on Lenses! and containers -- 
+    see https://www.brunogavranovic.com/posts/2022-02-10-optics-vs-lenses-operationally.html and applications in his github
  
 20. Make a list of work on games
 
