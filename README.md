@@ -216,7 +216,9 @@ https://julesh.com/2018/08/16/lenses-for-philosophers/
 
 12. Pierre Hyvernat, A Linear Category of Polynomial Diagrams, 
     http://www.lama.univ-savoie.fr/pagesmembres/hyvernat/research.php
+    
     https://www.lama.univ-savoie.fr/pagesmembres/hyvernat/Files/poly_functors.pdf
+    
     https://www.lama.univ-savoie.fr/pagesmembres/hyvernat/Files/poly_diagrams.pdf
 
 13. Benno van der Berg et al 
