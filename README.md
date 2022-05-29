@@ -21,24 +21,30 @@ From  thesis a new logical/type theory system that is the natural, intrinsic log
 5. Full Intuitionistic Linear Logic (with Martin Hyland) APAL, 1993. https://www.sciencedirect.com/science/article/pii/0168007293901465 (official)
    https://www.cs.bham.ac.uk/~vdp/publications/fill.pdf (preprint)
    
-6. Full Intuitionistic Logic (with Luiz Carlos Pereira) Logic Colloquium 1994 -- abstract only. paper in 2005, "A short note on Intuitionistic Propositional Logic with Multiple Conclusions"  (with Luiz Carlos Pereira) Manuscrito-- Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez, 2005 (https://www.cs.bham.ac.uk/%7Evdp/publications/fil.pdf) --this is intuitionistic logic, not Linear Logic! 
+6. Full Intuitionistic Logic (with Luiz Carlos Pereira) Logic Colloquium 1994 -- abstract only. paper in 2005, "A short note on Intuitionistic  Propositional Logic with Multiple Conclusions"   Manuscrito-- Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez, 2005 
+(https://www.cs.bham.ac.uk/%7Evdp/publications/fil.pdf) --this is intuitionistic logic, not Linear Logic! 
    
 7. Cut-Elimination for Full Intuitionistic Linear Logic (with Torben Brauner), CSL1997, preprint https://www.brics.dk/RS/96/10/index.html
-   CSL conference version `A formulation of linear logic based on dependency-relations'- T Braüner, V De Paiva International Workshop on Computer Science Logic, 129-148, 1997
+   CSL version `A formulation of linear logic based on dependency-relations'- T Braüner, V De Paiva Int Workshop on Computer Science   Logic, 129-148, 1997
    (https://www.researchgate.net/publication/221557909_A_Formulation_of_Linear_Logic_Based_on_Dependency-Relations)
    
-   Algebraic versions: 
-8.  Lineales, in "O que nos faz pensar?" 1991 https://www.cs.bham.ac.uk/~vdp/publications/Lineales91.pdf
-  
-9.  Lineales: algebras and categories in the semantics of Linear Logic. Presented at LLC8, Stanford, May 1999. Revised version appears in CSLI book "Words, Proofs, and Diagrams" (eds. D. Barker-Plummer, D. Beaver, Johan van Benthem and P. Scotto di Luzio), 2002 
-        Official version: (https://drive.google.com/file/d/1Xk-2LKABGNfnYTf9CGV6lkhWBUHpGT9m/view?usp=sharing). 
-        Original version Lineales: Algebraic Models of Linear Logic from a Categorical Perspective, https://drive.google.com/file/d/11BMFAOhACYHa7asGf5i2DuRywWQjSmp1/view?usp=sharing.
-   
-10. FILL (new proof of cut-elimination with Harley Eades III)  Multiple Conclusion Linear Logic: Cut-elimination and more. 
+ 8. FILL (new proof of cut-elimination with Harley Eades III)  Multiple Conclusion Linear Logic: Cut-elimination and more. 
    https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext Lecture Notes in Computer Science, 04 January 2016. 
    Proceedings of the Symposium on Logical Foundations of Computer Science (LFCS 2016), formalized in Agda. Journal version submitted.
    
-   Appeared in Journal of Logic and Computation, Feb 2020 https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext
+   Appeared in Journal of Logic and Computation, Feb 2020 https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext 
+   
+ 8.a Typed lamda-calculus for FILL (with Eike Ritter) "A Parigot-style linear λ-calculus for Full intuitionistic Linear Logic", 2007
+ https://www.cs.bham.ac.uk/%7Evdp/publications/fillmu.pdf
+ 
+Algebraic versions: 
+   
+9.  Lineales, in "O que nos faz pensar?" 1991 https://www.cs.bham.ac.uk/~vdp/publications/Lineales91.pdf
+  
+10.  Lineales: algebras and categories in the semantics of Linear Logic. Presented at LLC8, Stanford, May 1999. Revised version appears in CSLI book "Words, Proofs, and Diagrams" (eds. D. Barker-Plummer, D. Beaver, Johan van Benthem and P. Scotto di Luzio), 2002 
+        Official version: (https://drive.google.com/file/d/1Xk-2LKABGNfnYTf9CGV6lkhWBUHpGT9m/view?usp=sharing). 
+        Original version Lineales: Algebraic Models of Linear Logic from a Categorical Perspective, https://drive.google.com/file/d/11BMFAOhACYHa7asGf5i2DuRywWQjSmp1/view?usp=sharing.
+   
 
 Applications: 
 
@@ -247,7 +253,6 @@ https://julesh.com/2018/08/16/lenses-for-philosophers/
  
 20. Make a list of work on games
 
-================================
 
 
 
