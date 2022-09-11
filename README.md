@@ -179,7 +179,7 @@ https://julesh.com/2018/08/16/lenses-for-philosophers/
  
 7.
 
-   a. Tamara von Gleh. Polynomials and models of type theory (PhD thesis)
+   a. Tamara von Glehn. Polynomials and models of type theory (PhD thesis)
       https://www.repository.cam.ac.uk/handle/1810/254394, 2015
 
    b. Sean Moss and Tamara von Glehn. Dialectica models of type theory, LiCS2018.
@@ -188,7 +188,7 @@ https://julesh.com/2018/08/16/lenses-for-philosophers/
    c. Sean Moss. PhD thesis: The Dialectica models of type theory (Diller-Nahm) 
       https://www.repository.cam.ac.uk/handle/1810/280672
       
-   d. POLYNOMIALS, FIBRATIONS AND DISTRIBUTIVE LAWS, 
+   d. Tamara von Glehn POLYNOMIALS, FIBRATIONS AND DISTRIBUTIVE LAWS, 
       http://www.tac.mta.ca/tac/volumes/33/36/33-36.pdf
       
    e. Sean Moss. Talk at Polynomial Workshop 2: Dependent products of polynomials
