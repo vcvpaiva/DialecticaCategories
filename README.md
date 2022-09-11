@@ -177,8 +177,9 @@ http://drops.dagstuhl.de/opus/volltexte/2015/5493/pdf/7.pdf
 Also influential blog post Lenses for Philosophers
 https://julesh.com/2018/08/16/lenses-for-philosophers/
  
-7. Tamara von Glehn and Sean Moss
-   a. Polynomials and models of type theory (PhD thesis)
+7.
+
+   a. Tamara von Gleh. Polynomials and models of type theory (PhD thesis)
       https://www.repository.cam.ac.uk/handle/1810/254394, 2015
 
    b. Sean Moss and Tamara von Glehn. Dialectica models of type theory, LiCS2018.
@@ -190,7 +191,7 @@ https://julesh.com/2018/08/16/lenses-for-philosophers/
    d. POLYNOMIALS, FIBRATIONS AND DISTRIBUTIVE LAWS, 
       http://www.tac.mta.ca/tac/volumes/33/36/33-36.pdf
       
-   e. Talk at Polynomial Workshop 2: Dependent products of polynomials
+   e. Sean Moss. Talk at Polynomial Workshop 2: Dependent products of polynomials
       https://topos.site/p-func-workshop/slides/Moss.pdf  
 
 8. Tom Powell
