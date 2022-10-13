@@ -1,1 +1,1 @@
-Logos from Zach Sanchez, May 2020.
+Dialectica Categories Logos from Zach Sanchez, May 2020.
