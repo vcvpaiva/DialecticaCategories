@@ -25,6 +25,14 @@
   url = {https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf}
 }
 
+@misc{dePaiva1997:LLNL,
+  title={Linear Logic for Natural Language - An Informal Meeting},
+  author={de Paiva, Valeria and van Genabith, Josef and Ritter, Eike and Crouch, Richard},
+  year={1997},
+  url= {https://www.cs.bham.ac.uk/~vdp/meetings/llnl.html}
+}
+
+
 @misc{dePaiva1991categorical,
   title={Categorical {M}ultirelations, {L}inear {L}ogic and {P}etri {N}ets, {T}echnical {R}eport},
   author={De Paiva, Valeria},
