@@ -119,11 +119,19 @@ http://vcvpaiva.github.io/includes/pubs/2015boundedDial.pdf
 
 23. Generalizations:
 
-The Godel Fibration (with Davide Trotta and Matteo Spadetto) To appear in MFCS 2021
+Dialectica Principles via Gödel Doctrines (with Davide Trotta and Matteo Spadetto) Theoretical Computer Science, 2023.
+https://trottadavide.github.io/publication/pubb_6/
 Preprint in the arXiv https://arxiv.org/abs/2104.14021
 
-23A Dialectica Logical Principles (with Davide Trotta and Matteo Spadetto) to appear in LFCS2022.
+Dialectica logical principles: not only rules. (with Davide Trotta and Matteo Spadetto) Journal of Logic and Computation, 2022.
+https://trottadavide.github.io/publication/pubb_4/
+
+Dialectica Logical Principles (with Davide Trotta and Matteo Spadetto)  in LFCS2022.
+https://trottadavide.github.io/publication/pubb_3/
 Preprint in the arXiv https://arxiv.org/abs/2109.08064
+
+The Gödel fibration. (with Davide Trotta and Matteo Spadetto) In 46th International Symposium on Mathematical 
+Foundations of Computer Science (MFCS 2021), 2021. see https://trottadavide.github.io/publication/pubb_2/
 
 24. Dialectica and Games (lost EPSRC proposal, how did I do that?) 
 
