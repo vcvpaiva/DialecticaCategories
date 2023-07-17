@@ -55,7 +55,8 @@ Some of the results of our research have been summarised in the following papers
 
     14. Relating Categorical Semantics for Intuitionistic Linear Logic.
     P. Maneggia, M. Maietti, Valeria de Paiva and E. Ritter, 
-    Invited at Natural Deduction 2001, Rio de Janeiro. Journal paper appeared in 2005
+    Invited at Natural Deduction 2001, Rio de Janeiro. Journal paper  2005,
+    https://link.springer.com/article/10.1007/s10485-004-3134-z
     
     15. Normalization Bounds in Rudimentary Linear Logic M. Maietti, Valeria de Paiva and E. Ritter, 
     presented at the Workshop on Implicit Computational Complexity, FLoC'02, Copenhagen, 2002. 
