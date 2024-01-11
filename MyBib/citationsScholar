@@ -53,7 +53,8 @@
   title={Term assignment for intuitionistic linear logic (preliminary report)},
   author={Benton, Nick and Bierman, Gavin and de Paiva, Valeria and Hyland, Martin},
   year={1992},
-  publisher={University of Cambridge. Computer Laboratory}
+  publisher={University of Cambridge. Computer Laboratory},
+  url= {https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-262.pdf}
 }
 
 @article{benton1998computational,
