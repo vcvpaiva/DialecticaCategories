@@ -14,3 +14,6 @@ and thus avoid waste of memory and unnecessary duplication of computation steps.
 Moreover, our use of solid theoretical foundations not only guides the design of the machines but also ensures their correctness. 
 As a further beneficial side effect we hope to get a theoretical explanation of optimal reductions via their relationship to 
 explicit substitutions.
+
+
+Report: xslam-summary.pdf
