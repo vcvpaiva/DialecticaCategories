@@ -34,14 +34,14 @@ From  thesis a new logical/type theory system that is the natural, intrinsic log
    
    Appeared in Journal of Logic and Computation, Feb 2020 https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext 
    
- 8.a Typed lamda-calculus for FILL (with Eike Ritter) "A Parigot-style linear λ-calculus for Full intuitionistic Linear Logic", 2007
+ 8.a Typed lambda-calculus for FILL (with Eike Ritter) "A Parigot-style linear λ-calculus for Full intuitionistic Linear Logic", 2007
  https://www.cs.bham.ac.uk/%7Evdp/publications/fillmu.pdf
  
 Algebraic versions: 
    
 9.  Lineales, in "O que nos faz pensar?" 1991 https://www.cs.bham.ac.uk/~vdp/publications/Lineales91.pdf
   
-10.  Lineales: algebras and categories in the semantics of Linear Logic. Presented at LLC8, Stanford, May 1999. Revised version appears in CSLI book "Words, Proofs, and Diagrams" (eds. D. Barker-Plummer, D. Beaver, Johan van Benthem and P. Scotto di Luzio), 2002 
+10.  Lineales: algebras and categories in the semantics of Linear Logic. Presented at LLC8, Stanford, May 1999. Revised version appears in CSLI book "Words, Proofs, and Diagrams" (eds. D. Barker-Plummer, D. Beaver, Johan van Benthem, and P. Scotto di Luzio), 2002 
         Official version: (https://drive.google.com/file/d/1Xk-2LKABGNfnYTf9CGV6lkhWBUHpGT9m/view?usp=sharing). 
         Original version Lineales: Algebraic Models of Linear Logic from a Categorical Perspective, https://drive.google.com/file/d/11BMFAOhACYHa7asGf5i2DuRywWQjSmp1/view?usp=sharing.
    
@@ -59,7 +59,7 @@ Applications:
    
    Poster at ACT 2021, presented by Elena, ACT-PN-poster, https://drive.google.com/file/d/1rM6MCHl0FHfOOCIHA4irVwl-tuadYha-/view?usp=sharing
    
-   Preprint 2021: Dialectica Petri Nets https://arxiv.org/abs/2105.12801
+   Preprint 2021: Dialectica Petri Nets https://arxiv.org/abs/2105.12801, submitted
 
 13. "Categorical multirelations, linear logic and Petri nets" TR from Cambridge http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf
 
@@ -76,9 +76,9 @@ Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez, 2005. https://www.rese
      https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambek_Calculus
 
 15.   Talk at APA, April 2017
-   conference LFCS paper with Harley Eades, appeared in Jan2018,
+   conference LFCS paper with Harley Eades III, appeared in Jan2018,
    https://arxiv.org/abs/1801.06883
-   journal paper not submitted yet (?)
+   journal paper not submitted, yet (?)
 
 16. Dialectica categories for modelling State/Pomset logic: A Dialectica Model of State (1996)
     Conference paper in CATS'1996 with Correa and Hauesler. https://www.academia.edu/674289/A_dialectica_model_of_state
@@ -89,7 +89,7 @@ Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez, 2005. https://www.rese
 18. Dialectica categories for Relevant logic 
 (need to recover the important bits from http://www.dbd.puc-rio.br/depto_informatica/93_mere.pdf) slides?
 
- Dialectica categories for Set Theory, work with Samuel G da Silva. Three papers so far.
+ Dialectica categories for Set Theory, work with Samuel G da Silva. Three papers so far, 19, 20 and 21.
 
 19. Dialectica Categories, Cardinalities of the Continuum and Combinatorics of Ideals, with Samuel G. da Silva.
    Available from https://www.researchgate.net/publication/315001808_Dialectica_Categories_Cardinalities_of_the_Continuum_and_Combinatorics_of_Ideals
