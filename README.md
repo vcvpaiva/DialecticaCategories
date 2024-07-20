@@ -16,7 +16,8 @@ My work:
 4. TAC paper "Dialectica and Chu constructions: cousins?", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152, 2006.
     http://www.tac.mta.ca/tac/volumes/17/7/17-07abs.html
     
-From  thesis a new logical/type theory system that is the natural, intrinsic logic of the categories GC, "Full Intuitionistic Linear Logic" (FILL)
+From  thesis a new logical/type theory system that is the natural, intrinsic logic of the categories GC, "Full Intuitionistic Linear Logic" (FILL),
+and with Luiz Carlos a version for Intuitionistic logic (FIL). With Torben and Harley proofs of cut-elimination for the logic FILL.
 
 5. Full Intuitionistic Linear Logic (with Martin Hyland) APAL, 1993. https://www.sciencedirect.com/science/article/pii/0168007293901465 (official)
    https://www.cs.bham.ac.uk/~vdp/publications/fill.pdf (preprint)
@@ -34,14 +35,14 @@ From  thesis a new logical/type theory system that is the natural, intrinsic log
    
    Appeared in Journal of Logic and Computation, Feb 2020 https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext 
    
- 8.a Typed lambda-calculus for FILL (with Eike Ritter) "A Parigot-style linear λ-calculus for Full intuitionistic Linear Logic", 2007
+ 9. Typed lambda-calculus for FILL (with Eike Ritter) "A Parigot-style linear λ-calculus for Full intuitionistic Linear Logic", 2007
  https://www.cs.bham.ac.uk/%7Evdp/publications/fillmu.pdf
  
 Algebraic versions: 
    
-9.  Lineales, in "O que nos faz pensar?" 1991 https://www.cs.bham.ac.uk/~vdp/publications/Lineales91.pdf
+10.  Lineales, in "O que nos faz pensar?" 1991 https://www.cs.bham.ac.uk/~vdp/publications/Lineales91.pdf
   
-10.  Lineales: algebras and categories in the semantics of Linear Logic. Presented at LLC8, Stanford, May 1999. Revised version appears in CSLI book "Words, Proofs, and Diagrams" (eds. D. Barker-Plummer, D. Beaver, Johan van Benthem, and P. Scotto di Luzio), 2002 
+     Lineales: algebras and categories in the semantics of Linear Logic. Presented at LLC8, Stanford, May 1999. Revised version appears in CSLI book "Words, Proofs, and Diagrams" (eds. D. Barker-Plummer, D. Beaver, Johan van Benthem, and P. Scotto di Luzio), 2002 
         Official version: (https://drive.google.com/file/d/1Xk-2LKABGNfnYTf9CGV6lkhWBUHpGT9m/view?usp=sharing). 
         Original version Lineales: Algebraic Models of Linear Logic from a Categorical Perspective, https://drive.google.com/file/d/11BMFAOhACYHa7asGf5i2DuRywWQjSmp1/view?usp=sharing.
    
