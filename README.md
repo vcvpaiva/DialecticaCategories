@@ -19,10 +19,9 @@ My work:
 From the thesis a new logical/type theory system that is the natural, intrinsic logic of the categories GC, "Full Intuitionistic Linear Logic" (FILL),
 and with Luiz Carlos a version for Intuitionistic logic (FIL). With Torben and Harley proofs of cut-elimination for the logic FILL, with Harley mechanized in Agda.
 
-5. [Full Intuitionistic Linear Logic](https://www.sciencedirect.com/science/article/pii/0168007293901465) (with Martin Hyland) APAL, 1993. (official)
-   https://www.cs.bham.ac.uk/~vdp/publications/fill.pdf (preprint)
+5. FILL [Full Intuitionistic Linear Logic](https://www.sciencedirect.com/science/article/pii/0168007293901465) (with Martin Hyland) APAL, 1993. (official)
    
-6. Full Intuitionistic Logic (with Luiz Carlos Pereira) Logic Colloquium 1994 -- abstract ``A New Proof System for Intuitionistic Logic", The Bulletin of Symbolic Logic, vol 1(1):101, 1995. paper in 2005, "[A short note on Intuitionistic  Propositional Logic with Multiple Conclusions](https://www.researchgate.net/publication/228619994_A_short_note_on_intuitionistic_propositional_logic_with_multiple_conclusions)"   Manuscrito-- Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez. (2005) 
+6. Full Intuitionistic Logic (FIL) (with Luiz Carlos Pereira) Logic Colloquium 1994 -- abstract ``A New Proof System for Intuitionistic Logic", The Bulletin of Symbolic Logic, vol 1(1):101, 1995. paper in 2005, "[A short note on Intuitionistic  Propositional Logic with Multiple Conclusions](https://www.researchgate.net/publication/228619994_A_short_note_on_intuitionistic_propositional_logic_with_multiple_conclusions)"   Manuscrito-- Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez. (2005) 
 ([preprint](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6a2048b33259ebc1c88635ed979772e12f2b1efe)) --this is intuitionistic logic, not Linear Logic! 
    
 7. Cut-Elimination for Full Intuitionistic Linear Logic (with Torben Brauner), CSL1997, [preprint](https://www.brics.dk/RS/96/10/index.html)
