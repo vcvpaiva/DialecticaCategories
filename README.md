@@ -12,12 +12,12 @@ My work:
 2. AMS Contemporary Mathematics: "[The Dialectica Categories](https://drive.google.com/file/d/0ByQvGrHooOoHeXoyUXJSQVVlNVE/view?usp=sharing&resourcekey=0-2PcGnQCQZsPdbXyTyqnG9w)"
    Boulder AMS meeting 1987, volume 92.  (1989)
 
-3. CTCS 1989: "[A Dialectica-like Model of Linear Logic](https://link.springer.com/chapter/10.1007/BFb0018360)", 1989
+3. CTCS 1989: "[A Dialectica-like Model of Linear Logic](https://link.springer.com/chapter/10.1007/BFb0018360)" (1989)
  
-4. TAC paper: "[Dialectica and Chu constructions: cousins?](http://www.tac.mta.ca/tac/volumes/17/7/17-07abs.html)", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152, 2006.  <br>
+4. TAC paper: "[Dialectica and Chu constructions: cousins?](http://www.tac.mta.ca/tac/volumes/17/7/17-07abs.html)", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152 (2006)  <br>
    
 From the thesis a new logical/type theory system that is the natural, intrinsic logic of the categories GC, "Full Intuitionistic Linear Logic" (FILL),
-and with Luiz Carlos a version for Intuitionistic logic (FIL). With Torben and Harley proofs of cut-elimination for the logic FILL.
+and with Luiz Carlos a version for Intuitionistic logic (FIL). With Torben and Harley proofs of cut-elimination for the logic FILL, with Harley mechanized in Agda.
 
 5. [Full Intuitionistic Linear Logic](https://www.sciencedirect.com/science/article/pii/0168007293901465) (with Martin Hyland) APAL, 1993. (official)
    https://www.cs.bham.ac.uk/~vdp/publications/fill.pdf (preprint)
