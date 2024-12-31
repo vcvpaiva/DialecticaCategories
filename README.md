@@ -25,18 +25,16 @@ and with Luiz Carlos a version for Intuitionistic logic (FIL). With Torben and H
 5. [Full Intuitionistic Linear Logic](https://www.sciencedirect.com/science/article/pii/0168007293901465) (with Martin Hyland) APAL, 1993. (official)
    https://www.cs.bham.ac.uk/~vdp/publications/fill.pdf (preprint)
    
-6. Full Intuitionistic Logic (with Luiz Carlos Pereira) Logic Colloquium 1994 -- abstract only. paper in 2005, "[A short note on Intuitionistic  Propositional Logic with Multiple Conclusions](https://www.researchgate.net/publication/228619994_A_short_note_on_intuitionistic_propositional_logic_with_multiple_conclusions)"   Manuscrito-- Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez, 2005 
+6. Full Intuitionistic Logic (with Luiz Carlos Pereira) Logic Colloquium 1994 -- abstract only. paper in 2005, "[A short note on Intuitionistic  Propositional Logic with Multiple Conclusions](https://www.researchgate.net/publication/228619994_A_short_note_on_intuitionistic_propositional_logic_with_multiple_conclusions)"   Manuscrito-- Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez. (2005) 
 ([preprint](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6a2048b33259ebc1c88635ed979772e12f2b1efe)) --this is intuitionistic logic, not Linear Logic! 
    
-7. Cut-Elimination for Full Intuitionistic Linear Logic (with Torben Brauner), CSL1997, preprint https://www.brics.dk/RS/96/10/index.html
-   CSL version `A formulation of linear logic based on dependency-relations'- T Braüner, V De Paiva Int Workshop on Computer Science   Logic, 129-148, 1997
-   (https://www.researchgate.net/publication/221557909_A_Formulation_of_Linear_Logic_Based_on_Dependency-Relations)
+7. Cut-Elimination for Full Intuitionistic Linear Logic (with Torben Brauner), CSL1997, [preprint](https://www.brics.dk/RS/96/10/index.html)
+   CSL version `[A formulation of linear logic based on dependency-relations](https://www.researchgate.net/publication/221557909_A_Formulation_of_Linear_Logic_Based_on_Dependency-Relations)'- T Braüner, V De Paiva. Int Workshop on Computer Science   Logic, 129-148 (1997)
    
- 8. FILL (new proof of cut-elimination with Harley Eades III)  Multiple Conclusion Linear Logic: Cut-elimination and more. 
-   https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext Lecture Notes in Computer Science, 04 January 2016. 
-   Proceedings of the Symposium on Logical Foundations of Computer Science (LFCS 2016), formalized in Agda. Journal version submitted.
+ 8. FILL (new proof of cut-elimination with Harley Eades III)  [Multiple Conclusion Linear Logic: Cut-elimination and more](https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext).  Lecture Notes in Computer Science, 04 January 2016. 
+Proceedings of the Symposium on Logical Foundations of Computer Science (LFCS 2016), formalized in Agda. 
    
-   Appeared in Journal of Logic and Computation, Feb 2020 https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext 
+Appeared in Journal of Logic and Computation, Feb 2020 https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext 
    
  9. Typed lambda-calculus for FILL (with Eike Ritter) "A Parigot-style linear λ-calculus for Full intuitionistic Linear Logic", 2007
  https://www.cs.bham.ac.uk/%7Evdp/publications/fillmu.pdf
