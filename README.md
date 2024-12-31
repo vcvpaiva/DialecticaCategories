@@ -25,7 +25,7 @@ and with Luiz Carlos a version for Intuitionistic logic (FIL). With Torben and H
 5. [Full Intuitionistic Linear Logic](https://www.sciencedirect.com/science/article/pii/0168007293901465) (with Martin Hyland) APAL, 1993. (official)
    https://www.cs.bham.ac.uk/~vdp/publications/fill.pdf (preprint)
    
-6. Full Intuitionistic Logic (with Luiz Carlos Pereira) Logic Colloquium 1994 -- abstract only. paper in 2005, "[A short note on Intuitionistic  Propositional Logic with Multiple Conclusions](https://www.researchgate.net/publication/228619994_A_short_note_on_intuitionistic_propositional_logic_with_multiple_conclusions)"   Manuscrito-- Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez. (2005) 
+6. Full Intuitionistic Logic (with Luiz Carlos Pereira) Logic Colloquium 1994 -- abstract ``A New Proof System for Intuitionistic Logic", The Bulletin of Symbolic Logic, vol 1(1):101, 1995. paper in 2005, "[A short note on Intuitionistic  Propositional Logic with Multiple Conclusions](https://www.researchgate.net/publication/228619994_A_short_note_on_intuitionistic_propositional_logic_with_multiple_conclusions)"   Manuscrito-- Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez. (2005) 
 ([preprint](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6a2048b33259ebc1c88635ed979772e12f2b1efe)) --this is intuitionistic logic, not Linear Logic! 
    
 7. Cut-Elimination for Full Intuitionistic Linear Logic (with Torben Brauner), CSL1997, [preprint](https://www.brics.dk/RS/96/10/index.html)
@@ -45,9 +45,13 @@ Algebraic versions:
      Preprint version [Lineales: Algebraic Models of Linear Logic from a Categorical Perspective](https://drive.google.com/file/d/11BMFAOhACYHa7asGf5i2DuRywWQjSmp1/view?usp=sharing).
    
 
-Applications: 
+Applications 
 
-11. BRICS TR: "A linear specification language for Petri Nets", http://www.cs.bham.ac.uk/~vdp/publications/LinSpecPetri.pdf
+Petri Nets:
+
+11.  "[Categorical multirelations, linear logic and Petri nets](http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf)" TR 225 from Computer Lab, Cambridge .
+
+12.  BRICS TR: "A linear specification language for Petri Nets", http://www.cs.bham.ac.uk/~vdp/publications/LinSpecPetri.pdf
    accepted for TCS in mid 90's, but then abandoned.  short note for LSFA2018 based on this work, rejected.
    
    Carolyn Brown thesis now at https://era.ed.ac.uk/bitstream/handle/1842/15424/Brown1990.Pdf?sequence=1
@@ -60,14 +64,7 @@ Applications:
    
    Preprint 2021: Dialectica Petri Nets https://arxiv.org/abs/2105.12801, submitted
 
-13. "Categorical multirelations, linear logic and Petri nets" TR from Cambridge http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf
 
-13a. LL applied to intuitionistic logic
-FIL (Full Intuitionistic Logic) with Luiz Carlos Pereira,
-1. abstract "A New Proof System for Intuitionistic Logic" (with L. C. Pereira) The Bulletin of Symbolic Logic, vol 1(1):101, 1995 
-
-2. paper "A short note on Intuitionistic Propositional Logic with Multiple Conclusions" (with Luiz Carlos Pereira) Manuscrito-- 
-Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez, 2005. https://www.researchgate.net/publication/228619994_A_short_note_on_intuitionistic_propositional_logic_with_multiple_conclusions
 
  Dialectica categories for Lambek calculus. 
 
