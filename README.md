@@ -11,7 +11,7 @@ My work:
 
  From thesis, two conference papers and a much later journal comparison:
 
-2. AMS vol 92: "[The Dialectica Categories](https://drive.google.com/file/d/0ByQvGrHooOoHeXoyUXJSQVVlNVE/view?usp=sharing&resourcekey=0-2PcGnQCQZsPdbXyTyqnG9w)" Boulder AMS volume 92,  1989
+2. AMS Contemporary Mathematics: "[The Dialectica Categories](https://drive.google.com/file/d/0ByQvGrHooOoHeXoyUXJSQVVlNVE/view?usp=sharing&resourcekey=0-2PcGnQCQZsPdbXyTyqnG9w)" Boulder AMS volume 92,  1989
 
 3. CTCS 1989: "A Dialectica-like Model of Linear Logic", http://www.cs.bham.ac.uk/~vdp/publications/CTCS89.pdf, 1989
  
