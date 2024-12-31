@@ -5,7 +5,7 @@ My work:
 
 1. Ph.D. Thesis: "[The Dialectica Categories](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf)", TR213 from Cambridge, 1991.
    
-   videos: [Dialectica for Friends](https://www.youtube.com/watch?v=hJrJSZlO-Ic)
+   videos: [Dialectica for Friends](https://www.youtube.com/watch?v=hJrJSZlO-Ic) (2021)
 
    [Dialectica: the mathematical version](https://www.youtube.com/watch?v=GRdrN6L3UCc&t=3s)
 
