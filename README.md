@@ -11,11 +11,12 @@ My work:
 
  From thesis, two conference papers and a much later journal comparison:
 
-2. AMS Contemporary Mathematics: "[The Dialectica Categories](https://drive.google.com/file/d/0ByQvGrHooOoHeXoyUXJSQVVlNVE/view?usp=sharing&resourcekey=0-2PcGnQCQZsPdbXyTyqnG9w)" Boulder AMS volume 92,  1989
+2. AMS Contemporary Mathematics: "[The Dialectica Categories](https://drive.google.com/file/d/0ByQvGrHooOoHeXoyUXJSQVVlNVE/view?usp=sharing&resourcekey=0-2PcGnQCQZsPdbXyTyqnG9w)"
+   Boulder AMS meeting 1987, volume 92.  (1989)
 
-3. CTCS 1989: "A Dialectica-like Model of Linear Logic", http://www.cs.bham.ac.uk/~vdp/publications/CTCS89.pdf, 1989
+4. CTCS 1989: "A Dialectica-like Model of Linear Logic", http://www.cs.bham.ac.uk/~vdp/publications/CTCS89.pdf, 1989
  
-4. TAC paper "Dialectica and Chu constructions: cousins?", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152, 2006.
+5. TAC paper "Dialectica and Chu constructions: cousins?", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152, 2006.
     http://www.tac.mta.ca/tac/volumes/17/7/17-07abs.html
     
 From  thesis a new logical/type theory system that is the natural, intrinsic logic of the categories GC, "Full Intuitionistic Linear Logic" (FILL),
