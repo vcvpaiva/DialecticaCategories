@@ -3,13 +3,15 @@ A place to collect  work on dialectica categories.
 
 My work:
 
-1. Thesis: "The Dialectica Categories", TR213 from Cambridge, https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf, 1990
-   videos Dialectica for Friends https://www.youtube.com/watch?v=hJrJSZlO-Ic and Dialectica: the mathematical version 
-   https://www.youtube.com/watch?v=GRdrN6L3UCc&t=3s
+1. Ph.D. Thesis: "[The Dialectica Categories](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf)", TR213 from Cambridge, 1991.
+   
+   videos: [Dialectica for Friends](https://www.youtube.com/watch?v=hJrJSZlO-Ic)
+
+   [Dialectica: the mathematical version](https://www.youtube.com/watch?v=GRdrN6L3UCc&t=3s)
 
  From thesis, two conference papers and a much later journal comparison:
 
-2. AMS vol 92: "[The Dialectica Categories](https://drive.google.com/drive/u/0/search?q=dial87.pdf)" Boulder volume,  1989
+2. AMS vol 92: "[The Dialectica Categories](https://drive.google.com/drive/u/0/search?q=dial87.pdf)" Boulder AMS volume 92,  1989
 
 3. CTCS 1989: "A Dialectica-like Model of Linear Logic", http://www.cs.bham.ac.uk/~vdp/publications/CTCS89.pdf, 1989
  
