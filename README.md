@@ -9,7 +9,7 @@ My work:
 
  From thesis, two conference papers and a much later journal comparison:
 
-2. AMS vol 92: "The Dialectica Categories" Boulder volume, http://www.cs.bham.ac.uk/~vdp/publications/dial87.pdf, 1989
+2. AMS vol 92: "[The Dialectica Categories](https://drive.google.com/drive/u/0/search?q=dial87.pdf)" Boulder volume,  1989
 
 3. CTCS 1989: "A Dialectica-like Model of Linear Logic", http://www.cs.bham.ac.uk/~vdp/publications/CTCS89.pdf, 1989
  
