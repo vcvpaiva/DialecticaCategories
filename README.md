@@ -35,8 +35,7 @@ and with Luiz Carlos a version for Intuitionistic logic (FIL). With Torben and H
 Proceedings of the Symposium on Logical Foundations of Computer Science (LFCS 2016), formalized in Agda. 
 Journal version in Journal of Logic and Computation, [Multiple Conclusion Linear Logic: Cut-elimination and more](https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext), (2020) 
    
- 9. Typed lambda-calculus for FILL (with Eike Ritter) "A Parigot-style linear λ-calculus for Full intuitionistic Linear Logic", 2007
- https://www.cs.bham.ac.uk/%7Evdp/publications/fillmu.pdf
+ 9. Typed lambda-calculus for FILL (with Eike Ritter) "[A Parigot-style linear λ-calculus for Full intuitionistic Linear Logic](http://www.tac.mta.ca/tac/volumes/17/3/17-03abs.html)", 2007
  
 Algebraic versions: 
    
