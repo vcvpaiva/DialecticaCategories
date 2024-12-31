@@ -5,16 +5,14 @@ My work:
 
 1. Ph.D. Thesis: "[The Dialectica Categories](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf)", TR213 from Cambridge, 1991.
    
-   videos: [Dialectica for Friends](https://www.youtube.com/watch?v=hJrJSZlO-Ic) (2021)
-
-   [Dialectica: the mathematical version](https://www.youtube.com/watch?v=GRdrN6L3UCc&t=3s) (2020)
+   videos: [Dialectica Categories for All](https://www.youtube.com/watch?v=Pxw82nchrS4) (2024) [Dialectica for Friends](https://www.youtube.com/watch?v=hJrJSZlO-Ic) (2021) [Dialectica: the mathematical version](https://www.youtube.com/watch?v=GRdrN6L3UCc&t=3s) (2020)
 
  From the thesis, two conference papers and a much later journal comparison:
 
 2. AMS Contemporary Mathematics: "[The Dialectica Categories](https://drive.google.com/file/d/0ByQvGrHooOoHeXoyUXJSQVVlNVE/view?usp=sharing&resourcekey=0-2PcGnQCQZsPdbXyTyqnG9w)"
    Boulder AMS meeting 1987, volume 92.  (1989)
 
-3. CTCS 1989: "A Dialectica-like Model of Linear Logic", http://www.cs.bham.ac.uk/~vdp/publications/CTCS89.pdf, 1989
+3. CTCS 1989: "[A Dialectica-like Model of Linear Logic](https://link.springer.com/chapter/10.1007/BFb0018360)", 1989
  
 4. TAC paper: "[Dialectica and Chu constructions: cousins?](http://www.tac.mta.ca/tac/volumes/17/7/17-07abs.html)", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152, 2006.  <br>
    
