@@ -63,11 +63,11 @@ Arxiv preprint with Elena di Lavore and Wilmer Leal [Dialectica Petri Nets](http
    
  Dialectica categories for Lambek calculus: 
 
-14. Original paper in Amsterdam Colloquium 1991 [A Dialectica model of the LAmbek Calculus](https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambek_Calculus)
+14. Original paper in Amsterdam Colloquium 1991
+    [A Dialectica model of the Lambek Calculus](https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambek_Calculus)
 
-15. Talk at APA, April 2017
-   conference LFCS paper with Harley Eades III, appeared in Jan2018,
-   https://arxiv.org/abs/1801.06883
+15. Talk at APA, April 2017. Conference LFCS paper with Harley Eades III, [appeared in Jan2018,
+   [Dialectica Categories for the Lambek Calculus](https://arxiv.org/abs/1801.06883)
    journal paper not submitted.
 
  Dialectica categories for modelling State/Pomset logic
@@ -81,7 +81,7 @@ Arxiv preprint with Elena di Lavore and Wilmer Leal [Dialectica Petri Nets](http
 18. Dialectica categories for Relevant logic 
 (need to recover the important bits from http://www.dbd.puc-rio.br/depto_informatica/93_mere.pdf) slides?
 
- Dialectica categories for Set Theory, work with Samuel G da Silva. Three papers so far, 19, 20 and 21.
+ Dialectica categories for Set Theory (work with Samuel G da Silva. three papers so far, 19, 20 and 21.)
 
 19. Dialectica Categories, Cardinalities of the Continuum and Combinatorics of Ideals, with Samuel G. da Silva.
    Available from https://www.researchgate.net/publication/315001808_Dialectica_Categories_Cardinalities_of_the_Continuum_and_Combinatorics_of_Ideals
