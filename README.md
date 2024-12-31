@@ -56,14 +56,14 @@ Petri Nets:
    [Blog post](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html).
    [Poster at ACT 2021](https://drive.google.com/file/d/1rM6MCHl0FHfOOCIHA4irVwl-tuadYha-/view?usp=sharing), presented by Elena di Lavore.
 
-Arxiv preprint with Elena di Lavore and Wilmer Leal [Dialectica Petri Nets](https://arxiv.org/abs/2105.12801), submitted.
+    Arxiv preprint with Elena di Lavore and Wilmer Leal [Dialectica Petri Nets](https://arxiv.org/abs/2105.12801), submitted.
    
  Dialectica categories for Lambek calculus: 
 
 14. Original paper in Amsterdam Colloquium 1991
     [A Dialectica model of the Lambek Calculus](https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambek_Calculus)
 
-15. Talk at APA, April 2017. Conference LFCS paper with Harley Eades III, [appeared in Jan2018,
+15. Talk at APA, April 2017. Conference LFCS paper with Harley Eades III,  Jan2018.
    [Dialectica Categories for the Lambek Calculus](https://arxiv.org/abs/1801.06883)
    journal paper not submitted.
 
@@ -72,16 +72,16 @@ Arxiv preprint with Elena di Lavore and Wilmer Leal [Dialectica Petri Nets](http
  16. [A Dialectica Model of State](https://www.academia.edu/674289/A_dialectica_model_of_state) (1996)
     Conference paper in CATS'1996 with Marcelo Correa and Hermann Hauesler. 
 
-17. journal paper: Valeria de Paiva. Linear Logic Model of State Revisited. Logic Journal of IGPL, 01 October 2014. 
-   volume 22, number 5, pages 791-804. http://vcvpaiva.github.io/includes/pubs/2014-LL-model.pdf
+17. journal paper: Valeria de Paiva. [Linear Logic Model of State Revisited](http://vcvpaiva.github.io/includes/pubs/2014-LL-model.pdf).
+Logic Journal of IGPL, 01 October 2014, volume 22, number 5, pages 791-804. 
 
 18. Dialectica categories for Relevant logic 
 (need to recover the important bits from http://www.dbd.puc-rio.br/depto_informatica/93_mere.pdf) slides?
 
- Dialectica categories for Set Theory (work with Samuel G da Silva. three papers so far, 19, 20 and 21.)
+ Dialectica categories for Set Theory 
+ (work with Samuel G da Silva. three papers so far, 19, 20 and 21.)
 
-19. Dialectica Categories, Cardinalities of the Continuum and Combinatorics of Ideals, with Samuel G. da Silva.
-   Available from https://www.researchgate.net/publication/315001808_Dialectica_Categories_Cardinalities_of_the_Continuum_and_Combinatorics_of_Ideals
+19. [Dialectica Categories, Cardinalities of the Continuum and Combinatorics of Ideals](https://www.researchgate.net/publication/315001808_Dialectica_Categories_Cardinalities_of_the_Continuum_and_Combinatorics_of_Ideals), with Samuel G. da Silva. 
 
 20. Linear Natural Numbers Objects in Dial (Valeria de Paiva, Charles Morgan, Samuel G. da Silva). 
    Natural Number Objects in    Dialectica Categories. ENTCS, 01 January 2014. 
