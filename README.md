@@ -54,27 +54,25 @@ Petri Nets:
 12.  BRICS TR, with Carolyn Brown and Doug Gurr "[A linear specification language for Petri Nets](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8df16d4c0a3a011baf279ef9f9e25a16ff5e4352)", 
    accepted for TCS in mid 90's with mods, but abandoned.     
    
-13. Theme of ACT Adjoint School 2020 with  Elena Di Lavore, Xiaoyan Li, Wilmer Leal, Eigil Rischel and Jade Master. 
+13. Dialectica Petri nets: Theme of [ACT Adjoint School 2020](https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/)
+    with  Elena Di Lavore, Xiaoyan Li, Wilmer Leal, Eigil Rischel and Jade Master. 
    [Blog post](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html).
-   Also in https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/
    
-   Poster at ACT 2021, presented by Elena di Lavore, [ACT-PN-poster](https://drive.google.com/file/d/1rM6MCHl0FHfOOCIHA4irVwl-tuadYha-/view?usp=sharing).
-   At last arxiv preprint with Elena di Lavore and Wilmer Leal [Dialectica Petri Nets](https://arxiv.org/abs/2105.12801), submitted.
+   [Poster at ACT 2021](https://drive.google.com/file/d/1rM6MCHl0FHfOOCIHA4irVwl-tuadYha-/view?usp=sharing), presented by Elena di Lavore. Arxiv preprint with Elena di Lavore and Wilmer Leal [Dialectica Petri Nets](https://arxiv.org/abs/2105.12801), submitted.
    
  Dialectica categories for Lambek calculus: 
 
-14. Paper in Amsterdam Colloquium 1991
-     https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambek_Calculus
+14. Original paper in Amsterdam Colloquium 1991 [A Dialectica model of the LAmbek Calculus](https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambek_Calculus)
 
-15.   Talk at APA, April 2017
+15. Talk at APA, April 2017
    conference LFCS paper with Harley Eades III, appeared in Jan2018,
    https://arxiv.org/abs/1801.06883
-   journal paper not submitted, yet (?)
+   journal paper not submitted.
 
  Dialectica categories for modelling State/Pomset logic
  
- 16. A Dialectica Model of State (1996)
-    Conference paper in CATS'1996 with Correa and Hauesler. https://www.academia.edu/674289/A_dialectica_model_of_state
+ 16. [A Dialectica Model of State](https://www.academia.edu/674289/A_dialectica_model_of_state) (1996)
+    Conference paper in CATS'1996 with Marcelo Correa and Hermann Hauesler. 
 
 17. journal paper: Valeria de Paiva. Linear Logic Model of State Revisited. Logic Journal of IGPL, 01 October 2014. 
    volume 22, number 5, pages 791-804. http://vcvpaiva.github.io/includes/pubs/2014-LL-model.pdf
