@@ -7,7 +7,7 @@ My work:
    
    videos: [Dialectica for Friends](https://www.youtube.com/watch?v=hJrJSZlO-Ic) (2021)
 
-   [Dialectica: the mathematical version](https://www.youtube.com/watch?v=GRdrN6L3UCc&t=3s)
+   [Dialectica: the mathematical version](https://www.youtube.com/watch?v=GRdrN6L3UCc&t=3s) (2020)
 
  From thesis, two conference papers and a much later journal comparison:
 
