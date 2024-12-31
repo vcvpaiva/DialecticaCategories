@@ -17,7 +17,6 @@ My work:
 3. CTCS 1989: "A Dialectica-like Model of Linear Logic", http://www.cs.bham.ac.uk/~vdp/publications/CTCS89.pdf, 1989
  
 4. TAC paper: "[Dialectica and Chu constructions: cousins?](http://www.tac.mta.ca/tac/volumes/17/7/17-07abs.html)", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152, 2006.  <br>
-
    
 From the thesis a new logical/type theory system that is the natural, intrinsic logic of the categories GC, "Full Intuitionistic Linear Logic" (FILL),
 and with Luiz Carlos a version for Intuitionistic logic (FIL). With Torben and Harley proofs of cut-elimination for the logic FILL.
@@ -37,7 +36,7 @@ Journal version in Journal of Logic and Computation, [Multiple Conclusion Linear
    
  9. Typed lambda-calculus for FILL (with Eike Ritter) "[A Parigot-style linear λ-calculus for Full intuitionistic Linear Logic](http://www.tac.mta.ca/tac/volumes/17/3/17-03abs.html)", 2007
  
-Algebraic versions: 
+Algebraic versions 
    
 10.  [Lineales](https://philarchive.org/rec/HYLL) with Martin Hyland, in "O que nos faz pensar?" PUC,Rio de Janeiro(1991) 
      [Lineales: algebras and categories in the semantics of Linear Logic](https://drive.google.com/file/d/1Xk-2LKABGNfnYTf9CGV6lkhWBUHpGT9m/view?usp=sharing).
@@ -49,23 +48,20 @@ Applications
 
 Petri Nets:
 
-11.  "[Categorical multirelations, linear logic and Petri nets](http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf)" TR 225 from Computer Lab, Cambridge .
+11.  "[Categorical multirelations, linear logic and Petri nets](http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf)" TR 225 from Computer Lab, Cambridge.
+    [Carolyn Brown thesis](https://era.ed.ac.uk/bitstream/handle/1842/15424/Brown1990.Pdf?sequence=1).
 
-12.  BRICS TR: "A linear specification language for Petri Nets", http://www.cs.bham.ac.uk/~vdp/publications/LinSpecPetri.pdf
-   accepted for TCS in mid 90's, but then abandoned.  short note for LSFA2018 based on this work, rejected.
+12.  BRICS TR: "[A linear specification language for Petri Nets](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8df16d4c0a3a011baf279ef9f9e25a16ff5e4352)", 
+   accepted for TCS in mid 90's with mods, but abandoned.     
    
-   Carolyn Brown thesis now at https://era.ed.ac.uk/bitstream/handle/1842/15424/Brown1990.Pdf?sequence=1
-   
-12. Theme of work in ACT Adjoint School 2020 with  Elena Di Lavore, Xiaoyan Li, Wilmer Leal, Eigil Rischel and Jade Master. 
-   Blog post in https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html.
+13. Theme of ACT Adjoint School 2020 with  Elena Di Lavore, Xiaoyan Li, Wilmer Leal, Eigil Rischel and Jade Master. 
+   [Blog post](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html).
    Also in https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/
    
-   Poster at ACT 2021, presented by Elena, ACT-PN-poster, https://drive.google.com/file/d/1rM6MCHl0FHfOOCIHA4irVwl-tuadYha-/view?usp=sharing
+   Poster at ACT 2021, presented by Elena di Lavore, [ACT-PN-poster](https://drive.google.com/file/d/1rM6MCHl0FHfOOCIHA4irVwl-tuadYha-/view?usp=sharing)
    
-   Preprint 2021: Dialectica Petri Nets https://arxiv.org/abs/2105.12801, submitted
-
-
-
+   arxiv preprint  [Dialectica Petri Nets](https://arxiv.org/abs/2105.12801), submitted
+   
  Dialectica categories for Lambek calculus. 
 
 14. Paper in Amsterdam Colloquium 1991
