@@ -19,7 +19,7 @@ My work:
 From the thesis a new logical/type theory system that is the natural, intrinsic logic of the categories GC, "Full Intuitionistic Linear Logic" (FILL),
 and with Luiz Carlos a version for Intuitionistic logic (FIL). With Torben and Harley proofs of cut-elimination for the logic FILL, with Harley mechanized in Agda.
 
-5. FILL [Full Intuitionistic Linear Logic](https://www.sciencedirect.com/science/article/pii/0168007293901465) (with Martin Hyland) APAL, 1993. (official)
+5. FILL [Full Intuitionistic Linear Logic](https://www.sciencedirect.com/science/article/pii/0168007293901465) (with Martin Hyland) APAL (1993) (official)
    
 6. Full Intuitionistic Logic (FIL) (with Luiz Carlos Pereira) Logic Colloquium 1994 -- abstract ``A New Proof System for Intuitionistic Logic", The Bulletin of Symbolic Logic, vol 1(1):101, 1995. paper in 2005, "[A short note on Intuitionistic  Propositional Logic with Multiple Conclusions](https://www.researchgate.net/publication/228619994_A_short_note_on_intuitionistic_propositional_logic_with_multiple_conclusions)"   Manuscrito-- Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez. (2005) 
 ([preprint](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6a2048b33259ebc1c88635ed979772e12f2b1efe)) --this is intuitionistic logic, not Linear Logic! 
@@ -27,11 +27,11 @@ and with Luiz Carlos a version for Intuitionistic logic (FIL). With Torben and H
 7. Cut-Elimination for Full Intuitionistic Linear Logic (with Torben Brauner), CSL1997, [preprint](https://www.brics.dk/RS/96/10/index.html)
    CSL version `[A formulation of linear logic based on dependency-relations](https://www.researchgate.net/publication/221557909_A_Formulation_of_Linear_Logic_Based_on_Dependency-Relations)'- T Braüner, V De Paiva. Int Workshop on Computer Science   Logic, 129-148 (1997)
    
- 8. FILL (new proof of cut-elimination with Harley Eades III)  [Multiple Conclusion Linear Logic: Cut-elimination and more](https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext).  Lecture Notes in Computer Science, 04 January 2016. 
+ 8. FILL (new proof of cut-elimination with Harley Eades III)  [Multiple Conclusion Linear Logic: Cut-elimination and more](https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext).  Lecture Notes in Computer Science  (2016) 
 Proceedings of the Symposium on Logical Foundations of Computer Science (LFCS 2016), formalized in Agda. 
-Journal version in Journal of Logic and Computation, [Multiple Conclusion Linear Logic: Cut-elimination and more](https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext), (2020) 
+Journal version in Journal of Logic and Computation, [Multiple Conclusion Linear Logic: Cut-elimination and more](https://academic.oup.com/logcom/article-abstract/30/1/157/5745861?redirectedFrom=fulltext) (2020) 
    
- 9. Typed lambda-calculus for FILL (with Eike Ritter) "[A Parigot-style linear λ-calculus for Full intuitionistic Linear Logic](http://www.tac.mta.ca/tac/volumes/17/3/17-03abs.html)", 2007
+ 9. Typed lambda-calculus for FILL (with Eike Ritter) "[A Parigot-style linear λ-calculus for Full intuitionistic Linear Logic](http://www.tac.mta.ca/tac/volumes/17/3/17-03abs.html)" (2007)
  
 Algebraic versions 
    
@@ -46,7 +46,7 @@ Applications
 Petri Nets:
 
 11.  "[Categorical multirelations, linear logic and Petri nets](http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf)" TR 225 from Computer Lab, Cambridge.
-    [Carolyn Brown thesis](https://era.ed.ac.uk/bitstream/handle/1842/15424/Brown1990.Pdf?sequence=1).
+   Inspired by  [Carolyn Brown thesis](https://era.ed.ac.uk/bitstream/handle/1842/15424/Brown1990.Pdf?sequence=1).
 
 12.  BRICS TR, with Carolyn Brown and Doug Gurr "[A linear specification language for Petri Nets](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8df16d4c0a3a011baf279ef9f9e25a16ff5e4352)", 
    accepted for TCS in mid 90's with mods, but abandoned.     
