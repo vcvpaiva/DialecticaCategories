@@ -59,10 +59,9 @@ Petri Nets:
    Also in https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/
    
    Poster at ACT 2021, presented by Elena di Lavore, [ACT-PN-poster](https://drive.google.com/file/d/1rM6MCHl0FHfOOCIHA4irVwl-tuadYha-/view?usp=sharing)
-   
    arxiv preprint  [Dialectica Petri Nets](https://arxiv.org/abs/2105.12801), submitted
    
- Dialectica categories for Lambek calculus. 
+ Dialectica categories for Lambek calculus: 
 
 14. Paper in Amsterdam Colloquium 1991
      https://www.researchgate.net/publication/2288039_A_Dialectica_Model_of_the_Lambek_Calculus
@@ -72,7 +71,9 @@ Petri Nets:
    https://arxiv.org/abs/1801.06883
    journal paper not submitted, yet (?)
 
-16. Dialectica categories for modelling State/Pomset logic: A Dialectica Model of State (1996)
+ Dialectica categories for modelling State/Pomset logic
+ 
+ 16. A Dialectica Model of State (1996)
     Conference paper in CATS'1996 with Correa and Hauesler. https://www.academia.edu/674289/A_dialectica_model_of_state
 
 17. journal paper: Valeria de Paiva. Linear Logic Model of State Revisited. Logic Journal of IGPL, 01 October 2014. 
