@@ -57,8 +57,9 @@ Petri Nets:
 13. Dialectica Petri nets: Theme of [ACT Adjoint School 2020](https://www.appliedcategorytheory.org/adjoint-school-act-2020/dialectica-categories-of-petri-nets/)
     with  Elena Di Lavore, Xiaoyan Li, Wilmer Leal, Eigil Rischel and Jade Master. 
    [Blog post](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html).
-   
-   [Poster at ACT 2021](https://drive.google.com/file/d/1rM6MCHl0FHfOOCIHA4irVwl-tuadYha-/view?usp=sharing), presented by Elena di Lavore. Arxiv preprint with Elena di Lavore and Wilmer Leal [Dialectica Petri Nets](https://arxiv.org/abs/2105.12801), submitted.
+   [Poster at ACT 2021](https://drive.google.com/file/d/1rM6MCHl0FHfOOCIHA4irVwl-tuadYha-/view?usp=sharing), presented by Elena di Lavore.
+
+Arxiv preprint with Elena di Lavore and Wilmer Leal [Dialectica Petri Nets](https://arxiv.org/abs/2105.12801), submitted.
    
  Dialectica categories for Lambek calculus: 
 
