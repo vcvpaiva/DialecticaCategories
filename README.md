@@ -9,20 +9,18 @@ My work:
 
    [Dialectica: the mathematical version](https://www.youtube.com/watch?v=GRdrN6L3UCc&t=3s) (2020)
 
- From thesis, two conference papers and a much later journal comparison:
+ From the thesis, two conference papers and a much later journal comparison:
 
 2. AMS Contemporary Mathematics: "[The Dialectica Categories](https://drive.google.com/file/d/0ByQvGrHooOoHeXoyUXJSQVVlNVE/view?usp=sharing&resourcekey=0-2PcGnQCQZsPdbXyTyqnG9w)"
    Boulder AMS meeting 1987, volume 92.  (1989)
 
 4. CTCS 1989: "A Dialectica-like Model of Linear Logic", http://www.cs.bham.ac.uk/~vdp/publications/CTCS89.pdf, 1989
  
-5. TAC paper "Dialectica and Chu constructions: cousins?", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152, 2006.
-    http://www.tac.mta.ca/tac/volumes/17/7/17-07abs.html
-    
-From  thesis a new logical/type theory system that is the natural, intrinsic logic of the categories GC, "Full Intuitionistic Linear Logic" (FILL),
+5. TAC paper "[Dialectica and Chu constructions: cousins?](http://www.tac.mta.ca/tac/volumes/17/7/17-07abs.html)", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152, 2006.       
+From the thesis a new logical/type theory system that is the natural, intrinsic logic of the categories GC, "Full Intuitionistic Linear Logic" (FILL),
 and with Luiz Carlos a version for Intuitionistic logic (FIL). With Torben and Harley proofs of cut-elimination for the logic FILL.
 
-5. Full Intuitionistic Linear Logic (with Martin Hyland) APAL, 1993. https://www.sciencedirect.com/science/article/pii/0168007293901465 (official)
+5. [Full Intuitionistic Linear Logic](https://www.sciencedirect.com/science/article/pii/0168007293901465) (with Martin Hyland) APAL, 1993. (official)
    https://www.cs.bham.ac.uk/~vdp/publications/fill.pdf (preprint)
    
 6. Full Intuitionistic Logic (with Luiz Carlos Pereira) Logic Colloquium 1994 -- abstract only. paper in 2005, "A short note on Intuitionistic  Propositional Logic with Multiple Conclusions"   Manuscrito-- Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez, 2005 
