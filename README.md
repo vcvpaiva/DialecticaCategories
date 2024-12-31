@@ -51,7 +51,7 @@ Petri Nets:
 11.  "[Categorical multirelations, linear logic and Petri nets](http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-225.pdf)" TR 225 from Computer Lab, Cambridge.
     [Carolyn Brown thesis](https://era.ed.ac.uk/bitstream/handle/1842/15424/Brown1990.Pdf?sequence=1).
 
-12.  BRICS TR: "[A linear specification language for Petri Nets](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8df16d4c0a3a011baf279ef9f9e25a16ff5e4352)", 
+12.  BRICS TR, with Carolyn Brown and Doug Gurr "[A linear specification language for Petri Nets](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8df16d4c0a3a011baf279ef9f9e25a16ff5e4352)", 
    accepted for TCS in mid 90's with mods, but abandoned.     
    
 13. Theme of ACT Adjoint School 2020 with  Elena Di Lavore, Xiaoyan Li, Wilmer Leal, Eigil Rischel and Jade Master. 
