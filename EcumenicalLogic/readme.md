@@ -19,3 +19,6 @@ Third Tübingen Conference on Proof-Theoretic Semantics, 27-30
 5. A proof theoretical view of ecumenical systems
 E Pimentel, LC Pereira, V de Paiva
 Logical and Semantic Frameworks with Applications (LSFA), 109
+
+The original inspiration, Dag Prawitz:
+
