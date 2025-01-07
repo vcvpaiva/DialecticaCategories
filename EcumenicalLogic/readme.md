@@ -20,5 +20,10 @@ Third Tübingen Conference on Proof-Theoretic Semantics, 27-30
 E Pimentel, LC Pereira, V de Paiva
 Logical and Semantic Frameworks with Applications (LSFA), 109
 
-The original inspiration, Dag Prawitz:
+The original inspiration:
 
+Dag Prawitz. Classical versus intuitionistic logic. In Bruno Lopes Edward Hermann Haeusler, Wagner de Campos Sanz, editor, Why is this a Proof?, Festschrift for Luiz Carlos Pereira, volume 27, pages 15-32. College Publications, 2015. [Google Scholar](https://www.researchgate.net/profile/Bruno-Lopes-10/publication/279501355_Why_is_this_a_proof/links/62502728b0cee02d695b80f4/Why-is-this-a-proof.pdf#page=21)
+
+Luiz Carlos Pereira and Ricardo Oscar Rodriguez. Normalization, soundness and completeness for the propositional fragment of Prawitz' ecumenical system. Revista Portuguesa de Filosofia, 73(3-3):1153-1168, 2017. [Google Scholar](https://www.jstor.org/stable/26291332)
+
+Luiz Carlos and Elaine have several other papers on Ecumenical Modal Systems that I need to check.
