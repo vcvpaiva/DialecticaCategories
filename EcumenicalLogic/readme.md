@@ -1,4 +1,4 @@
-A place to collect work on ecumenical logics, starting by work with Luiz Carlos Pereira and Elaine Pimentel.
+A place to collect work on ecumenical logics, starting with work with Luiz Carlos Pereira and Elaine Pimentel.
 
 1. [Translations and Prawitz’s Ecumenical System](https://link.springer.com/content/pdf/10.1007/s11225-024-10105-5.pdf)
 LC Pereira, E Pimentel, V de Paiva
@@ -26,6 +26,8 @@ The initial inspirations:
 
 2. Gilles Dowek. On the definition of the classical connectives and quantifiers. In Bruno Lopes Edward Hermann Haeusler, Wagner de Campos Sanz, editor, Why is this a Proof?, Festschrift for Luiz Carlos Pereira, volume 27, pages 230-240. College Publications, 2015.
 
-3. Luiz Carlos Pereira and Ricardo Oscar Rodriguez. Normalization, soundness and completeness for the propositional fragment of Prawitz' ecumenical system. Revista Portuguesa de Filosofia, 73(3-3):1153-1168, 2017. [Google Scholar](https://www.jstor.org/stable/26291332)
+3. Krauss, unpublished technical report, need to find the text.
 
-Luiz Carlos and Elaine have several other papers on Ecumenical *Modal* Systems that I need to check.
+4. Luiz Carlos Pereira and Ricardo Oscar Rodriguez. Normalization, soundness and completeness for the propositional fragment of Prawitz' ecumenical system. Revista Portuguesa de Filosofia, 73(3-3):1153-1168, 2017. [Google Scholar](https://www.jstor.org/stable/26291332)
+
+Luiz Carlos and Elaine (with co-authors) have several other papers on Ecumenical *Modal* Systems that I need to check.
