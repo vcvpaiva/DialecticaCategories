@@ -8,7 +8,7 @@ Studia Logica, 1-16, 2024
 E Pimentel, LC Pereira, V de Paiva
 Synthese 198 (Suppl 22), 5391-5413
 
-3. Duas negações ecumênicas?
+3. [Duas negações ecumênicas?](https://drive.google.com/file/d/1QRB3FogsTaYao3ef2luzXbBnfw9WmwZl/view?usp=sharing)
 LC Pereira, V de Paiva, E Pimentel
 De mathematicae atque philosophicae elegantia: notas festivas para Abel …
 
