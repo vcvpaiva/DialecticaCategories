@@ -13,7 +13,7 @@ LC Pereira, V de Paiva, E Pimentel
 De mathematicae atque philosophicae elegantia: notas festivas para Abel …
 
 4. [On Prawitz’ecumenical system](http://ls.cs.uni-tuebingen.de/PTS3/proceedings/slides/Pereira_corrected.pdf)
-LC Pereira, E Pimentel, V de Paiva
+LC Pereira, E Pimentel, V de Paiva (Luiz Carlos slides)
 Third Tübingen Conference on Proof-Theoretic Semantics, 27-30
 
 5. [A proof theoretical view of ecumenical systems](https://vcvpaiva.github.io/includes/pubs/2018-pimentel.pdf)
