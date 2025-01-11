@@ -16,7 +16,7 @@ De mathematicae atque philosophicae elegantia: notas festivas para Abel …
 LC Pereira, E Pimentel, V de Paiva
 Third Tübingen Conference on Proof-Theoretic Semantics, 27-30
 
-5. A proof theoretical view of ecumenical systems
+5. [A proof theoretical view of ecumenical systems](https://vcvpaiva.github.io/includes/pubs/2018-pimentel.pdf)
 E Pimentel, LC Pereira, V de Paiva
 Logical and Semantic Frameworks with Applications (LSFA), 109
 
