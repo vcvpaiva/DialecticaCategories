@@ -31,3 +31,6 @@ The initial inspirations:
 4. Luiz Carlos Pereira and Ricardo Oscar Rodriguez. Normalization, soundness and completeness for the propositional fragment of Prawitz' ecumenical system. Revista Portuguesa de Filosofia, 73(3-3):1153-1168, 2017. [Google Scholar](https://www.jstor.org/stable/26291332)
 
 Luiz Carlos and Elaine (with co-authors) have several other papers on Ecumenical *Modal* Systems that I need to check.
+
+1. [Modalities in Ecumenical Systems](https://repositorio.ufrn.br/bitstream/123456789/31223/1/Modalitiesecumenicalsystems_Sales_2020.pdf) Emerson Wendlingger Dantas Sales, advisor: Elaine Pimentel, 2020.
+   
