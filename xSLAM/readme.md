@@ -69,7 +69,7 @@ Some of the results of our research have been summarised in the following papers
     A Dialectica Model of State (1996) by Marcelo Correa , Edward Hauesler , Valeria de Paiva 
     (http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.44.4094)
     
-    Valeria de Paiva, Linear logic model of state revisited, Logic Journal of the IGPL, 
+    18. Valeria de Paiva, Linear logic model of state revisited, Logic Journal of the IGPL, 
     Volume 22, Issue 5, October 2014, Pages 791–804, https://doi.org/10.1093/jigpal/jzu013
 
 Recent slides set: https://www.slideshare.net/valeria.depaiva/categorical-semantics-for-explicit-substitutions
