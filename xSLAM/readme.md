@@ -73,4 +73,5 @@ Some of the results of our research have been summarised in the following papers
     Volume 22, Issue 5, October 2014, Pages 791–804, https://doi.org/10.1093/jigpal/jzu013
 
 Recent slides set: https://www.slideshare.net/valeria.depaiva/categorical-semantics-for-explicit-substitutions
+(11 Feb 2021, UnB talk)
 
