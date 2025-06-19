@@ -6,6 +6,6 @@ xSLAM sources
   * Relating Categorical Semantics for Intuitionistic Linear Logic (Maietti, Maneggia, de Paiva, Ritter 2005)
 * Master's thesis: `An Abstract Machine based on Linear Logic and Explicit Substitutions', F. Alberti, 1997
 * International workshops:
-  * Logical Abstract Machines (Saarbruecken 1998),
+  * [Logical Abstract Machines (Saarbruecken 1998)](https://www.coli.uni-saarland.de/conf/esslli-98/Seiten/Ritter%20and%20de%20Paiva.html),
   * Logical Abstract Machines (Birmingham, 1999)
 * Dagstuhl meeting: `Linear Logic and Applications' (1999)
