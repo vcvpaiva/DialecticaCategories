@@ -75,3 +75,8 @@ Some of the results of our research have been summarised in the following papers
 Recent slides set: https://www.slideshare.net/valeria.depaiva/categorical-semantics-for-explicit-substitutions
 (11 Feb 2021, UnB talk)
 
+Adding the full papers I have, since the website in Birmingham is not available anymore.
+
+1. N. Ghani, V. de Paiva and E. Ritter. Categorical Models for Explicit Substitutions. 
+    Presented at FoSSaCS'99. 
+    [https://www.researchgate.net/publication/2443561_Categorical_Models_of_Explicit_Substitutions]()
