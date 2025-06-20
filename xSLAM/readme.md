@@ -79,4 +79,4 @@ Adding the full papers I have, since the website in Birmingham is not available 
 
 1. N. Ghani, V. de Paiva and E. Ritter. Categorical Models for Explicit Substitutions. 
     Presented at FoSSaCS'99. 
-    [https://www.researchgate.net/publication/2443561_Categorical_Models_of_Explicit_Substitutions]()
+    [https://www.researchgate.net/publication/2443561_Categorical_Models_of_Explicit_Substitutions](https://github.com/vcvpaiva/DialecticaCategories/blob/master/xSLAM/CatModelsXSub.pdf)
