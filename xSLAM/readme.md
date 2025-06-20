@@ -84,6 +84,6 @@ Adding the full papers I have, since the website in Birmingham is not available 
 2. M.E. Maietti, V. de Paiva and E. Ritter. [Categorical Models for Intuitionistic and Linear Type Theory.](https://github.com/vcvpaiva/DialecticaCategories/blob/master/xSLAM/CatModelsILT1999.pdf) 
     In Proc. of FoSSaCS'00.
 
-3. V. de Paiva, E. Ritter. [On Explicit Substitutions and Names.]()  
+3. V. de Paiva, E. Ritter. [On Explicit Substitutions and Names.](https://github.com/vcvpaiva/DialecticaCategories/blob/master/xSLAM/On_Explicit_Substitutions_and_Names.pdf)  
     Proceedings of ICALP'97. 
     Also Technical Report CSR-97-5 , School of Computer Science, University of Birmingham. March 1997.
