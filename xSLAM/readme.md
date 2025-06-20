@@ -1,5 +1,5 @@
 Goal: This is just to collect the old work on xSLAM: Explicit Substitutions Linear Abstract Machines, 
-available from https://www.cs.bham.ac.uk/research/projects/xslam/xslam.html 
+NOT available anymore from https://www.cs.bham.ac.uk/research/projects/xslam/xslam.html 
 
 See also Project Linear Functional Programming 
 https://www.researchgate.net/project/Linear-Functional-Programming
