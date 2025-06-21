@@ -10,5 +10,5 @@ check also the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeIiqcDBig
   Any corrections extremely welcome!
 
   Older videos:
-  * [War Time Proofs and Futuristic Programs](), StrangeLoop 2023.
+  * [War Time Proofs and Futuristic Programs](https://www.youtube.com/watch?v=4_6uboxUYR8), StrangeLoop 2023.
   * Constructive modal Logics
