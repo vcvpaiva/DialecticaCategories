@@ -11,4 +11,5 @@ check also the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeIiqcDBig
 
   Older videos:
   * [War Time Proofs and Futuristic Programs](https://www.youtube.com/watch?v=4_6uboxUYR8), StrangeLoop 2023.
-  * Constructive modal Logics
+  * [Constructive modalities](https://www.youtube.com/watch?v=hbf-tGjxRQQ), Australasian Association for Logic, 2022.
+  * [Going without: a linear modality and its role](https://www.youtube.com/watch?v=7uTsihTketw), MSFP 2022.
