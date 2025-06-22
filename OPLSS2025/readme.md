@@ -15,3 +15,6 @@ Check also the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeIiqcDBig
   * [Going without: a linear modality and its role](https://www.youtube.com/watch?v=7uTsihTketw), MSFP 2022.
   * [Categorical Explicit Substitutions](https://www.youtube.com/watch?v=Z_gu1r7LNyc&t=1s), Topos 2021
   * [Categorical Models of Explicit Substitutions](https://www.youtube.com/watch?v=w4tTdai9mTg), University of Brasilia, 2021
+
+   Papers mentioned in the slides:
+   
