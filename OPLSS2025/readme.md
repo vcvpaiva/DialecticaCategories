@@ -1,4 +1,4 @@
-A place to put *preliminary* slides for Oregon's Programming Languages Summer School
+A place to put my *preliminary* slides for Oregon's Programming Languages Summer School 2025
 
 Check also the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeIiqcDBigxNtYKZfW9rGbqYrrbsXvyPkRjaCGTCOnMqYco8A/viewform?usp=dialog)
 
