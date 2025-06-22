@@ -17,10 +17,10 @@ Check also the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeIiqcDBig
   * [Categorical Models of Explicit Substitutions](https://www.youtube.com/watch?v=w4tTdai9mTg), University of Brasilia, 2021
 
    Papers mentioned in the slides:
-   * [A term calculus for intuitionisticlinear logic](https://www.dpmms.cam.ac.uk/~jmeh1/Research/Oldpapers/bbdphtlca93.pdf)
-   * [On an Intuitionistic Modal Logic](https://www.researchgate.net/profile/Valeria-De-Paiva/publication/226515897_On_An_Intuitionistic_Modal_Logic/links/00b4951ed416906ccc000000/On-An-Intuitionistic-Modal-Logic.pdf))
-   * [Computational types from a logic perspective](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-365.pdf)
-   * [Term assignment for intuitionistic linear logic (preliminary report)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-262.pdf)
+   * [A term calculus for intuitionistic linear logic](https://www.dpmms.cam.ac.uk/~jmeh1/Research/Oldpapers/bbdphtlca93.pdf) Benton, Bierman, de Paiva, Hyland, 1993
+   * [On an Intuitionistic Modal Logic](https://www.researchgate.net/profile/Valeria-De-Paiva/publication/226515897_On_An_Intuitionistic_Modal_Logic/links/00b4951ed416906ccc000000/On-An-Intuitionistic-Modal-Logic.pdf)) Bierman, de Paiva, 2000
+   * [Computational types from a logic perspective](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-365.pdf) Benton, Bierman, de Paiva, 1997
+   * [Term assignment for intuitionistic linear logic (preliminary report)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-262.pdf) Benton, Bierman, de Paiva, Hyland, 1992
    * [Categorical and Kripke semantics for constructive S4 modal logic](https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/wiai_professuren/grundlagen_informatik/papersMM/conmodlog.pdf)
    * [Extended Curry-Howard correspondence for a basic constructive modal logic](https://www.researchgate.net/profile/Valeria-De-Paiva/publication/2858332_Extended_Curry-Howard_Correspondence_for_a_Basic_Constructive_Modal_Logic/links/57683b0008aef6cdf9b40395/Extended-Curry-Howard-Correspondence-for-a-Basic-Constructive-Modal-Logic.pdf)
    
