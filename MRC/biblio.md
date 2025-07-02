@@ -1,6 +1,6 @@
 Trying to recreate the archive from Birmingham
 
-
+   * [Lineales](https://philpapers.org/archive/HYLL.pdf) Hyland and de Paiva, Manuscrito, 1991
    * [Full intuitionistic linear logic](https://github.com/vcvpaiva/DialecticaCategories/blob/master/OPLSS2025/FILLofficial.pdf), Hyland, de Paiva, APAL 1993
    * [Full intuitionistic linear logic (Abstract)](https://github.com/vcvpaiva/DialecticaCategories/blob/master/MRC/dePaivaLMPS1991.pdf) Hyland, de Paiva, LMPS, Uppsala 1991
    * [The Dialectica categories](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf) Technical report of PhD thesis, Computer Lab, Cambridge, 1991.
