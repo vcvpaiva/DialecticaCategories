@@ -11,4 +11,4 @@ Theory:
 
 Applications:
 
-* 
+* Valeria de Paiva. [Categorical multirelations, linear logic, and Petri nets]() Computer Laboratory, University of Cambridge TR; 1991.
