@@ -2,6 +2,7 @@ Trying to recreate the archive from Birmingham
 
 Theory:
 
+   * [Cut-elimination for full intuitionistic linear logic]() Braüner, Torben, Paiva, Valeria de.  Aarhus: BRICS, Dep. of Computer Science, Univ.; 1996. 27 Sp
    * [Full intuitionistic linear logic](https://github.com/vcvpaiva/DialecticaCategories/blob/master/OPLSS2025/FILLofficial.pdf), Hyland, de Paiva, APAL 1993
    * [Lineales](https://philpapers.org/archive/HYLL.pdf) Hyland and de Paiva, Manuscrito, 1991
    * [Full intuitionistic linear logic (Abstract)](https://github.com/vcvpaiva/DialecticaCategories/blob/master/MRC/dePaivaLMPS1991.pdf) Hyland, de Paiva, LMPS, Uppsala 1991
