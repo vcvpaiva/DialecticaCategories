@@ -2,6 +2,7 @@ Trying to recreate the archive from Birmingham
 
 Theory:
 
+   * [A formulation of linear logic based on dependency-relations]() Braüner T, de Paiva V. In: Goos G, Hartmanis J, van Leeuwen J, editors. Lecture Notes in Computer Science [Internet] Berlin, Heidelberg: Springer Berlin Heidelberg; 1998. Chapter Chapter 8; 129-148p. Available from: http://link.springer.com/10.1007/BFb0028011.
    * [Cut-elimination for full intuitionistic linear logic]() Braüner, Torben, Paiva, Valeria de.  Aarhus: BRICS, Dep. of Computer Science, Univ.; 1996. 27 Sp
    * [Full intuitionistic linear logic](https://github.com/vcvpaiva/DialecticaCategories/blob/master/OPLSS2025/FILLofficial.pdf), Hyland, de Paiva, APAL 1993
    * [Lineales](https://philpapers.org/archive/HYLL.pdf) Hyland and de Paiva, Manuscrito, 1991
