@@ -13,5 +13,5 @@ Theory:
 
 Applications:
 
-* Brown C, Gurr D, Paiva V. A Linear Specification Language for Petri Nets. DAIMI Report Series. 1991 October; 20(363):-. doi: 10.7146/dpb.v20i363.6594
+* Brown C, Gurr D, Paiva V. [A Linear Specification Language for Petri Nets](). DAIMI Report Series. 1991 October; 20(363):-. doi: 10.7146/dpb.v20i363.6594
 * Valeria de Paiva. [Categorical multirelations, linear logic, and Petri nets]() Computer Laboratory, University of Cambridge TR; 1991.
