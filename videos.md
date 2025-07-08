@@ -6,6 +6,8 @@ From YouTube search (Jul 2025)
 *  "Network Mathematics for All", Topos Institute Berkeley Seminar, 2024 https://www.youtube.com/watch?v=Wiwm872T1Yk
 *  "Women in Logic Online with Valeria de Paiva: Network Mathematics" https://www.youtube.com/watch?v=SE5vIeBEGWI
 *  "Dialectica Categories for all", Hausdorff Institute, 2024, https://www.youtube.com/watch?v=Pxw82nchrS4
+*  "AI tools for Better Math", Hausdorff Institute, 2024, https://www.youtube.com/watch?v=C7NBGlJb2DQ
+*  "Classical and constructive logics together: Ecumenical systems", Berkeley Seminar, https://www.youtube.com/watch?v=M1yFhKKDrpI
 
 
 From YouTube search (Oct 2022)
