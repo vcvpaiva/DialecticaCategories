@@ -1,5 +1,13 @@
 My talks on YouTube
 
+From YouTube search (Jul 2025)
+
+*  "War Time Proofs and Futuristic Programs" by Valeria de Paiva, Strange Loop, 2023 https://www.youtube.com/watch?v=4_6uboxUYR8
+*  "Network Mathematics for All", Topos Institute Berkeley Seminar, 2024 https://www.youtube.com/watch?v=Wiwm872T1Yk
+*  "Women in Logic Online with Valeria de Paiva: Network Mathematics" https://www.youtube.com/watch?v=SE5vIeBEGWI
+*  "Dialectica Categories for all", Hausdorff Institute, 2024, https://www.youtube.com/watch?v=Pxw82nchrS4
+
+
 From YouTube search (Oct 2022)
 
 1. "Categorical Explicit Substitutions" Topos colloquim https://www.youtube.com/watch?v=Z_gu1r7LNyc&t=7s
