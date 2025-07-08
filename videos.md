@@ -8,6 +8,7 @@ From YouTube search (Jul 2025)
 *  "Dialectica Categories for all", Hausdorff Institute, 2024, https://www.youtube.com/watch?v=Pxw82nchrS4
 *  "AI tools for Better Math", Hausdorff Institute, 2024, https://www.youtube.com/watch?v=C7NBGlJb2DQ
 *  "Classical and constructive logics together: Ecumenical systems", Berkeley Seminar, https://www.youtube.com/watch?v=M1yFhKKDrpI
+*  "Valeria de Paiva and Lucy Horowitz: Three prototypes demo", Hausdorff Institute, 2024, https://www.youtube.com/watch?v=l9RbBSxjCso
 
 
 From YouTube search (Oct 2022)
