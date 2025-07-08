@@ -1,6 +1,6 @@
 My talks on YouTube
 
-From youtube search (Oct 2022)
+From YouTube search (Oct 2022)
 
 1. "Categorical Explicit Substitutions" Topos colloquim https://www.youtube.com/watch?v=Z_gu1r7LNyc&t=7s
 
