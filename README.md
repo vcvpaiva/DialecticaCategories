@@ -10,7 +10,7 @@ My work:
  From the thesis, two conference papers and a much later journal comparison:
 
 2. AMS Contemporary Mathematics: "[The Dialectica Categories](https://drive.google.com/file/d/0ByQvGrHooOoHeXoyUXJSQVVlNVE/view?usp=sharing&resourcekey=0-2PcGnQCQZsPdbXyTyqnG9w)"
-   Boulder AMS meeting 1987, volume 92.  (1989)
+   Boulder AMS meeting 1987, volume 92.  (1989) [local version]()
 
 3. CTCS 1989: "[A Dialectica-like Model of Linear Logic](https://link.springer.com/chapter/10.1007/BFb0018360)" (1989)
  
