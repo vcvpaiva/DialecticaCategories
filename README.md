@@ -10,9 +10,9 @@ My work:
  From the thesis, two conference papers and a much later journal comparison:
 
 2. AMS Contemporary Mathematics: "[The Dialectica Categories](https://drive.google.com/file/d/0ByQvGrHooOoHeXoyUXJSQVVlNVE/view?usp=sharing&resourcekey=0-2PcGnQCQZsPdbXyTyqnG9w)"
-   Boulder AMS meeting 1987, volume 92.  (1989) [local version]()
+   Boulder AMS meeting 1987, volume 92.  (1989) [local version](https://github.com/vcvpaiva/DialecticaCategories/blob/master/OldPapers/dial87-2.pdf)
 
-3. CTCS 1989: "[A Dialectica-like Model of Linear Logic](https://link.springer.com/chapter/10.1007/BFb0018360)" (1989)
+3. CTCS 1989: "[A Dialectica-like Model of Linear Logic](https://link.springer.com/chapter/10.1007/BFb0018360)" (1989) [local version]()
  
 4. TAC paper: "[Dialectica and Chu constructions: cousins?](http://www.tac.mta.ca/tac/volumes/17/7/17-07abs.html)", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152 (2006)  <br>
    
