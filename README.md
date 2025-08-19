@@ -17,7 +17,9 @@ My work:
 4. TAC paper: "[Dialectica and Chu constructions: cousins?](http://www.tac.mta.ca/tac/volumes/17/7/17-07abs.html)", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152 (2006)  <br>
    
 From the thesis, a new logical/type theory system that is the natural, intrinsic logic of the categories GC, "Full Intuitionistic Linear Logic" (FILL).
-With Luiz Carlos Pereira, a version for Intuitionistic logic (FIL). With Torben Brauner and Harley Eades, proofs of cut-elimination for the logic FILL. [Harley's proof](https://github.com/heades/cut-fill-agda/blob/master/FullLinCat.agda) was mechanized in Agda.
+With Luiz Carlos Pereira, a version for Intuitionistic logic (FIL). With Torben Brauner and Harley Eades, proofs of cut-elimination for the logic FILL. [Harley's proof of cut-elimination](https://github.com/heades/cut-fill-agda/blob/master/FullLinCat.agda) was mechanized in Agda.
+
+More recently, [formalization of original Dialectica Category](https://github.com/leanprover-community/mathlib4/commit/5d74b273dd4c171c1f57a2d75abc1d3e27d7095a) in Lean with Mario Carneiro, 2024.
 
 5. FILL [Full Intuitionistic Linear Logic](https://www.sciencedirect.com/science/article/pii/0168007293901465) (with Martin Hyland) APAL (1993) (official)
    
