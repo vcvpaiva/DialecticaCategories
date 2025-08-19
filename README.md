@@ -56,7 +56,7 @@ Petri Nets:
    [Blog post](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html).
    [Poster at ACT 2021](https://drive.google.com/file/d/1rM6MCHl0FHfOOCIHA4irVwl-tuadYha-/view?usp=sharing), presented by Elena di Lavore.
 
-    Arxiv preprint with Elena di Lavore and Wilmer Leal [Dialectica Petri Nets](https://arxiv.org/abs/2105.12801), submitted.
+    Arxiv preprint with Elena di Lavore and Wilmer Leal [Dialectica Petri Nets](https://arxiv.org/abs/2105.12801), accepted 2025.
    
  Dialectica categories for Lambek calculus: 
 
