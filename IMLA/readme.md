@@ -15,7 +15,7 @@ IMLA Workshops
 
 6. UNILOG2013, Rio de Janeiro, Brazil (Gurevich, Vigano, and Bellin)
 
-7. ESSLLI2017, Toulouse, France
+7. ESSLLI2017, Toulouse, France 
 
 
 Special Volumes from IMLA
@@ -38,7 +38,8 @@ Science, Volume 300, (2014)
 5. C. Stewart, N. Alechina, V. de Paiva (eds.) Intuitionistic Modal
 Logics (IMLA2011), Journal of Logic and Computation, 2015
 
-6. S. Artemov, V. de Paiva (eds.), Journal of Applied Logic (2021)
+6. S. Artemov, V. de Paiva (eds.), Intuitionistic Modal
+Logic and applications, Journal of Applied Logic (2021)
 
 
 My work:
