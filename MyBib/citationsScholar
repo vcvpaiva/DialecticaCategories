@@ -25,6 +25,17 @@
   url = {https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf}
 }
 
+@TechReport{UCAM-CL-TR-213,
+  author =	 {de Paiva, Valeria Correa Vaz},
+  title = 	 {{The Dialectica categories}},
+  year = 	 1991,
+  month = 	 jan,
+  url = 	 {https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf},
+  institution =  {University of Cambridge, Computer Laboratory},
+  doi = 	 {10.48456/tr-213},
+  number = 	 {UCAM-CL-TR-213}
+}
+
 @TechReport{UCAM-CL-TR-203,
   author =	 {de Paiva, Valeria C.V.},
   title = 	 {{Subtyping in Ponder (preliminary report)}},
