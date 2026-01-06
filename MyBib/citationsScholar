@@ -36,6 +36,17 @@
   number = 	 {UCAM-CL-TR-203}
 }
 
+@Proceedings{UCAM-CL-TR-238,
+  editor =	 {Briscoe, Ted and Copestake, Ann and de Paiva, Valeria},
+  title = 	 {{Proceedings of the ACQUILEX Workshop on Default
+         	   Inheritance in the lexicon}},
+  year = 	 1991,
+  month = 	 Oct,
+  url = 	 {https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-238.pdf},
+  institution =  {University of Cambridge, Computer Laboratory},
+  doi = 	 {10.48456/tr-238},
+  number = 	 {UCAM-CL-TR-238}
+}
 
 @misc{dePaiva1997:LLNL,
   title={Linear Logic for Natural Language - An Informal Meeting},
