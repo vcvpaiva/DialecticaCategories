@@ -17,13 +17,25 @@
   organization={Springer Berlin Heidelberg}
 }
 
-@misc{dePaiva1990,
+@misc{dePaiva1991,
   title={The {D}ialectica {C}ategories},
   author={de Paiva, Valeria},
-  year={1990},
+  year={1991},
   organization={University of Cambridge, Computer Lab Technical Report 213, {PhD} thesis},
   url = {https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf}
 }
+
+@TechReport{UCAM-CL-TR-203,
+  author =	 {de Paiva, Valeria C.V.},
+  title = 	 {{Subtyping in Ponder (preliminary report)}},
+  year = 	 1990,
+  month = 	 Aug,
+  url = 	 {https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-203.pdf},
+  institution =  {University of Cambridge, Computer Laboratory},
+  doi = 	 {10.48456/tr-203},
+  number = 	 {UCAM-CL-TR-203}
+}
+
 
 @misc{dePaiva1997:LLNL,
   title={Linear Logic for Natural Language - An Informal Meeting},
