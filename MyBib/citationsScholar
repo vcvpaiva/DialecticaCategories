@@ -17,13 +17,6 @@
   organization={Springer Berlin Heidelberg}
 }
 
-@misc{dePaiva1991,
-  title={The {D}ialectica {C}ategories},
-  author={de Paiva, Valeria},
-  year={1991},
-  organization={University of Cambridge, Computer Lab Technical Report 213, {PhD} thesis},
-  url = {https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf}
-}
 
 @TechReport{UCAM-CL-TR-213,
   author =	 {de Paiva, Valeria Correa Vaz},
@@ -74,43 +67,7 @@
   publisher={University of Cambridge, Computer Laboratory}
 }
 
-@inproceedings{benton1993,
-  title={A term calculus for {I}ntuitionistic {L}inear {L}ogic},
-  author={Benton, Nick and Bierman, Gavin and de Paiva, Valeria and Hyland, Martin},
-  booktitle={International Conference on Typed Lambda Calculi and Applications},
-  pages={75--90},
-  year={1993},
-  organization={Springer Berlin Heidelberg}
-}
-
-@misc{benton1992:TR,
-  title={Term assignment for intuitionistic linear logic (preliminary report)},
-  author={Benton, Nick and Bierman, Gavin and de Paiva, Valeria and Hyland, Martin},
-  year={1992},
-  publisher={University of Cambridge. Computer Laboratory},
-  url= {https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-262.pdf}
-}
-
-@article{benton1998computational,
-  title={Computational types from a logical perspective},
-  author={Benton, P Nick and Bierman, Gavin M. and de Paiva, Valeria CV},
-  journal={Journal of Functional Programming},
-  volume={8},
-  number={02},
-  pages={177--193},
-  year={1998},
-  publisher={Cambridge University Press}
-}
-
-@inproceedings{benton1992:CSL,
-  title={Linear $\lambda$-calculus and categorical models revisited},
-  author={Benton, Nick and Bierman, Gavin and de Paiva, Valeria and Hyland, Martin},
-  booktitle={International Workshop on Computer Science Logic},
-  pages={61--84},
-  year={1992},
-  organization={Springer Berlin Heidelberg}
-}
-
+Logic
 @article{bierman1996,
   title={Intuitionistic necessity revisited},
   author={Bierman, Gavin M and De Paiva, VCV},
