@@ -21,11 +21,11 @@ IMLA Workshops
 Special Volumes from IMLA
 ==========================
 
-1. [M. Fairtlough, M. Mendler, Eugenio Moggi (eds.) Modalities in Type
-Theory, Mathematical Structures in Computer Science, (2001)]
+1. M. Fairtlough, M. Mendler, Eugenio Moggi (eds.) [Modalities in Type
+Theory, Mathematical Structures in Computer Science, (2001)](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/abs/special-issue-modalities-in-type-theory/26D0E7C329BA71114EB41C3E52722BA7)
 
-2. V. de Paiva, R. Gore, M. Mendler (eds.), Modalities in constructive
-logics and type theories, Journal of Logic and Computation, (2004)
+2. V. de Paiva, R. Gore, M. Mendler (eds.), [Modalities in constructive
+logics and type theories, Journal of Logic and Computation, (2004)]()
 
 3. V. de Paiva, B. Pientka (eds.) Intuitionistic Modal Logic and
 Applications (IMLA 2008), Inf. Comput. 209(12): 1435-1436 (2011)
