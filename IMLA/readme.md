@@ -3,7 +3,7 @@ A folder to collect the work on intuitionistic modal logic, Nov 2021.
 IMLA Workshops 
 ===============
 
-1. FLoC1999, Trento, Italy (Pfenning)
+1. FLoC1999, Trento, Italy (IS: Pfenning) https://web.archive.org/web/20050306084028/https://www.dcs.shef.ac.uk/~matt/mendler/floc-ws.html
 
 2. FLoC2002, Copenhagen, Denmark (Scott and Sambin)
 
