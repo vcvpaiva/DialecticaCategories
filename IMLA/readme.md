@@ -9,7 +9,7 @@ IMLA Workshops
 4. LiCS2008, Pittsburgh, USA (ISs: Pfenning, Brauner)
 5. 14th LMPS2011 in Nancy, France (ISs: Mendler, Logan, Strassburger, Pereira)
 6. UNILOG2013, Rio de Janeiro, Brazil (ISs: Gurevich, Vigano, and Bellin)
-7. ESSLLI2017, Toulouse, France (IS: Artemov?)
+7. ESSLLI2017, Toulouse, France (IS: Artemov)
 8. [FLoC2026](https://sonia-marin.github.io/imla26/) 
 
 
