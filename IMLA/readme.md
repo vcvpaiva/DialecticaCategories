@@ -20,10 +20,10 @@ Special Volumes from IMLA
 Theory, Mathematical Structures in Computer Science, (2001)](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/abs/special-issue-modalities-in-type-theory/26D0E7C329BA71114EB41C3E52722BA7)
 
 2. V. de Paiva, R. Gore, M. Mendler (eds.), [Modalities in constructive
-logics and type theories, Journal of Logic and Computation, (2004)]()
+logics and type theories, Journal of Logic and Computation, (2004)](https://academic.oup.com/logcom/issue/14/4)
 
-3. V. de Paiva, B. Pientka (eds.) Intuitionistic Modal Logic and
-Applications (IMLA 2008), Inf. Comput. 209(12): 1435-1436 (2011)
+3. V. de Paiva, B. Pientka (eds.) [Intuitionistic Modal Logic and
+Applications (IMLA 2008)](https://www.sciencedirect.com/journal/information-and-computation/vol/209/issue/12), Inf. Comput. 209(12): 1435-1436 (2011)
 
 4. V. de Paiva, M. Benevides, V. Nigam and E. Pimentel (eds.),
 Proceedings of the 6th Workshop on Intuitionistic Modal Logic and
