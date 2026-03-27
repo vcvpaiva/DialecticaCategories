@@ -17,21 +17,18 @@ Special Volumes from IMLA
 ==========================
 
 1. M. Fairtlough, M. Mendler, Eugenio Moggi (eds.) [Modalities in Type
-Theory, Mathematical Structures in Computer Science, (2001)](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/abs/special-issue-modalities-in-type-theory/26D0E7C329BA71114EB41C3E52722BA7)
+Theory](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/abs/special-issue-modalities-in-type-theory/26D0E7C329BA71114EB41C3E52722BA7), Mathematical Structures in Computer Science (2001)
 
 2. V. de Paiva, R. Gore, M. Mendler (eds.), [Modalities in constructive
-logics and type theories, Journal of Logic and Computation, (2004)](https://academic.oup.com/logcom/issue/14/4)
+logics and type theories](https://academic.oup.com/logcom/issue/14/4), Journal of Logic and Computation (2004)
 
-3. V. de Paiva, B. Pientka (eds.) [Intuitionistic Modal Logic and
-Applications (IMLA 2008)](https://www.sciencedirect.com/journal/information-and-computation/vol/209/issue/12), Inf. Comput. 209(12): 1435-1436 (2011)
+3. V. de Paiva, B. Pientka (eds.) [Intuitionistic Modal Logic and Applications (IMLA 2008)](https://www.sciencedirect.com/journal/information-and-computation/vol/209/issue/12), Inf. Comput. 209(12): 1435-1436 (2011)
 
 4. V. de Paiva, M. Benevides, V. Nigam and E. Pimentel (eds.),
-Proceedings of the 6th Workshop on Intuitionistic Modal Logic and
-[Applications (IMLA 2013), Electronic Notes in Theoretical Computer
-Science, Volume 300, (2014)](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/300/suppl/C)
+[Proceedings of the 6th Workshop on Intuitionistic Modal Logic and
+Applications (IMLA 2013)](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/300/suppl/C), Electronic Notes in Theoretical Computer Science, Volume 300, (2014)
 
-5. C. Stewart, N. Alechina, V. de Paiva (eds.) Intuitionistic Modal
-Logics (IMLA2011), Journal of Logic and Computation, 2015
+5. C. Stewart, N. Alechina, V. de Paiva (eds.) Intuitionistic Modal Logics (IMLA2011), Journal of Logic and Computation, 2015
 
 6. S. Artemov, V. de Paiva (eds.), Intuitionistic Modal
 Logic and applications, Journal of Applied Logic (2021)
