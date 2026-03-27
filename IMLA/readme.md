@@ -31,7 +31,7 @@ Applications (IMLA 2013)](https://www.sciencedirect.com/journal/electronic-notes
 5. C. Stewart, N. Alechina, V. de Paiva (eds.) [Intuitionistic Modal Logics (IMLA2011)](https://academic.oup.com/logcom/issue/28/5), Journal of Logic and Computation, 2015
 
 6. S. Artemov, V. de Paiva (eds.), [Intuitionistic Modal
-Logic and applications](), Journal of Applied Logic (2021)
+Logic and applications](https://www.collegepublications.co.uk/downloads/ifcolog00050.pdf), Journal of Applied Logic (2021)
 
 
 My work:
