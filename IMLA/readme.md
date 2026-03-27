@@ -3,19 +3,14 @@ A folder to collect the work on intuitionistic modal logic, Nov 2021.
 IMLA Workshops 
 ===============
 
-1. FLoC1999, Trento, Italy (IS: Pfenning) https://web.archive.org/web/20050306084028/https://www.dcs.shef.ac.uk/~matt/mendler/floc-ws.html
-
+1. FLoC1999, Trento, Italy (IS: Pfenning) [FLoC website](https://lics.siglog.org/floc99/workshops/index.html#W5)
 2. FLoC2002, Copenhagen, Denmark (Scott and Sambin)
-
 3. LiCS2005, Chicago, USA (Walker, Venema, and Tait)
-
 4. LiCS2008, Pittsburgh, USA (Pfenning, Brauner)
-
 5. 14th LMPS2011 in Nancy, France (Mendler, Logan, Strassburger, Pereira)
-
 6. UNILOG2013, Rio de Janeiro, Brazil (Gurevich, Vigano, and Bellin)
-
-7. ESSLLI2017, Toulouse, France 
+7. ESSLLI2017, Toulouse, France
+8. FLoC2026](https://sonia-marin.github.io/imla26/) 
 
 
 Special Volumes from IMLA
