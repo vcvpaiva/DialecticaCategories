@@ -27,8 +27,8 @@ Applications (IMLA 2008)](https://www.sciencedirect.com/journal/information-and-
 
 4. V. de Paiva, M. Benevides, V. Nigam and E. Pimentel (eds.),
 Proceedings of the 6th Workshop on Intuitionistic Modal Logic and
-Applications (IMLA 2013), Electronic Notes in Theoretical Computer
-Science, Volume 300, (2014)
+[Applications (IMLA 2013), Electronic Notes in Theoretical Computer
+Science, Volume 300, (2014)](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/300/suppl/C)
 
 5. C. Stewart, N. Alechina, V. de Paiva (eds.) Intuitionistic Modal
 Logics (IMLA2011), Journal of Logic and Computation, 2015
