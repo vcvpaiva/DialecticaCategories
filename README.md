@@ -83,7 +83,7 @@ Logic Journal of IGPL, 01 October 2014, volume 22, number 5, pages 791-804.
  Dialectica categories for Set Theory 
  (work with Samuel G da Silva. three papers so far, 19, 20 and 21.)
 
-19. [Dialectica Categories, Cardinalities of the Continuum and Combinatorics of Ideals](https://www.researchgate.net/publication/315001808_Dialectica_Categories_Cardinalities_of_the_Continuum_and_Combinatorics_of_Ideals), with Samuel G. da Silva. 
+19. [Dialectica Categories, Cardinalities of the Continuum and Combinatorics of Ideals](https://www.researchgate.net/publication/315001808_Dialectica_Categories_Cardinalities_of_the_Continuum_and_Combinatorics_of_Ideals), with Samuel G. da Silva, 2017. 
 
 20. Linear Natural Numbers Objects in Dial (Valeria de Paiva, Charles Morgan, Samuel G. da Silva). 
    Natural Number Objects in    Dialectica Categories. ENTCS, 01 January 2014. 
