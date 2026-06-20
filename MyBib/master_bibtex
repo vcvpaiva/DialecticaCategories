@@ -83,7 +83,7 @@
   number    = {7},
   pages     = {127--152},
   year      = {2006}
-} % VERIFIED — year corrected from 2007 to 2006 (per TAC, nLab, your GitHub repo); key kept as dePaiva2007:tac for backward compatibility with existing drafts — rename if you prefer
+} % VERIFIED — key kept as dePaiva2007:tac for backward compatibility with existing drafts 
 
 @article{dePaiva2006preface,
   title     = {Preface to the Special Volume on {C}hu Spaces: Theory and Applications},
@@ -121,7 +121,7 @@
   title  = {Lineales: Algebraic Models of Linear Logic from a Categorical Perspective (Preliminary Version)},
   author = {de Paiva, Valeria},
   year   = {2002}
-} % TODO: verify — distinct preliminary version per author confirmation; venue/URL not yet established; key renamed from dePaiva2002:lineales
+} % TODO: verify — distinct preliminary version per author confirmation; 
 
 @inproceedings{daSilva2015,
   title     = {{D}ialectica {C}ategories, {C}ardinalities of the {C}ontinuum and {C}ombinatorics of {I}deals},
