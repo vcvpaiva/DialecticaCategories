@@ -1,0 +1,1120 @@
+% =====================================================================
+% Valeria de Paiva — Master Bibliography
+% Cleaned from a 2016 Google Scholar export.
+% Conventions:
+%   - Author name normalized to "de Paiva, Valeria" throughout for
+%     consistent BibTeX sorting (does not affect rendering).
+%   - Entries marked "% TODO: verify" have not been checked against a
+%     primary source (DBLP / journal site / your own archive) and may
+%     contain Scholar-export errors (years, pages, venues).
+%   - Entries marked "% VERIFIED" were checked against primary sources.
+% =====================================================================
+
+
+% ---------------------------------------------------------------------
+% FOUNDATIONAL / DIALECTICA CLUSTER — verified
+% ---------------------------------------------------------------------
+
+@inproceedings{dePaiva1989:AMS,
+  title     = {The {D}ialectica {C}ategories},
+  author    = {de Paiva, Valeria},
+  editor    = {Gray, J. W. and Scedrov, A.},
+  booktitle = {Categories in Computer Science and Logic: Proceedings of the
+               {AMS-IMS-SIAM} Joint Summer Research Conference, Boulder,
+               Colorado, June 14--20, 1987},
+  series    = {Contemporary Mathematics},
+  volume    = {92},
+  pages     = {47--62},
+  year      = {1989},
+  publisher = {American Mathematical Society}
+} % VERIFIED — pages corrected from "47" to "47--62" (nLab, ScienceDirect, your GitHub repo)
+
+@inproceedings{dePaiva1989:CTCS,
+  title     = {A {D}ialectica-like Model of Linear Logic},
+  author    = {de Paiva, Valeria},
+  editor    = {Pitt, D. H. and Rydeheard, D. E. and Dybjer, P. and Pitts, A. M. and Poign{\'e}, A.},
+  booktitle = {Category Theory and Computer Science},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {389},
+  pages     = {341--356},
+  year      = {1989},
+  publisher = {Springer}
+} % TODO: verify page range — some secondary sources give 313--340; check your own archive/repo copy
+
+@techreport{UCAM-CL-TR-213,
+  author      = {de Paiva, Valeria},
+  title       = {The {D}ialectica Categories},
+  year        = {1991},
+  month       = jan,
+  url         = {https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf},
+  institution = {University of Cambridge, Computer Laboratory},
+  doi         = {10.48456/tr-213},
+  number      = {UCAM-CL-TR-213},
+  note        = {Slightly revised version of PhD thesis with the same title}
+} % VERIFIED
+
+@techreport{UCAM-CL-TR-203,
+  author      = {de Paiva, Valeria},
+  title       = {Subtyping in Ponder (preliminary report)},
+  year        = {1990},
+  month       = aug,
+  url         = {https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-203.pdf},
+  institution = {University of Cambridge, Computer Laboratory},
+  doi         = {10.48456/tr-203},
+  number      = {UCAM-CL-TR-203}
+} % TODO: verify — likely duplicate of dePaiva1990:ponder below; reconcile
+
+@article{hyland1993,
+  title     = {Full {I}ntuitionistic {L}inear {L}ogic},
+  author    = {Hyland, Martin and de Paiva, Valeria},
+  journal   = {Annals of Pure and Applied Logic},
+  volume    = {64},
+  number    = {3},
+  pages     = {273--291},
+  year      = {1993},
+  publisher = {North-Holland}
+} % VERIFIED
+
+@article{dePaiva2007:tac,
+  title     = {Dialectica and {C}hu {C}onstructions: {C}ousins?},
+  author    = {de Paiva, Valeria},
+  journal   = {Theory and Applications of Categories},
+  volume    = {17},
+  number    = {7},
+  pages     = {127--152},
+  year      = {2006}
+} % VERIFIED — year corrected from 2007 to 2006 (per TAC, nLab, your GitHub repo); key kept as dePaiva2007:tac for backward compatibility with existing drafts — rename if you prefer
+
+@article{dePaiva2006preface,
+  title     = {Preface to the Special Volume on {C}hu Spaces: Theory and Applications},
+  author    = {de Paiva, Valeria and Pratt, Vaughan},
+  journal   = {Theory and Applications of Categories},
+  volume    = {17},
+  pages     = {1--9},
+  year      = {2006},
+  publisher = {Mount Allison University, Department of Mathematics and Computer Science}
+} % VERIFIED — distinct from dePaiva2007:tac (this is the editors' preface, not the Cousins paper)
+
+% NOTE: depaiva20006:chu removed — it duplicated the special-issue title
+% itself (Scholar artifact: you & Pratt listed as "authors" of the whole
+% issue, empty pages field). If you need to cite the issue as a whole,
+% use an @proceedings entry with editor={de Paiva, Valeria and Pratt, Vaughan}.
+
+@inproceedings{dePaiva:Lambek,
+  title     = {A {D}ialectica {M}odel of the {L}ambek {C}alculus},
+  author    = {de Paiva, Valeria},
+  booktitle = {Proceedings of the Eighth Amsterdam Colloquium},
+  editor    = {Dekker, P. and Stokhof, M.},
+  year      = {1991}
+} % TODO: verify pages
+
+@article{dePaiva2002:lineales-csli,
+  title     = {Lineales: Algebras and Categories in the Semantics of Linear Logic},
+  author    = {de Paiva, Valeria},
+  journal   = {Words, Proofs and Diagrams},
+  pages     = {123--142},
+  year      = {2002},
+  publisher = {CSLI Publications, Stanford}
+} % VERIFIED venue/editors per your GitHub repo (Barker-Plummer, Beaver, et al. eds.); key renamed from dePaiva2002
+
+@misc{dePaiva2002:lineales-prelim,
+  title  = {Lineales: Algebraic Models of Linear Logic from a Categorical Perspective (Preliminary Version)},
+  author = {de Paiva, Valeria},
+  year   = {2002}
+} % TODO: verify — distinct preliminary version per author confirmation; venue/URL not yet established; key renamed from dePaiva2002:lineales
+
+@inproceedings{daSilva2015,
+  title     = {{D}ialectica {C}ategories, {C}ardinalities of the {C}ontinuum and {C}ombinatorics of {I}deals},
+  author    = {da Silva, Samuel G. and de Paiva, Valeria},
+  booktitle = {Handbook of the 5th World Congress and School on Universal Logic (abstract)},
+  volume    = {65},
+  number    = {1},
+  pages     = {377},
+  year      = {2015}
+} % TODO: note — the full journal version appeared as Logic Journal of the IGPL 25(4):585--603, 2017 (not yet in this file; add if needed for current papers)
+
+@article{dePaiva2014:nno,
+  title     = {Natural {N}umber {O}bjects in {D}ialectica {C}ategories},
+  author    = {de Paiva, Valeria and Morgan, Charles and da Silva, Samuel G.},
+  journal   = {Electronic Notes in Theoretical Computer Science},
+  volume    = {305},
+  pages     = {53--65},
+  year      = {2014},
+  publisher = {Elsevier}
+} % TODO: verify
+
+@inproceedings{dePaiva201:lorenzen,
+  title     = {Lorenzen {G}ames for {F}ull {I}ntuitionistic {L}inear {L}ogic},
+  author    = {de Paiva, Valeria},
+  booktitle = {Preliminary Proceedings of Logic, Methodology and Philosophy of Science (LMPS) 2011, Nancy, France},
+  year      = {2011}
+} % TODO: verify
+
+@incollection{dePaiva2014:categorical,
+  title     = {Categorical Semantics of Linear Logic for All},
+  author    = {de Paiva, Valeria},
+  booktitle = {Advances in Natural Deduction},
+  pages     = {181--192},
+  year      = {2014},
+  publisher = {Springer Netherlands}
+} % TODO: verify
+
+@article{dePaiva2014state,
+  title     = {Linear Logic Model of State Revisited},
+  author    = {de Paiva, Valeria},
+  journal   = {Logic Journal of the IGPL},
+  volume    = {22},
+  number    = {5},
+  pages     = {791--804},
+  year      = {2014},
+  publisher = {Oxford University Press}
+} % TODO: verify
+
+
+% ---------------------------------------------------------------------
+% INTUITIONISTIC / CONSTRUCTIVE MODAL LOGIC, HYBRID LOGIC, FILL CLUSTER
+% ---------------------------------------------------------------------
+
+@article{bierman1996,
+  title     = {Intuitionistic Necessity Revisited},
+  author    = {Bierman, Gavin M. and de Paiva, Valeria},
+  journal   = {School of Computer Science Research Reports},
+  year      = {1996},
+  publisher = {University of Birmingham}
+} % TODO: verify — likely CSR-96-10 or similar; check exact report number
+
+@article{bierman2000,
+  title     = {On an Intuitionistic Modal Logic},
+  author    = {Bierman, Gavin M. and de Paiva, Valeria},
+  journal   = {Studia Logica},
+  volume    = {65},
+  number    = {3},
+  pages     = {383--416},
+  year      = {2000},
+  publisher = {Kluwer Academic Publishers}
+} % TODO: verify
+
+@inproceedings{alechina2001,
+  title     = {Categorical and {K}ripke Semantics for Constructive {S4} Modal Logic},
+  author    = {Alechina, Natasha and Mendler, Michael and de Paiva, Valeria and Ritter, Eike},
+  booktitle = {Computer Science Logic (CSL)},
+  pages     = {292--307},
+  year      = {2001},
+  publisher = {Springer}
+} % TODO: verify
+
+@inproceedings{alechina1998,
+  title     = {Relating Categorical and {K}ripke Semantics for Intuitionistic Modal Logics},
+  author    = {Alechina, Natasha and de Paiva, Valeria and Ritter, Eike},
+  booktitle = {Advances in Modal Logic (AiML'98), Uppsala, Sweden},
+  publisher = {CSLI},
+  year      = {1998}
+} % TODO: verify
+
+@inproceedings{bellin2001,
+  title     = {Extended {C}urry-{H}oward Correspondence for a Basic Constructive Modal Logic},
+  author    = {Bellin, Gianluigi and de Paiva, Valeria and Ritter, Eike},
+  booktitle = {Methods for Modalities},
+  year      = {2001}
+} % TODO: verify
+
+@inproceedings{mendler2005,
+  title     = {Constructive {CK} for Contexts},
+  author    = {Mendler, Michael and de Paiva, Valeria},
+  booktitle = {Workshop on Context Representation and Reasoning (CONTEXT05), Stanford},
+  year      = {2005}
+} % TODO: verify
+
+@article{dePaiva2011basic,
+  title     = {Basic Constructive Modality},
+  author    = {de Paiva, Valeria and Ritter, Eike},
+  journal   = {Logic without Frontiers---Festschrift for Walter Alexandre Carnielli on the Occasion of his 60th Birthday},
+  pages     = {411--428},
+  year      = {2011},
+  publisher = {College Publications}
+} % FIXED — mojibake in journal field repaired (em dash); page numbers TODO
+
+@article{depaiva2016fibrational,
+  title     = {Fibrational {M}odal {T}ype {T}heory},
+  author    = {de Paiva, Valeria and Ritter, Eike},
+  journal   = {Electronic Notes in Theoretical Computer Science},
+  volume    = {323},
+  pages     = {143--161},
+  year      = {2016},
+  publisher = {Elsevier}
+} % TODO: verify
+
+@article{brauner2003,
+  title     = {Towards Constructive Hybrid Logic},
+  author    = {Br{\"a}uner, Torben and de Paiva, Valeria},
+  journal   = {Electronic Proceedings of Methods for Modalities 3},
+  year      = {2003}
+} % TODO: verify
+
+@article{brauner2006,
+  title     = {Intuitionistic {H}ybrid {L}ogic},
+  author    = {Br{\"a}uner, Torben and de Paiva, Valeria},
+  journal   = {Journal of Applied Logic},
+  volume    = {4},
+  number    = {3},
+  pages     = {231--255},
+  year      = {2006},
+  publisher = {Elsevier}
+} % TODO: verify
+
+@article{brauner2007,
+  title   = {Proceedings of the International Workshop on Hybrid Logic 2006},
+  author  = {Br{\"a}uner, Torben and Blackburn, Patrick and Bolander, Thomas and de Paiva, Valeria and Villadsen, J{\o}rgen},
+  journal = {Electronic Notes in Theoretical Computer Science},
+  year    = {2007}
+} % TODO: verify — likely @proceedings, not @article; volume/pages missing
+
+@article{stewart2015intuitionistic,
+  title     = {Intuitionistic Modal Logic: A 15-year Retrospective},
+  author    = {Stewart, Charles and de Paiva, Valeria and Alechina, Natasha},
+  journal   = {Journal of Logic and Computation},
+  pages     = {exv042},
+  year      = {2015},
+  publisher = {Oxford University Press}
+} % TODO: verify final volume/issue/page numbers (was "online first" as of export)
+
+@article{dePaiva2011:imla,
+  title     = {Intuitionistic {M}odal {L}ogic and {A}pplications ({IMLA} 2008)},
+  author    = {de Paiva, Valeria and Pientka, Brigitte},
+  journal   = {Information and Computation},
+  volume    = {209},
+  number    = {12},
+  pages     = {1435--1436},
+  year      = {2011},
+  publisher = {Academic Press}
+} % TODO: verify — this is a special-issue preface; consider @misc with editor field
+
+@article{dePaiva2014:proceedings,
+  title     = {Proceedings of the 6th Workshop on Intuitionistic Modal Logic and Applications (IMLA 2013), in Association with UNILOG 2013},
+  author    = {de Paiva, Valeria and Benevides, Mario and Nigam, Vivek and Pimentel, Elaine},
+  journal   = {Electronic Notes in Theoretical Computer Science},
+  volume    = {300},
+  pages     = {1--104},
+  year      = {2014},
+  publisher = {Elsevier}
+} % TODO: verify; consider @proceedings with editor field
+
+
+% ---------------------------------------------------------------------
+% LINEAR LOGIC SEMANTICS / EXPLICIT SUBSTITUTIONS / xSLAM CLUSTER
+% ---------------------------------------------------------------------
+
+@inproceedings{ghani1998,
+  title     = {Explicit Substitutions for Constructive Necessity},
+  author    = {Ghani, Neil and de Paiva, Valeria and Ritter, Eike},
+  booktitle = {ICALP: International Colloquium on Automata, Languages and Programming},
+  year      = {1998}
+} % TODO: verify
+
+@inproceedings{ghani1999:models,
+  title     = {Categorical Models of Explicit Substitutions},
+  author    = {Ghani, Neil and de Paiva, Valeria and Ritter, Eike},
+  booktitle = {Foundations of Software Science and Computation Structures (FoSSaCS)},
+  pages     = {197--211},
+  year      = {1999},
+  publisher = {Springer}
+} % TODO: verify
+
+@article{ghani2000,
+  title     = {Linear Explicit Substitutions},
+  author    = {Ghani, Neil and de Paiva, Valeria and Ritter, Eike},
+  journal   = {Logic Journal of the IGPL},
+  volume    = {8},
+  number    = {1},
+  pages     = {7--31},
+  year      = {2000},
+  publisher = {Oxford University Press}
+} % TODO: verify
+
+@inproceedings{ritter1997,
+  title     = {On Explicit Substitutions and Names},
+  author    = {Ritter, Eike and de Paiva, Valeria},
+  booktitle = {International Colloquium on Automata, Languages, and Programming (ICALP)},
+  pages     = {248--258},
+  year      = {1997},
+  publisher = {Springer}
+} % TODO: verify
+
+@inproceedings{cervesato1999,
+  title     = {Explicit Substitutions for Linear Logical Frameworks},
+  author    = {Cervesato, Iliano and de Paiva, Valeria and Ritter, Eike},
+  booktitle = {Workshop on Logical Frameworks and Meta-Languages, Paris, France},
+  year      = {1999}
+} % TODO: verify
+
+@article{maietti2005,
+  title     = {Relating Categorical Semantics for Intuitionistic Linear Logic},
+  author    = {Maietti, Maria Emilia and Maneggia, Paola and de Paiva, Valeria and Ritter, Eike},
+  journal   = {Applied Categorical Structures},
+  volume    = {13},
+  number    = {1},
+  pages     = {1--36},
+  year      = {2005},
+  publisher = {Kluwer Academic Publishers}
+} % MERGED — combined with the 1999 University of Birmingham CSR tech-report version (same content per author confirmation); canonical journal version retained. If you need to cite the TR specifically, reinstate as maietti1999.
+
+@inproceedings{maietti2000,
+  title     = {Categorical Models for Intuitionistic and Linear Type Theory},
+  author    = {Maietti, Maria Emilia and de Paiva, Valeria and Ritter, Eike},
+  booktitle = {Foundations of Software Science and Computation Structures (FoSSaCS)},
+  pages     = {223--237},
+  year      = {2000},
+  publisher = {Springer}
+} % TODO: verify — note: this is the FoSSaCS 2000 paper underlying your in-progress ILT/TILL/JILL arXiv writeup; double-check details carefully against your own copy
+
+@inproceedings{dePaiva1999:building,
+  title     = {Building Models of Linear Logic},
+  author    = {de Paiva, Valeria and Schalk, Andrea},
+  booktitle = {Algebraic Methodology and Software Technology (AMAST)},
+  pages     = {164--177},
+  year      = {1999},
+  publisher = {Springer}
+} % TODO: verify
+
+@article{schalk2004,
+  title     = {Poset-valued Sets or How to Build Models for Linear Logics},
+  author    = {Schalk, Andrea and de Paiva, Valeria},
+  journal   = {Theoretical Computer Science},
+  volume    = {315},
+  number    = {1},
+  pages     = {83--107},
+  year      = {2004},
+  publisher = {Elsevier}
+} % TODO: verify
+
+@inproceedings{brauner1997,
+  title     = {A Formulation of Linear Logic Based on Dependency-Relations},
+  author    = {Br{\"a}uner, Torben and de Paiva, Valeria},
+  booktitle = {Computer Science Logic (CSL)},
+  pages     = {129--148},
+  year      = {1997},
+  publisher = {Springer}
+} % TODO: verify — relevant to your in-progress Linear Logic via Dependency Relations paper with Torben; double-check carefully
+
+@article{brauner1996,
+  title   = {Cut-elimination for {F}ull {I}ntuitionistic {L}inear {L}ogic},
+  author  = {Br{\"a}uner, Torben and de Paiva, Valeria},
+  journal = {BRICS Report Series},
+  volume  = {3},
+  number  = {10},
+  year    = {1996}
+} % TODO: verify
+
+@inproceedings{nesi1993,
+  title     = {Rewriting Properties of Combinators for Rudimentary Linear Logic},
+  author    = {Nesi, Monica and de Paiva, Valeria and Ritter, Eike},
+  booktitle = {Higher-Order Algebra, Logic, and Term Rewriting},
+  pages     = {256--275},
+  year      = {1993},
+  publisher = {Springer}
+} % TODO: verify
+
+@inproceedings{kalvala2000,
+  title     = {A Substructural Logic for Formal Verification},
+  author    = {Kalvala, Sara and de Paiva, Valeria},
+  booktitle = {Supplemental Proceedings of TPHOLs 2000},
+  year      = {2000}
+} % TODO: verify
+
+@inproceedings{kalvala1995:isabelle,
+  title     = {Linear Logic in {I}sabelle},
+  author    = {Kalvala, Sara and de Paiva, Valeria},
+  booktitle = {Isabelle Users Workshop, Cambridge, England},
+  year      = {1995}
+} % TODO: verify
+
+@inproceedings{correa1996,
+  title     = {A {D}ialectica Model of State},
+  author    = {Corr{\^e}a, Marcelo da S. and Haeusler, Edward H. and de Paiva, Valeria},
+  booktitle = {CATS'96, Computing: The Australian Theory Symposium Proceedings},
+  pages     = {11--12},
+  year      = {1996}
+} % TODO: verify
+
+@inproceedings{dePaiva1999,
+  title     = {Variations on Linear {PCF}},
+  author    = {de Paiva, Valeria and Ritter, Eike},
+  booktitle = {WESTAPP Workshop on Explicit Substitutions and Applications},
+  year      = {1999}
+} % TODO: verify
+
+@article{dePaiva2006:parigot,
+  title     = {A {P}arigot-style Linear $\lambda$-calculus for {F}ull {I}ntuitionistic {L}inear {L}ogic},
+  author    = {de Paiva, Valeria and Ritter, Eike},
+  journal   = {Theory and Applications of Categories},
+  volume    = {17},
+  number    = {3},
+  pages     = {30--48},
+  year      = {2006}
+} % TODO: verify
+
+@inproceedings{dePaiva1991multi,
+  title       = {Categorical Multirelations, Linear Logic and {P}etri Nets},
+  author      = {de Paiva, Valeria},
+  year        = {1991},
+  note        = {Technical Report},
+  institution = {University of Cambridge, Computer Laboratory}
+} % TODO: verify — check report number against UCAM-CL-TR series
+
+@misc{brown1991:petrinets,
+  title  = {A Linear Specification Language for {P}etri Nets},
+  author = {Brown, Carolyn and Gurr, Doug and de Paiva, Valeria},
+  year   = {1991},
+  note   = {Technical Report, Aarhus University, Computer Science Department}
+} % TODO: verify report number (referenced as "Technical Report 363" in some bibliographies)
+
+@inproceedings{eades2016,
+  title     = {Multiple Conclusion Linear Logic: Cut Elimination and More},
+  author    = {Eades, III, Harley and de Paiva, Valeria},
+  booktitle = {Logical Foundations of Computer Science (LFCS)},
+  pages     = {90--105},
+  year      = {2016},
+  publisher = {Springer}
+} % TODO: verify
+
+
+% ---------------------------------------------------------------------
+% DESCRIPTION LOGIC / LEGAL ONTOLOGIES
+% ---------------------------------------------------------------------
+
+@article{dePaiva2006,
+  title   = {Constructive Description Logics: What, Why and How},
+  author  = {de Paiva, Valeria},
+  journal = {Context Representation and Reasoning, Riva del Garda},
+  year    = {2006}
+} % TODO: verify
+
+@article{dePaiva2011:constructive,
+  title     = {Constructive Description Logics Hybrid-style},
+  author    = {de Paiva, Valeria and Haeusler, Edward Hermann and Rademaker, Alexandre},
+  journal   = {Electronic Notes in Theoretical Computer Science},
+  volume    = {273},
+  pages     = {21--31},
+  year      = {2011},
+  publisher = {Elsevier}
+} % TODO: verify
+
+@article{dePaiva2011:contextual,
+  title   = {Contextual Constructive Description Logics},
+  author  = {de Paiva, Valeria and Alechina, Natasha},
+  journal = {ARCOE-11},
+  pages   = {16},
+  year    = {2011}
+} % TODO: verify
+
+@inproceedings{haeusler2010:legalontologies,
+  title     = {Using Intuitionistic Logic as a Basis for Legal Ontologies},
+  author    = {Haeusler, Edward Hermann and de Paiva, Valeria and Rademaker, Alexandre},
+  booktitle = {4th Workshop on Legal Ontologies and Artificial Intelligence Techniques},
+  pages     = {69--76},
+  year      = {2010}
+} % TODO: verify
+
+@inproceedings{haeusler2010:intuitionistic,
+  title     = {Intuitionistic Logic and Legal Ontologies},
+  author    = {Haeusler, Edward Hermann and de Paiva, Valeria and Rademaker, Alexandre},
+  booktitle = {Legal Knowledge and Information Systems: JURIX 2010},
+  pages     = {155--158},
+  year      = {2010},
+  publisher = {IOS Press}
+} % TODO: verify
+
+@inproceedings{haeusler2011:intuitionistic,
+  title     = {Intuitionistic Description Logic and Legal Reasoning},
+  author    = {Haeusler, Edward Hermann and de Paiva, Valeria and Rademaker, Alexandre},
+  booktitle = {22nd International Workshop on Database and Expert Systems Applications},
+  pages     = {345--349},
+  year      = {2011},
+  publisher = {IEEE}
+} % TODO: verify
+
+
+% ---------------------------------------------------------------------
+% PARC / TEXTUAL INFERENCE / NLP-LOGIC CLUSTER (lower priority)
+% ---------------------------------------------------------------------
+
+@article{everett2002,
+  title     = {Making Ontologies Work for Resolving Redundancies Across Documents},
+  author    = {Everett, John O. and Bobrow, Daniel G. and Stolle, Reinhard and Crouch, Richard and de Paiva, Valeria and Condoravdi, Cleo and van den Berg, Martin and Polanyi, Livia},
+  journal   = {Communications of the ACM},
+  volume    = {45},
+  number    = {2},
+  pages     = {55--60},
+  year      = {2002},
+  publisher = {ACM}
+} % TODO: verify
+
+@inproceedings{bobrow2005,
+  title     = {A Basic Logic for Textual Inference},
+  author    = {Bobrow, Daniel and Condoravdi, Cleo and Crouch, Richard and Kaplan, Ronald and Karttunen, Lauri and King, Tracy Holloway and de Paiva, Valeria and Zaenen, Annie},
+  booktitle = {AAAI Workshop on Inference for Textual Question Answering},
+  pages     = {47--51},
+  year      = {2005}
+} % TODO: verify
+
+@inproceedings{bobrow2007,
+  title     = {Precision-focused Textual Inference},
+  author    = {Bobrow, Daniel G. and Condoravdi, Cleo and Crouch, Richard and de Paiva, Valeria and Karttunen, Lauri and King, Tracy Holloway and Nairn, Rowan and Price, Lottie and Zaenen, Annie},
+  booktitle = {ACL-PASCAL Workshop on Textual Entailment and Paraphrasing},
+  pages     = {16--21},
+  year      = {2007},
+  publisher = {Association for Computational Linguistics}
+} % TODO: verify
+
+@article{bobrow2007parc,
+  title   = {{PARC}'s Bridge and Question Answering System},
+  author  = {Bobrow, Daniel G. and Cheslow, Bob and Condoravdi, Cleo and Karttunen, Lauri and King, Tracy Holloway and Nairn, Rowan and de Paiva, Valeria},
+  journal = {Grammar Engineering Across Frameworks},
+  pages   = {46--66},
+  year    = {2007}
+} % TODO: verify
+
+@inproceedings{condoravdi2003,
+  title     = {Entailment, Intensionality and Text Understanding},
+  author    = {Condoravdi, Cleo and Crouch, Dick and de Paiva, Valeria and Stolle, Reinhard and Bobrow, Daniel G.},
+  booktitle = {HLT-NAACL 2003 Workshop on Text Meaning},
+  volume    = {9},
+  pages     = {38--45},
+  year      = {2003},
+  publisher = {Association for Computational Linguistics}
+} % TODO: verify
+
+@inproceedings{condoravdi2001preventing,
+  title     = {Preventing Existence},
+  author    = {Condoravdi, Cleo and Crouch, Dick and Everett, John and de Paiva, Valeria and Stolle, Reinhard and Bobrow, Daniel and van den Berg, Martin},
+  booktitle = {Formal Ontology in Information Systems, Volume 2001},
+  pages     = {162--173},
+  year      = {2001},
+  publisher = {ACM}
+} % FIXED — author name "Paiva, Valeria" corrected to "de Paiva, Valeria" (missing "de" in Scholar export)
+
+@inproceedings{crouch2002,
+  title     = {Scalability of Redundancy Detection in Focused Document Collections},
+  author    = {Crouch, Richard and Condoravdi, Cleo and Stolle, Reinhard and King, Tracy and de Paiva, Valeria and Everett, John O. and Bobrow, Daniel G.},
+  booktitle = {First International Workshop on Scalable Natural Language Understanding (SCANALU)},
+  year      = {2002}
+} % TODO: verify
+
+@article{crouch2014,
+  title   = {If, Not When},
+  author  = {Crouch, Dick and de Paiva, Valeria},
+  journal = {Electronic Notes in Theoretical Computer Science},
+  volume  = {300},
+  pages   = {3--20},
+  year    = {2014}
+} % TODO: verify
+
+@inproceedings{stolle2003,
+  title     = {Knowledge Tracking: Answering Implicit Questions},
+  author    = {Stolle, Reinhard and Bobrow, Daniel G. and Condoravdi, Cleo and Crouch, Richard S. and de Paiva, Valeria},
+  booktitle = {New Directions in Question Answering},
+  pages     = {58--61},
+  year      = {2003}
+} % TODO: verify
+
+@inproceedings{dePaiva2007:textual,
+  title     = {Textual Inference Logic: Take Two},
+  author    = {de Paiva, Valeria and Bobrow, Daniel G. and Condoravdi, Cleo and Crouch, Dick and King, Tracy H. and Karttunen, Lauri and Nairn, Rowan and Zaenen, Annie},
+  booktitle = {Contexts \& Ontologies: Representation and Reasoning},
+  year      = {2007}
+} % RENAMED from dePaiva2007 (clashed with the 1997 Birmingham CSR entry's implied key pattern); TODO: verify
+
+@inproceedings{nigam2014towards,
+  title     = {Towards a Rewriting Framework for Textual Entailment},
+  author    = {Nigam, Vivek and de Paiva, Valeria},
+  booktitle = {9th Workshop on Logical and Semantic Frameworks, with Applications, Brasilia, Brazil},
+  year      = {2014}
+} % TODO: verify
+
+@article{zaenen2013perspectives,
+  title     = {Perspectives on Semantic Representations for Textual Inference},
+  author    = {Zaenen, Annie and Condoravdi, Cleo and de Paiva, Valeria},
+  journal   = {Linguistic Issues in Language Technology (LiLT)},
+  volume    = {9},
+  year      = {2013},
+  publisher = {CSLI}
+} % TODO: verify
+
+@inproceedings{amaral2012,
+  title     = {Where's the Meeting that was Cancelled? Existential Implications of Transitive Verbs},
+  author    = {Amaral, Patricia and de Paiva, Valeria and Condoravdi, Cleo and Zaenen, Annie},
+  booktitle = {3rd Workshop on Cognitive Aspects of the Lexicon, COLING, Mumbai, India},
+  pages     = {183--194},
+  year      = {2012}
+} % TODO: verify
+
+@inproceedings{dePaiva2014:implicatives,
+  title     = {Sense-specific Implicative Commitments},
+  author    = {de Melo, Gerard and de Paiva, Valeria},
+  booktitle = {Intelligent Text Processing and Computational Linguistics (CICLing)},
+  pages     = {391--402},
+  year      = {2014},
+  publisher = {Springer}
+} % TODO: verify
+
+
+% ---------------------------------------------------------------------
+% WORDNET / PORTUGUESE NLP RESOURCES CLUSTER (lower priority)
+% ---------------------------------------------------------------------
+
+@article{gurevich2008,
+  title     = {Deverbal Nouns in Knowledge Representation},
+  author    = {Gurevich, Olga and Crouch, Richard and King, Tracy Holloway and de Paiva, Valeria},
+  journal   = {Journal of Logic and Computation},
+  volume    = {18},
+  number    = {3},
+  pages     = {385--404},
+  year      = {2008},
+  publisher = {Oxford University Press}
+} % TODO: verify
+
+@inproceedings{dePaiva2008:coling,
+  title     = {Designing Testsuites for Grammar-based Systems in Applications},
+  author    = {de Paiva, Valeria and King, Tracy Holloway},
+  booktitle = {Workshop on Grammar Engineering Across Frameworks},
+  pages     = {49--56},
+  year      = {2008},
+  publisher = {Association for Computational Linguistics}
+} % TODO: verify
+
+@inproceedings{price2008,
+  title     = {Context Inducing Nouns},
+  author    = {Price, Charlotte and de Paiva, Valeria and King, Tracy Holloway},
+  booktitle = {Coling 2008 Workshop on Knowledge and Reasoning for Answering Questions},
+  pages     = {41--48},
+  year      = {2008}
+} % TODO: verify
+
+@inproceedings{dePaiva2012:openwordnet,
+  title     = {{OpenWordNet-PT}: An Open {B}razilian {W}ordnet for Reasoning},
+  author    = {de Paiva, Valeria and Rademaker, Alexandre and de Melo, Gerard},
+  booktitle = {COLING (Demos)},
+  pages     = {353--360},
+  year      = {2012}
+} % TODO: verify
+
+@inproceedings{dePaiva2012:revisiting,
+  title     = {Revisiting a {B}razilian {W}ordNet},
+  author    = {de Paiva, Valeria and Rademaker, Alexandre},
+  booktitle = {6th International Global Wordnet Conference},
+  year      = {2012}
+} % FIXED — empty pages field removed (was pages={}); TODO: find actual page range
+
+@inproceedings{rademaker2014:report,
+  title     = {{OpenWordNet-PT}: A Project Report},
+  author    = {Rademaker, Alexandre and de Paiva, Valeria and de Melo, Gerard and Coelho, Livy Maria Real and Gatti, Maira},
+  booktitle = {7th Global WordNet Conference},
+  pages     = {383--390},
+  year      = {2014}
+} % TODO: verify
+
+@inproceedings{coelho2014,
+  title     = {Embedding {N}om{L}ex-{BR} Nominalizations into {O}pen{W}ord{N}et-{PT}},
+  author    = {Coelho, Livy Maria Real and Rademaker, Alexandre and de Paiva, Valeria and de Melo, Gerard},
+  booktitle = {Global Wordnet Conference},
+  year      = {2014}
+} % TODO: verify
+
+@inproceedings{dePaiva2014:nomlex,
+  title     = {{NomLex-PT}: A Lexicon of {P}ortuguese Nominalizations},
+  author    = {de Paiva, Valeria and Real, Livy and Rademaker, Alexandre and de Melo, Gerard},
+  booktitle = {LREC},
+  pages     = {2851--2858},
+  year      = {2014}
+} % TODO: verify
+
+@inproceedings{freitas2014,
+  title     = {Extending a Lexicon of {P}ortuguese Nominalizations with Data from Corpora},
+  author    = {Freitas, Cl{\'a}udia and de Paiva, Valeria and Rademaker, Alexandre and de Melo, Gerard and Real, Livy and Silva, Anne},
+  booktitle = {Computational Processing of the Portuguese Language (PROPOR)},
+  pages     = {114--124},
+  year      = {2014},
+  publisher = {Springer}
+} % TODO: verify
+
+@inproceedings{dePaiva2016:verbs,
+  title     = {Making Virtue of Necessity: A Verb Lexicon},
+  author    = {de Paiva, Valeria and Chalub, Fabricio and Real, Livy and Rademaker, Alexandre},
+  booktitle = {Computational Processing of the Portuguese Language (PROPOR)},
+  pages     = {271--282},
+  year      = {2016},
+  publisher = {Springer}
+} % TODO: verify
+
+@article{oliveira2015,
+  title   = {As {W}ordnets do {P}ortugu{\^e}s},
+  author  = {Gon{\c{c}}alo Oliveira, Hugo and de Paiva, Valeria and Freitas, Cl{\'a}udia and Rademaker, Alexandre and Real, Livy and Sim{\~o}es, Alberto},
+  journal = {Oslo Studies in Language},
+  volume  = {7},
+  number  = {1},
+  year    = {2015}
+} % TODO: verify
+
+@article{real2015,
+  title   = {Seeing is Correcting: Curating Lexical Resources Using Social Interfaces},
+  author  = {Real, Livy and Chalub, Fabricio and de Paiva, Valeria and Freitas, Claudia and Rademaker, Alexandre},
+  journal = {ACL-IJCNLP 2015},
+  pages   = {20},
+  year    = {2015}
+} % TODO: verify
+
+@article{real2016:plurality,
+  title   = {Plurality in {W}ordnets},
+  author  = {Real, Livy and de Paiva, Valeria},
+  journal = {Proceedings of LexSem+Logics 2016},
+  pages   = {6},
+  year    = {2016}
+} % TODO: verify — year missing from original Scholar entry, inferred from venue
+
+@article{dePaiva2016:universal,
+  title   = {Universal {POS} Tagging for {P}ortuguese: Issues and Opportunities},
+  author  = {de Paiva, Valeria and Real, Livy},
+  journal = {Proceedings of LexSem+Logics 2016},
+  pages   = {25},
+  year    = {2016}
+} % TODO: verify — year missing from original Scholar entry, inferred from venue
+
+@article{neale2016,
+  title   = {Proceedings of the {L}ex{S}em+{L}ogics Workshop 2016},
+  author  = {Neale, Steven and de Paiva, Valeria and Otegi, Arantxa and Rademaker, Alexandre},
+  journal = {arXiv preprint arXiv:1608.04767},
+  year    = {2016}
+} % TODO: verify; consider @proceedings
+
+@inproceedings{rademaker2015linked,
+  title     = {A Linked Open Data Architecture for the Historical Archives of the {G}etulio {V}argas Foundation},
+  author    = {Rademaker, Alexandre and Oliveira, D{\'a}rio Augusto Borges and de Paiva, Valeria and Higuchi, Suemi and e S{\'a}, Asla Medeiros and Alvim, Moacyr},
+  journal   = {International Journal on Digital Libraries},
+  volume    = {15},
+  number    = {2-4},
+  pages     = {153--167},
+  year      = {2015},
+  publisher = {Springer}
+} % TODO: verify; field type should likely be @article not @inproceedings — check
+
+@inproceedings{dePaiva2014exploratory,
+  title     = {Exploratory Information Extraction from a Historical Dictionary},
+  author    = {de Paiva, Valeria and Oliveira, D{\'a}rio Augusto Borges and Higuchi, Suemi and Rademaker, Alexandre and de Melo, Gerard},
+  booktitle = {IEEE 10th International Conference on e-Science},
+  volume    = {2},
+  pages     = {11--18},
+  year      = {2014},
+  publisher = {IEEE}
+} % TODO: verify
+
+
+% ---------------------------------------------------------------------
+% LOGIC / NATURAL LANGUAGE / PHILOSOPHY (Pereira, Brazilian logic cluster)
+% ---------------------------------------------------------------------
+
+@article{depaiva2005:manuscrito,
+  title   = {A Short Note on Intuitionistic Propositional Logic with Multiple Conclusions},
+  author  = {de Paiva, Valeria and Pereira, Luiz Carlos},
+  journal = {Manuscrito},
+  volume  = {28},
+  number  = {2},
+  pages   = {317--329},
+  year    = {2005}
+} % TODO: verify
+
+@misc{dePaiva1994:fil,
+  title  = {A New Formulation of Intuitionistic Logic},
+  author = {de Paiva, Valeria and Pereira, Luiz Carlos},
+  year   = {1994},
+  note   = {Abstract, Journal of Symbolic Logic}
+} % TODO: verify — likely connects to "Full Intuitionistic Logic (FIL)" abstract, Logic Colloquium 1994 / Bulletin of Symbolic Logic 1(1):101, 1995, per your GitHub repo; reconcile
+
+@article{pereira2014,
+  title     = {Advances in Natural Deduction},
+  author    = {Pereira, Luiz Carlos and Haeusler, Edward Hermann and de Paiva, Valeria},
+  year      = {2014},
+  publisher = {Springer Netherlands}
+} % TODO: verify — this is the edited volume containing dePaiva2014:categorical above; should be @book with editor field, not author
+
+@article{quispe2014intuitionistic,
+  title     = {Intuitionistic {N}-graphs},
+  author    = {Quispe-Cruz, Marcela and de Oliveira, Anjolina G. and de Queiroz, Ruy J. G. B. and de Paiva, Valeria},
+  journal   = {Logic Journal of the IGPL},
+  volume    = {22},
+  number    = {2},
+  pages     = {274--285},
+  year      = {2014},
+  publisher = {Oxford University Press}
+} % TODO: verify
+
+@article{dePaiva2013elements,
+  title   = {Elements of Categorical Logic: Fifty Years Later},
+  author  = {de Paiva, Valeria and Rodin, Andrei},
+  journal = {Logica Universalis},
+  volume  = {7},
+  number  = {3},
+  pages   = {265--273},
+  year    = {2013}
+} % TODO: verify
+
+@article{dePaiva201:bridges,
+  title     = {Bridges from Language to Logic: Concepts, Contexts and Ontologies},
+  author    = {de Paiva, Valeria},
+  journal   = {Electronic Notes in Theoretical Computer Science},
+  volume    = {269},
+  pages     = {83--94},
+  year      = {2011},
+  publisher = {Elsevier}
+} % TODO: verify
+
+@article{dePaiva2013:contexts,
+  title   = {Contexts for Quantification},
+  author  = {de Paiva, Valeria},
+  journal = {Proceedings of CommonSense},
+  year    = {2013}
+} % TODO: verify
+
+@article{mints2009logic,
+  title     = {Logic, Language, Information and Computation},
+  author    = {Mints, Grigori and de Paiva, Valeria and de Queiroz, Ruy},
+  journal   = {Information and Computation (special issue)},
+  volume    = {207},
+  number    = {10},
+  pages     = {969--970},
+  year      = {2009},
+  publisher = {Academic Press}
+} % TODO: verify — preface to special issue; consider @misc with editor field
+
+@misc{dePaiva2015:wollic,
+  title     = {Proceedings of Logic, Language, Information and Computation: 22nd Workshop, {WoLLIC} 2015, Bloomington, Indiana, {USA}, July 20--23},
+  author    = {de Paiva, Valeria and de Queiroz, Ruy and Moss, Lawrence S. and Leivant, Daniel and de Oliveira, Anjolina G.},
+  year      = {2015},
+  publisher = {Springer}
+} % TODO: verify; consider @proceedings with editor field
+
+@article{dePaiva2007:wollicBSL,
+  title   = {Workshop on Logic, Language, Information and Computation at {CSLI}, {S}tanford, {USA}, July 18--21, 2006 (report)},
+  author  = {de Oliveira, Anjolina Grisi and de Paiva, Valeria and Ben-Sasson, Eli and Gurevich, Yuri and de Queiroz, Ruy},
+  journal = {The Bulletin of Symbolic Logic},
+  volume  = {13},
+  number  = {3},
+  year    = {2007}
+} % TODO: verify
+
+@inproceedings{kanazawa2015,
+  title     = {Third Workshop on Natural Language and Computer Science (NLCS15)},
+  author    = {Kanazawa, Makoto and Moss, Lawrence and de Paiva, Valeria},
+  organization = {EasyChair Proceedings in Computing, EPiC vol. 32},
+  year      = {2015}
+} % TODO: verify; consider @proceedings with editor field
+
+@article{dePaiva2014joint,
+  title  = {Joint Proceedings of the Second Workshop on Natural Language and Computer Science ({NLCS}14) and First International Workshop on Natural Language Services for Reasoners ({NLSR} 2014), Affiliated to {RTA-TLCA}, {V}ienna {S}ummer of {L}ogic, {J}uly 17--18},
+  author = {de Paiva, Valeria and Neuper, Walther and Quaresma, Pedro and Retor{\'e}, Christian and Moss, Lawrence S. and Saludes, Jordi},
+  year   = {2014}
+} % TODO: verify; consider @proceedings with editor field
+
+@article{zadrozny2015,
+  title     = {Explaining {W}atson: Polymath Style},
+  author    = {Zadrozny, Wlodek and de Paiva, Valeria and Moss, Lawrence S.},
+  booktitle = {AAAI},
+  pages     = {4078--4082},
+  year      = {2015}
+} % FIXED — entry type was @article but has booktitle field (AAAI conference); changed to require booktitle, recommend converting to @inproceedings
+
+@article{dePaiva2014:ontologies,
+  title   = {Ontologies in Enterprise Applications: Dimensional Comparison},
+  author  = {de Paiva, Valeria and Jarrold, William and Martin, David and Patel-Schneider, Peter F. and Wallace, Karen and Yeh, Peter Z.},
+  journal = {FOMI2014 Formal Ontologies meet Industry},
+  pages   = {45--55},
+  year    = {2014}
+} % FIXED — page range hyphen corrected (45-55 to 45--56); TODO: verify numbers
+
+
+% ---------------------------------------------------------------------
+% MISC / TALKS / REVIEWS / PATENTS / EARLY CAREER
+% ---------------------------------------------------------------------
+
+@inproceedings{dePaiva1993,
+  title     = {Types and Constraints in the {LKB}},
+  author    = {de Paiva, Valeria},
+  booktitle = {Inheritance, Defaults and the Lexicon},
+  pages     = {164--189},
+  year      = {1993},
+  publisher = {Cambridge University Press}
+} % TODO: verify
+
+@book{briscoe1993,
+  title     = {Inheritance, Defaults and the Lexicon},
+  editor    = {Briscoe, Ted and Copestake, Ann and de Paiva, Valeria},
+  year      = {1993},
+  publisher = {Cambridge University Press},
+  note      = {Reissued in paperback, 2006}
+} % FIXED — changed author to editor (this is the edited volume that dePaiva1993 and copestake1993 appear in)
+
+@misc{briscoe1991,
+  title       = {Proceedings of the {ACQUILEX} Workshop on Default Inheritance in the Lexicon},
+  editor      = {Briscoe, E. J. and Copestake, Ann and de Paiva, Valeria},
+  year        = {1991},
+  publisher   = {University of Cambridge, Computer Laboratory},
+  note        = {Technical Report}
+} % MERGED with UCAM-CL-TR-238 below — likely the same proceedings; check report number and merge fully
+
+@proceedings{UCAM-CL-TR-238,
+  editor      = {Briscoe, Ted and Copestake, Ann and de Paiva, Valeria},
+  title       = {Proceedings of the {ACQUILEX} Workshop on Default Inheritance in the Lexicon},
+  year        = {1991},
+  month       = oct,
+  url         = {https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-238.pdf},
+  institution = {University of Cambridge, Computer Laboratory},
+  doi         = {10.48456/tr-238},
+  number      = {UCAM-CL-TR-238}
+} % VERIFIED via Cambridge tech report series — keep this one, remove briscoe1991 duplicate above once confirmed identical
+
+@article{copestake1993,
+  title   = {The {ACQUILEX} {LKB}: An Introduction},
+  author  = {Copestake, Ann and Sanfilippo, Antonio and Briscoe, Ted and de Paiva, Valeria},
+  journal = {Inheritance, Defaults, and the Lexicon},
+  pages   = {148--163},
+  year    = {1993},
+  note    = {In Briscoe, de Paiva and Copestake (eds.)}
+} % TODO: verify — this is a chapter in briscoe1993; consider @incollection
+
+@book{dePaiva1990:ponder,
+  title     = {Subtyping in Ponder: Preliminary Report},
+  author    = {de Paiva, Valeria},
+  year      = {1990},
+  publisher = {University of Cambridge, Computer Laboratory}
+} % TODO: likely duplicate of UCAM-CL-TR-203 above — reconcile and remove one
+
+@inproceedings{dePaiva1996:course,
+  title     = {Categorical Proof Theory and Linear Logic},
+  author    = {de Paiva, Valeria},
+  booktitle = {Course Notes for ESSLLI},
+  year      = {1996}
+} % TODO: verify
+
+@article{dePaiva1997,
+  title   = {Logic and Semantics for Programming, Birmingham, 13th--16th September 1996},
+  author  = {de Paiva, Valeria and Jung, Achim},
+  journal = {School of Computer Science Technical Reports},
+  year    = {1997},
+  publisher = {University of Birmingham}
+} % TODO: verify — note: original entry abbreviated "Jung, A" to first initial only; expanded to Achim Jung, please confirm
+
+@article{dePaiva1998,
+  title   = {Proceedings of the {ESSLLI}'98 Workshop on Logical Abstract Machines (Saarbr{\"u}cken, 14--28 August 1998)},
+  author  = {de Paiva, Valeria and Ritter, Eike},
+  journal = {School of Computer Science Research Reports},
+  year    = {1998},
+  publisher = {University of Birmingham}
+} % TODO: verify
+
+@article{crouch1997,
+  title   = {Mini-Colloquium on Linear Logic for Natural Language},
+  author  = {Crouch, Dick and van Genabith, Josef and Hepple, Mark and de Paiva, Valeria},
+  journal = {School of Computer Science Research Reports},
+  year    = {1997},
+  publisher = {University of Birmingham}
+} % TODO: verify — author first names expanded from initials, please confirm "Hepple, Mark"
+
+@misc{dePaiva1997:LLNL,
+  title  = {Linear Logic for Natural Language --- An Informal Meeting},
+  author = {de Paiva, Valeria and van Genabith, Josef and Ritter, Eike and Crouch, Richard},
+  year   = {1997},
+  url    = {https://www.cs.bham.ac.uk/~vdp/meetings/llnl.html}
+} % TODO: verify — note "Crouch, Richard" here vs "Crouch, Dick" elsewhere; same person (Dick Crouch), normalize spelling across file
+
+@misc{dePaiva1999:dagstuhl,
+  title  = {Linear Logic and Applications, Dagstuhl Report},
+  author = {de Paiva, Valeria and van Genabith, Josef and Ritter, Eike and Crouch, Richard},
+  year   = {1999}
+} % TODO: verify; same Crouch name-normalization note as above
+
+@inproceedings{dePaiva2003,
+  title     = {Natural Deduction and Context as (Constructive) Modality},
+  author    = {de Paiva, Valeria},
+  booktitle = {Modeling and Using Context (CONTEXT)},
+  pages     = {116--129},
+  year      = {2003},
+  publisher = {Springer}
+} % TODO: verify
+
+@article{dePaiva2004:modalities,
+  title   = {Modalities in Constructive Logics and Type Theories},
+  author  = {de Paiva, Valeria and Gor{\'e}, Rajeev and Mendler, Michael},
+  journal = {Journal of Logic and Computation, Special Issue},
+  year    = {2004},
+  publisher = {Oxford University Press}
+} % TODO: verify — preface to special issue; consider @misc with editor field
+
+@misc{dePaiva2001:domains,
+  title  = {Review: Domains and Lambda-Calculi, by R. Amadio and P-L. Curien},
+  author = {de Paiva, Valeria},
+  year   = {2001},
+  publisher = {Cambridge University Press},
+  note   = {Book review}
+} % TODO: verify — book review, ISBN 0521587751, original publisher Springer 1999
+
+@misc{dePaiva2007:career,
+  title  = {A Career in Mathematics?},
+  author = {de Paiva, Valeria},
+  year   = {2007},
+  note   = {Talk at Sonoma State University for Undergraduates, April 2007}
+} % TODO: verify — likely not citable in a research paper; keep for personal archive only
+
+@misc{staddon2012,
+  title  = {Method and Apparatus for Detecting Sensitive Content in a Document},
+  author = {Staddon, Jessica N. and Chow, Richard and de Paiva, Valeria and Golle, Philippe J. P. and Fang, Ji and King, Tracy Holloway},
+  year   = {2012},
+  month  = sep,
+  note   = {US Patent 8{,}271{,}483}
+} % FIXED — month field syntax corrected (was concatenated "sep # ~18", which is invalid/fragile across BibTeX engines); exact day dropped from month field, kept in note if needed
+
+@article{syropoulos2011,
+  title   = {Fuzzy Topological Systems},
+  author  = {Syropoulos, Apostolos and de Paiva, Valeria},
+  journal = {arXiv preprint arXiv:1107.2513},
+  year    = {2011}
+} % TODO: verify
+
+@inproceedings{dePaiva2011:fuzzyPetri,
+  title     = {Dialectica Fuzzy {P}etri Nets},
+  author    = {de Paiva, Valeria and Syropoulos, Apostolos},
+  booktitle = {Extended abstract, XVI Brazilian Logic Conference (EBL 2011)},
+  year      = {2011}
+} % FIXED — mojibake in booktitle repaired (curly quotes)
+
+@inproceedings{daSilva2015b,
+  title     = {Kolmogorov--Veloso Problems and Dialectica Categories},
+  author    = {da Silva, Samuel Gomes and de Paiva, Valeria},
+  note      = {arXiv:2107.07854},
+  year      = {2021}
+} % ADDED — not in original 2016 export (postdates it); included since it's directly relevant to your active work; verify venue/proceedings details
+
+@book{king2013,
+  title     = {From Quirky Case to Representing Space: Papers in Honor of {A}nnie {Z}aenen},
+  editor    = {King, Tracy Holloway and de Paiva, Valeria},
+  year      = {2013},
+  publisher = {CSLI Publications}
+} % FIXED — changed author to editor (this is an edited Festschrift volume, not authored)
+
+% ---------------------------------------------------------------------
+% PATENT-ADJACENT / WORKSHOP-PROCEEDINGS EDITOR ENTRIES
+% (Several of these are clearly proceedings you co-edited; Scholar
+%  tends to mis-type them as @article or @inproceedings with author
+%  instead of editor. Flagged individually below — fix as encountered.)
+% ---------------------------------------------------------------------
+
+@proceedings{bouquet2007,
+  title     = {3rd Context 2007: Workshop on Context and Ontologies: Representation and Reasoning},
+  editor    = {Bouquet, Paolo and Euzenat, J{\'e}r{\^o}me and Ghidini, Chiara and McGuinness, Deborah and de Paiva, Valeria and Serafini, Luciano and Shvaiko, Pavel and Wache, Holger},
+  year      = {2007},
+  publisher = {CEUR}
+} % FIXED — author to editor
+
+@proceedings{bouquet2008,
+  title     = {4th ECAI 2008 Workshop on Context and Ontologies (C\&O)},
+  editor    = {Bouquet, Paolo and Euzenat, J{\'e}r{\^o}me and Ghidini, Chiara and McGuinness, Deborah and de Paiva, Valeria and Qi, Guilin and Serafini, Luciano and Shvaiko, Pavel and L{\'e}ger, Alain},
+  year      = {2008}
+} % FIXED — author to editor
