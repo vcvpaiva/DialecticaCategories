@@ -36,10 +36,10 @@
   booktitle = {Category Theory and Computer Science},
   series    = {Lecture Notes in Computer Science},
   volume    = {389},
-  pages     = {341--356},
+  pages     = {313–340},
   year      = {1989},
   publisher = {Springer}
-} % TODO: verify page range — some secondary sources give 313--340; check your own archive/repo copy
+} % 
 
 @techreport{UCAM-CL-TR-213,
   author      = {de Paiva, Valeria},
