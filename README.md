@@ -21,7 +21,7 @@ With Luiz Carlos Pereira, a version for Intuitionistic logic (FIL). With Torben 
 
 More recently, [formalization of original Dialectica Category](https://github.com/leanprover-community/mathlib4/commit/5d74b273dd4c171c1f57a2d75abc1d3e27d7095a) in Lean with Mario Carneiro, 2024.
 
-5. Full Intuitionistic Linear Logic [Full Intuitionistic Linear Logic](https://www.sciencedirect.com/science/article/pii/0168007293901465) (with Martin Hyland) APAL (1993) ([FILL]())
+5. Full Intuitionistic Linear Logic [Full Intuitionistic Linear Logic](https://www.sciencedirect.com/science/article/pii/0168007293901465) (with Martin Hyland) APAL (1993) ([FILL](https://github.com/vcvpaiva/DialecticaCategories/blob/master/FILL1993.pdf))
    
 6. Full Intuitionistic Logic (FIL) (with Luiz Carlos Pereira) Logic Colloquium 1994 -- abstract ``A New Proof System for Intuitionistic Logic", The Bulletin of Symbolic Logic, vol 1(1):101, 1995. paper in 2005, "[A short note on Intuitionistic  Propositional Logic with Multiple Conclusions](https://www.researchgate.net/publication/228619994_A_short_note_on_intuitionistic_propositional_logic_with_multiple_conclusions)"   Manuscrito-- Rev Int. Fil. Campinas, v. 28, n.2, pp 317-329,  jul-dez. (2005) 
 ([preprint](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6a2048b33259ebc1c88635ed979772e12f2b1efe)) --this is intuitionistic logic, not Linear Logic! 
