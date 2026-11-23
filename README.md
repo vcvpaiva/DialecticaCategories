@@ -151,7 +151,7 @@ https://www.researchgate.net/publication/222848911_Poset-valued_sets_or_how_to_b
 
 ==================================================
 
-
+Work by others related to dialectica categories is listed in [related-work.md](related-work.md).
 
 
 
