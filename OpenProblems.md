@@ -2,21 +2,18 @@
 
 I want to list some problems that are small, but I think could lead to more interesting stuff, related to the dialectica constructions in my
 phd thesis: "The Dialectica Categories", TR213 from Cambridge, https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf, 1991.
-(the thesis was submitted in 1988, examined in Jan 1989, corrections accepted in 1990, published as a technical report in 1991)
+The thesis was submitted in 1988, examined in Jan 1989, corrections accepted in 1990, published as a technical report in 1991.
 
-Martin Hyland has some slides in https://www.dpmms.cam.ac.uk/~martin/Research/Slides/venice13.pdf about the relationship between type theory and dialectica.
-(my own work has been on propositional and more recently first-order versions of the dialectica construction, 
-the connections between polynomials happen for dependent types versions of Dialectica, the doctoral work of Moss 2018 and von Glehn 2016)
+Martin Hyland has  slides at https://www.dpmms.cam.ac.uk/~martin/Research/Slides/venice13.pdf about the relationship between type theory and dialectica.
+(My own work has been on propositional and, more recently, first-order versions of the dialectica construction. 
+The connections with polynomials seem to happen for dependent types versions of Dialectica, the doctoral work of Moss 2018 and von Glehn 2016)
 
 Sean Moss gave a very precise talk about it in the second Polynomials workshop:
+The recording https://www.youtube.com/watch?v=tw08TmO0RRo&t=7190s
+with slides https://topos.site/p-func-workshop/slides/Moss.pdf
+But there is more to say about these connections, I believe.
 
-https://www.youtube.com/watch?v=tw08TmO0RRo&t=7190s
-
-https://topos.site/p-func-workshop/slides/Moss.pdf
-
-but there is more to say about these connections, I believe.
-
-*Status (2026):* my draft [Polynomials with Predicates: a Dialectica reading](https://github.com/vcvpaiva/Manuscripts/blob/main/DialPoly-7.pdf). not the whole story yet.
+*Status (2026):* my draft [Polynomials with Predicates: a Dialectica reading](https://github.com/vcvpaiva/Manuscripts/blob/main/DialPoly-7.pdf). Not the whole story yet.
 
 Dialectica categories exist in two shapes (Dial and Gir, the simplified form that has morphisms like Chu spaces).
 They also exist both in subobject form or as maps into a lineale L. These variations should give us at least 4 types,
@@ -32,7 +29,6 @@ but I mostly discussed 2 of them: Dial with subobjects, Gir with a lineale.
 
 Bruno Gavranovic talked about how Lenses and Optics differ operationally, see his website
 https://www.brunogavranovic.com/
-
 DBLP https://dblp.org/pid/245/2917.html
 
 Intercat talk: https://www.youtube.com/watch?v=3NdYughK68Y
