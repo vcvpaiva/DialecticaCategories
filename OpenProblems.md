@@ -8,7 +8,7 @@ Martin Hyland has some slides in https://www.dpmms.cam.ac.uk/~martin/Research/Sl
 (my own work has been on propositional and more recently first-order versions of the dialectica construction, 
 the connections between polynomials happen for dependent types versions of Dialectica, the doctoral work of Moss 2018 and von Glehn 2016)
 
-Sean Moss gave a very clear talk about it in the second Polynomials workshop:
+Sean Moss gave a very precise talk about it in the second Polynomials workshop:
 
 https://www.youtube.com/watch?v=tw08TmO0RRo&t=7190s
 
@@ -16,21 +16,21 @@ https://topos.site/p-func-workshop/slides/Moss.pdf
 
 but there is more to say about these connections, I believe.
 
-*Status (2026):* my draft [Polynomials with Predicates: a Dialectica reading](https://github.com/vcvpaiva/Manuscripts/blob/main/DialPoly-7.pdf).
+*Status (2026):* my draft [Polynomials with Predicates: a Dialectica reading](https://github.com/vcvpaiva/Manuscripts/blob/main/DialPoly-7.pdf). not the whole story yet.
 
 Dialectica categories exist in two shapes (Dial and Gir, the simplified form that has morphisms like Chu spaces).
 They also exist both in subobject form or as maps into a lineale L. These variations should give us at least 4 types,
-but I only discussed 2 of them: Dial with subobjects, Gir with a lineale.
+but I mostly discussed 2 of them: Dial with subobjects, Gir with a lineale.
 
-1. Can we check that Dial with a lineale and Gir with subobjects work too?
+1. Can we check that Dial with a lineale works too?
 
-*Status (2026):* Gir with subobjects is done in the thesis. Dial with a lineale is checked in the lab note [Dialectica categories without subobjects](https://github.com/vcvpaiva/Manuscripts/blob/main/DialWithoutSubobjects2.pdf); see also [Dialectica Constructions over Monoidal Bases](https://github.com/vcvpaiva/Manuscripts/blob/main/DialOverMonoidal.pdf) and [Dialectica over a Topos](https://github.com/vcvpaiva/Manuscripts/blob/main/DialOverTopos.pdf).
+*Status (2026):*  Dial with a lineale is checked in the lab note [Dialectica categories without subobjects](https://github.com/vcvpaiva/Manuscripts/blob/main/DialWithoutSubobjects2.pdf); see also [Dialectica Constructions over Monoidal Bases](https://github.com/vcvpaiva/Manuscripts/blob/main/DialOverMonoidal.pdf) and [Dialectica over a Topos](https://github.com/vcvpaiva/Manuscripts/blob/main/DialOverTopos.pdf).
 
 ---
 
 ## A. Problems related to Lenses/Containers
 
-Bruno Gavranovic talked about how Lenses and Optics differ operationally
+Bruno Gavranovic talked about how Lenses and Optics differ operationally, see his website
 https://www.brunogavranovic.com/
 
 DBLP https://dblp.org/pid/245/2917.html
@@ -38,7 +38,6 @@ DBLP https://dblp.org/pid/245/2917.html
 Intercat talk: https://www.youtube.com/watch?v=3NdYughK68Y
 
 Bruno on machine learning and Optics
-
 https://www.youtube.com/watch?v=1NHBexWYgkU
 
 Bruno also produced a bibliography of what he thinks one should read if interested in lenses:
@@ -48,19 +47,18 @@ https://github.com/bgavran/Lens_Resources
 2. question: Using the definition of lenses in Bruno's talk, it seems we could do a Dialectica Lens category, by adding a relation to Bruno's objects.
 Would this be useful? if so, for which applications?
 
-*Status (2026):* my draft [Bidirectional Transformations with Predicates](https://github.com/vcvpaiva/Manuscripts/blob/main/Lenses2026-8.pdf).
+*Status (2026):* my draft [Bidirectional Transformations with Predicates](https://github.com/vcvpaiva/Manuscripts/blob/main/Lenses2026-8.pdf) adds relations to special kinds of lenses.
 
 ---
 
 ## B. Problems with Games
 
 Jeremie Koenig gave a talk at ACT2021 which I thought was very insightful
-
 https://www.youtube.com/watch?v=10u7hbEYcCk&t=3800s
 
 slides: https://www.cl.cam.ac.uk/events/act2021/slides/ACT_2021_slides_71.pdf
 
-his ACT paper: https://www.cl.cam.ac.uk/events/act2021/papers/ACT_2021_paper_71.pdf
+his ACT paper: https://www.cl.cam.ac.uk/events/act2021/papers/ACT_2021_paper_71.pdf. 
 
 
 Glynn Winskel gave a talk at the Topos Colloquium
