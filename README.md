@@ -12,7 +12,7 @@ My work:
 2. AMS Contemporary Mathematics: "[The Dialectica Categories](https://drive.google.com/file/d/0ByQvGrHooOoHeXoyUXJSQVVlNVE/view?usp=sharing&resourcekey=0-2PcGnQCQZsPdbXyTyqnG9w)"
    Boulder AMS meeting 1987, volume 92.  (1989) [local version](https://github.com/vcvpaiva/DialecticaCategories/blob/master/OldPapers/dial87-2.pdf)
 
-3. CTCS 1989: "[A Dialectica-like Model of Linear Logic](https://link.springer.com/chapter/10.1007/BFb0018360)" (1989) [local version]()
+3. CTCS 1989: "[A Dialectica-like Model of Linear Logic](https://link.springer.com/chapter/10.1007/BFb0018360)" (1989) [local version](https://github.com/vcvpaiva/DialecticaCategories/blob/master/MRC/A_Dialectica-like_Model_of_Linear_Logic.pdf)
  
 4. TAC paper: "[Dialectica and Chu constructions: cousins?](http://www.tac.mta.ca/tac/volumes/17/7/17-07abs.html)", Theory and Applications of Categories, Vol. 17, No. 7, pp 127-152 (2006)  <br>
    
@@ -58,7 +58,7 @@ Petri Nets:
    [Blog post](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html).
    [Poster at ACT 2021](https://drive.google.com/file/d/1rM6MCHl0FHfOOCIHA4irVwl-tuadYha-/view?usp=sharing), presented by Elena di Lavore.
 
-    Arxiv preprint with Elena di Lavore and Wilmer Leal [Dialectica Petri Nets](https://arxiv.org/abs/2105.12801), accepted 2025.
+    With Elena Di Lavore and Wilmer Leal, [Dialectica Petri Nets](https://arxiv.org/abs/2105.12801), Fundamenta Informaticae 194(3), 2025.
    
  Dialectica categories for Lambek calculus: 
 
@@ -124,7 +124,7 @@ Preprint in the arXiv https://arxiv.org/abs/2109.08064
 The Gödel fibration. (with Davide Trotta and Matteo Spadetto) In 46th International Symposium on Mathematical 
 Foundations of Computer Science (MFCS 2021), 2021. see https://trottadavide.github.io/publication/pubb_2/
 
-24. Dialectica and Games (lost EPSRC proposal, how did I do that?) 
+24. Dialectica and Games 
 
 24A. SuperPower Lorenzen Games, manuscript from 2011 Nancy CLMPST Talk.
 https://drive.google.com/file/d/19wSFHBNdb-PQj2ZjM6oZtV6MVutpGIdn/view?usp=sharing
