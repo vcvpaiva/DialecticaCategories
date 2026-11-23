@@ -21,7 +21,7 @@ but I mostly discussed 2 of them: Dial with subobjects, Gir with a lineale.
 
 1. Can we check that Dial with a lineale works too?
 
-*Status (2026):*  Dial with a lineale is checked in the lab note [Dialectica categories without subobjects](https://github.com/vcvpaiva/Manuscripts/blob/main/DialWithoutSubobjects2.pdf); see also [Dialectica Constructions over Monoidal Bases](https://github.com/vcvpaiva/Manuscripts/blob/main/DialOverMonoidal.pdf) and [Dialectica over a Topos](https://github.com/vcvpaiva/Manuscripts/blob/main/DialOverTopos.pdf).
+*Status (2026):*  Dial with a lineale is checked in the lab note [Dialectica categories without subobjects](https://github.com/vcvpaiva/Manuscripts/blob/main/DialWithoutSubobjects2.pdf); see also  the construction over a symmetric monoidal closed category  [Dialectica Constructions over Monoidal Bases](https://github.com/vcvpaiva/Manuscripts/blob/main/DialOverMonoidal.pdf) and over a topos [Dialectica over a Topos](https://github.com/vcvpaiva/Manuscripts/blob/main/DialOverTopos.pdf).
 
 ---
 
