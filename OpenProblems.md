@@ -1,11 +1,9 @@
-I want to list some problems that are small, but I think could lead to more interesting stuff, related to the dialectica constructions in my
+I want to list some small problems that I think could lead to more interesting stuff, related to the dialectica constructions in my
 phd thesis: "The Dialectica Categories", TR213 from Cambridge, https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf, 1990.
 (the thesis was submitted in 1988, examined in Jan 1989, corrections accepted in 1990)
 
-There is an attempt at a "project" in ResearchGate https://www.researchgate.net/project/Dialectica-Categories-Applications,
-but it is getting unwieldy.
 
-I am trying to understand the connection between polynomials (in Category Theory) and the Dialectica construction.
+I am trying to understand better the connection between polynomials (in Category Theory) and the Dialectica construction.
 
 Martin Hyland has some slides in https://www.dpmms.cam.ac.uk/~martin/Research/Slides/venice13.pdf about the relationship between type theory and dialectica.
 (my own work has been on propositional and more recently first-order versions of the dialectica construction, 
