@@ -154,5 +154,16 @@ https://www.researchgate.net/publication/222848911_Poset-valued_sets_or_how_to_b
 Work by others related to dialectica categories is listed in [related-work.md](related-work.md).
 
 
+## Also kept here
 
+Some folders here are not about dialectica categories:
+
+* [EcumenicalLogic](EcumenicalLogic/readme.md): work on ecumenical logics with Luiz Carlos Pereira and Elaine Pimentel.
+* [IMLA](IMLA/readme.md): intuitionistic modal logics and the IMLA workshops.
+* [xSLAM](xSLAM/readme.md): the xSLAM project on explicit substitutions and linear abstract machines, recovered from the old Birmingham pages.
+* [OPLSS2025](OPLSS2025/readme.md): slides for the Oregon Programming Languages Summer School 2025.
+* [PSSL](PSSL/History.md): programmes of the Peripatetic Seminar on Sheaves and Logic.
+* [LinearLogicBib](LinearLogicBib/README.md): bibliographies of linear logic.
+* [Masters](Masters/readme.md): my Masters thesis from PUC-Rio.
+* [MyBib](MyBib): my bibliography files.
 
