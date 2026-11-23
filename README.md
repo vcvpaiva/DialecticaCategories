@@ -1,6 +1,15 @@
 # Dialectica Categories
 A place to collect  work on dialectica categories. 
 
+## Recent work
+
+* With Colin Bloomfield and Peter Jipsen, [Dialectica Categories over Heyting Algebras](https://arxiv.org/abs/2607.23430), arXiv 2026. Talk "Small Dialectica Categories" at TACL 2026 ([slides](https://iphils.uj.edu.pl/tacl/slides/depaiva.pdf)).
+* With Davide Trotta and Manlio Valenti, [Categorifying computable reducibilities](https://arxiv.org/abs/2208.08656), Logical Methods in Computer Science 21(1), 2025.
+* With Elena Di Lavore and Wilmer Leal, [Dialectica Petri Nets](https://arxiv.org/abs/2105.12801), Fundamenta Informaticae 194(3), 2025.
+* With Jose Siqueira, Dialectica for Constructible Falsity, in the volume in honour of Andréa Loparić, 2025 ([corrected preprint](https://github.com/vcvpaiva/Manuscripts/blob/main/DialStrongNegation-1.pdf)).
+
+Current drafts and lab notes on Dialectica constructions (lenses, polynomials, games, partial compilers, counter monads, lineale-valued sets, parametrised recursion, Dialectica over monoidal bases and over a topos, factorization systems) are in my [Manuscripts](https://github.com/vcvpaiva/Manuscripts) repository. Open problems are collected in [OpenProblems](OpenProblems.md).
+
 My work:
 
 1. Ph.D. Thesis: "[The Dialectica Categories](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf)", TR213 from Cambridge, 1991.
