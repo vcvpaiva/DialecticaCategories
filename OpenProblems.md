@@ -29,8 +29,7 @@ but I mostly discussed 2 of them: Dial with subobjects, Gir with a lineale.
 
 Bruno Gavranovic talked about how Lenses and Optics differ operationally, see his website
 https://www.brunogavranovic.com/
-DBLP https://dblp.org/pid/245/2917.html
-
+DBLP https://dblp.org/pid/245/2917.html,
 Intercat talk: https://www.youtube.com/watch?v=3NdYughK68Y
 
 Bruno on machine learning and Optics
@@ -43,7 +42,7 @@ https://github.com/bgavran/Lens_Resources
 2. question: Using the definition of lenses in Bruno's talk, it seems we could do a Dialectica Lens category, by adding a relation to Bruno's objects.
 Would this be useful? if so, for which applications?
 
-*Status (2026):* my draft [Bidirectional Transformations with Predicates](https://github.com/vcvpaiva/Manuscripts/blob/main/Lenses2026-8.pdf) adds relations to special kinds of lenses.
+*Status (2026):* my draft [Bidirectional Transformations with Predicates](https://github.com/vcvpaiva/Manuscripts/blob/main/Lenses2026-8.pdf) adds relations to special kinds of lenses for BX.
 
 ---
 
@@ -65,7 +64,7 @@ his paper https://blogs.ed.ac.uk/he-lab/2022/03/14/new-paper-making-concurrency-
 
 My own super games preprint https://drive.google.com/file/d/19wSFHBNdb-PQj2ZjM6oZtV6MVutpGIdn/view?usp=sharing
 
-*Status (2026):* my draft [Plays and Payoffs in Dialectica Games](https://github.com/vcvpaiva/Manuscripts/blob/main/GamesWithPayoffs-2.pdf).
+*Status (2026):*  draft [Plays and Payoffs in Dialectica Games](https://github.com/vcvpaiva/Manuscripts/blob/main/GamesWithPayoffs-2.pdf).
 
 ---
 
@@ -75,15 +74,10 @@ Implementations can help us consolidate intuitions and also help us note where i
 
 There is an implementation of Dialectica categories, coded in Agda by Harley Eades III, for the purpose of proving
 cut-elimination for FILL (Full Intuitionistic Linear Logic). This is in https://github.com/heades/cut-fill-agda.
-  (see https://github.com/bond15/Dialectica for a newer Cubical Agda version that is under development)
 
 There is also an old implementation of Chu Spaces Live (in Java) at http://boole.stanford.edu/live/ which Vaughan Pratt maintains
 
-Eric Bond has an implementation of polynomials here https://github.com/bond15/Polynomials-Categorically
-and is implementing Dialectica categories here https://github.com/bond15/Dialectica.
-My adaptation of his file is [DialSets.agda](DialSets.agda) in this repository.
-
-The original Dialectica category was formalized in Lean's mathlib with Mario Carneiro in 2024:
+*Status (2024):* The original Dialectica category (includng relations) was formalized in Lean's mathlib with Mario Carneiro during the Hausdorff trimester in 2024:
 https://github.com/leanprover-community/mathlib4/commit/5d74b273dd4c171c1f57a2d75abc1d3e27d7095a
 
 It would be nice to have something calculating Dialectica spaces in CatLab, to improve synergy with J. Baez project.
