@@ -26,7 +26,9 @@ also slides post-thesis https://www.xn--pdrot-bsa.fr/slides/types-dialectica-05-
 The Compiler Forest, ESOP 2013, http://budiu.info/work/esop13.pdf
 slides https://jgalenson.github.io/papers/esop2013-talk.pdf
 
-6. Jules Hedge's Dialectica categories and games with bidding. 
+*Status (2026):* my draft [Compiling with Counterexamples](https://github.com/vcvpaiva/Manuscripts/blob/main/Compilers2026-v2.pdf) extends this work with counterexamples.
+
+7. Jules Hedge's Dialectica categories and games with bidding. 
 In Post-proceedings of TYPES’14. LIPIcs 39:89-110, 2015. 
 http://drops.dagstuhl.de/opus/volltexte/2015/5493/pdf/7.pdf
 
