@@ -111,6 +111,30 @@ https://julesh.com/2018/08/16/lenses-for-philosophers/
     see https://www.brunogavranovic.com/posts/2022-02-10-optics-vs-lenses-operationally.html and applications in his github
   Make a list of work on games
 
+  20. Lenses, optics and containers
+
+   a. Bruno Gavranović, [Optics vs Lenses, Operationally](https://www.brunogavranovic.com/posts/2022-02-10-optics-vs-lenses-operationally.html), blog post, 2022, and his [Lens Resources](https://github.com/bgavran/Lens_Resources) reading list.
+
+   b. David I. Spivak, [Generalized Lens Categories via functors C^op → Cat](https://arxiv.org/abs/1908.02202), 2019.
+
+   c. Bryce Clarke, Derek Elkins, Jeremy Gibbons, Fosco Loregian, Bartosz Milewski, Emily Pillmore and Mario Román, [Profunctor optics: a categorical update](https://arxiv.org/abs/2001.07488), 2020.
+
+   d. Matteo Capucci, Bruno Gavranović, Jules Hedges and Eigil Fjeldgren Rischel, [Towards Foundations of Categorical Cybernetics](https://arxiv.org/abs/2105.06332), ACT 2021, EPTCS 372 (2022).
+
+   e. Michael Abbott, Thorsten Altenkirch and Neil Ghani, [Containers: constructing strictly positive types](https://people.cs.nott.ac.uk/psztxa/publ/cont-tcs.pdf), Theoretical Computer Science 342(1), 2005.
+
+21. Games
+
+   a. Andreas Blass, [A game semantics for linear logic](http://hdl.handle.net/2027.42/30097), Annals of Pure and Applied Logic 56, 1992. The last section discusses the Dialectica interpretation.
+
+   b. Andreas Blass, [Questions and answers: a category arising in linear logic, complexity theory, and set theory](https://arxiv.org/abs/math/9309208), Advances in Linear Logic, 1995. The category PV, named for de Paiva and Vojtáš.
+
+   c. Neil Ghani, Jules Hedges, Viktor Winschel and Philipp Zahn, [Compositional game theory](https://arxiv.org/abs/1603.04641), LICS 2018.
+
+   d. Joe Bolt, Jules Hedges and Philipp Zahn, [Bayesian open games](https://arxiv.org/abs/1910.03656), 2019.
+
+   e. Paulo Oliva and Thomas Powell, [Unifying Functional Interpretations: Past and Future](https://arxiv.org/abs/1410.4364), 2014.
+
 
 
 
