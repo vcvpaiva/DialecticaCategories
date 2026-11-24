@@ -1,7 +1,7 @@
 # Work by others related to dialectica categories
 
 
-0. M. Hyland, Proof Theory in the Abstract 2002
+1. Martin Hyland, Proof Theory in the Abstract, 2002
 https://www.sciencedirect.com/science/article/pii/S0168007201000756
 
 1. Hofstra, P in Makkai Festschrifft, 2011
